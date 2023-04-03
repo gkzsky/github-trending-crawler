@@ -1,0 +1,199 @@
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 38,570
+forked: 7,092
+stars today: 6,121
+
+twitter/the-algorithm-ml
+https://github.com/twitter/the-algorithm-ml
+Source code for Twitter's Recommendation Algorithm
+language: Python
+stars: 5,806
+forked: 1,321
+stars today: 1,141
+
+lm-sys/FastChat
+https://github.com/lm-sys/FastChat
+The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+language: Python
+stars: 3,328
+forked: 299
+stars today: 709
+
+microsoft/JARVIS
+https://github.com/microsoft/JARVIS
+JARVIS, a system to connect LLMs with ML community
+language: Python
+stars: 1,317
+forked: 46
+stars today: 458
+
+ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp
+Port of Facebook's LLaMA model in C/C++
+language: C
+stars: 18,035
+forked: 2,464
+stars today: 625
+
+mckaywrigley/ai-code-translator
+https://github.com/mckaywrigley/ai-code-translator
+Use AI to translate code from one language to another.
+language: TypeScript
+stars: 685
+forked: 81
+stars today: 313
+
+hahahumble/speechgpt
+https://github.com/hahahumble/speechgpt
+SpeechGPT is a web application that enables you to converse with ChatGPT.
+language: TypeScript
+stars: 1,182
+forked: 155
+stars today: 245
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 20,542
+forked: 1,426
+stars today: 137
+
+twitter/opensource-website
+https://github.com/twitter/opensource-website
+Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+language: SCSS
+stars: 2,184
+forked: 668
+stars today: 56
+
+Synaptrix/ChatGPT-Desktop
+https://github.com/Synaptrix/ChatGPT-Desktop
+ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！
+language: Vue
+stars: 868
+forked: 89
+stars today: 232
+
+ZrrSkywalker/LLaMA-Adapter
+https://github.com/ZrrSkywalker/LLaMA-Adapter
+Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
+language: Python
+stars: 1,629
+forked: 105
+stars today: 129
+
+ggerganov/kbd-audio
+https://github.com/ggerganov/kbd-audio
+🎤⌨️ Acoustic keyboard eavesdropping
+language: C++
+stars: 7,122
+forked: 507
+stars today: 170
+
+moeakwak/chatgpt-web-share
+https://github.com/moeakwak/chatgpt-web-share
+A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API & fastapi & vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。
+language: Vue
+stars: 419
+forked: 69
+stars today: 57
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 215,914
+forked: 38,454
+stars today: 177
+
+Bin-Huang/chatbox
+https://github.com/Bin-Huang/chatbox
+A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
+language: TypeScript
+stars: 5,276
+forked: 501
+stars today: 289
+
+Torantulino/Auto-GPT
+https://github.com/Torantulino/Auto-GPT
+An experimental open-source attempt to make GPT-4 fully autonomous.
+language: Python
+stars: 1,993
+forked: 149
+stars today: 1,534
+
+twitter/twemoji
+https://github.com/twitter/twemoji
+Emoji for everyone. https://twemoji.twitter.com/
+language: HTML
+stars: 15,703
+forked: 1,854
+stars today: 86
+
+ymcui/Chinese-LLaMA-Alpaca
+https://github.com/ymcui/Chinese-LLaMA-Alpaca
+中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+language: Python
+stars: 1,725
+forked: 137
+stars today: 281
+
+twitter/rezolus
+https://github.com/twitter/rezolus
+Systems performance telemetry
+language: Rust
+stars: 1,379
+forked: 97
+stars today: 67
+
+PathOfBuildingCommunity/PathOfBuilding
+https://github.com/PathOfBuildingCommunity/PathOfBuilding
+Offline build planner for Path of Exile.
+language: Lua
+stars: 2,753
+forked: 1,733
+stars today: 18
+
+twitter/GraphJet
+https://github.com/twitter/GraphJet
+GraphJet is a real-time graph processing library.
+language: Java
+stars: 586
+forked: 94
+stars today: 41
+
+new-ai-company/ide
+https://github.com/new-ai-company/ide
+$NAME is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+language: Python
+stars: 775
+forked: 38
+stars today: 159
+
+twitter/finagle
+https://github.com/twitter/finagle
+A fault tolerant, protocol-agnostic RPC system
+language: Scala
+stars: 8,556
+forked: 1,455
+stars today: 35
+
+curl/urler
+https://github.com/curl/urler
+trurl is a command line tool for URL parsing and manipulation.
+language: C
+stars: 248
+forked: 9
+stars today: 85
+
+microsoft/ML-For-Beginners
+https://github.com/microsoft/ML-For-Beginners
+12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+language: Jupyter Notebook
+stars: 46,056
+forked: 9,527
+stars today: 335
