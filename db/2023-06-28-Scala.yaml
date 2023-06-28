@@ -1,0 +1,199 @@
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 5,974
+forked: 1,165
+stars today: 3
+
+microsoft/SynapseML
+https://github.com/microsoft/SynapseML
+Simple and Distributed Machine Learning
+language: Scala
+stars: 4,312
+forked: 769
+stars today: 1
+
+awslabs/deequ
+https://github.com/awslabs/deequ
+Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+language: Scala
+stars: 2,844
+forked: 494
+stars today: 1
+
+apache/incubator-pekko
+https://github.com/apache/incubator-pekko
+Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+language: Scala
+stars: 514
+forked: 54
+stars today: 4
+
+spotify/scio
+https://github.com/spotify/scio
+A Scala API for Apache Beam and Google Cloud Dataflow.
+language: Scala
+stars: 2,462
+forked: 500
+stars today: 0
+
+sbt/sbt
+https://github.com/sbt/sbt
+sbt, the interactive build tool
+language: Scala
+stars: 4,670
+forked: 916
+stars today: 1
+
+apache/kyuubi
+https://github.com/apache/kyuubi
+Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+language: Scala
+stars: 1,639
+forked: 653
+stars today: 0
+
+typelevel/cats-effect
+https://github.com/typelevel/cats-effect
+The pure asynchronous runtime for Scala
+language: Scala
+stars: 1,807
+forked: 477
+stars today: 1
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 9,832
+forked: 529
+stars today: 3
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 36,090
+forked: 27,115
+stars today: 18
+
+JohnSnowLabs/spark-nlp
+https://github.com/JohnSnowLabs/spark-nlp
+State of the Art Natural Language Processing
+language: Scala
+stars: 3,302
+forked: 662
+stars today: 1
+
+lampepfl/dotty
+https://github.com/lampepfl/dotty
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 5,349
+forked: 958
+stars today: 2
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 2,643
+forked: 985
+stars today: 2
+
+Normation/rudder
+https://github.com/Normation/rudder
+Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
+language: Scala
+stars: 440
+forked: 72
+stars today: 0
+
+typelevel/fs2
+https://github.com/typelevel/fs2
+Compositional, streaming I/O library for Scala
+language: Scala
+stars: 2,234
+forked: 579
+stars today: 1
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 58,305
+forked: 11,921
+stars today: 18
+
+typelevel/cats
+https://github.com/typelevel/cats
+Lightweight, modular, and extensible library for functional programming.
+language: Scala
+stars: 4,953
+forked: 1,230
+stars today: 1
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 3,693
+forked: 468
+stars today: 2
+
+scala/scala-xml
+https://github.com/scala/scala-xml
+The standard Scala XML library
+language: Scala
+stars: 285
+forked: 91
+stars today: 0
+
+broadinstitute/firecloud-orchestration
+https://github.com/broadinstitute/firecloud-orchestration
+-
+language: Scala
+stars: 28
+forked: 4
+stars today: 0
+
+ucb-bar/gemmini
+https://github.com/ucb-bar/gemmini
+Berkeley's Spatial Array Generator
+language: Scala
+stars: 483
+forked: 107
+stars today: 0
+
+rockthejvm/spark-essentials
+https://github.com/rockthejvm/spark-essentials
+The official repository for the Rock the JVM Spark Essentials with Scala course
+language: Scala
+stars: 214
+forked: 285
+stars today: 0
+
+yahoo/CMAK
+https://github.com/yahoo/CMAK
+CMAK is a tool for managing Apache Kafka clusters
+language: Scala
+stars: 11,406
+forked: 2,503
+stars today: 0
+
+apache/tvm-vta
+https://github.com/apache/tvm-vta
+Open, Modular, Deep Learning Accelerator
+language: Scala
+stars: 203
+forked: 63
+stars today: 0
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 1,907
+forked: 289
+stars today: 0

@@ -1,0 +1,199 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 29,229
+forked: 3,144
+stars today: 15
+
+koka-lang/koka
+https://github.com/koka-lang/koka
+Koka language compiler and interpreter
+language: Haskell
+stars: 2,646
+forked: 127
+stars today: 3
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 32,401
+forked: 1,668
+stars today: 7
+
+blynn/compiler
+https://github.com/blynn/compiler
+The adventures of a Haskell compiler
+language: Haskell
+stars: 163
+forked: 14
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 20,724
+forked: 946
+stars today: 3
+
+nammayatri/nammayatri
+https://github.com/nammayatri/nammayatri
+A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+language: Haskell
+stars: 569
+forked: 32
+stars today: 0
+
+B-Lang-org/bsc
+https://github.com/B-Lang-org/bsc
+Bluespec Compiler (BSC)
+language: Haskell
+stars: 785
+forked: 130
+stars today: 1
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 113
+forked: 53
+stars today: 0
+
+olivierverdier/zsh-git-prompt
+https://github.com/olivierverdier/zsh-git-prompt
+Informative git prompt for zsh
+language: Haskell
+stars: 1,650
+forked: 397
+stars today: 0
+
+input-output-hk/cardano-node
+https://github.com/input-output-hk/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 2,947
+forked: 709
+stars today: 0
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 196
+forked: 41
+stars today: 1
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 8,722
+forked: 382
+stars today: 5
+
+serokell/nixfmt
+https://github.com/serokell/nixfmt
+A formatter for Nix code
+language: Haskell
+stars: 402
+forked: 15
+stars today: 1
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,496
+forked: 665
+stars today: 0
+
+jsoffer/gapsim
+https://github.com/jsoffer/gapsim
+Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
+language: Haskell
+stars: -
+forked: -
+stars today: 0
+
+imsut/starthaskell
+https://github.com/imsut/starthaskell
+-
+language: Haskell
+stars: 1
+forked: -
+stars today: 0
+
+ekmett/ad
+https://github.com/ekmett/ad
+Automatic Differentiation
+language: Haskell
+stars: 346
+forked: 69
+stars today: 0
+
+commercialhaskell/stack
+https://github.com/commercialhaskell/stack
+The Haskell Tool Stack
+language: Haskell
+stars: 3,870
+forked: 854
+stars today: 0
+
+pbrandwijk/chronorder
+https://github.com/pbrandwijk/chronorder
+A utility to rename files in chronological order
+language: Haskell
+stars: -
+forked: -
+stars today: 0
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 3,988
+forked: 175
+stars today: 4
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,550
+forked: 357
+stars today: 2
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 2,835
+forked: 283
+stars today: 2
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,375
+forked: 304
+stars today: 1
+
+elm/compiler
+https://github.com/elm/compiler
+Compiler for Elm, a functional language for reliable webapps.
+language: Haskell
+stars: 7,213
+forked: 658
+stars today: 2
+
+wasp-lang/wasp
+https://github.com/wasp-lang/wasp
+The fastest way to develop full-stack web apps with React & Node.js.
+language: Haskell
+stars: 2,887
+forked: 136
+stars today: 5

@@ -1,0 +1,199 @@
+XingangPan/DragGAN
+https://github.com/XingangPan/DragGAN
+Official Code for DragGAN (SIGGRAPH 2023)
+language: Python
+stars: 22,983
+forked: 1,908
+stars today: 2,780
+
+THUDM/ChatGLM2-6B
+https://github.com/THUDM/ChatGLM2-6B
+ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+language: Python
+stars: 4,140
+forked: 390
+stars today: 996
+
+CASIA-IVA-Lab/FastSAM
+https://github.com/CASIA-IVA-Lab/FastSAM
+Fast Segment Anything
+language: Python
+stars: 3,275
+forked: 510
+stars today: 1,467
+
+ramonvc/freegpt-webui
+https://github.com/ramonvc/freegpt-webui
+GPT 3.5/4 with a Chat Web UI. No API key required.
+language: Python
+stars: 830
+forked: 230
+stars today: 77
+
+embedchain/embedchain
+https://github.com/embedchain/embedchain
+Framework to easily create LLM powered bots over any dataset.
+language: Python
+stars: 2,218
+forked: 289
+stars today: 515
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 20,126
+forked: 650
+stars today: 306
+
+xitanggg/open-resume
+https://github.com/xitanggg/open-resume
+OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+language: TypeScript
+stars: 1,462
+forked: 62
+stars today: 419
+
+papers-we-love/papers-we-love
+https://github.com/papers-we-love/papers-we-love
+Papers from the computer science community to read and discuss.
+language: Shell
+stars: 74,089
+forked: 5,436
+stars today: 160
+
+sadmann7/skateshop
+https://github.com/sadmann7/skateshop
+An open source e-commerce skateshop build with everything new in Next.js 13.
+language: TypeScript
+stars: 2,738
+forked: 428
+stars today: 542
+
+microsoft/Web-Dev-For-Beginners
+https://github.com/microsoft/Web-Dev-For-Beginners
+24 Lessons, 12 Weeks, Get Started as a Web Developer
+language: JavaScript
+stars: 71,346
+forked: 11,220
+stars today: 119
+
+sb-ocr/diy-spacemouse
+https://github.com/sb-ocr/diy-spacemouse
+A DIY navigation device for Fusion360
+language: C++
+stars: 382
+forked: 58
+stars today: 90
+
+THUDM/ChatGLM-6B
+https://github.com/THUDM/ChatGLM-6B
+ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+language: Python
+stars: 30,013
+forked: 3,928
+stars today: 202
+
+SizheAn/PanoHead
+https://github.com/SizheAn/PanoHead
+Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
+language: Python
+stars: 789
+forked: 88
+stars today: 145
+
+PlexPt/awesome-chatgpt-prompts-zh
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+language: -
+stars: 40,361
+forked: 12,623
+stars today: 132
+
+firstcontributions/first-contributions
+https://github.com/firstcontributions/first-contributions
+🚀✨ Help beginners to contribute to open source projects
+language: -
+stars: 34,586
+forked: 61,450
+stars today: 28
+
+actualbudget/actual
+https://github.com/actualbudget/actual
+A local-first personal finance system
+language: JavaScript
+stars: 6,932
+forked: 580
+stars today: 56
+
+xtekky/gpt4free
+https://github.com/xtekky/gpt4free
+The official gpt4free repository | various collection of powerful language models
+language: Python
+stars: 41,462
+forked: 10,736
+stars today: 113
+
+sveltejs/svelte
+https://github.com/sveltejs/svelte
+Cybernetically enhanced web apps
+language: JavaScript
+stars: 70,281
+forked: 3,861
+stars today: 244
+
+Zeqiang-Lai/DragGAN
+https://github.com/Zeqiang-Lai/DragGAN
+Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
+language: Python
+stars: 4,465
+forked: 475
+stars today: 73
+
+OpenDriveLab/UniAD
+https://github.com/OpenDriveLab/UniAD
+[CVPR 2023 Best Paper] Planning-oriented Autonomous Driving
+language: Python
+stars: 1,628
+forked: 170
+stars today: 71
+
+qgis/QGIS
+https://github.com/qgis/QGIS
+QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+language: C++
+stars: 7,751
+forked: 2,617
+stars today: 29
+
+chat2db/Chat2DB
+https://github.com/chat2db/Chat2DB
+🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+language: Java
+stars: 1,902
+forked: 345
+stars today: 472
+
+Kanaries/pygwalker
+https://github.com/Kanaries/pygwalker
+PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+language: Python
+stars: 6,236
+forked: 222
+stars today: 59
+
+ggerganov/ggml
+https://github.com/ggerganov/ggml
+Tensor library for machine learning
+language: C
+stars: 4,880
+forked: 441
+stars today: 173
+
+StanGirard/quivr
+https://github.com/StanGirard/quivr
+🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
+language: TypeScript
+stars: 8,744
+forked: 1,078
+stars today: 140

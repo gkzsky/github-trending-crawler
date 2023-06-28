@@ -1,0 +1,199 @@
+XingangPan/DragGAN
+https://github.com/XingangPan/DragGAN
+Official Code for DragGAN (SIGGRAPH 2023)
+language: Python
+stars: 22,983
+forked: 1,908
+stars today: 2,780
+
+THUDM/ChatGLM2-6B
+https://github.com/THUDM/ChatGLM2-6B
+ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+language: Python
+stars: 4,140
+forked: 390
+stars today: 996
+
+CASIA-IVA-Lab/FastSAM
+https://github.com/CASIA-IVA-Lab/FastSAM
+Fast Segment Anything
+language: Python
+stars: 3,275
+forked: 510
+stars today: 1,467
+
+ramonvc/freegpt-webui
+https://github.com/ramonvc/freegpt-webui
+GPT 3.5/4 with a Chat Web UI. No API key required.
+language: Python
+stars: 830
+forked: 230
+stars today: 77
+
+embedchain/embedchain
+https://github.com/embedchain/embedchain
+Framework to easily create LLM powered bots over any dataset.
+language: Python
+stars: 2,218
+forked: 289
+stars today: 515
+
+THUDM/ChatGLM-6B
+https://github.com/THUDM/ChatGLM-6B
+ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+language: Python
+stars: 30,013
+forked: 3,928
+stars today: 202
+
+SizheAn/PanoHead
+https://github.com/SizheAn/PanoHead
+Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
+language: Python
+stars: 789
+forked: 88
+stars today: 145
+
+xtekky/gpt4free
+https://github.com/xtekky/gpt4free
+The official gpt4free repository | various collection of powerful language models
+language: Python
+stars: 41,462
+forked: 10,736
+stars today: 113
+
+Zeqiang-Lai/DragGAN
+https://github.com/Zeqiang-Lai/DragGAN
+Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
+language: Python
+stars: 4,465
+forked: 475
+stars today: 73
+
+OpenDriveLab/UniAD
+https://github.com/OpenDriveLab/UniAD
+[CVPR 2023 Best Paper] Planning-oriented Autonomous Driving
+language: Python
+stars: 1,628
+forked: 170
+stars today: 71
+
+Kanaries/pygwalker
+https://github.com/Kanaries/pygwalker
+PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+language: Python
+stars: 6,236
+forked: 222
+stars today: 59
+
+Stability-AI/generative-models
+https://github.com/Stability-AI/generative-models
+Generative Models by Stability AI
+language: Python
+stars: 2,068
+forked: 455
+stars today: 208
+
+imClumsyPanda/langchain-ChatGLM
+https://github.com/imClumsyPanda/langchain-ChatGLM
+langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
+language: Python
+stars: 10,338
+forked: 1,543
+stars today: 144
+
+mosaicml/streaming
+https://github.com/mosaicml/streaming
+A Data Streaming Library for Efficient Neural Network Training
+language: Python
+stars: 420
+forked: 48
+stars today: 10
+
+hiyouga/ChatGLM-Efficient-Tuning
+https://github.com/hiyouga/ChatGLM-Efficient-Tuning
+Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调
+language: Python
+stars: 1,484
+forked: 170
+stars today: 55
+
+pengzhile/pandora
+https://github.com/pengzhile/pandora
+潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+language: Python
+stars: 16,621
+forked: 3,159
+stars today: 136
+
+mosaicml/composer
+https://github.com/mosaicml/composer
+Train neural networks up to 7x faster
+language: Python
+stars: 3,660
+forked: 256
+stars today: 26
+
+ReaVNaiL/New-Grad-2024
+https://github.com/ReaVNaiL/New-Grad-2024
+👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
+language: Python
+stars: 1,124
+forked: 55
+stars today: 17
+
+turboderp/exllama
+https://github.com/turboderp/exllama
+A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
+language: Python
+stars: 682
+forked: 55
+stars today: 48
+
+explosion/spaCy
+https://github.com/explosion/spaCy
+💫 Industrial-strength Natural Language Processing (NLP) in Python
+language: Python
+stars: 26,483
+forked: 4,186
+stars today: 13
+
+NVlabs/stylegan3
+https://github.com/NVlabs/stylegan3
+Official PyTorch implementation of StyleGAN3
+language: Python
+stars: 5,479
+forked: 967
+stars today: 67
+
+Stability-AI/stablediffusion
+https://github.com/Stability-AI/stablediffusion
+High-Resolution Image Synthesis with Latent Diffusion Models
+language: Python
+stars: 25,691
+forked: 3,270
+stars today: 286
+
+TermuxHackz/X-osint
+https://github.com/TermuxHackz/X-osint
+This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux
+language: Python
+stars: 264
+forked: 29
+stars today: 61
+
+open-mmlab/mmaction2
+https://github.com/open-mmlab/mmaction2
+OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark
+language: Python
+stars: 3,223
+forked: 1,040
+stars today: 5
+
+HazyResearch/flash-attention
+https://github.com/HazyResearch/flash-attention
+Fast and memory-efficient exact attention
+language: Python
+stars: 3,880
+forked: 329
+stars today: 46
