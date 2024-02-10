@@ -1,0 +1,199 @@
+zanfranceschi/rinha-de-backend-2024-q1
+https://github.com/zanfranceschi/rinha-de-backend-2024-q1
+Repositório da 2ª edição da Rinha de Backend
+language: PLpgSQL
+stars: 969
+forked: 285
+stars today: 159
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,186
+forked: 1,178
+stars today: 1
+
+JohnSnowLabs/spark-nlp
+https://github.com/JohnSnowLabs/spark-nlp
+State of the Art Natural Language Processing
+language: Scala
+stars: 3,605
+forked: 695
+stars today: 2
+
+scala/scala
+https://github.com/scala/scala
+Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
+language: Scala
+stars: 14,246
+forked: 3,188
+stars today: 1
+
+oap-project/gluten
+https://github.com/oap-project/gluten
+Gluten: Plugin to Double SparkSQL's Performance
+language: Scala
+stars: 885
+forked: 326
+stars today: 1
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 3,951
+forked: 1,245
+stars today: 1
+
+kalmanb/gridlock
+https://github.com/kalmanb/gridlock
+A simplified distributed locking and synchronization manager written with scala and akka. A lightweight alternative to zookeeper.
+language: Scala
+stars: 1
+forked: -
+stars today: 0
+
+microsoft/SynapseML
+https://github.com/microsoft/SynapseML
+Simple and Distributed Machine Learning
+language: Scala
+stars: 4,933
+forked: 829
+stars today: 2
+
+Normation/rudder-plugins
+https://github.com/Normation/rudder-plugins
+All Rudder public plugins in one repository. Licenses are by-plugin.
+language: Scala
+stars: 14
+forked: 24
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 14,308
+forked: 2,121
+stars today: 2
+
+databricks/spark-xml
+https://github.com/databricks/spark-xml
+XML data source for Spark SQL and DataFrames
+language: Scala
+stars: 476
+forked: 229
+stars today: 0
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 37,791
+forked: 28,231
+stars today: 5
+
+microsoft/sql-spark-connector
+https://github.com/microsoft/sql-spark-connector
+Apache Spark Connector for SQL Server and Azure SQL
+language: Scala
+stars: 259
+forked: 110
+stars today: 2
+
+crealytics/spark-excel
+https://github.com/crealytics/spark-excel
+A Spark plugin for reading and writing Excel files
+language: Scala
+stars: 422
+forked: 144
+stars today: 0
+
+apache/tvm-vta
+https://github.com/apache/tvm-vta
+Open, Modular, Deep Learning Accelerator
+language: Scala
+stars: 223
+forked: 67
+stars today: 0
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 1,993
+forked: 314
+stars today: 2
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 60,767
+forked: 12,260
+stars today: 4
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 658
+forked: 144
+stars today: 0
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 841
+forked: 594
+stars today: 0
+
+broadinstitute/rawls
+https://github.com/broadinstitute/rawls
+Rawls service for DSDE
+language: Scala
+stars: 24
+forked: 3
+stars today: 0
+
+Azure/azure-event-hubs-spark
+https://github.com/Azure/azure-event-hubs-spark
+Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+language: Scala
+stars: 228
+forked: 174
+stars today: 0
+
+eed3si9n/recipes
+https://github.com/eed3si9n/recipes
+-
+language: Scala
+stars: 1
+forked: 1
+stars today: 0
+
+playframework/playframework
+https://github.com/playframework/playframework
+The Community Maintained High Velocity Web Framework For Java and Scala.
+language: Scala
+stars: 12,481
+forked: 4,125
+stars today: 0
+
+LinkedInLearning/hands-on-introduction-scala-4413550
+https://github.com/LinkedInLearning/hands-on-introduction-scala-4413550
+This repo is for the Linkedin Learning course: Hands-On Introduction: Scala
+language: Scala
+stars: 1
+forked: 5
+stars today: 0
+
+rockthejvm/scala-at-light-speed
+https://github.com/rockthejvm/scala-at-light-speed
+The repository for the free Scala at Light Speed mini-course
+language: Scala
+stars: 235
+forked: 282
+stars today: 0
