@@ -1,0 +1,199 @@
+adamcohenhillel/ADeus
+https://github.com/adamcohenhillel/ADeus
+An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.
+language: TypeScript
+stars: 1,588
+forked: 181
+stars today: 152
+
+reorproject/reor
+https://github.com/reorproject/reor
+AI note-taking app that runs models locally.
+language: TypeScript
+stars: 2,207
+forked: 89
+stars today: 629
+
+ChatGPTNextWeb/ChatGPT-Next-Web
+https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
+A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+language: TypeScript
+stars: 60,563
+forked: 52,135
+stars today: 78
+
+observablehq/framework
+https://github.com/observablehq/framework
+A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
+language: TypeScript
+stars: 940
+forked: 17
+stars today: 186
+
+Nutlope/notesGPT
+https://github.com/Nutlope/notesGPT
+Record voice notes & transcribe, summarize, and get tasks
+language: TypeScript
+stars: 948
+forked: 142
+stars today: 161
+
+microsoft/vscode
+https://github.com/microsoft/vscode
+Visual Studio Code
+language: TypeScript
+stars: 156,216
+forked: 28,311
+stars today: 42
+
+janhq/jan
+https://github.com/janhq/jan
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+language: TypeScript
+stars: 10,308
+forked: 558
+stars today: 383
+
+formkit/tempo
+https://github.com/formkit/tempo
+📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
+language: TypeScript
+stars: 763
+forked: 6
+stars today: 62
+
+subsquid-quests/algebra-farming-subgraph-migration
+https://github.com/subsquid-quests/algebra-farming-subgraph-migration
+A Stellaswap-sponsored quest to migrate the Algebra Farming subgraph to Subsquid
+language: TypeScript
+stars: 34
+forked: 21
+stars today: 6
+
+Lissy93/personal-security-checklist
+https://github.com/Lissy93/personal-security-checklist
+🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+language: TypeScript
+stars: 14,214
+forked: 1,004
+stars today: 37
+
+weaigc/bingo
+https://github.com/weaigc/bingo
+Bingo，一个让你呼吸顺畅 New Bing。
+language: TypeScript
+stars: 2,051
+forked: 810
+stars today: 10
+
+subsquid-quests/algebra-subgraph-migration
+https://github.com/subsquid-quests/algebra-subgraph-migration
+Stellaswap-sponsored quest to migrate the Algebra subgraph to Subsquid
+language: TypeScript
+stars: 55
+forked: 18
+stars today: 14
+
+angular/angular
+https://github.com/angular/angular
+Deliver web apps with confidence 🚀
+language: TypeScript
+stars: 93,599
+forked: 25,206
+stars today: 47
+
+unjs/ofetch
+https://github.com/unjs/ofetch
+😱 A better fetch API. Works on node, browser and workers.
+language: TypeScript
+stars: 3,027
+forked: 102
+stars today: 20
+
+yarnpkg/berry
+https://github.com/yarnpkg/berry
+📦🐈 Active development trunk for Yarn ⚒
+language: TypeScript
+stars: 6,982
+forked: 1,124
+stars today: 4
+
+panaverse/learn-typescript
+https://github.com/panaverse/learn-typescript
+Learning TypeScript in Baby Steps
+language: TypeScript
+stars: 733
+forked: 405
+stars today: 7
+
+freeCodeCamp/freeCodeCamp
+https://github.com/freeCodeCamp/freeCodeCamp
+freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+language: TypeScript
+stars: 383,577
+forked: 35,888
+stars today: 63
+
+TanStack/table
+https://github.com/TanStack/table
+🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table
+language: TypeScript
+stars: 23,585
+forked: 3,008
+stars today: 8
+
+johannesjo/super-productivity
+https://github.com/johannesjo/super-productivity
+Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+language: TypeScript
+stars: 7,668
+forked: 699
+stars today: 34
+
+consumet/api.consumet.org
+https://github.com/consumet/api.consumet.org
+A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
+language: TypeScript
+stars: 790
+forked: 309
+stars today: 6
+
+subsquid-quests/network-test-one-uniform-load-squid
+https://github.com/subsquid-quests/network-test-one-uniform-load-squid
+A quest squid designed to load Phase 2 Subsquid Network uniformly
+language: TypeScript
+stars: 77
+forked: 103
+stars today: 17
+
+actualbudget/actual
+https://github.com/actualbudget/actual
+A local-first personal finance app
+language: TypeScript
+stars: 10,727
+forked: 842
+stars today: 21
+
+Infisical/infisical
+https://github.com/Infisical/infisical
+♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+language: TypeScript
+stars: 11,090
+forked: 536
+stars today: 18
+
+directus/directus
+https://github.com/directus/directus
+The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+language: TypeScript
+stars: 24,718
+forked: 3,489
+stars today: 19
+
+vuestorefront/vue-storefront
+https://github.com/vuestorefront/vue-storefront
+The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Ne…
+language: TypeScript
+stars: 10,404
+forked: 2,077
+stars today: 1
