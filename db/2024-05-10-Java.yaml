@@ -1,0 +1,199 @@
+dataease/dataease
+https://github.com/dataease/dataease
+🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
+language: Java
+stars: 15,362
+forked: 2,829
+stars today: 36
+
+apache/dolphinscheduler
+https://github.com/apache/dolphinscheduler
+Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+language: Java
+stars: 12,164
+forked: 4,428
+stars today: 14
+
+apache/doris
+https://github.com/apache/doris
+Apache Doris is an easy-to-use, high performance and unified analytics database.
+language: Java
+stars: 11,438
+forked: 3,063
+stars today: 12
+
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 27,338
+forked: 8,142
+stars today: 7
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries. InfoWorld’s 2023 BOSSIE Award for best open source software.
+language: Java
+stars: 7,912
+forked: 1,622
+stars today: 7
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+language: Java
+stars: 29,122
+forked: 12,561
+stars today: 9
+
+doocs/source-code-hunter
+https://github.com/doocs/source-code-hunter
+😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+language: Java
+stars: 20,279
+forked: 3,762
+stars today: 46
+
+Snailclimb/JavaGuide
+https://github.com/Snailclimb/JavaGuide
+「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+language: Java
+stars: 143,433
+forked: 45,216
+stars today: 37
+
+648540858/wvp-GB28181-pro
+https://github.com/648540858/wvp-GB28181-pro
+WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+language: Java
+stars: 4,419
+forked: 1,350
+stars today: 10
+
+jeecgboot/jeecg-boot
+https://github.com/jeecgboot/jeecg-boot
+🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+language: Java
+stars: 37,906
+forked: 14,289
+stars today: 15
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 7,409
+forked: 1,593
+stars today: 5
+
+doocs/advanced-java
+https://github.com/doocs/advanced-java
+😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+language: Java
+stars: 74,476
+forked: 18,860
+stars today: 28
+
+dromara/Sa-Token
+https://github.com/dromara/Sa-Token
+这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+language: Java
+stars: 15,545
+forked: 2,505
+stars today: 10
+
+jeecgboot/JimuReport
+https://github.com/jeecgboot/JimuReport
+🔥「数据可视化报表工具」类似excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+language: Java
+stars: 5,712
+forked: 1,523
+stars today: 17
+
+xuxueli/xxl-job
+https://github.com/xuxueli/xxl-job
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+language: Java
+stars: 26,614
+forked: 10,634
+stars today: 7
+
+YunaiV/yudao-cloud
+https://github.com/YunaiV/yudao-cloud
+ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+language: Java
+stars: 15,406
+forked: 3,683
+stars today: 8
+
+baomidou/mybatis-plus
+https://github.com/baomidou/mybatis-plus
+An powerful enhanced toolkit of MyBatis for simplify development
+language: Java
+stars: 15,835
+forked: 4,208
+stars today: 10
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 15,729
+forked: 4,833
+stars today: 9
+
+Azure/azure-sdk-for-java
+https://github.com/Azure/azure-sdk-for-java
+This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+language: Java
+stars: 2,172
+forked: 1,888
+stars today: 2
+
+apache/flink-cdc
+https://github.com/apache/flink-cdc
+Flink CDC is a streaming data integration tool
+language: Java
+stars: 5,270
+forked: 1,782
+stars today: 6
+
+apache/flink
+https://github.com/apache/flink
+Apache Flink
+language: Java
+stars: 23,218
+forked: 12,978
+stars today: 9
+
+macrozheng/mall-swarm
+https://github.com/macrozheng/mall-swarm
+mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+language: Java
+stars: 11,375
+forked: 5,109
+stars today: 3
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 14,359
+forked: 8,718
+stars today: 3
+
+conductor-oss/conductor
+https://github.com/conductor-oss/conductor
+Conductor is an event driven orchestration platform
+language: Java
+stars: 11,035
+forked: 269
+stars today: 128
+
+macrozheng/mall
+https://github.com/macrozheng/mall
+mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+language: Java
+stars: 75,620
+forked: 28,338
+stars today: 26
