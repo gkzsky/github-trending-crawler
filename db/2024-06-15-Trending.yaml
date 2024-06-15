@@ -1,0 +1,159 @@
+NVIDIA/TensorRT
+https://github.com/NVIDIA/TensorRT
+NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
+language: C++
+stars: 9,758
+forked: 2,046
+stars today: 70
+
+twentyhq/twenty
+https://github.com/twentyhq/twenty
+Building a modern alternative to Salesforce, powered by the community.
+language: TypeScript
+stars: 14,428
+forked: 1,393
+stars today: 137
+
+Azure/azure-sdk-for-java
+https://github.com/Azure/azure-sdk-for-java
+This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+language: Java
+stars: 2,219
+forked: 1,913
+stars today: 9
+
+web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt
+Test suites for Web platform specs — including WHATWG, W3C, and others
+language: HTML
+stars: 4,705
+forked: 2,973
+stars today: 2
+
+1Panel-dev/MaxKB
+https://github.com/1Panel-dev/MaxKB
+🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+language: Python
+stars: 6,953
+forked: 929
+stars today: 54
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 2,427
+forked: 366
+stars today: 28
+
+comfyanonymous/ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 38,119
+forked: 4,057
+stars today: 277
+
+facebook/folly
+https://github.com/facebook/folly
+An open-source C++ library developed and used at Facebook.
+language: C++
+stars: 27,348
+forked: 5,447
+stars today: 10
+
+microsoft/LightGBM
+https://github.com/microsoft/LightGBM
+A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+language: C++
+stars: 16,249
+forked: 3,786
+stars today: 16
+
+meetecho/janus-gateway
+https://github.com/meetecho/janus-gateway
+Janus WebRTC Server
+language: C
+stars: 7,917
+forked: 2,445
+stars today: 9
+
+lexbor/lexbor
+https://github.com/lexbor/lexbor
+Lexbor is development of an open source HTML Renderer library. https://lexbor.com
+language: C
+stars: 1,368
+forked: 91
+stars today: 95
+
+apple/axlearn
+https://github.com/apple/axlearn
+An Extensible Deep Learning Library
+language: Python
+stars: 1,431
+forked: 171
+stars today: 45
+
+Azure/azure-sdk-for-net
+https://github.com/Azure/azure-sdk-for-net
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+language: C#
+stars: 5,105
+forked: 4,515
+stars today: 6
+
+Stability-AI/StableSwarmUI
+https://github.com/Stability-AI/StableSwarmUI
+StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+language: C#
+stars: 3,085
+forked: 254
+stars today: 101
+
+google/gemma.cpp
+https://github.com/google/gemma.cpp
+lightweight, standalone C++ inference engine for Google's Gemma models.
+language: C++
+stars: 5,637
+forked: 477
+stars today: 2
+
+firebase/firebase-ios-sdk
+https://github.com/firebase/firebase-ios-sdk
+Firebase SDK for Apple App Development
+language: Objective-C
+stars: 5,382
+forked: 1,421
+stars today: 1
+
+Raphire/Win11Debloat
+https://github.com/Raphire/Win11Debloat
+A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+language: PowerShell
+stars: 4,709
+forked: 198
+stars today: 57
+
+google/highway
+https://github.com/google/highway
+Performance-portable, length-agnostic SIMD with runtime dispatch
+language: C++
+stars: 3,793
+forked: 300
+stars today: 40
+
+protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf
+Protocol Buffers - Google's data interchange format
+language: C++
+stars: 64,222
+forked: 15,331
+stars today: 8
+
+google/googletest
+https://github.com/google/googletest
+GoogleTest - Google Testing and Mocking Framework
+language: C++
+stars: 33,548
+forked: 9,964
+stars today: 11

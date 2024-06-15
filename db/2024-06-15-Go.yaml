@@ -1,0 +1,191 @@
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 2,427
+forked: 366
+stars today: 28
+
+stakater/Reloader
+https://github.com/stakater/Reloader
+A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+language: Go
+stars: 7,022
+forked: 473
+stars today: 5
+
+multiversx/mx-chain-go
+https://github.com/multiversx/mx-chain-go
+⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
+language: Go
+stars: 910
+forked: 198
+stars today: 0
+
+hashicorp/vault-secrets-operator
+https://github.com/hashicorp/vault-secrets-operator
+The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
+language: Go
+stars: 427
+forked: 87
+stars today: 2
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 19,502
+forked: 2,302
+stars today: 2
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Protect and discover secrets using Gitleaks 🔑
+language: Go
+stars: 15,595
+forked: 1,342
+stars today: 14
+
+prometheus/alertmanager
+https://github.com/prometheus/alertmanager
+Prometheus Alertmanager
+language: Go
+stars: 6,390
+forked: 2,104
+stars today: 1
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 22,373
+forked: 1,562
+stars today: 10
+
+databus23/helm-diff
+https://github.com/databus23/helm-diff
+A helm plugin that shows a diff explaining what a helm upgrade would change
+language: Go
+stars: 2,554
+forked: 268
+stars today: 1
+
+go-sql-driver/mysql
+https://github.com/go-sql-driver/mysql
+Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+language: Go
+stars: 14,283
+forked: 2,299
+stars today: 1
+
+prometheus/node_exporter
+https://github.com/prometheus/node_exporter
+Exporter for machine metrics
+language: Go
+stars: 10,536
+forked: 2,288
+stars today: 8
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 20,073
+forked: 4,230
+stars today: 6
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 15,894
+forked: 1,283
+stars today: 10
+
+kubernetes-sigs/cluster-api
+https://github.com/kubernetes-sigs/cluster-api
+Home for Cluster API, a subproject of sig-cluster-lifecycle
+language: Go
+stars: 3,422
+forked: 1,265
+stars today: 0
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 22,848
+forked: 4,631
+stars today: 13
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 5,674
+forked: 521
+stars today: 5
+
+bufbuild/protoc-gen-validate
+https://github.com/bufbuild/protoc-gen-validate
+Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
+language: Go
+stars: 3,679
+forked: 574
+stars today: 5
+
+containers/skopeo
+https://github.com/containers/skopeo
+Work with remote images registries - retrieving information, images, signing content
+language: Go
+stars: 7,636
+forked: 746
+stars today: 6
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 36,564
+forked: 2,790
+stars today: 15
+
+golang/protobuf
+https://github.com/golang/protobuf
+Go support for Google's protocol buffers
+language: Go
+stars: 9,612
+forked: 1,576
+stars today: 2
+
+json-iterator/go
+https://github.com/json-iterator/go
+A high-performance 100% compatible drop-in replacement of "encoding/json"
+language: Go
+stars: 13,148
+forked: 1,020
+stars today: 2
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 9,555
+forked: 8,963
+stars today: 4
+
+kubernetes/kube-state-metrics
+https://github.com/kubernetes/kube-state-metrics
+Add-on agent to generate and expose cluster-level metrics.
+language: Go
+stars: 5,177
+forked: 1,885
+stars today: 1
+
+k0sproject/k0s
+https://github.com/k0sproject/k0s
+k0s - The Zero Friction Kubernetes
+language: Go
+stars: 3,035
+forked: 347
+stars today: 11

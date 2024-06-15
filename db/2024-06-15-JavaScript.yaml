@@ -1,0 +1,183 @@
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: JavaScript
+stars: 167,878
+forked: 78,501
+stars today: 19
+
+fchollet/ARC-AGI
+https://github.com/fchollet/ARC-AGI
+The Abstraction and Reasoning Corpus
+language: JavaScript
+stars: 2,459
+forked: 429
+stars today: 121
+
+carbon-design-system/carbon
+https://github.com/carbon-design-system/carbon
+A design system built by IBM
+language: JavaScript
+stars: 7,538
+forked: 1,754
+stars today: 2
+
+hotwired/turbo-rails
+https://github.com/hotwired/turbo-rails
+Use Turbo in your Ruby on Rails app
+language: JavaScript
+stars: 2,014
+forked: 303
+stars today: 1
+
+aws-actions/amazon-ecs-deploy-task-definition
+https://github.com/aws-actions/amazon-ecs-deploy-task-definition
+Registers an Amazon ECS task definition and deploys it to an ECS service.
+language: JavaScript
+stars: 614
+forked: 225
+stars today: 0
+
+thoughtbot/administrate
+https://github.com/thoughtbot/administrate
+A Rails engine that helps you put together a super-flexible admin dashboard.
+language: JavaScript
+stars: 5,836
+forked: 1,107
+stars today: 7
+
+fabricjs/fabric.js
+https://github.com/fabricjs/fabric.js
+Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+language: JavaScript
+stars: 27,880
+forked: 3,434
+stars today: 15
+
+aquasecurity/cloudsploit
+https://github.com/aquasecurity/cloudsploit
+Cloud Security Posture Management (CSPM)
+language: JavaScript
+stars: 3,239
+forked: 659
+stars today: 1
+
+cypress-io/cypress
+https://github.com/cypress-io/cypress
+Fast, easy and reliable testing for anything that runs in a browser.
+language: JavaScript
+stars: 46,334
+forked: 3,126
+stars today: 6
+
+software-mansion/react-native-reanimated
+https://github.com/software-mansion/react-native-reanimated
+React Native's Animated library reimplemented
+language: JavaScript
+stars: 8,537
+forked: 1,256
+stars today: 1
+
+OpenCTI-Platform/opencti
+https://github.com/OpenCTI-Platform/opencti
+Open Cyber Threat Intelligence Platform
+language: JavaScript
+stars: 4,865
+forked: 801
+stars today: 1
+
+slackapi/slack-github-action
+https://github.com/slackapi/slack-github-action
+Send data into Slack using this GitHub Action!
+language: JavaScript
+stars: 841
+forked: 142
+stars today: 0
+
+mapbox/mapbox-gl-js
+https://github.com/mapbox/mapbox-gl-js
+Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+language: JavaScript
+stars: 10,833
+forked: 2,187
+stars today: 6
+
+prebid/Prebid.js
+https://github.com/prebid/Prebid.js
+Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
+language: JavaScript
+stars: 1,254
+forked: 2,014
+stars today: 0
+
+debezium/debezium-examples
+https://github.com/debezium/debezium-examples
+Examples for running Debezium (Configuration, Docker Compose files etc.)
+language: JavaScript
+stars: 1,425
+forked: 821
+stars today: 0
+
+dcloudio/uni-app
+https://github.com/dcloudio/uni-app
+A cross-platform framework using Vue.js
+language: JavaScript
+stars: 39,558
+forked: 3,593
+stars today: 5
+
+cloudera/hue
+https://github.com/cloudera/hue
+Open source SQL Query Assistant service for Databases/Warehouses
+language: JavaScript
+stars: 1,121
+forked: 359
+stars today: 0
+
+gchq/CyberChef
+https://github.com/gchq/CyberChef
+The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+language: JavaScript
+stars: 26,443
+forked: 3,035
+stars today: 277
+
+meshery/meshery
+https://github.com/meshery/meshery
+Meshery, the cloud native manager
+language: JavaScript
+stars: 5,022
+forked: 1,560
+stars today: 3
+
+nodejs/node
+https://github.com/nodejs/node
+Node.js JavaScript runtime ✨🐢🚀✨
+language: JavaScript
+stars: 104,757
+forked: 28,297
+stars today: 24
+
+OpenZeppelin/openzeppelin-contracts-upgradeable
+https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
+language: JavaScript
+stars: 955
+forked: 426
+stars today: 0
+
+PrismarineJS/mineflayer
+https://github.com/PrismarineJS/mineflayer
+Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+language: JavaScript
+stars: 4,694
+forked: 864
+stars today: 2
+
+pmndrs/gltfjsx
+https://github.com/pmndrs/gltfjsx
+🎮 Turns GLTFs into JSX components
+language: JavaScript
+stars: 4,328
+forked: 285
+stars today: 1

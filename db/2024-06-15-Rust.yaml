@@ -1,0 +1,175 @@
+Byron/gitoxide
+https://github.com/Byron/gitoxide
+An idiomatic, lean, fast & safe pure Rust implementation of Git
+language: Rust
+stars: 8,243
+forked: 265
+stars today: 31
+
+EricLBuehler/mistral.rs
+https://github.com/EricLBuehler/mistral.rs
+Blazingly fast LLM inference.
+language: Rust
+stars: 2,546
+forked: 201
+stars today: 157
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package installer and resolver, written in Rust.
+language: Rust
+stars: 12,568
+forked: 350
+stars today: 57
+
+coral-xyz/anchor
+https://github.com/coral-xyz/anchor
+⚓ Solana Sealevel Framework
+language: Rust
+stars: 3,330
+forked: 1,232
+stars today: 0
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 93,257
+forked: 5,168
+stars today: 12
+
+quickwit-oss/tantivy
+https://github.com/quickwit-oss/tantivy
+Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+language: Rust
+stars: 11,132
+forked: 614
+stars today: 21
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 5,376
+forked: 993
+stars today: 9
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 1,579
+forked: 544
+stars today: 8
+
+nexus-xyz/nexus-zkvm
+https://github.com/nexus-xyz/nexus-zkvm
+The Nexus zkVM: The zero-knowledge virtual machine
+language: Rust
+stars: 490
+forked: 138
+stars today: 30
+
+shadowsocks/shadowsocks-rust
+https://github.com/shadowsocks/shadowsocks-rust
+A Rust port of shadowsocks
+language: Rust
+stars: 7,989
+forked: 1,116
+stars today: 4
+
+restatedev/restate
+https://github.com/restatedev/restate
+Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+language: Rust
+stars: 987
+forked: 24
+stars today: 135
+
+rustls/rustls
+https://github.com/rustls/rustls
+A modern TLS library in Rust
+language: Rust
+stars: 5,625
+forked: 595
+stars today: 2
+
+datafuselabs/databend
+https://github.com/datafuselabs/databend
+𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+language: Rust
+stars: 7,368
+forked: 708
+stars today: 11
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 5,063
+forked: 1,001
+stars today: 3
+
+JohnnyMorganz/StyLua
+https://github.com/JohnnyMorganz/StyLua
+An opinionated Lua code formatter
+language: Rust
+stars: 1,446
+forked: 63
+stars today: 4
+
+rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy
+A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+language: Rust
+stars: 10,981
+forked: 1,471
+stars today: 3
+
+lldap/lldap
+https://github.com/lldap/lldap
+Light LDAP implementation
+language: Rust
+stars: 3,616
+forked: 169
+stars today: 4
+
+paritytech/substrate
+https://github.com/paritytech/substrate
+Substrate: The platform for blockchain innovators
+language: Rust
+stars: 8,390
+forked: 2,650
+stars today: 0
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 7,775
+forked: 1,535
+stars today: 7
+
+RustScan/RustScan
+https://github.com/RustScan/RustScan
+🤖 The Modern Port Scanner 🤖
+language: Rust
+stars: 12,988
+forked: 868
+stars today: 10
+
+tikv/tikv
+https://github.com/tikv/tikv
+Distributed transactional key-value database, originally created to complement TiDB
+language: Rust
+stars: 14,660
+forked: 2,083
+stars today: 5
+
+tokio-rs/tracing
+https://github.com/tokio-rs/tracing
+Application level tracing for Rust.
+language: Rust
+stars: 5,059
+forked: 665
+stars today: 5

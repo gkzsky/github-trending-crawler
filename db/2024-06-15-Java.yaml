@@ -1,0 +1,191 @@
+Azure/azure-sdk-for-java
+https://github.com/Azure/azure-sdk-for-java
+This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+language: Java
+stars: 2,219
+forked: 1,913
+stars today: 9
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 8,996
+forked: 2,171
+stars today: 26
+
+aws/aws-sdk-java-v2
+https://github.com/aws/aws-sdk-java-v2
+The official AWS SDK for Java - Version 2
+language: Java
+stars: 2,101
+forked: 796
+stars today: 1
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 8,496
+forked: 5,775
+stars today: 2
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 9,764
+forked: 2,829
+stars today: 8
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 3,721
+forked: 707
+stars today: 15
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+language: Java
+stars: 29,335
+forked: 12,632
+stars today: 9
+
+software-mansion/react-native-svg
+https://github.com/software-mansion/react-native-svg
+SVG library for React Native, React Native Web, and plain React web projects.
+language: Java
+stars: 7,307
+forked: 1,101
+stars today: 1
+
+hapifhir/hapi-fhir
+https://github.com/hapifhir/hapi-fhir
+🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers
+language: Java
+stars: 1,932
+forked: 1,291
+stars today: 0
+
+open-telemetry/opentelemetry-java-instrumentation
+https://github.com/open-telemetry/opentelemetry-java-instrumentation
+OpenTelemetry auto-instrumentation and instrumentation libraries for Java
+language: Java
+stars: 1,771
+forked: 777
+stars today: 3
+
+snowflakedb/snowflake-jdbc
+https://github.com/snowflakedb/snowflake-jdbc
+Snowflake JDBC Driver
+language: Java
+stars: 169
+forked: 154
+stars today: 0
+
+apache/hertzbeat
+https://github.com/apache/hertzbeat
+Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+language: Java
+stars: 5,041
+forked: 880
+stars today: 2
+
+Activiti/Activiti
+https://github.com/Activiti/Activiti
+Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+language: Java
+stars: 9,967
+forked: 6,926
+stars today: 5
+
+innoveit/react-native-ble-manager
+https://github.com/innoveit/react-native-ble-manager
+React Native BLE communication module
+language: Java
+stars: 2,038
+forked: 745
+stars today: 2
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 20,578
+forked: 6,373
+stars today: 17
+
+apache/maven-mvnd
+https://github.com/apache/maven-mvnd
+Apache Maven Daemon
+language: Java
+stars: 2,771
+forked: 200
+stars today: 1
+
+strimzi/strimzi-kafka-operator
+https://github.com/strimzi/strimzi-kafka-operator
+Apache Kafka® running on Kubernetes
+language: Java
+stars: 4,589
+forked: 1,242
+stars today: 1
+
+apache/flink
+https://github.com/apache/flink
+Apache Flink
+language: Java
+stars: 23,379
+forked: 13,045
+stars today: 6
+
+lukas-krecan/ShedLock
+https://github.com/lukas-krecan/ShedLock
+Distributed lock for your scheduled tasks
+language: Java
+stars: 3,472
+forked: 496
+stars today: 4
+
+dropwizard/metrics
+https://github.com/dropwizard/metrics
+📈 Capturing JVM- and application-level metrics. So you know what's going on.
+language: Java
+stars: 7,808
+forked: 1,805
+stars today: 0
+
+vaadin/flow
+https://github.com/vaadin/flow
+Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
+language: Java
+stars: 585
+forked: 164
+stars today: 3
+
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,190
+forked: 3,631
+stars today: 4
+
+spring-projects/sts4
+https://github.com/spring-projects/sts4
+The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more... - Available for Eclipse, Visual Studio Code, and Theia
+language: Java
+stars: 847
+forked: 198
+stars today: 1
+
+fabric8io/kubernetes-client
+https://github.com/fabric8io/kubernetes-client
+Java client for Kubernetes & OpenShift
+language: Java
+stars: 3,334
+forked: 1,440
+stars today: 0
