@@ -1,0 +1,143 @@
+Lightning-AI/LitServe
+https://github.com/Lightning-AI/LitServe
+Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
+language: Python
+stars: 1,347
+forked: 87
+stars today: 394
+
+sherlock-project/sherlock
+https://github.com/sherlock-project/sherlock
+Hunt down social media accounts by username across social networks
+language: Python
+stars: 55,116
+forked: 6,556
+stars today: 783
+
+Z4nzu/hackingtool
+https://github.com/Z4nzu/hackingtool
+ALL IN ONE Hacking Tool For Hackers
+language: Python
+stars: 45,616
+forked: 4,968
+stars today: 838
+
+spotDL/spotify-downloader
+https://github.com/spotDL/spotify-downloader
+Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+language: Python
+stars: 16,478
+forked: 1,533
+stars today: 323
+
+PromtEngineer/Verbi
+https://github.com/PromtEngineer/Verbi
+A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
+language: Python
+stars: 512
+forked: 95
+stars today: 56
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 30,790
+forked: 4,266
+stars today: 674
+
+huggingface/lerobot
+https://github.com/huggingface/lerobot
+🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+language: Python
+stars: 5,572
+forked: 478
+stars today: 175
+
+s0md3v/roop
+https://github.com/s0md3v/roop
+one-click face swap
+language: Python
+stars: 27,059
+forked: 6,576
+stars today: 78
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 59,441
+forked: 14,382
+stars today: 26
+
+apache/airflow
+https://github.com/apache/airflow
+Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+language: Python
+stars: 36,018
+forked: 13,984
+stars today: 16
+
+bunkerity/bunkerweb
+https://github.com/bunkerity/bunkerweb
+🛡️ Open-source and next-generation Web Application Firewall (WAF)
+language: Python
+stars: 5,907
+forked: 331
+stars today: 282
+
+home-assistant/core
+https://github.com/home-assistant/core
+🏡 Open source home automation that puts local control and privacy first.
+language: Python
+stars: 70,840
+forked: 29,541
+stars today: 187
+
+blakeblackshear/frigate
+https://github.com/blakeblackshear/frigate
+NVR with realtime local object detection for IP cameras
+language: Python
+stars: 17,666
+forked: 1,618
+stars today: 46
+
+s0md3v/Photon
+https://github.com/s0md3v/Photon
+Incredibly fast crawler designed for OSINT.
+language: Python
+stars: 10,860
+forked: 1,487
+stars today: 15
+
+NUS-HPC-AI-Lab/VideoSys
+https://github.com/NUS-HPC-AI-Lab/VideoSys
+VideoSys: An easy and efficient system for video generation
+language: Python
+stars: 1,521
+forked: 101
+stars today: 15
+
+CollegesChat/university-information
+https://github.com/CollegesChat/university-information
+收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+language: Python
+stars: 2,398
+forked: 426
+stars today: 3
+
+deepset-ai/haystack
+https://github.com/deepset-ai/haystack
+🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+language: Python
+stars: 15,923
+forked: 1,791
+stars today: 209
+
+AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Stable Diffusion web UI
+language: Python
+stars: 138,631
+forked: 26,320
+stars today: 72
