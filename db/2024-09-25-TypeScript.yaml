@@ -1,0 +1,143 @@
+caorushizi/mediago
+https://github.com/caorushizi/mediago
+m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac
+language: TypeScript
+stars: 2,944
+forked: 272
+stars today: 84
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 292,504
+forked: 38,671
+stars today: 170
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+language: TypeScript
+stars: 41,457
+forked: 9,395
+stars today: 204
+
+chatchat-space/Langchain-Chatchat
+https://github.com/chatchat-space/Langchain-Chatchat
+Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+language: TypeScript
+stars: 31,349
+forked: 5,467
+stars today: 23
+
+mickasmt/next-saas-stripe-starter
+https://github.com/mickasmt/next-saas-stripe-starter
+Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
+language: TypeScript
+stars: 1,634
+forked: 270
+stars today: 40
+
+tensorflow/tensorboard
+https://github.com/tensorflow/tensorboard
+TensorFlow's Visualization Toolkit
+language: TypeScript
+stars: 6,677
+forked: 1,650
+stars today: 0
+
+apify/crawlee
+https://github.com/apify/crawlee
+Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language: TypeScript
+stars: 15,039
+forked: 633
+stars today: 25
+
+labring/FastGPT
+https://github.com/labring/FastGPT
+FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+language: TypeScript
+stars: 17,094
+forked: 4,575
+stars today: 26
+
+streetwriters/notesnook
+https://github.com/streetwriters/notesnook
+A fully open source & end-to-end encrypted note taking alternative to Evernote.
+language: TypeScript
+stars: 9,516
+forked: 583
+stars today: 22
+
+ant-design/ant-design
+https://github.com/ant-design/ant-design
+An enterprise-class UI design language and React UI library
+language: TypeScript
+stars: 91,952
+forked: 49,006
+stars today: 22
+
+nocobase/nocobase
+https://github.com/nocobase/nocobase
+NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+language: TypeScript
+stars: 11,944
+forked: 1,338
+stars today: 18
+
+radix-ui/primitives
+https://github.com/radix-ui/primitives
+Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+language: TypeScript
+stars: 15,465
+forked: 782
+stars today: 9
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 24,240
+forked: 16,037
+stars today: 6
+
+AykutSarac/jsoncrack.com
+https://github.com/AykutSarac/jsoncrack.com
+✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+language: TypeScript
+stars: 30,061
+forked: 1,815
+stars today: 29
+
+umijs/umi
+https://github.com/umijs/umi
+A framework in react community ✨
+language: TypeScript
+stars: 15,307
+forked: 2,653
+stars today: 3
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 46,384
+forked: 6,546
+stars today: 100
+
+refined-github/refined-github
+https://github.com/refined-github/refined-github
+Browser extension that simplifies the GitHub interface and adds useful features
+language: TypeScript
+stars: 24,341
+forked: 1,473
+stars today: 34
+
+conventional-changelog/commitlint
+https://github.com/conventional-changelog/commitlint
+📓 Lint commit messages
+language: TypeScript
+stars: 16,677
+forked: 895
+stars today: 4
