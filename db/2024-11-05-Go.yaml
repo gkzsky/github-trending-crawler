@@ -1,0 +1,175 @@
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+language: Go
+stars: 96,256
+forked: 7,642
+stars today: 166
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 11,934
+forked: 894
+stars today: 26
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+Find, verify, and analyze leaked credentials
+language: Go
+stars: 16,836
+forked: 1,697
+stars today: 147
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+language: Go
+stars: 25,378
+forked: 3,918
+stars today: 43
+
+danielmiessler/fabric
+https://github.com/danielmiessler/fabric
+fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 24,498
+forked: 2,623
+stars today: 190
+
+terrastruct/d2
+https://github.com/terrastruct/d2
+D2 is a modern diagram scripting language that turns text to diagrams.
+language: Go
+stars: 17,024
+forked: 422
+stars today: 165
+
+DiceDB/dice
+https://github.com/DiceDB/dice
+DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+language: Go
+stars: 6,674
+forked: 1,061
+stars today: 18
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+language: Go
+stars: 58,199
+forked: 4,029
+stars today: 38
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+Sonne tanken ☀️🚘
+language: Go
+stars: 3,558
+forked: 659
+stars today: 17
+
+siderolabs/talos
+https://github.com/siderolabs/talos
+Talos Linux is a modern Linux distribution built for Kubernetes.
+language: Go
+stars: 6,800
+forked: 543
+stars today: 15
+
+gotenberg/gotenberg
+https://github.com/gotenberg/gotenberg
+A developer-friendly API for converting numerous document formats into PDF files, and more!
+language: Go
+stars: 8,012
+forked: 535
+stars today: 29
+
+cloudflare/cloudflared
+https://github.com/cloudflare/cloudflared
+Cloudflare Tunnel client (formerly Argo Tunnel)
+language: Go
+stars: 9,209
+forked: 812
+stars today: 8
+
+beego/beego
+https://github.com/beego/beego
+beego is an open-source, high-performance web framework for the Go programming language.
+language: Go
+stars: 31,596
+forked: 5,619
+stars today: 7
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 65,210
+forked: 4,296
+stars today: 47
+
+apernet/hysteria
+https://github.com/apernet/hysteria
+Hysteria is a powerful, lightning fast and censorship resistant proxy.
+language: Go
+stars: 14,960
+forked: 1,665
+stars today: 11
+
+schollz/croc
+https://github.com/schollz/croc
+Easily and securely send things from one computer to another 🐊 📦
+language: Go
+stars: 28,031
+forked: 1,110
+stars today: 33
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+The Open Source Dev Environment Manager.
+language: Go
+stars: 10,027
+forked: 810
+stars today: 195
+
+cri-o/cri-o
+https://github.com/cri-o/cri-o
+Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+language: Go
+stars: 5,221
+forked: 1,065
+stars today: 4
+
+ffuf/ffuf
+https://github.com/ffuf/ffuf
+Fast web fuzzer written in Go
+language: Go
+stars: 12,606
+forked: 1,290
+stars today: 5
+
+weaviate/weaviate
+https://github.com/weaviate/weaviate
+Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+language: Go
+stars: 11,353
+forked: 787
+stars today: 20
+
+MightyMoud/sidekick
+https://github.com/MightyMoud/sidekick
+Bare metal to production ready in mins; your own fly server on your VPS.
+language: Go
+stars: 5,348
+forked: 75
+stars today: 909
+
+IrineSistiana/mosdns
+https://github.com/IrineSistiana/mosdns
+一个 DNS 转发器
+language: Go
+stars: 2,944
+forked: 335
+stars today: 4

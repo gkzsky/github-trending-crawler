@@ -1,0 +1,135 @@
+Cinnamon/kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+language: Python
+stars: 16,210
+forked: 1,244
+stars today: 219
+
+meta-llama/llama-stack
+https://github.com/meta-llama/llama-stack
+Model components of the Llama Stack APIs
+language: Python
+stars: 4,365
+forked: 557
+stars today: 118
+
+DS4SD/docling
+https://github.com/DS4SD/docling
+Get your documents ready for gen AI
+language: Python
+stars: 4,583
+forked: 244
+stars today: 1,857
+
+All-Hands-AI/OpenHands
+https://github.com/All-Hands-AI/OpenHands
+🙌 OpenHands: Code Less, Make More
+language: Python
+stars: 33,928
+forked: 3,867
+stars today: 301
+
+mingrammer/diagrams
+https://github.com/mingrammer/diagrams
+🎨 Diagram as Code for prototyping cloud system architectures
+language: Python
+stars: 38,224
+forked: 2,491
+stars today: 218
+
+abi/screenshot-to-code
+https://github.com/abi/screenshot-to-code
+Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+language: Python
+stars: 58,273
+forked: 7,229
+stars today: 637
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 274,223
+forked: 46,141
+stars today: 111
+
+ErikBjare/gptme
+https://github.com/ErikBjare/gptme
+Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+language: Python
+stars: 2,420
+forked: 163
+stars today: 63
+
+MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo
+A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+language: Python
+stars: 16,412
+forked: 2,635
+stars today: 38
+
+instructlab/instructlab
+https://github.com/instructlab/instructlab
+InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.
+language: Python
+stars: 888
+forked: 323
+stars today: 27
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 87,046
+forked: 6,779
+stars today: 178
+
+smicallef/spiderfoot
+https://github.com/smicallef/spiderfoot
+SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+language: Python
+stars: 13,029
+forked: 2,269
+stars today: 13
+
+marimo-team/marimo
+https://github.com/marimo-team/marimo
+A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+language: Python
+stars: 7,566
+forked: 261
+stars today: 68
+
+AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Stable Diffusion web UI
+language: Python
+stars: 142,330
+forked: 26,852
+stars today: 121
+
+google/mesop
+https://github.com/google/mesop
+Rapidly build AI apps in Python
+language: Python
+stars: 5,476
+forked: 262
+stars today: 5
+
+Kanaries/pygwalker
+https://github.com/Kanaries/pygwalker
+PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+language: Python
+stars: 13,269
+forked: 689
+stars today: 63
+
+gradio-app/gradio
+https://github.com/gradio-app/gradio
+Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+language: Python
+stars: 33,688
+forked: 2,553
+stars today: 41
