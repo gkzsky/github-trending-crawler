@@ -1,0 +1,175 @@
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 6,538
+forked: 1,228
+stars today: 22
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 18,475
+forked: 5,460
+stars today: 6
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,361
+forked: 1,927
+stars today: 5
+
+kekingcn/kkFileView
+https://github.com/kekingcn/kkFileView
+Universal File Online Preview Project based on Spring-Boot
+language: Java
+stars: 11,974
+forked: 2,883
+stars today: 216
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 72,064
+forked: 25,096
+stars today: 17
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 15,523
+forked: 3,521
+stars today: 23
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,014
+forked: 3,134
+stars today: 8
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 7,062
+forked: 2,439
+stars today: 7
+
+microsoft/typespec
+https://github.com/microsoft/typespec
+-
+language: Java
+stars: 4,844
+forked: 257
+stars today: 5
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 33,901
+forked: 16,032
+stars today: 4
+
+openjdk/jdk
+https://github.com/openjdk/jdk
+JDK main-line development https://openjdk.org/projects/jdk
+language: Java
+stars: 20,645
+forked: 5,759
+stars today: 16
+
+apache/jmeter
+https://github.com/apache/jmeter
+Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
+language: Java
+stars: 8,650
+forked: 2,155
+stars today: 7
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 42,352
+forked: 3,603
+stars today: 28
+
+JabRef/jabref
+https://github.com/JabRef/jabref
+Graphical Java application for managing BibTeX and biblatex (.bib) databases
+language: Java
+stars: 3,804
+forked: 2,735
+stars today: 3
+
+apache/nifi
+https://github.com/apache/nifi
+Apache NiFi
+language: Java
+stars: 5,184
+forked: 2,776
+stars today: 6
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 50,599
+forked: 10,963
+stars today: 4
+
+doocs/leetcode
+https://github.com/doocs/leetcode
+🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+language: Java
+stars: 33,361
+forked: 8,766
+stars today: 16
+
+openrewrite/rewrite
+https://github.com/openrewrite/rewrite
+Automated mass refactoring of source code.
+language: Java
+stars: 2,551
+forked: 384
+stars today: 1
+
+camunda/camunda-bpm-platform
+https://github.com/camunda/camunda-bpm-platform
+C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
+language: Java
+stars: 4,190
+forked: 1,605
+stars today: 2
+
+Tencent/APIJSON
+https://github.com/Tencent/APIJSON
+🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+language: Java
+stars: 17,565
+forked: 2,193
+stars today: 15
+
+valkey-io/valkey-glide
+https://github.com/valkey-io/valkey-glide
+An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
+language: Java
+stars: 374
+forked: 76
+stars today: 3
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 10,385
+forked: 1,966
+stars today: 5

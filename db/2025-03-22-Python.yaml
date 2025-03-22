@@ -1,0 +1,71 @@
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Investment Research for Everyone, Everywhere.
+language: Python
+stars: 38,112
+forked: 3,440
+stars today: 150
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 45,001
+forked: 6,744
+stars today: 34
+
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 40,933
+forked: 1,935
+stars today: 113
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 42,274
+forked: 6,387
+stars today: 123
+
+lastmile-ai/mcp-agent
+https://github.com/lastmile-ai/mcp-agent
+Build effective agents using Model Context Protocol and simple workflow patterns
+language: Python
+stars: 1,629
+forked: 133
+stars today: 110
+
+localstack/localstack
+https://github.com/localstack/localstack
+💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+language: Python
+stars: 58,155
+forked: 4,120
+stars today: 33
+
+stanfordnlp/dspy
+https://github.com/stanfordnlp/dspy
+DSPy: The framework for programming—not prompting—language models
+language: Python
+stars: 22,570
+forked: 1,728
+stars today: 28
+
+langflow-ai/langflow
+https://github.com/langflow-ai/langflow
+Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+language: Python
+stars: 52,468
+forked: 5,759
+stars today: 208
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+language: Python
+stars: 17,388
+forked: 2,934
+stars today: 92
