@@ -1,0 +1,183 @@
+danielmiessler/fabric
+https://github.com/danielmiessler/fabric
+fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 30,177
+forked: 3,118
+stars today: 12
+
+gohugoio/hugo
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
+language: Go
+stars: 78,961
+forked: 7,705
+stars today: 28
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 4,316
+forked: 797
+stars today: 13
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+language: Go
+stars: 27,732
+forked: 4,189
+stars today: 15
+
+usual2970/certimate
+https://github.com/usual2970/certimate
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+language: Go
+stars: 5,986
+forked: 542
+stars today: 2
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 27,597
+forked: 1,960
+stars today: 19
+
+plandex-ai/plandex
+https://github.com/plandex-ai/plandex
+Open source AI coding agent. Designed for large projects and real world tasks.
+language: Go
+stars: 11,322
+forked: 782
+stars today: 19
+
+garethgeorge/backrest
+https://github.com/garethgeorge/backrest
+Backrest is a web UI and orchestrator for restic backup.
+language: Go
+stars: 2,482
+forked: 71
+stars today: 12
+
+sundowndev/phoneinfoga
+https://github.com/sundowndev/phoneinfoga
+Information gathering framework for phone numbers
+language: Go
+stars: 13,982
+forked: 3,933
+stars today: 5
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 22,761
+forked: 2,742
+stars today: 15
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+language: Go
+stars: 134,434
+forked: 11,125
+stars today: 149
+
+publicsuffix/list
+https://github.com/publicsuffix/list
+The Public Suffix List
+language: Go
+stars: 2,304
+forked: 1,299
+stars today: 2
+
+jaegertracing/jaeger
+https://github.com/jaegertracing/jaeger
+CNCF Jaeger, a Distributed Tracing Platform
+language: Go
+stars: 21,095
+forked: 2,543
+stars today: 3
+
+kopia/kopia
+https://github.com/kopia/kopia
+Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+language: Go
+stars: 9,069
+forked: 435
+stars today: 12
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+language: Go
+stars: 62,416
+forked: 4,207
+stars today: 22
+
+lovelaze/nebula-sync
+https://github.com/lovelaze/nebula-sync
+Synchronize configuration of multiple Pi-hole v6.x instances.
+language: Go
+stars: 446
+forked: 12
+stars today: 40
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 48,642
+forked: 20,689
+stars today: 18
+
+twpayne/chezmoi
+https://github.com/twpayne/chezmoi
+Manage your dotfiles across multiple diverse machines, securely.
+language: Go
+stars: 14,425
+forked: 514
+stars today: 16
+
+simulot/immich-go
+https://github.com/simulot/immich-go
+An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+language: Go
+stars: 2,698
+forked: 83
+stars today: 12
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 18,026
+forked: 8,320
+stars today: 4
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 9,254
+forked: 820
+stars today: 10
+
+cloudflare/cloudflared
+https://github.com/cloudflare/cloudflared
+Cloudflare Tunnel client (formerly Argo Tunnel)
+language: Go
+stars: 10,174
+forked: 912
+stars today: 7
+
+daeuniverse/dae
+https://github.com/daeuniverse/dae
+eBPF-based Linux high-performance transparent proxy solution.
+language: Go
+stars: 3,975
+forked: 248
+stars today: 61

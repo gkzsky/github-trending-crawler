@@ -1,0 +1,127 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,501
+forked: 3,469
+stars today: 15
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 144
+forked: 62
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 24,898
+forked: 1,067
+stars today: 3
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 592
+forked: 68
+stars today: 0
+
+GaloisInc/cryptol
+https://github.com/GaloisInc/cryptol
+Cryptol: The Language of Cryptography
+language: Haskell
+stars: 1,151
+forked: 123
+stars today: 0
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,774
+forked: 378
+stars today: 0
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 216
+forked: 45
+stars today: 0
+
+GaloisInc/semmc
+https://github.com/GaloisInc/semmc
+Stratified synthesis for learning machine code instruction semantics
+language: Haskell
+stars: 36
+forked: 7
+stars today: 0
+
+GaloisInc/parameterized-utils
+https://github.com/GaloisInc/parameterized-utils
+A set of utilities for using indexed types including containers, equality, and comparison.
+language: Haskell
+stars: 60
+forked: 13
+stars today: 0
+
+GaloisInc/elf-edit
+https://github.com/GaloisInc/elf-edit
+The elf-edit library provides a datatype suitable for reading and writing Elf files.
+language: Haskell
+stars: 36
+forked: 6
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,361
+forked: 330
+stars today: 2
+
+HigherOrderCO/HVM3
+https://github.com/HigherOrderCO/HVM3
+HVM3
+language: Haskell
+stars: 169
+forked: 16
+stars today: 2
+
+haskell-servant/servant
+https://github.com/haskell-servant/servant
+Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
+language: Haskell
+stars: 1,862
+forked: 415
+stars today: 0
+
+GaloisInc/what4
+https://github.com/GaloisInc/what4
+Symbolic formula representation and solver interaction library
+language: Haskell
+stars: 157
+forked: 13
+stars today: 0
+
+GaloisInc/llvm-pretty
+https://github.com/GaloisInc/llvm-pretty
+An llvm pretty printer inspired by the haskell llvm binding
+language: Haskell
+stars: 29
+forked: 16
+stars today: 0
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,657
+forked: 706
+stars today: 0

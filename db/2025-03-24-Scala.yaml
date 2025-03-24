@@ -1,0 +1,127 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,392
+forked: 2,358
+stars today: 3
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 1,791
+forked: 688
+stars today: 1
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 40,790
+forked: 28,452
+stars today: 7
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 63,021
+forked: 12,163
+stars today: 4
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,215
+forked: 748
+stars today: 1
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 310
+forked: 88
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 7,896
+forked: 1,800
+stars today: 2
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 186
+forked: 50
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,590
+forked: 643
+stars today: 0
+
+ComputeNode/cyfra
+https://github.com/ComputeNode/cyfra
+Multi-platform GPGPU computations with Scala, seamlessly 🚀
+language: Scala
+stars: 84
+forked: 9
+stars today: 0
+
+typelevel/cats-effect
+https://github.com/typelevel/cats-effect
+The pure asynchronous runtime for Scala
+language: Scala
+stars: 2,095
+forked: 539
+stars today: 1
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,295
+forked: 311
+stars today: 1
+
+ucb-bar/gemmini
+https://github.com/ucb-bar/gemmini
+Berkeley's Spatial Array Generator
+language: Scala
+stars: 899
+forked: 188
+stars today: 0
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 2,937
+forked: 2,822
+stars today: 2
+
+com-lihaoyi/mill
+https://github.com/com-lihaoyi/mill
+Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+language: Scala
+stars: 2,355
+forked: 393
+stars today: 1
+
+riscv-boom/riscv-boom
+https://github.com/riscv-boom/riscv-boom
+SonicBOOM: The Berkeley Out-of-Order Machine
+language: Scala
+stars: 1,847
+forked: 441
+stars today: 0
