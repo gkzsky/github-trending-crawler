@@ -1,0 +1,159 @@
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 4,340
+forked: 802
+stars today: 24
+
+sundowndev/phoneinfoga
+https://github.com/sundowndev/phoneinfoga
+Information gathering framework for phone numbers
+language: Go
+stars: 13,987
+forked: 3,936
+stars today: 9
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 38,645
+forked: 6,354
+stars today: 17
+
+daeuniverse/dae
+https://github.com/daeuniverse/dae
+eBPF-based Linux high-performance transparent proxy solution.
+language: Go
+stars: 3,999
+forked: 250
+stars today: 37
+
+quii/learn-go-with-tests
+https://github.com/quii/learn-go-with-tests
+Learn Go with test-driven development
+language: Go
+stars: 22,616
+forked: 2,857
+stars today: 12
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 22,776
+forked: 2,745
+stars today: 20
+
+charmbracelet/huh
+https://github.com/charmbracelet/huh
+Build terminal forms and prompts 🤷🏻‍♀️
+language: Go
+stars: 5,249
+forked: 158
+stars today: 19
+
+trustwallet/assets
+https://github.com/trustwallet/assets
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+language: Go
+stars: 4,802
+forked: 23,349
+stars today: 2
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 5,649
+forked: 977
+stars today: 4
+
+restic/restic
+https://github.com/restic/restic
+Fast, secure, efficient backup program
+language: Go
+stars: 27,996
+forked: 1,590
+stars today: 19
+
+twpayne/chezmoi
+https://github.com/twpayne/chezmoi
+Manage your dotfiles across multiple diverse machines, securely.
+language: Go
+stars: 14,445
+forked: 514
+stars today: 28
+
+kopia/kopia
+https://github.com/kopia/kopia
+Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+language: Go
+stars: 9,080
+forked: 435
+stars today: 18
+
+usememos/memos
+https://github.com/usememos/memos
+An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+language: Go
+stars: 38,472
+forked: 2,752
+stars today: 28
+
+v2fly/v2ray-core
+https://github.com/v2fly/v2ray-core
+A platform for building proxies to bypass network restrictions.
+language: Go
+stars: 30,706
+forked: 4,773
+stars today: 9
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+language: Go
+stars: 31,205
+forked: 2,362
+stars today: 28
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 48,646
+forked: 20,696
+stars today: 14
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 13,705
+forked: 1,007
+stars today: 11
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 27,622
+forked: 1,959
+stars today: 24
+
+tmc/langchaingo
+https://github.com/tmc/langchaingo
+LangChain for Go, the easiest way to write LLM-based programs in Go
+language: Go
+stars: 6,134
+forked: 768
+stars today: 7
+
+garethgeorge/backrest
+https://github.com/garethgeorge/backrest
+Backrest is a web UI and orchestrator for restic backup.
+language: Go
+stars: 2,489
+forked: 72
+stars today: 11
