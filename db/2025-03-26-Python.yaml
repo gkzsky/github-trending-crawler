@@ -1,0 +1,103 @@
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 48,036
+forked: 7,070
+stars today: 586
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 21,281
+forked: 2,487
+stars today: 361
+
+joanrod/star-vector
+https://github.com/joanrod/star-vector
+StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
+language: Python
+stars: 2,295
+forked: 122
+stars today: 646
+
+ocrmypdf/OCRmyPDF
+https://github.com/ocrmypdf/OCRmyPDF
+OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+language: Python
+stars: 24,887
+forked: 1,632
+stars today: 361
+
+bregman-arie/devops-exercises
+https://github.com/bregman-arie/devops-exercises
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+language: Python
+stars: 71,432
+forked: 16,002
+stars today: 297
+
+home-assistant/core
+https://github.com/home-assistant/core
+🏡 Open source home automation that puts local control and privacy first.
+language: Python
+stars: 77,557
+forked: 33,031
+stars today: 47
+
+browser-use/browser-use
+https://github.com/browser-use/browser-use
+Make websites accessible for AI agents
+language: Python
+stars: 48,562
+forked: 5,067
+stars today: 524
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
+language: Python
+stars: 22,104
+forked: 2,890
+stars today: 210
+
+joke2k/faker
+https://github.com/joke2k/faker
+Faker is a Python package that generates fake data for you.
+language: Python
+stars: 18,200
+forked: 1,974
+stars today: 50
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Investment Research for Everyone, Everywhere.
+language: Python
+stars: 39,443
+forked: 3,522
+stars today: 381
+
+mikel-brostrom/boxmot
+https://github.com/mikel-brostrom/boxmot
+BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+language: Python
+stars: 7,096
+forked: 1,766
+stars today: 9
+
+xtekky/gpt4free
+https://github.com/xtekky/gpt4free
+The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+language: Python
+stars: 63,928
+forked: 13,583
+stars today: 29
+
+linyqh/NarratoAI
+https://github.com/linyqh/NarratoAI
+利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
+language: Python
+stars: 4,333
+forked: 483
+stars today: 36
