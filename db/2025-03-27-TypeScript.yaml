@@ -1,0 +1,111 @@
+ourongxing/newsnow
+https://github.com/ourongxing/newsnow
+Elegant reading of real-time and hottest news
+language: TypeScript
+stars: 5,628
+forked: 1,352
+stars today: 375
+
+signalapp/Signal-Desktop
+https://github.com/signalapp/Signal-Desktop
+A private messenger for Windows, macOS, and Linux.
+language: TypeScript
+stars: 15,022
+forked: 2,740
+stars today: 17
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 86,199
+forked: 12,775
+stars today: 399
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 71,126
+forked: 18,610
+stars today: 430
+
+executeautomation/mcp-playwright
+https://github.com/executeautomation/mcp-playwright
+Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+language: TypeScript
+stars: 1,675
+forked: 137
+stars today: 69
+
+kern/filepizza
+https://github.com/kern/filepizza
+🍕 Peer-to-peer file transfers in your browser
+language: TypeScript
+stars: 7,363
+forked: 457
+stars today: 144
+
+wonderwhy-er/DesktopCommanderMCP
+https://github.com/wonderwhy-er/DesktopCommanderMCP
+This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+language: TypeScript
+stars: 1,087
+forked: 113
+stars today: 67
+
+haydenbleasel/next-forge
+https://github.com/haydenbleasel/next-forge
+Production-grade Turborepo template for Next.js apps.
+language: TypeScript
+stars: 5,629
+forked: 455
+stars today: 8
+
+Nutlope/logocreator
+https://github.com/Nutlope/logocreator
+A free + OSS logo generator powered by Flux on Together AI
+language: TypeScript
+stars: 5,117
+forked: 441
+stars today: 60
+
+mendableai/firecrawl
+https://github.com/mendableai/firecrawl
+🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+language: TypeScript
+stars: 32,984
+forked: 2,844
+stars today: 177
+
+cline/cline
+https://github.com/cline/cline
+Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+language: TypeScript
+stars: 36,835
+forked: 3,807
+stars today: 253
+
+renovatebot/renovate
+https://github.com/renovatebot/renovate
+Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+language: TypeScript
+stars: 18,673
+forked: 2,513
+stars today: 14
+
+nanbingxyz/5ire
+https://github.com/nanbingxyz/5ire
+5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .
+language: TypeScript
+stars: 1,995
+forked: 136
+stars today: 129
+
+supercorp-ai/supergateway
+https://github.com/supercorp-ai/supergateway
+Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
+language: TypeScript
+stars: 464
+forked: 43
+stars today: 21

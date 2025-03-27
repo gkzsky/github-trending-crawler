@@ -1,0 +1,159 @@
+FreeTubeApp/FreeTube
+https://github.com/FreeTubeApp/FreeTube
+An Open Source YouTube app for privacy
+language: JavaScript
+stars: 17,321
+forked: 1,111
+stars today: 27
+
+facebook/react
+https://github.com/facebook/react
+The library for web and native user interfaces.
+language: JavaScript
+stars: 233,690
+forked: 48,015
+stars today: 68
+
+sudheerj/reactjs-interview-questions
+https://github.com/sudheerj/reactjs-interview-questions
+List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+language: JavaScript
+stars: 41,526
+forked: 9,775
+stars today: 31
+
+airbnb/javascript
+https://github.com/airbnb/javascript
+JavaScript Style Guide
+language: JavaScript
+stars: 146,378
+forked: 26,705
+stars today: 23
+
+webpack/webpack
+https://github.com/webpack/webpack
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+language: JavaScript
+stars: 65,149
+forked: 9,038
+stars today: 10
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 9,893
+forked: 2,772
+stars today: 8
+
+academind/react-complete-guide-course-resources
+https://github.com/academind/react-complete-guide-course-resources
+React - The Complete Guide Course Resources (Code, Attachments, Slides)
+language: JavaScript
+stars: 2,882
+forked: 2,243
+stars today: 7
+
+fchollet/ARC-AGI
+https://github.com/fchollet/ARC-AGI
+The Abstraction and Reasoning Corpus
+language: JavaScript
+stars: 4,322
+forked: 648
+stars today: 3
+
+huggingface/transformers.js
+https://github.com/huggingface/transformers.js
+State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+language: JavaScript
+stars: 13,289
+forked: 888
+stars today: 7
+
+tangyoha/telegram_media_downloader
+https://github.com/tangyoha/telegram_media_downloader
+基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+language: JavaScript
+stars: 3,081
+forked: 359
+stars today: 23
+
+CodeWithHarry/Sigma-Web-Dev-Course
+https://github.com/CodeWithHarry/Sigma-Web-Dev-Course
+Source Code for Sigma Web Development Course
+language: JavaScript
+stars: 7,864
+forked: 2,381
+stars today: 14
+
+mailcow/mailcow-dockerized
+https://github.com/mailcow/mailcow-dockerized
+mailcow: dockerized - 🐮 + 🐋 = 💕
+language: JavaScript
+stars: 9,906
+forked: 1,278
+stars today: 7
+
+chartjs/Chart.js
+https://github.com/chartjs/Chart.js
+Simple HTML5 Charts using the <canvas> tag
+language: JavaScript
+stars: 65,569
+forked: 11,935
+stars today: 4
+
+mozilla/readability
+https://github.com/mozilla/readability
+A standalone version of the readability lib
+language: JavaScript
+stars: 9,663
+forked: 637
+stars today: 21
+
+ryanmcdermott/clean-code-javascript
+https://github.com/ryanmcdermott/clean-code-javascript
+Clean Code concepts adapted for JavaScript
+language: JavaScript
+stars: 92,681
+forked: 12,398
+stars today: 14
+
+WebKit/WebKit
+https://github.com/WebKit/WebKit
+Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+language: JavaScript
+stars: 8,469
+forked: 1,491
+stars today: 6
+
+WebGoat/WebGoat
+https://github.com/WebGoat/WebGoat
+WebGoat is a deliberately insecure application
+language: JavaScript
+stars: 7,373
+forked: 6,202
+stars today: 4
+
+bia-pain-bache/BPB-Worker-Panel
+https://github.com/bia-pain-bache/BPB-Worker-Panel
+A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.
+language: JavaScript
+stars: 6,891
+forked: 30,926
+stars today: 13
+
+vercel/next.js
+https://github.com/vercel/next.js
+The React Framework
+language: JavaScript
+stars: 130,590
+forked: 27,997
+stars today: 29
+
+qishibo/AnotherRedisDesktopManager
+https://github.com/qishibo/AnotherRedisDesktopManager
+🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
+language: JavaScript
+stars: 31,906
+forked: 2,627
+stars today: 19
