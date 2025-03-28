@@ -1,0 +1,183 @@
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 18,256
+forked: 8,345
+stars today: 121
+
+cilium/cilium
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+language: Go
+stars: 21,233
+forked: 3,131
+stars today: 25
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 10,112
+forked: 672
+stars today: 27
+
+GoogleCloudPlatform/terraformer
+https://github.com/GoogleCloudPlatform/terraformer
+CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+language: Go
+stars: 13,353
+forked: 1,720
+stars today: 17
+
+gogs/gogs
+https://github.com/gogs/gogs
+Gogs is a painless self-hosted Git service
+language: Go
+stars: 45,770
+forked: 4,981
+stars today: 45
+
+hahwul/dalfox
+https://github.com/hahwul/dalfox
+🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+language: Go
+stars: 4,093
+forked: 456
+stars today: 22
+
+kubernetes/dashboard
+https://github.com/kubernetes/dashboard
+General-purpose web UI for Kubernetes clusters
+language: Go
+stars: 14,790
+forked: 4,202
+stars today: 5
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 12,666
+forked: 609
+stars today: 22
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 8,519
+forked: 1,029
+stars today: 6
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 16,605
+forked: 1,433
+stars today: 21
+
+kgateway-dev/kgateway
+https://github.com/kgateway-dev/kgateway
+The Cloud-Native API Gateway and AI Gateway
+language: Go
+stars: 4,304
+forked: 479
+stars today: 2
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 4,993
+forked: 1,580
+stars today: 4
+
+FiloSottile/mkcert
+https://github.com/FiloSottile/mkcert
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+language: Go
+stars: 52,816
+forked: 2,771
+stars today: 18
+
+crossplane/crossplane
+https://github.com/crossplane/crossplane
+The Cloud Native Control Plane
+language: Go
+stars: 10,063
+forked: 1,015
+stars today: 19
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 48,852
+forked: 9,972
+stars today: 50
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 13,437
+forked: 928
+stars today: 22
+
+openbao/openbao
+https://github.com/openbao/openbao
+OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+language: Go
+stars: 3,579
+forked: 180
+stars today: 35
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 1,405
+forked: 125
+stars today: 118
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 68,958
+forked: 2,483
+stars today: 36
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 44,852
+forked: 9,779
+stars today: 16
+
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,062
+forked: 1,187
+stars today: 7
+
+kubernetes/client-go
+https://github.com/kubernetes/client-go
+Go client for Kubernetes.
+language: Go
+stars: 9,326
+forked: 2,976
+stars today: 3
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 33,646
+forked: 3,116
+stars today: 42

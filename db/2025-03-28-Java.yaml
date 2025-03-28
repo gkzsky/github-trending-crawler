@@ -1,0 +1,159 @@
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 1,745
+forked: 352
+stars today: 172
+
+signalapp/Signal-Server
+https://github.com/signalapp/Signal-Server
+Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+language: Java
+stars: 9,496
+forked: 2,226
+stars today: 23
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 10,704
+forked: 2,473
+stars today: 18
+
+apache/skywalking
+https://github.com/apache/skywalking
+APM, Application Performance Monitoring System
+language: Java
+stars: 24,178
+forked: 6,567
+stars today: 5
+
+spring-projects/spring-ai-examples
+https://github.com/spring-projects/spring-ai-examples
+-
+language: Java
+stars: 226
+forked: 69
+stars today: 12
+
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,532
+forked: 3,823
+stars today: 4
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 4,771
+forked: 323
+stars today: 35
+
+openrewrite/rewrite
+https://github.com/openrewrite/rewrite
+Automated mass refactoring of source code.
+language: Java
+stars: 2,566
+forked: 389
+stars today: 2
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 23,228
+forked: 6,833
+stars today: 14
+
+LuckSiege/PictureSelector
+https://github.com/LuckSiege/PictureSelector
+Picture Selector Library for Android or 图片选择器
+language: Java
+stars: 13,418
+forked: 3,040
+stars today: 2
+
+mockito/mockito
+https://github.com/mockito/mockito
+Most popular Mocking framework for unit tests written in Java
+language: Java
+stars: 15,098
+forked: 2,607
+stars today: 0
+
+OpenRefine/OpenRefine
+https://github.com/OpenRefine/OpenRefine
+OpenRefine is a free, open source power tool for working with messy data and improving it
+language: Java
+stars: 11,226
+forked: 2,038
+stars today: 4
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 9,739
+forked: 1,947
+stars today: 3
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 6,678
+forked: 1,244
+stars today: 23
+
+apache/druid
+https://github.com/apache/druid
+Apache Druid: a high performance real-time analytics database.
+language: Java
+stars: 13,652
+forked: 3,731
+stars today: 2
+
+kafbat/kafka-ui
+https://github.com/kafbat/kafka-ui
+Open-Source Web UI for managing Apache Kafka clusters
+language: Java
+stars: 909
+forked: 122
+stars today: 5
+
+JabRef/jabref
+https://github.com/JabRef/jabref
+Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
+language: Java
+stars: 3,831
+forked: 2,751
+stars today: 10
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 55,791
+forked: 6,251
+stars today: 59
+
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+language: Java
+stars: 16,600
+forked: 1,402
+stars today: 14
+
+wiremock/wiremock
+https://github.com/wiremock/wiremock
+A tool for mocking HTTP services
+language: Java
+stars: 6,676
+forked: 1,460
+stars today: 10

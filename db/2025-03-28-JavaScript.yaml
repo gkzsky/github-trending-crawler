@@ -1,0 +1,167 @@
+facebook/react
+https://github.com/facebook/react
+The library for web and native user interfaces.
+language: JavaScript
+stars: 233,757
+forked: 48,029
+stars today: 74
+
+expressjs/express
+https://github.com/expressjs/express
+Fast, unopinionated, minimalist web framework for node.
+language: JavaScript
+stars: 66,622
+forked: 17,994
+stars today: 20
+
+webpack/webpack
+https://github.com/webpack/webpack
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+language: JavaScript
+stars: 65,150
+forked: 9,039
+stars today: 6
+
+sudheerj/reactjs-interview-questions
+https://github.com/sudheerj/reactjs-interview-questions
+List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+language: JavaScript
+stars: 41,546
+forked: 9,783
+stars today: 36
+
+SillyTavern/SillyTavern
+https://github.com/SillyTavern/SillyTavern
+LLM Frontend for Power Users.
+language: JavaScript
+stars: 12,863
+forked: 3,004
+stars today: 48
+
+FortAwesome/Font-Awesome
+https://github.com/FortAwesome/Font-Awesome
+The iconic SVG, font, and CSS toolkit
+language: JavaScript
+stars: 74,831
+forked: 12,195
+stars today: 15
+
+airbnb/javascript
+https://github.com/airbnb/javascript
+JavaScript Style Guide
+language: JavaScript
+stars: 146,393
+forked: 26,710
+stars today: 16
+
+WebKit/WebKit
+https://github.com/WebKit/WebKit
+Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+language: JavaScript
+stars: 8,478
+forked: 1,492
+stars today: 9
+
+louislam/uptime-kuma
+https://github.com/louislam/uptime-kuma
+A fancy self-hosted monitoring tool
+language: JavaScript
+stars: 66,437
+forked: 5,852
+stars today: 41
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 9,900
+forked: 2,770
+stars today: 10
+
+DataDog/documentation
+https://github.com/DataDog/documentation
+The source for Datadog's documentation site.
+language: JavaScript
+stars: 502
+forked: 1,148
+stars today: 0
+
+bia-pain-bache/BPB-Worker-Panel
+https://github.com/bia-pain-bache/BPB-Worker-Panel
+A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
+language: JavaScript
+stars: 6,904
+forked: 30,920
+stars today: 22
+
+ryanmcdermott/clean-code-javascript
+https://github.com/ryanmcdermott/clean-code-javascript
+Clean Code concepts adapted for JavaScript
+language: JavaScript
+stars: 92,695
+forked: 12,401
+stars today: 26
+
+fchollet/ARC-AGI
+https://github.com/fchollet/ARC-AGI
+The Abstraction and Reasoning Corpus
+language: JavaScript
+stars: 4,329
+forked: 651
+stars today: 9
+
+open-webui/open-webui
+https://github.com/open-webui/open-webui
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+language: JavaScript
+stars: 85,889
+forked: 10,532
+stars today: 210
+
+microsoft/monaco-editor
+https://github.com/microsoft/monaco-editor
+A browser based code editor
+language: JavaScript
+stars: 41,899
+forked: 3,695
+stars today: 16
+
+pmndrs/drei
+https://github.com/pmndrs/drei
+🥉 useful helpers for react-three-fiber
+language: JavaScript
+stars: 8,792
+forked: 735
+stars today: 4
+
+freddyaboulton/fastrtc
+https://github.com/freddyaboulton/fastrtc
+The python library for real-time communication
+language: JavaScript
+stars: 3,322
+forked: 285
+stars today: 19
+
+rabbitmq/rabbitmq-server
+https://github.com/rabbitmq/rabbitmq-server
+Open source RabbitMQ: core server and tier 1 (built-in) plugins
+language: JavaScript
+stars: 12,644
+forked: 3,937
+stars today: 3
+
+CodeWithHarry/Sigma-Web-Dev-Course
+https://github.com/CodeWithHarry/Sigma-Web-Dev-Course
+Source Code for Sigma Web Development Course
+language: JavaScript
+stars: 7,875
+forked: 2,388
+stars today: 14
+
+eslint/eslint
+https://github.com/eslint/eslint
+Find and fix problems in your JavaScript code.
+language: JavaScript
+stars: 25,731
+forked: 4,685
+stars today: 4
