@@ -1,0 +1,111 @@
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 23,935
+forked: 2,770
+stars today: 1,340
+
+NirDiamant/GenAI_Agents
+https://github.com/NirDiamant/GenAI_Agents
+This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+language: Jupyter Notebook
+stars: 10,740
+forked: 1,363
+stars today: 366
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 1,594
+forked: 115
+stars today: 56
+
+khoj-ai/khoj
+https://github.com/khoj-ai/khoj
+Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+language: Python
+stars: 28,172
+forked: 1,559
+stars today: 392
+
+ourongxing/newsnow
+https://github.com/ourongxing/newsnow
+Elegant reading of real-time and hottest news
+language: TypeScript
+stars: 6,789
+forked: 1,521
+stars today: 881
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 15,237
+forked: 1,544
+stars today: 639
+
+punkpeye/awesome-mcp-servers
+https://github.com/punkpeye/awesome-mcp-servers
+A collection of MCP servers.
+language: -
+stars: 18,245
+forked: 1,195
+stars today: 1,345
+
+kern/filepizza
+https://github.com/kern/filepizza
+🍕 Peer-to-peer file transfers in your browser
+language: TypeScript
+stars: 7,888
+forked: 488
+stars today: 186
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 1,843
+forked: 363
+stars today: 132
+
+cline/cline
+https://github.com/cline/cline
+Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+language: TypeScript
+stars: 37,375
+forked: 3,877
+stars today: 244
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 72,192
+forked: 18,917
+stars today: 538
+
+neovim/neovim
+https://github.com/neovim/neovim
+Vim-fork focused on extensibility and usability
+language: Vim Script
+stars: 87,841
+forked: 5,960
+stars today: 68
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 87,416
+forked: 12,940
+stars today: 683
+
+shadps4-emu/shadPS4
+https://github.com/shadps4-emu/shadPS4
+PlayStation 4 emulator for Windows, Linux and macOS written in C++
+language: C++
+stars: 20,494
+forked: 1,239
+stars today: 354
