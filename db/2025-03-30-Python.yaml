@@ -1,0 +1,111 @@
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 25,040
+forked: 2,849
+stars today: 1,075
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+language: Python
+stars: 23,099
+forked: 2,978
+stars today: 199
+
+jlowin/fastmcp
+https://github.com/jlowin/fastmcp
+The fast, Pythonic way to build Model Context Protocol servers 🚀
+language: Python
+stars: 2,192
+forked: 113
+stars today: 46
+
+getsentry/sentry
+https://github.com/getsentry/sentry
+Developer-first error tracking and performance monitoring
+language: Python
+stars: 40,418
+forked: 4,297
+stars today: 9
+
+causify-ai/helpers
+https://github.com/causify-ai/helpers
+Causify development system
+language: Python
+stars: 66
+forked: 102
+stars today: 37
+
+1Panel-dev/MaxKB
+https://github.com/1Panel-dev/MaxKB
+💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+language: Python
+stars: 15,290
+forked: 2,005
+stars today: 17
+
+aigc-apps/VideoX-Fun
+https://github.com/aigc-apps/VideoX-Fun
+📹 A more flexible framework that can generate videos at any resolution and creates videos from images.
+language: Python
+stars: 749
+forked: 55
+stars today: 13
+
+open-mmlab/mmpose
+https://github.com/open-mmlab/mmpose
+OpenMMLab Pose Estimation Toolbox and Benchmark.
+language: Python
+stars: 6,273
+forked: 1,325
+stars today: 5
+
+streamlit/streamlit
+https://github.com/streamlit/streamlit
+Streamlit — A faster way to build and share data apps.
+language: Python
+stars: 38,482
+forked: 3,351
+stars today: 19
+
+jingyaogong/minimind
+https://github.com/jingyaogong/minimind
+🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+language: Python
+stars: 17,439
+forked: 1,938
+stars today: 59
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 2,975
+forked: 231
+stars today: 109
+
+lastmile-ai/mcp-agent
+https://github.com/lastmile-ai/mcp-agent
+Build effective agents using Model Context Protocol and simple workflow patterns
+language: Python
+stars: 2,276
+forked: 191
+stars today: 87
+
+jingyaogong/minimind-v
+https://github.com/jingyaogong/minimind-v
+🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
+language: Python
+stars: 2,022
+forked: 215
+stars today: 47
+
+khoj-ai/khoj
+https://github.com/khoj-ai/khoj
+Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+language: Python
+stars: 28,278
+forked: 1,563
+stars today: 206

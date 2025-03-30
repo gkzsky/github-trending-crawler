@@ -1,0 +1,183 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 15,370
+forked: 1,551
+stars today: 240
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 1,660
+forked: 120
+stars today: 98
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 51,948
+forked: 1,287
+stars today: 28
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 6,314
+forked: 200
+stars today: 35
+
+hyperlight-dev/hyperlight
+https://github.com/hyperlight-dev/hyperlight
+Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+language: Rust
+stars: 3,132
+forked: 110
+stars today: 54
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 4,158
+forked: 492
+stars today: 14
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 47,801
+forked: 2,063
+stars today: 25
+
+mufeedvh/code2prompt
+https://github.com/mufeedvh/code2prompt
+A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+language: Rust
+stars: 5,208
+forked: 302
+stars today: 12
+
+Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist
+Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+language: Rust
+stars: 1,341
+forked: 61
+stars today: 5
+
+MaterializeInc/materialize
+https://github.com/MaterializeInc/materialize
+Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+language: Rust
+stars: 5,932
+forked: 468
+stars today: 11
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 4,315
+forked: 270
+stars today: 7
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 20,992
+forked: 1,145
+stars today: 11
+
+mullvad/mullvadvpn-app
+https://github.com/mullvad/mullvadvpn-app
+The Mullvad VPN client app for desktop and mobile
+language: Rust
+stars: 5,614
+forked: 384
+stars today: 3
+
+eza-community/eza
+https://github.com/eza-community/eza
+A modern alternative to ls
+language: Rust
+stars: 14,737
+forked: 273
+stars today: 23
+
+rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy
+A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+language: Rust
+stars: 11,865
+forked: 1,611
+stars today: 6
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,502
+forked: 1,510
+stars today: 3
+
+wezterm/wezterm
+https://github.com/wezterm/wezterm
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+language: Rust
+stars: 19,770
+forked: 875
+stars today: 14
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 14,797
+forked: 549
+stars today: 5
+
+databendlabs/databend
+https://github.com/databendlabs/databend
+𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+language: Rust
+stars: 8,298
+forked: 771
+stars today: 3
+
+MystenLabs/walrus
+https://github.com/MystenLabs/walrus
+A decentralized blob store using Sui for coordination and governance.
+language: Rust
+stars: 80
+forked: 19
+stars today: 10
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 29,952
+forked: 3,138
+stars today: 18
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 20,062
+forked: 1,719
+stars today: 11
+
+LGUG2Z/komorebi
+https://github.com/LGUG2Z/komorebi
+A tiling window manager for Windows 🍉
+language: Rust
+stars: 10,700
+forked: 223
+stars today: 19

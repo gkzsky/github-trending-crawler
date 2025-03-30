@@ -1,0 +1,111 @@
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 25,040
+forked: 2,849
+stars today: 1,075
+
+punkpeye/awesome-mcp-servers
+https://github.com/punkpeye/awesome-mcp-servers
+A collection of MCP servers.
+language: -
+stars: 19,333
+forked: 1,276
+stars today: 1,087
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 15,370
+forked: 1,551
+stars today: 240
+
+google/perfetto
+https://github.com/google/perfetto
+Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+language: C++
+stars: 3,276
+forked: 400
+stars today: 7
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+language: Python
+stars: 23,099
+forked: 2,978
+stars today: 199
+
+NirDiamant/GenAI_Agents
+https://github.com/NirDiamant/GenAI_Agents
+This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+language: Jupyter Notebook
+stars: 10,942
+forked: 1,383
+stars today: 241
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 1,660
+forked: 120
+stars today: 98
+
+ourongxing/newsnow
+https://github.com/ourongxing/newsnow
+Elegant reading of real-time and hottest news
+language: TypeScript
+stars: 6,976
+forked: 1,551
+stars today: 159
+
+shadps4-emu/shadPS4
+https://github.com/shadps4-emu/shadPS4
+PlayStation 4 emulator for Windows, Linux and macOS written in C++
+language: C++
+stars: 20,867
+forked: 1,260
+stars today: 787
+
+jlowin/fastmcp
+https://github.com/jlowin/fastmcp
+The fast, Pythonic way to build Model Context Protocol servers 🚀
+language: Python
+stars: 2,192
+forked: 113
+stars today: 46
+
+angular/angular
+https://github.com/angular/angular
+Deliver web apps with confidence 🚀
+language: TypeScript
+stars: 97,370
+forked: 26,040
+stars today: 31
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,643
+forked: 4,466
+stars today: 7
+
+open-source-parsers/jsoncpp
+https://github.com/open-source-parsers/jsoncpp
+A C++ library for interacting with JSON.
+language: C++
+stars: 8,431
+forked: 2,676
+stars today: 3
+
+gogs/gogs
+https://github.com/gogs/gogs
+Gogs is a painless self-hosted Git service
+language: Go
+stars: 45,989
+forked: 5,014
+stars today: 26
