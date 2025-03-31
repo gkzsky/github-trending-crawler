@@ -1,0 +1,191 @@
+MystenLabs/walrus
+https://github.com/MystenLabs/walrus
+A decentralized blob store using Sui for coordination and governance.
+language: Rust
+stars: 98
+forked: 27
+stars today: 18
+
+dora-rs/dora
+https://github.com/dora-rs/dora
+DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.
+language: Rust
+stars: 1,970
+forked: 150
+stars today: 14
+
+mufeedvh/code2prompt
+https://github.com/mufeedvh/code2prompt
+A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+language: Rust
+stars: 5,226
+forked: 304
+stars today: 15
+
+hyperlight-dev/hyperlight
+https://github.com/hyperlight-dev/hyperlight
+Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+language: Rust
+stars: 3,176
+forked: 110
+stars today: 37
+
+moghtech/komodo
+https://github.com/moghtech/komodo
+🦎 a tool to build and deploy software on many servers 🦎
+language: Rust
+stars: 3,899
+forked: 85
+stars today: 24
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 1,687
+forked: 124
+stars today: 44
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 57,292
+forked: 10,510
+stars today: 26
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 38,683
+forked: 1,062
+stars today: 27
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 37,000
+forked: 6,650
+stars today: 20
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+language: Rust
+stars: 6,913
+forked: 417
+stars today: 14
+
+gleam-lang/gleam
+https://github.com/gleam-lang/gleam
+⭐️ A friendly language for building type-safe, scalable systems!
+language: Rust
+stars: 19,041
+forked: 809
+stars today: 4
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 26,105
+forked: 1,260
+stars today: 11
+
+esp-rs/esp-hal
+https://github.com/esp-rs/esp-hal
+no_std Hardware Abstraction Layers for ESP32 microcontrollers
+language: Rust
+stars: 1,069
+forked: 274
+stars today: 3
+
+lencx/ChatGPT
+https://github.com/lencx/ChatGPT
+🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+language: Rust
+stars: 53,652
+forked: 6,062
+stars today: 5
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 4,322
+forked: 270
+stars today: 7
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 43,034
+forked: 2,035
+stars today: 36
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 85,038
+forked: 12,035
+stars today: 43
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 102,371
+forked: 13,221
+stars today: 22
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 51,964
+forked: 1,287
+stars today: 25
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 27,407
+forked: 1,899
+stars today: 9
+
+Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist
+Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+language: Rust
+stars: 1,357
+forked: 63
+stars today: 13
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 26,285
+forked: 1,029
+stars today: 17
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 6,365
+forked: 203
+stars today: 50
+
+restatedev/restate
+https://github.com/restatedev/restate
+Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+language: Rust
+stars: 2,103
+forked: 57
+stars today: 18

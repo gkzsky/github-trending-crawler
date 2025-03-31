@@ -1,0 +1,167 @@
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+Go library for the WhatsApp web multidevice API
+language: Go
+stars: 2,808
+forked: 500
+stars today: 63
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 12,754
+forked: 616
+stars today: 16
+
+v2fly/v2ray-core
+https://github.com/v2fly/v2ray-core
+A platform for building proxies to bypass network restrictions.
+language: Go
+stars: 30,768
+forked: 4,781
+stars today: 15
+
+dstotijn/hetty
+https://github.com/dstotijn/hetty
+An HTTP toolkit for security research.
+language: Go
+stars: 6,776
+forked: 379
+stars today: 15
+
+go-kratos/kratos
+https://github.com/go-kratos/kratos
+Your ultimate Go microservices framework for the cloud-native era.
+language: Go
+stars: 24,043
+forked: 4,066
+stars today: 57
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 20,991
+forked: 765
+stars today: 183
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 21,765
+forked: 1,739
+stars today: 16
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end stack for WebRTC. SFU media server and SDKs.
+language: Go
+stars: 12,133
+forked: 1,065
+stars today: 13
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+language: Go
+stars: 27,814
+forked: 4,195
+stars today: 20
+
+gogs/gogs
+https://github.com/gogs/gogs
+Gogs is a painless self-hosted Git service
+language: Go
+stars: 46,074
+forked: 5,017
+stars today: 195
+
+gofr-dev/gofr
+https://github.com/gofr-dev/gofr
+An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+language: Go
+stars: 6,632
+forked: 697
+stars today: 161
+
+trustwallet/assets
+https://github.com/trustwallet/assets
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+language: Go
+stars: 4,813
+forked: 23,404
+stars today: 5
+
+0xJacky/nginx-ui
+https://github.com/0xJacky/nginx-ui
+Yet another WebUI for Nginx
+language: Go
+stars: 7,945
+forked: 562
+stars today: 16
+
+bufbuild/buf
+https://github.com/bufbuild/buf
+The best way of working with Protocol Buffers.
+language: Go
+stars: 9,717
+forked: 298
+stars today: 16
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+A continuation of HomeBox the inventory and organization system built for the Home User
+language: Go
+stars: 2,323
+forked: 127
+stars today: 6
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+language: Go
+stars: 47,824
+forked: 5,717
+stars today: 15
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 27,708
+forked: 1,965
+stars today: 21
+
+Calcium-Ion/new-api
+https://github.com/Calcium-Ion/new-api
+AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+language: Go
+stars: 6,362
+forked: 1,266
+stars today: 77
+
+gohugoio/hugo
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
+language: Go
+stars: 79,139
+forked: 7,708
+stars today: 25
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 3,691
+forked: 502
+stars today: 6
+
+filebrowser/filebrowser
+https://github.com/filebrowser/filebrowser
+📂 Web File Browser
+language: Go
+stars: 28,389
+forked: 3,206
+stars today: 14
