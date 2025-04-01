@@ -1,0 +1,175 @@
+supabase-community/postgres-language-server
+https://github.com/supabase-community/postgres-language-server
+A Language Server for Postgres
+language: Rust
+stars: 4,539
+forked: 89
+stars today: 205
+
+MystenLabs/walrus
+https://github.com/MystenLabs/walrus
+A decentralized blob store using Sui for coordination and governance.
+language: Rust
+stars: 109
+forked: 28
+stars today: 12
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 6,399
+forked: 203
+stars today: 46
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 38,755
+forked: 3,816
+stars today: 28
+
+hyperlight-dev/hyperlight
+https://github.com/hyperlight-dev/hyperlight
+Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+language: Rust
+stars: 3,227
+forked: 112
+stars today: 51
+
+rust-lang/rustup
+https://github.com/rust-lang/rustup
+The Rust toolchain installer
+language: Rust
+stars: 6,384
+forked: 930
+stars today: 3
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 26,311
+forked: 1,030
+stars today: 28
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 57,315
+forked: 10,515
+stars today: 25
+
+medialab/xan
+https://github.com/medialab/xan
+The CSV magician
+language: Rust
+stars: 1,453
+forked: 28
+stars today: 229
+
+mufeedvh/code2prompt
+https://github.com/mufeedvh/code2prompt
+A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+language: Rust
+stars: 5,240
+forked: 304
+stars today: 20
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+language: Rust
+stars: 3,266
+forked: 207
+stars today: 20
+
+witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+Building a community around a cheap ESP32 Display with a touch screen
+language: Rust
+stars: 2,387
+forked: 250
+stars today: 5
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 21,023
+forked: 1,144
+stars today: 18
+
+redlib-org/redlib
+https://github.com/redlib-org/redlib
+Private front-end for Reddit
+language: Rust
+stars: 1,845
+forked: 130
+stars today: 2
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 38,717
+forked: 1,062
+stars today: 26
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 6,750
+forked: 11,382
+stars today: 5
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+language: Rust
+stars: 6,922
+forked: 418
+stars today: 14
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 18,027
+forked: 558
+stars today: 26
+
+LGUG2Z/komorebi
+https://github.com/LGUG2Z/komorebi
+A tiling window manager for Windows 🍉
+language: Rust
+stars: 10,730
+forked: 224
+stars today: 19
+
+Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist
+Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+language: Rust
+stars: 1,363
+forked: 63
+stars today: 11
+
+LGFae/swww
+https://github.com/LGFae/swww
+A Solution to your Wayland Wallpaper Woes
+language: Rust
+stars: 2,754
+forked: 77
+stars today: 4
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 4,188
+forked: 495
+stars today: 19
