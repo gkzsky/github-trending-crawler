@@ -1,0 +1,159 @@
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 85,463
+forked: 12,064
+stars today: 64
+
+supabase-community/postgres-language-server
+https://github.com/supabase-community/postgres-language-server
+A Language Server for Postgres
+language: Rust
+stars: 4,715
+forked: 95
+stars today: 414
+
+medialab/xan
+https://github.com/medialab/xan
+The CSV magician
+language: Rust
+stars: 1,650
+forked: 30
+stars today: 332
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 18,056
+forked: 559
+stars today: 34
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 47,518
+forked: 1,331
+stars today: 177
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 34,528
+forked: 1,782
+stars today: 20
+
+jtroo/kanata
+https://github.com/jtroo/kanata
+Improve keyboard comfort and usability with advanced customization
+language: Rust
+stars: 4,654
+forked: 165
+stars today: 13
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 37,040
+forked: 6,661
+stars today: 12
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Sealevel Framework
+language: Rust
+stars: 4,153
+forked: 1,505
+stars today: 3
+
+leptos-rs/leptos
+https://github.com/leptos-rs/leptos
+Build fast web applications with Rust.
+language: Rust
+stars: 18,060
+forked: 729
+stars today: 7
+
+tursodatabase/limbo
+https://github.com/tursodatabase/limbo
+Limbo is a project to build the modern evolution of SQLite.
+language: Rust
+stars: 9,971
+forked: 363
+stars today: 28
+
+open-telemetry/opentelemetry-rust
+https://github.com/open-telemetry/opentelemetry-rust
+The Rust OpenTelemetry implementation
+language: Rust
+stars: 2,113
+forked: 510
+stars today: 1
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 36,699
+forked: 2,734
+stars today: 26
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Add autocomplete and AI to your existing terminal on macOS & Linux
+language: Rust
+stars: 250
+forked: 52
+stars today: 10
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 16,683
+forked: 521
+stars today: 13
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 14,420
+forked: 443
+stars today: 20
+
+dfinity/ic
+https://github.com/dfinity/ic
+Internet Computer blockchain source: the client/replica software run by nodes
+language: Rust
+stars: 1,627
+forked: 343
+stars today: 0
+
+dora-rs/dora
+https://github.com/dora-rs/dora
+DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.
+language: Rust
+stars: 1,999
+forked: 152
+stars today: 10
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 32,759
+forked: 2,146
+stars today: 17
+
+visioncortex/vtracer
+https://github.com/visioncortex/vtracer
+Raster to Vector Graphics Converter
+language: Rust
+stars: 4,045
+forked: 281
+stars today: 9
