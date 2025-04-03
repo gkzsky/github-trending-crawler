@@ -1,0 +1,135 @@
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 40,859
+forked: 28,469
+stars today: 11
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 5,976
+forked: 1,087
+stars today: 1
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,309
+forked: 474
+stars today: 1
+
+JohnSnowLabs/spark-nlp
+https://github.com/JohnSnowLabs/spark-nlp
+State of the Art Natural Language Processing
+language: Scala
+stars: 3,950
+forked: 722
+stars today: 1
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 4,185
+forked: 1,333
+stars today: 0
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,320
+forked: 315
+stars today: 2
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 189
+forked: 51
+stars today: 1
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,419
+forked: 554
+stars today: 1
+
+awslabs/deequ
+https://github.com/awslabs/deequ
+Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+language: Scala
+stars: 3,391
+forked: 550
+stars today: 1
+
+sbt/sbt
+https://github.com/sbt/sbt
+sbt, the interactive build tool
+language: Scala
+stars: 4,825
+forked: 950
+stars today: 2
+
+NVIDIA/spark-rapids
+https://github.com/NVIDIA/spark-rapids
+Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+language: Scala
+stars: 880
+forked: 245
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,606
+forked: 646
+stars today: 2
+
+zio/zio-http
+https://github.com/zio/zio-http
+A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
+language: Scala
+stars: 820
+forked: 427
+stars today: 1
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 819
+forked: 188
+stars today: 0
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 907
+forked: 607
+stars today: 0
+
+com-lihaoyi/mill
+https://github.com/com-lihaoyi/mill
+Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+language: Scala
+stars: 2,367
+forked: 396
+stars today: 2
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,226
+forked: 1,254
+stars today: 0
