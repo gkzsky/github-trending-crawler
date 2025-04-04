@@ -1,0 +1,63 @@
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,822
+forked: 438
+stars today: 3
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,777
+forked: 386
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,165
+forked: 1,801
+stars today: 5
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,037
+forked: 202
+stars today: 3
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,117
+forked: 729
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,093
+forked: 1,074
+stars today: 4
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,710
+forked: 3,472
+stars today: 19
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 299
+forked: 88
+stars today: 0
