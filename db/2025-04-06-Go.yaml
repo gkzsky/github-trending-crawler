@@ -1,0 +1,183 @@
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 4,371
+forked: 527
+stars today: 216
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,221
+forked: 9,422
+stars today: 10
+
+thanos-io/thanos
+https://github.com/thanos-io/thanos
+Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+language: Go
+stars: 13,406
+forked: 2,144
+stars today: 2
+
+anchore/grype
+https://github.com/anchore/grype
+A vulnerability scanner for container images and filesystems
+language: Go
+stars: 9,651
+forked: 618
+stars today: 8
+
+grafana/mcp-grafana
+https://github.com/grafana/mcp-grafana
+MCP server for Grafana
+language: Go
+stars: 314
+forked: 26
+stars today: 14
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 36,692
+forked: 7,928
+stars today: 12
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,427
+forked: 2,576
+stars today: 11
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 22,824
+forked: 2,652
+stars today: 18
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 9,386
+forked: 836
+stars today: 11
+
+grafana/tempo
+https://github.com/grafana/tempo
+Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+language: Go
+stars: 4,368
+forked: 561
+stars today: 0
+
+argoproj/argo-rollouts
+https://github.com/argoproj/argo-rollouts
+Progressive Delivery for Kubernetes
+language: Go
+stars: 2,968
+forked: 934
+stars today: 5
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 11,583
+forked: 899
+stars today: 8
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 27,693
+forked: 7,199
+stars today: 7
+
+stakater/Reloader
+https://github.com/stakater/Reloader
+A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+language: Go
+stars: 8,260
+forked: 535
+stars today: 7
+
+cockroachdb/cockroach
+https://github.com/cockroachdb/cockroach
+CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+language: Go
+stars: 30,704
+forked: 3,881
+stars today: 8
+
+go-delve/delve
+https://github.com/go-delve/delve
+Delve is a debugger for the Go programming language.
+language: Go
+stars: 23,604
+forked: 2,163
+stars today: 7
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+language: Go
+stars: 136,112
+forked: 11,321
+stars today: 100
+
+rclone/rclone
+https://github.com/rclone/rclone
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+language: Go
+stars: 49,669
+forked: 4,428
+stars today: 16
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,142
+forked: 4,330
+stars today: 9
+
+uber-go/fx
+https://github.com/uber-go/fx
+A dependency injection based application framework for Go.
+language: Go
+stars: 6,325
+forked: 304
+stars today: 11
+
+NVIDIA/nvidia-container-toolkit
+https://github.com/NVIDIA/nvidia-container-toolkit
+Build and run containers leveraging NVIDIA GPUs
+language: Go
+stars: 3,064
+forked: 332
+stars today: 2
+
+TykTechnologies/tyk
+https://github.com/TykTechnologies/tyk
+Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+language: Go
+stars: 10,018
+forked: 1,110
+stars today: 2
+
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,102
+forked: 1,195
+stars today: 5

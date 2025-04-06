@@ -1,0 +1,119 @@
+nuejs/nue
+https://github.com/nuejs/nue
+Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+language: JavaScript
+stars: 8,081
+forked: 239
+stars today: 79
+
+freeCodeCamp/freeCodeCamp
+https://github.com/freeCodeCamp/freeCodeCamp
+freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+language: TypeScript
+stars: 415,380
+forked: 39,664
+stars today: 136
+
+Azure/azure-sdk-for-net
+https://github.com/Azure/azure-sdk-for-net
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+language: C#
+stars: 5,716
+forked: 4,914
+stars today: 7
+
+liam-hq/liam
+https://github.com/liam-hq/liam
+Automatically generates beautiful and easy-to-read ER diagrams from your database.
+language: TypeScript
+stars: 2,112
+forked: 87
+stars today: 480
+
+tenstorrent/tt-metal
+https://github.com/tenstorrent/tt-metal
+🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
+language: C++
+stars: 766
+forked: 131
+stars today: 16
+
+kubernetes-sigs/headlamp
+https://github.com/kubernetes-sigs/headlamp
+A Kubernetes web UI that is fully-featured, user-friendly and extensible
+language: TypeScript
+stars: 3,344
+forked: 264
+stars today: 55
+
+google/googletest
+https://github.com/google/googletest
+GoogleTest - Google Testing and Mocking Framework
+language: C++
+stars: 35,783
+forked: 10,327
+stars today: 13
+
+funstory-ai/BabelDOC
+https://github.com/funstory-ai/BabelDOC
+Yet Another Document Translator
+language: Python
+stars: 742
+forked: 39
+stars today: 92
+
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: JavaScript
+stars: 171,974
+forked: 79,066
+stars today: 27
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 4,371
+forked: 527
+stars today: 216
+
+unclecode/crawl4ai
+https://github.com/unclecode/crawl4ai
+🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+language: Python
+stars: 37,382
+forked: 3,291
+stars today: 381
+
+maotoumao/MusicFree
+https://github.com/maotoumao/MusicFree
+插件化、定制化、无广告的免费音乐播放器
+language: TypeScript
+stars: 12,376
+forked: 837
+stars today: 354
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,221
+forked: 9,422
+stars today: 10
+
+tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow
+An Open Source Machine Learning Framework for Everyone
+language: C++
+stars: 189,221
+forked: 74,631
+stars today: 117
+
+chiphuyen/aie-book
+https://github.com/chiphuyen/aie-book
+[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+language: Jupyter Notebook
+stars: 3,662
+forked: 437
+stars today: 137

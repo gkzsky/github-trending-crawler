@@ -1,0 +1,143 @@
+freeCodeCamp/freeCodeCamp
+https://github.com/freeCodeCamp/freeCodeCamp
+freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+language: TypeScript
+stars: 415,380
+forked: 39,664
+stars today: 136
+
+liam-hq/liam
+https://github.com/liam-hq/liam
+Automatically generates beautiful and easy-to-read ER diagrams from your database.
+language: TypeScript
+stars: 2,112
+forked: 87
+stars today: 480
+
+kubernetes-sigs/headlamp
+https://github.com/kubernetes-sigs/headlamp
+A Kubernetes web UI that is fully-featured, user-friendly and extensible
+language: TypeScript
+stars: 3,344
+forked: 264
+stars today: 55
+
+maotoumao/MusicFree
+https://github.com/maotoumao/MusicFree
+插件化、定制化、无广告的免费音乐播放器
+language: TypeScript
+stars: 12,376
+forked: 837
+stars today: 354
+
+firebase/genkit
+https://github.com/firebase/genkit
+An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+language: TypeScript
+stars: 1,312
+forked: 193
+stars today: 8
+
+iptv-org/iptv
+https://github.com/iptv-org/iptv
+Collection of publicly available IPTV channels from all over the world
+language: TypeScript
+stars: 91,900
+forked: 3,333
+stars today: 55
+
+Effect-TS/effect
+https://github.com/Effect-TS/effect
+An ecosystem of tools to build robust applications in TypeScript
+language: TypeScript
+stars: 8,715
+forked: 292
+stars today: 10
+
+directus/directus
+https://github.com/directus/directus
+The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+language: TypeScript
+stars: 29,811
+forked: 4,135
+stars today: 17
+
+elie222/inbox-zero
+https://github.com/elie222/inbox-zero
+Open source email app to reach inbox zero fast.
+language: TypeScript
+stars: 5,067
+forked: 546
+stars today: 196
+
+supabase-community/supabase-mcp
+https://github.com/supabase-community/supabase-mcp
+Connect Supabase to your AI assistants
+language: TypeScript
+stars: 209
+forked: 20
+stars today: 61
+
+aws-samples/generative-ai-use-cases
+https://github.com/aws-samples/generative-ai-use-cases
+Application implementation with business use cases for safely utilizing generative AI in business operations
+language: TypeScript
+stars: 908
+forked: 216
+stars today: 4
+
+t3-oss/create-t3-app
+https://github.com/t3-oss/create-t3-app
+The best way to start a full-stack, typesafe Next.js app
+language: TypeScript
+stars: 26,777
+forked: 1,277
+stars today: 20
+
+softprops/action-gh-release
+https://github.com/softprops/action-gh-release
+📦  GitHub Action for creating GitHub Releases
+language: TypeScript
+stars: 4,630
+forked: 505
+stars today: 7
+
+bitwarden/clients
+https://github.com/bitwarden/clients
+Bitwarden client apps (web, browser extension, desktop, and cli).
+language: TypeScript
+stars: 9,989
+forked: 1,350
+stars today: 10
+
+open-metadata/OpenMetadata
+https://github.com/open-metadata/OpenMetadata
+OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+language: TypeScript
+stars: 6,397
+forked: 1,187
+stars today: 6
+
+MetaMask/metamask-extension
+https://github.com/MetaMask/metamask-extension
+🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+language: TypeScript
+stars: 12,475
+forked: 5,133
+stars today: 10
+
+baptisteArno/typebot.io
+https://github.com/baptisteArno/typebot.io
+💬 Typebot is a powerful chatbot builder that you can self-host.
+language: TypeScript
+stars: 8,422
+forked: 2,424
+stars today: 6
+
+stonith404/pingvin-share
+https://github.com/stonith404/pingvin-share
+A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
+language: TypeScript
+stars: 4,042
+forked: 282
+stars today: 7
