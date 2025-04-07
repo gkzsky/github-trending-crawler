@@ -1,0 +1,135 @@
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 4,560
+forked: 534
+stars today: 230
+
+danielmiessler/fabric
+https://github.com/danielmiessler/fabric
+fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 30,522
+forked: 3,147
+stars today: 71
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 2,365
+forked: 196
+stars today: 132
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 23,001
+forked: 2,765
+stars today: 18
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+language: Go
+stars: 31,535
+forked: 2,396
+stars today: 25
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 4,737
+forked: 622
+stars today: 27
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 4,407
+forked: 818
+stars today: 3
+
+owasp-amass/amass
+https://github.com/owasp-amass/amass
+In-depth attack surface mapping and asset discovery
+language: Go
+stars: 12,744
+forked: 1,960
+stars today: 10
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 5,723
+forked: 989
+stars today: 5
+
+mjl-/mox
+https://github.com/mjl-/mox
+modern full-featured open source secure mail server for low-maintenance self-hosted email
+language: Go
+stars: 4,750
+forked: 140
+stars today: 10
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+language: Go
+stars: 136,233
+forked: 11,333
+stars today: 148
+
+Septrum101/zteOnu
+https://github.com/Septrum101/zteOnu
+A tool that can open ZTE onu device factory mode
+language: Go
+stars: 987
+forked: 216
+stars today: 2
+
+krillinai/KrillinAI
+https://github.com/krillinai/KrillinAI
+A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+language: Go
+stars: 689
+forked: 62
+stars today: 55
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 27,636
+forked: 1,338
+stars today: 21
+
+cloudflare/terraform-provider-cloudflare
+https://github.com/cloudflare/terraform-provider-cloudflare
+Cloudflare Terraform Provider
+language: Go
+stars: 994
+forked: 660
+stars today: 13
+
+cyclops-ui/cyclops
+https://github.com/cyclops-ui/cyclops
+Developer Friendly Kubernetes 👁️
+language: Go
+stars: 3,010
+forked: 778
+stars today: 19
+
+grafana/k6
+https://github.com/grafana/k6
+A modern load testing tool, using Go and JavaScript - https://k6.io
+language: Go
+stars: 27,245
+forked: 1,338
+stars today: 5
