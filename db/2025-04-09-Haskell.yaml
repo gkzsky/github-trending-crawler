@@ -1,0 +1,79 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,794
+forked: 3,475
+stars today: 22
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,183
+forked: 1,802
+stars today: 2
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,120
+forked: 731
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,392
+forked: 328
+stars today: 5
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,783
+forked: 388
+stars today: 1
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,834
+forked: 438
+stars today: 2
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,108
+forked: 1,075
+stars today: 7
+
+fourmolu/fourmolu
+https://github.com/fourmolu/fourmolu
+A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
+language: Haskell
+stars: 395
+forked: 62
+stars today: 0
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,040
+forked: 203
+stars today: 1
+
+IntersectMBO/ouroboros-network
+https://github.com/IntersectMBO/ouroboros-network
+Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+language: Haskell
+stars: 282
+forked: 87
+stars today: 0

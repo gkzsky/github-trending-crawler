@@ -1,0 +1,143 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 46,323
+forked: 2,187
+stars today: 1,926
+
+HKUDS/LightRAG
+https://github.com/HKUDS/LightRAG
+"LightRAG: Simple and Fast Retrieval-Augmented Generation"
+language: Python
+stars: 14,108
+forked: 1,976
+stars today: 168
+
+supabase-community/supabase-mcp
+https://github.com/supabase-community/supabase-mcp
+Connect Supabase to your AI assistants
+language: TypeScript
+stars: 789
+forked: 43
+stars today: 191
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 76,865
+forked: 20,477
+stars today: 545
+
+getmaxun/maxun
+https://github.com/getmaxun/maxun
+🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
+language: TypeScript
+stars: 10,383
+forked: 830
+stars today: 135
+
+datawhalechina/llm-cookbook
+https://github.com/datawhalechina/llm-cookbook
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+language: Jupyter Notebook
+stars: 17,654
+forked: 2,178
+stars today: 188
+
+SimplifyJobs/Summer2025-Internships
+https://github.com/SimplifyJobs/Summer2025-Internships
+Collection of Summer 2025 tech internships!
+language: -
+stars: 37,156
+forked: 2,895
+stars today: 139
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 12,011
+forked: 400
+stars today: 351
+
+modelscope/FunASR
+https://github.com/modelscope/FunASR
+A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+language: Python
+stars: 9,525
+forked: 960
+stars today: 40
+
+chartdb/chartdb
+https://github.com/chartdb/chartdb
+Database diagrams editor that allows you to visualize and design your DB with a single query.
+language: TypeScript
+stars: 15,310
+forked: 736
+stars today: 426
+
+meta-llama/llama-cookbook
+https://github.com/meta-llama/llama-cookbook
+Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+language: Jupyter Notebook
+stars: 16,983
+forked: 2,426
+stars today: 203
+
+juliangarnier/anime
+https://github.com/juliangarnier/anime
+JavaScript animation engine
+language: JavaScript
+stars: 55,596
+forked: 3,849
+stars today: 789
+
+NVIDIA/cuda-python
+https://github.com/NVIDIA/cuda-python
+CUDA Python: Performance meets Productivity
+language: Python
+stars: 1,668
+forked: 118
+stars today: 62
+
+NVIDIA-Omniverse/PhysX
+https://github.com/NVIDIA-Omniverse/PhysX
+NVIDIA PhysX SDK
+language: C++
+stars: 3,620
+forked: 475
+stars today: 152
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+language: Go
+stars: 81,478
+forked: 8,163
+stars today: 54
+
+redmine/redmine
+https://github.com/redmine/redmine
+Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
+language: Ruby
+stars: 5,519
+forked: 2,359
+stars today: 27
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 53,072
+forked: 2,665
+stars today: 344
+
+protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf
+Protocol Buffers - Google's data interchange format
+language: C++
+stars: 67,113
+forked: 15,661
+stars today: 18

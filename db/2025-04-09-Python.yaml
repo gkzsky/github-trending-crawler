@@ -1,0 +1,95 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 46,323
+forked: 2,187
+stars today: 1,926
+
+HKUDS/LightRAG
+https://github.com/HKUDS/LightRAG
+"LightRAG: Simple and Fast Retrieval-Augmented Generation"
+language: Python
+stars: 14,108
+forked: 1,976
+stars today: 168
+
+modelscope/FunASR
+https://github.com/modelscope/FunASR
+A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+language: Python
+stars: 9,525
+forked: 960
+stars today: 40
+
+NVIDIA/cuda-python
+https://github.com/NVIDIA/cuda-python
+CUDA Python: Performance meets Productivity
+language: Python
+stars: 1,668
+forked: 118
+stars today: 62
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 43,836
+forked: 6,709
+stars today: 102
+
+jiji262/douyin-downloader
+https://github.com/jiji262/douyin-downloader
+抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+language: Python
+stars: 2,828
+forked: 422
+stars today: 291
+
+meta-llama/llama-models
+https://github.com/meta-llama/llama-models
+Utilities intended for use with Llama models.
+language: Python
+stars: 6,679
+forked: 1,089
+stars today: 127
+
+funstory-ai/BabelDOC
+https://github.com/funstory-ai/BabelDOC
+Yet Another Document Translator
+language: Python
+stars: 1,265
+forked: 67
+stars today: 187
+
+jwohlwend/boltz
+https://github.com/jwohlwend/boltz
+Official repository for the Boltz-1 biomolecular interaction model
+language: Python
+stars: 1,700
+forked: 246
+stars today: 8
+
+langchain-ai/langgraph
+https://github.com/langchain-ai/langgraph
+Build resilient language agents as graphs.
+language: Python
+stars: 11,229
+forked: 1,882
+stars today: 50
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 3,517
+forked: 272
+stars today: 71
+
+odoo/odoo
+https://github.com/odoo/odoo
+Odoo. Open Source Apps To Grow Your Business.
+language: Python
+stars: 42,113
+forked: 27,214
+stars today: 43

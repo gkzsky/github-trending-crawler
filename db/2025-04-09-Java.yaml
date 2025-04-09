@@ -1,0 +1,167 @@
+jeecgboot/JeecgBoot
+https://github.com/jeecgboot/JeecgBoot
+🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性
+language: Java
+stars: 42,187
+forked: 15,234
+stars today: 17
+
+redisson/redisson
+https://github.com/redisson/redisson
+Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+language: Java
+stars: 23,713
+forked: 5,429
+stars today: 3
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 15,673
+forked: 3,546
+stars today: 15
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 10,810
+forked: 2,496
+stars today: 15
+
+apache/gravitino
+https://github.com/apache/gravitino
+World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+language: Java
+stars: 1,429
+forked: 427
+stars today: 3
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 23,337
+forked: 6,853
+stars today: 11
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 7,134
+forked: 2,465
+stars today: 12
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 29,834
+forked: 14,289
+stars today: 10
+
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 4,530
+forked: 1,231
+stars today: 23
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 9,788
+forked: 1,956
+stars today: 6
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,089
+forked: 3,157
+stars today: 6
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 4,927
+forked: 340
+stars today: 31
+
+spring-projects/spring-ai-examples
+https://github.com/spring-projects/spring-ai-examples
+-
+language: Java
+stars: 293
+forked: 96
+stars today: 7
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 26,447
+forked: 7,184
+stars today: 23
+
+alibaba/canal
+https://github.com/alibaba/canal
+阿里巴巴 MySQL binlog 增量订阅&消费组件
+language: Java
+stars: 28,959
+forked: 7,649
+stars today: 4
+
+tencentmusic/supersonic
+https://github.com/tencentmusic/supersonic
+SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+language: Java
+stars: 3,381
+forked: 648
+stars today: 9
+
+google/gson
+https://github.com/google/gson
+A Java serialization/deserialization library to convert Java Objects into JSON and back
+language: Java
+stars: 23,644
+forked: 4,323
+stars today: 5
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 23,839
+forked: 9,031
+stars today: 5
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 33,982
+forked: 16,051
+stars today: 3
+
+kekingcn/kkFileView
+https://github.com/kekingcn/kkFileView
+Universal File Online Preview Project based on Spring-Boot
+language: Java
+stars: 12,434
+forked: 2,951
+stars today: 14
+
+googlesamples/mlkit
+https://github.com/googlesamples/mlkit
+A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+language: Java
+stars: 3,754
+forked: 2,982
+stars today: 1
