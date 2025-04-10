@@ -1,0 +1,175 @@
+googleapis/google-cloud-go
+https://github.com/googleapis/google-cloud-go
+Google Cloud Client Libraries for Go.
+language: Go
+stars: 4,005
+forked: 1,388
+stars today: 20
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 13,127
+forked: 626
+stars today: 195
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+language: Go
+stars: 81,534
+forked: 8,167
+stars today: 113
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,473
+forked: 2,670
+stars today: 2
+
+mikefarah/yq
+https://github.com/mikefarah/yq
+yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+language: Go
+stars: 13,155
+forked: 636
+stars today: 19
+
+go-git/go-git
+https://github.com/go-git/go-git
+A highly extensible Git implementation in pure Go.
+language: Go
+stars: 6,387
+forked: 774
+stars today: 4
+
+krillinai/KrillinAI
+https://github.com/krillinai/KrillinAI
+A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+language: Go
+stars: 1,383
+forked: 123
+stars today: 238
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+language: Go
+stars: 62,885
+forked: 4,232
+stars today: 110
+
+kopia/kopia
+https://github.com/kopia/kopia
+Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+language: Go
+stars: 9,226
+forked: 447
+stars today: 9
+
+cilium/cilium
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+language: Go
+stars: 21,343
+forked: 3,155
+stars today: 11
+
+qax-os/excelize
+https://github.com/qax-os/excelize
+Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+language: Go
+stars: 18,921
+forked: 1,760
+stars today: 7
+
+ethereum-optimism/optimism
+https://github.com/ethereum-optimism/optimism
+Optimism is Ethereum, scaled.
+language: Go
+stars: 6,034
+forked: 3,534
+stars today: 1
+
+grafana/mcp-grafana
+https://github.com/grafana/mcp-grafana
+MCP server for Grafana
+language: Go
+stars: 434
+forked: 30
+stars today: 21
+
+hashicorp/consul
+https://github.com/hashicorp/consul
+Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+language: Go
+stars: 28,876
+forked: 4,465
+stars today: 9
+
+docker/compose
+https://github.com/docker/compose
+Define and run multi-container applications with Docker
+language: Go
+stars: 35,139
+forked: 5,368
+stars today: 12
+
+hr3lxphr6j/bililive-go
+https://github.com/hr3lxphr6j/bililive-go
+一个直播录制工具
+language: Go
+stars: 4,496
+forked: 569
+stars today: 6
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 20,726
+forked: 2,428
+stars today: 9
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 2,774
+forked: 226
+stars today: 120
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 26,232
+forked: 2,587
+stars today: 41
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 10,870
+forked: 1,673
+stars today: 12
+
+segmentio/kafka-go
+https://github.com/segmentio/kafka-go
+Kafka library in Go
+language: Go
+stars: 7,889
+forked: 802
+stars today: 6
+
+docker/buildx
+https://github.com/docker/buildx
+Docker CLI plugin for extended build capabilities with BuildKit
+language: Go
+stars: 3,844
+forked: 526
+stars today: 4

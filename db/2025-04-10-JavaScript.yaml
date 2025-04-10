@@ -1,0 +1,143 @@
+juliangarnier/anime
+https://github.com/juliangarnier/anime
+JavaScript animation engine
+language: JavaScript
+stars: 56,100
+forked: 3,872
+stars today: 800
+
+fastify/fastify
+https://github.com/fastify/fastify
+Fast and low overhead web framework, for Node.js
+language: JavaScript
+stars: 33,424
+forked: 2,387
+stars today: 27
+
+WordPress/gutenberg
+https://github.com/WordPress/gutenberg
+The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+language: JavaScript
+stars: 11,057
+forked: 4,376
+stars today: 1
+
+facebook/react
+https://github.com/facebook/react
+The library for web and native user interfaces.
+language: JavaScript
+stars: 234,366
+forked: 48,200
+stars today: 66
+
+orkestral/venom
+https://github.com/orkestral/venom
+Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
+language: JavaScript
+stars: 6,357
+forked: 1,266
+stars today: 7
+
+jgraph/drawio-desktop
+https://github.com/jgraph/drawio-desktop
+Official electron build of draw.io
+language: JavaScript
+stars: 53,765
+forked: 5,228
+stars today: 25
+
+jerhadf/linear-mcp-server
+https://github.com/jerhadf/linear-mcp-server
+A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
+language: JavaScript
+stars: 236
+forked: 43
+stars today: 4
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 9,958
+forked: 2,777
+stars today: 5
+
+mermaid-js/mermaid-cli
+https://github.com/mermaid-js/mermaid-cli
+Command line tool for the Mermaid library
+language: JavaScript
+stars: 2,897
+forked: 278
+stars today: 5
+
+dream-num/Luckysheet
+https://github.com/dream-num/Luckysheet
+Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+language: JavaScript
+stars: 16,212
+forked: 2,460
+stars today: 4
+
+cockpit-project/cockpit
+https://github.com/cockpit-project/cockpit
+Cockpit is a web-based graphical interface for servers.
+language: JavaScript
+stars: 11,891
+forked: 1,158
+stars today: 3
+
+WebGoat/WebGoat
+https://github.com/WebGoat/WebGoat
+WebGoat is a deliberately insecure application
+language: JavaScript
+stars: 7,396
+forked: 6,274
+stars today: 1
+
+DataDog/dd-trace-js
+https://github.com/DataDog/dd-trace-js
+Datadog APM client for Node.js
+language: JavaScript
+stars: 691
+forked: 325
+stars today: 0
+
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: JavaScript
+stars: 172,119
+forked: 79,075
+stars today: 15
+
+lovell/sharp
+https://github.com/lovell/sharp
+High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+language: JavaScript
+stars: 30,201
+forked: 1,321
+stars today: 5
+
+DataDog/documentation
+https://github.com/DataDog/documentation
+The source for Datadog's documentation site.
+language: JavaScript
+stars: 508
+forked: 1,157
+stars today: 0
+
+webpack/webpack
+https://github.com/webpack/webpack
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+language: JavaScript
+stars: 65,182
+forked: 9,071
+stars today: 6
+
+appium/appium
+https://github.com/appium/appium
+Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
+language: JavaScript
+stars: 19,644
+forked: 6,152
+stars today: 5

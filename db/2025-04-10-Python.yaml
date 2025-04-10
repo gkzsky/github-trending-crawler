@@ -1,0 +1,103 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 47,270
+forked: 2,228
+stars today: 1,575
+
+HKUDS/LightRAG
+https://github.com/HKUDS/LightRAG
+"LightRAG: Simple and Fast Retrieval-Augmented Generation"
+language: Python
+stars: 14,494
+forked: 2,009
+stars today: 488
+
+jiji262/douyin-downloader
+https://github.com/jiji262/douyin-downloader
+抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+language: Python
+stars: 2,974
+forked: 436
+stars today: 57
+
+LC044/WeChatMsg
+https://github.com/LC044/WeChatMsg
+提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+language: Python
+stars: 38,968
+forked: 4,012
+stars today: 98
+
+DataDog/integrations-core
+https://github.com/DataDog/integrations-core
+Core integrations of the Datadog Agent
+language: Python
+stars: 1,001
+forked: 1,453
+stars today: 1
+
+RockChinQ/LangBot
+https://github.com/RockChinQ/LangBot
+😎简单易用、🧩丰富生态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、ChatGLM、SillyTraven、MCP 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, Telegram, WeChat, Lark, DingTalk, QQ, Slack
+language: Python
+stars: 10,392
+forked: 760
+stars today: 35
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.
+language: Python
+stars: 24,450
+forked: 3,110
+stars today: 138
+
+squidfunk/mkdocs-material
+https://github.com/squidfunk/mkdocs-material
+Documentation that simply works
+language: Python
+stars: 22,792
+forked: 3,712
+stars today: 22
+
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 26,029
+forked: 3,820
+stars today: 37
+
+pytorch/pytorch
+https://github.com/pytorch/pytorch
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+language: Python
+stars: 88,806
+forked: 23,806
+stars today: 38
+
+sgl-project/sglang
+https://github.com/sgl-project/sglang
+SGLang is a fast serving framework for large language models and vision language models.
+language: Python
+stars: 13,027
+forked: 1,472
+stars today: 43
+
+marketcalls/openalgo
+https://github.com/marketcalls/openalgo
+Open Source Algo Trading Platform for Everyone
+language: Python
+stars: 420
+forked: 169
+stars today: 24
+
+meta-llama/llama-models
+https://github.com/meta-llama/llama-models
+Utilities intended for use with Llama models.
+language: Python
+stars: 6,701
+forked: 1,092
+stars today: 31
