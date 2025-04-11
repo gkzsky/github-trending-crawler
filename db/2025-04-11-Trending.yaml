@@ -1,0 +1,103 @@
+girafe-ai/ml-course
+https://github.com/girafe-ai/ml-course
+Open Machine Learning course
+language: Jupyter Notebook
+stars: 2,873
+forked: 1,191
+stars today: 207
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+language: Go
+stars: 63,131
+forked: 4,245
+stars today: 103
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 12,854
+forked: 423
+stars today: 451
+
+krillinai/KrillinAI
+https://github.com/krillinai/KrillinAI
+A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+language: Go
+stars: 1,784
+forked: 146
+stars today: 130
+
+microsoft/ai-agents-for-beginners
+https://github.com/microsoft/ai-agents-for-beginners
+10 Lessons to Get Started Building AI Agents
+language: Jupyter Notebook
+stars: 12,089
+forked: 3,021
+stars today: 436
+
+NVIDIA/cuda-python
+https://github.com/NVIDIA/cuda-python
+CUDA Python: Performance meets Productivity
+language: Python
+stars: 1,943
+forked: 129
+stars today: 44
+
+datawhalechina/llm-cookbook
+https://github.com/datawhalechina/llm-cookbook
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+language: Jupyter Notebook
+stars: 18,315
+forked: 2,232
+stars today: 371
+
+getmaxun/maxun
+https://github.com/getmaxun/maxun
+🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+language: TypeScript
+stars: 10,897
+forked: 866
+stars today: 186
+
+googleapis/google-cloud-go
+https://github.com/googleapis/google-cloud-go
+Google Cloud Client Libraries for Go.
+language: Go
+stars: 4,078
+forked: 1,399
+stars today: 101
+
+mendableai/firecrawl
+https://github.com/mendableai/firecrawl
+🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+language: TypeScript
+stars: 34,961
+forked: 3,064
+stars today: 169
+
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 47,789
+forked: 2,251
+stars today: 642
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 90,708
+forked: 13,519
+stars today: 267
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+language: Go
+stars: 81,605
+forked: 8,172
+stars today: 35
