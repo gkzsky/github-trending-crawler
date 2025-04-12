@@ -1,0 +1,79 @@
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,208
+forked: 1,802
+stars today: 7
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,123
+forked: 1,076
+stars today: 8
+
+facebook/duckling
+https://github.com/facebook/duckling
+Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+language: Haskell
+stars: 4,141
+forked: 731
+stars today: 0
+
+fourmolu/fourmolu
+https://github.com/fourmolu/fourmolu
+A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!
+language: Haskell
+stars: 395
+forked: 62
+stars today: 0
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,833
+forked: 3,480
+stars today: 19
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,840
+forked: 438
+stars today: 1
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,120
+forked: 731
+stars today: 1
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,662
+forked: 710
+stars today: 0
+
+GaloisInc/elf-edit
+https://github.com/GaloisInc/elf-edit
+The elf-edit library provides a datatype suitable for reading and writing Elf files.
+language: Haskell
+stars: 36
+forked: 6
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 601
+forked: 71
+stars today: 1

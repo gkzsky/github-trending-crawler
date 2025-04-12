@@ -1,0 +1,143 @@
+vercel/ai-chatbot
+https://github.com/vercel/ai-chatbot
+A full-featured, hackable Next.js AI chatbot built by Vercel
+language: TypeScript
+stars: 14,762
+forked: 3,925
+stars today: 61
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 91,148
+forked: 13,576
+stars today: 501
+
+anthropics/anthropic-quickstarts
+https://github.com/anthropics/anthropic-quickstarts
+A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+language: TypeScript
+stars: 8,598
+forked: 1,463
+stars today: 57
+
+bitwarden/clients
+https://github.com/bitwarden/clients
+Bitwarden client apps (web, browser extension, desktop, and cli).
+language: TypeScript
+stars: 10,035
+forked: 1,360
+stars today: 12
+
+refly-ai/refly
+https://github.com/refly-ai/refly
+🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts, AI knowledge base integration, chrome extension clip & save, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
+language: TypeScript
+stars: 3,502
+forked: 301
+stars today: 31
+
+firebase/genkit
+https://github.com/firebase/genkit
+An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+language: TypeScript
+stars: 1,478
+forked: 209
+stars today: 47
+
+primefaces/primeng
+https://github.com/primefaces/primeng
+The Most Complete Angular UI Component Library
+language: TypeScript
+stars: 11,374
+forked: 4,801
+stars today: 4
+
+microsoft/vscode
+https://github.com/microsoft/vscode
+Visual Studio Code
+language: TypeScript
+stars: 169,912
+forked: 31,493
+stars today: 72
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+language: TypeScript
+stars: 58,760
+forked: 12,456
+stars today: 37
+
+Chainlit/chainlit
+https://github.com/Chainlit/chainlit
+Build Conversational AI in minutes ⚡️
+language: TypeScript
+stars: 9,239
+forked: 1,243
+stars today: 17
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards and BI. 📈📊📋🧑‍💻
+language: TypeScript
+stars: 7,438
+forked: 698
+stars today: 15
+
+testcontainers/testcontainers-node
+https://github.com/testcontainers/testcontainers-node
+Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+language: TypeScript
+stars: 2,114
+forked: 225
+stars today: 12
+
+mendableai/firecrawl
+https://github.com/mendableai/firecrawl
+🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+language: TypeScript
+stars: 35,230
+forked: 3,085
+stars today: 335
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 78,923
+forked: 20,993
+stars today: 1,021
+
+apache/superset
+https://github.com/apache/superset
+Apache Superset is a Data Visualization and Data Exploration Platform
+language: TypeScript
+stars: 65,639
+forked: 14,826
+stars today: 29
+
+wzc520pyfm/ant-design-x-vue
+https://github.com/wzc520pyfm/ant-design-x-vue
+Ant Design X For Vue. 🔥
+language: TypeScript
+stars: 1,146
+forked: 78
+stars today: 17
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 25,542
+forked: 18,161
+stars today: 9
+
+google-gemini/starter-applets
+https://github.com/google-gemini/starter-applets
+Google AI Studio Starter Apps
+language: TypeScript
+stars: 1,063
+forked: 413
+stars today: 17
