@@ -1,0 +1,159 @@
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 13,418
+forked: 440
+stars today: 238
+
+ArroyoSystems/arroyo
+https://github.com/ArroyoSystems/arroyo
+Distributed stream processing engine in Rust
+language: Rust
+stars: 4,236
+forked: 257
+stars today: 15
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Add autocomplete and AI to your existing terminal on macOS & Linux
+language: Rust
+stars: 343
+forked: 64
+stars today: 6
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 26,221
+forked: 1,274
+stars today: 10
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 3,676
+forked: 174
+stars today: 24
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 33,030
+forked: 2,168
+stars today: 16
+
+tauri-apps/plugins-workspace
+https://github.com/tauri-apps/plugins-workspace
+All of the official Tauri plugins in one place!
+language: Rust
+stars: 1,212
+forked: 362
+stars today: 1
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 19,881
+forked: 1,430
+stars today: 12
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 6,130
+forked: 446
+stars today: 14
+
+gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+A cross-platform, safe, pure-Rust graphics API.
+language: Rust
+stars: 13,899
+forked: 1,029
+stars today: 32
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 49,238
+forked: 1,376
+stars today: 138
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 23,770
+forked: 1,349
+stars today: 9
+
+solana-labs/solana-program-library
+https://github.com/solana-labs/solana-program-library
+A collection of Solana programs maintained by Solana Labs
+language: Rust
+stars: 3,892
+forked: 2,264
+stars today: 1
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 30,138
+forked: 3,148
+stars today: 14
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 15,665
+forked: 1,580
+stars today: 7
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 27,606
+forked: 1,904
+stars today: 36
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 3,413
+forked: 240
+stars today: 2
+
+Rust-GPU/Rust-CUDA
+https://github.com/Rust-GPU/Rust-CUDA
+Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+language: Rust
+stars: 4,192
+forked: 171
+stars today: 156
+
+katanemo/archgw
+https://github.com/katanemo/archgw
+The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.
+language: Rust
+stars: 2,319
+forked: 121
+stars today: 7
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+language: Rust
+stars: 3,505
+forked: 224
+stars today: 18
