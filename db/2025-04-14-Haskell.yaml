@@ -1,0 +1,119 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,867
+forked: 3,482
+stars today: 18
+
+fossas/fossa-cli
+https://github.com/fossas/fossa-cli
+Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+language: Haskell
+stars: 1,350
+forked: 180
+stars today: 2
+
+xmonad/xmonad
+https://github.com/xmonad/xmonad
+The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+language: Haskell
+stars: 3,430
+forked: 294
+stars today: 2
+
+B-Lang-org/bsc
+https://github.com/B-Lang-org/bsc
+Bluespec Compiler (BSC)
+language: Haskell
+stars: 996
+forked: 154
+stars today: 5
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,785
+forked: 388
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,849
+forked: 438
+stars today: 5
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,399
+forked: 328
+stars today: 5
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,219
+forked: 1,805
+stars today: 7
+
+aristanetworks/nix-serve-ng
+https://github.com/aristanetworks/nix-serve-ng
+A drop-in replacement for nix-serve that is faster and more reliable
+language: Haskell
+stars: 180
+forked: 18
+stars today: 1
+
+GaloisInc/what4
+https://github.com/GaloisInc/what4
+Symbolic formula representation and solver interaction library
+language: Haskell
+stars: 158
+forked: 13
+stars today: 1
+
+GaloisInc/elf-edit
+https://github.com/GaloisInc/elf-edit
+The elf-edit library provides a datatype suitable for reading and writing Elf files.
+language: Haskell
+stars: 39
+forked: 6
+stars today: 2
+
+well-typed/cborg
+https://github.com/well-typed/cborg
+Binary serialisation in the CBOR format
+language: Haskell
+stars: 198
+forked: 89
+stars today: 2
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,119
+forked: 730
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 603
+forked: 71
+stars today: 1
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,662
+forked: 709
+stars today: 0
