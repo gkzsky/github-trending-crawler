@@ -1,0 +1,135 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,481
+forked: 2,372
+stars today: 4
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 909
+forked: 607
+stars today: 0
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,336
+forked: 317
+stars today: 2
+
+ucb-bar/gemmini
+https://github.com/ucb-bar/gemmini
+Berkeley's Spatial Array Generator
+language: Scala
+stars: 923
+forked: 190
+stars today: 0
+
+riscv-boom/riscv-boom
+https://github.com/riscv-boom/riscv-boom
+SonicBOOM: The Berkeley Out-of-Order Machine
+language: Scala
+stars: 1,860
+forked: 444
+stars today: 0
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 317
+forked: 88
+stars today: 0
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 2,182
+forked: 366
+stars today: 2
+
+hyperledger-identus/cloud-agent
+https://github.com/hyperledger-identus/cloud-agent
+Identus Cloud Agent
+language: Scala
+stars: 84
+forked: 26
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 5,990
+forked: 1,090
+stars today: 2
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 40,933
+forked: 28,483
+stars today: 3
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,409
+forked: 1,161
+stars today: 1
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 1,812
+forked: 696
+stars today: 0
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 63,089
+forked: 12,163
+stars today: 10
+
+typelevel/cats-effect
+https://github.com/typelevel/cats-effect
+The pure asynchronous runtime for Scala
+language: Scala
+stars: 2,114
+forked: 547
+stars today: 4
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,238
+forked: 622
+stars today: 2
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,618
+forked: 1,206
+stars today: 1
+
+nixiesearch/nixiesearch
+https://github.com/nixiesearch/nixiesearch
+Hybrid search engine, combining best features of text and semantic search worlds
+language: Scala
+stars: 417
+forked: 9
+stars today: 0
