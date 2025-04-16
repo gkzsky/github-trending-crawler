@@ -1,0 +1,175 @@
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
+language: Rust
+stars: 18,427
+forked: 1,828
+stars today: 4
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 15,777
+forked: 1,590
+stars today: 47
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 50,425
+forked: 1,988
+stars today: 150
+
+web-infra-dev/rspack
+https://github.com/web-infra-dev/rspack
+The fast Rust-based web bundler with webpack-compatible API 🦀️
+language: Rust
+stars: 11,305
+forked: 643
+stars today: 7
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 39,004
+forked: 3,837
+stars today: 22
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 4,444
+forked: 279
+stars today: 16
+
+bottlerocket-os/bottlerocket
+https://github.com/bottlerocket-os/bottlerocket
+An operating system designed for hosting containers
+language: Rust
+stars: 9,072
+forked: 529
+stars today: 10
+
+hanshuaikang/Nping
+https://github.com/hanshuaikang/Nping
+🏎 Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
+language: Rust
+stars: 1,659
+forked: 51
+stars today: 28
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,044
+forked: 802
+stars today: 8
+
+flxzt/rnote
+https://github.com/flxzt/rnote
+Sketch and take handwritten notes.
+language: Rust
+stars: 9,324
+forked: 337
+stars today: 40
+
+quickwit-oss/tantivy
+https://github.com/quickwit-oss/tantivy
+Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+language: Rust
+stars: 12,997
+forked: 743
+stars today: 22
+
+matter-labs/zksync-era
+https://github.com/matter-labs/zksync-era
+zkSync era
+language: Rust
+stars: 3,163
+forked: 2,113
+stars today: 0
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 49,737
+forked: 1,385
+stars today: 178
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 48,111
+forked: 2,080
+stars today: 30
+
+Rust-GPU/rust-gpu
+https://github.com/Rust-GPU/rust-gpu
+🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+language: Rust
+stars: 1,694
+forked: 48
+stars today: 18
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,165
+forked: 1,398
+stars today: 9
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 6,773
+forked: 227
+stars today: 24
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 102,620
+forked: 5,553
+stars today: 16
+
+quickwit-oss/quickwit
+https://github.com/quickwit-oss/quickwit
+Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+language: Rust
+stars: 9,909
+forked: 448
+stars today: 16
+
+sourcefrog/cargo-mutants
+https://github.com/sourcefrog/cargo-mutants
+🧟 Inject bugs and see if your tests catch them!
+language: Rust
+stars: 878
+forked: 31
+stars today: 22
+
+paradedb/paradedb
+https://github.com/paradedb/paradedb
+ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+language: Rust
+stars: 6,976
+forked: 238
+stars today: 12
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 23,338
+forked: 711
+stars today: 13
