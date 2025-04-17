@@ -1,0 +1,79 @@
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,857
+forked: 440
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,146
+forked: 1,077
+stars today: 4
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 2,807
+forked: 155
+stars today: 3
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,922
+forked: 3,486
+stars today: 25
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,120
+forked: 731
+stars today: 0
+
+fossas/fossa-cli
+https://github.com/fossas/fossa-cli
+Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+language: Haskell
+stars: 1,350
+forked: 179
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,233
+forked: 1,806
+stars today: 7
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,786
+forked: 388
+stars today: 1
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 603
+forked: 71
+stars today: 0
+
+GaloisInc/elf-edit
+https://github.com/GaloisInc/elf-edit
+The elf-edit library provides a datatype suitable for reading and writing Elf files.
+language: Haskell
+stars: 39
+forked: 6
+stars today: 0
