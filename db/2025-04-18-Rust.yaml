@@ -1,0 +1,143 @@
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 26,872
+forked: 1,065
+stars today: 245
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build portable, modular & lightweight Fullstack Agents
+language: Rust
+stars: 3,428
+forked: 359
+stars today: 13
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 50,143
+forked: 1,397
+stars today: 233
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 19,180
+forked: 1,723
+stars today: 6
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 27,478
+forked: 1,964
+stars today: 13
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 48,146
+forked: 2,081
+stars today: 22
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 37,842
+forked: 1,293
+stars today: 36
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 16,797
+forked: 530
+stars today: 16
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,058
+forked: 802
+stars today: 7
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 57,147
+forked: 3,918
+stars today: 60
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,558
+forked: 1,544
+stars today: 4
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 14,936
+forked: 1,730
+stars today: 5
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Add autocomplete and AI to your existing terminal on macOS & Linux
+language: Rust
+stars: 405
+forked: 70
+stars today: 12
+
+katanemo/archgw
+https://github.com/katanemo/archgw
+The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying input, unifying access and observability to any LLM - so you can build smarter and ship faster.
+language: Rust
+stars: 2,387
+forked: 128
+stars today: 9
+
+wasmerio/wasmer
+https://github.com/wasmerio/wasmer
+🚀 Fast, secure, lightweight containers based on WebAssembly
+language: Rust
+stars: 19,584
+forked: 864
+stars today: 2
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 2,980
+forked: 120
+stars today: 57
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,201
+forked: 887
+stars today: 3
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 5,203
+forked: 669
+stars today: 3
