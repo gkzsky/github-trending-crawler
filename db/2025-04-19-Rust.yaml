@@ -1,0 +1,167 @@
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 23,196
+forked: 1,420
+stars today: 1,605
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 26,906
+forked: 1,068
+stars today: 39
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 29,886
+forked: 3,599
+stars today: 13
+
+mufeedvh/pdfrip
+https://github.com/mufeedvh/pdfrip
+A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+language: Rust
+stars: 1,093
+forked: 106
+stars today: 34
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 23,305
+forked: 631
+stars today: 15
+
+wasmerio/wasmer
+https://github.com/wasmerio/wasmer
+🚀 Fast, secure, lightweight containers based on WebAssembly
+language: Rust
+stars: 19,598
+forked: 866
+stars today: 14
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 33,150
+forked: 2,176
+stars today: 20
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,041
+forked: 1,447
+stars today: 7
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 102,809
+forked: 13,267
+stars today: 35
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 50,317
+forked: 1,402
+stars today: 185
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build portable, modular & lightweight Fullstack Agents
+language: Rust
+stars: 3,445
+forked: 359
+stars today: 18
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 3,013
+forked: 122
+stars today: 31
+
+libp2p/rust-libp2p
+https://github.com/libp2p/rust-libp2p
+The Rust Implementation of the libp2p networking stack.
+language: Rust
+stars: 4,950
+forked: 1,052
+stars today: 1
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 8,821
+forked: 1,930
+stars today: 2
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 4,481
+forked: 282
+stars today: 6
+
+slint-ui/slint
+https://github.com/slint-ui/slint
+Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+language: Rust
+stars: 18,863
+forked: 657
+stars today: 7
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 37,874
+forked: 1,297
+stars today: 32
+
+sigp/lighthouse
+https://github.com/sigp/lighthouse
+Ethereum consensus client in Rust
+language: Rust
+stars: 3,120
+forked: 846
+stars today: 2
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 23,843
+forked: 1,352
+stars today: 8
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 87,005
+forked: 12,284
+stars today: 48
+
+matter-labs/zksync-era
+https://github.com/matter-labs/zksync-era
+zkSync era
+language: Rust
+stars: 3,167
+forked: 2,116
+stars today: 0
