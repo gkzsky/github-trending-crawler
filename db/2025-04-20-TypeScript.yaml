@@ -1,0 +1,135 @@
+docmost/docmost
+https://github.com/docmost/docmost
+Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+language: TypeScript
+stars: 14,297
+forked: 687
+stars today: 279
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 314,187
+forked: 40,852
+stars today: 166
+
+elie222/inbox-zero
+https://github.com/elie222/inbox-zero
+AI personal assistant for email. Open source app to help you reach inbox zero fast.
+language: TypeScript
+stars: 6,143
+forked: 647
+stars today: 262
+
+browserbase/stagehand
+https://github.com/browserbase/stagehand
+An AI web browsing framework focused on simplicity and extensibility.
+language: TypeScript
+stars: 10,664
+forked: 584
+stars today: 247
+
+nocobase/nocobase
+https://github.com/nocobase/nocobase
+NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+language: TypeScript
+stars: 14,611
+forked: 1,623
+stars today: 266
+
+cline/cline
+https://github.com/cline/cline
+Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+language: TypeScript
+stars: 40,966
+forked: 4,548
+stars today: 96
+
+yangshun/tech-interview-handbook
+https://github.com/yangshun/tech-interview-handbook
+💯 Curated coding interview preparation materials for busy software engineers
+language: TypeScript
+stars: 125,462
+forked: 15,319
+stars today: 102
+
+danny-avila/LibreChat
+https://github.com/danny-avila/LibreChat
+Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+language: TypeScript
+stars: 24,699
+forked: 4,182
+stars today: 47
+
+laurent22/joplin
+https://github.com/laurent22/joplin
+Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+language: TypeScript
+stars: 48,820
+forked: 5,295
+stars today: 22
+
+midday-ai/midday
+https://github.com/midday-ai/midday
+Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+language: TypeScript
+stars: 7,711
+forked: 746
+stars today: 2
+
+type-challenges/type-challenges
+https://github.com/type-challenges/type-challenges
+Collection of TypeScript type challenges with online judge
+language: TypeScript
+stars: 45,099
+forked: 4,915
+stars today: 14
+
+oslook/cursor-ai-downloads
+https://github.com/oslook/cursor-ai-downloads
+All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
+language: TypeScript
+stars: 1,660
+forked: 85
+stars today: 48
+
+bluesky-social/atproto
+https://github.com/bluesky-social/atproto
+Social networking technology created by Bluesky
+language: TypeScript
+stars: 8,423
+forked: 676
+stars today: 6
+
+vercel/ai
+https://github.com/vercel/ai
+The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+language: TypeScript
+stars: 13,532
+forked: 2,096
+stars today: 21
+
+strapi/strapi
+https://github.com/strapi/strapi
+🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+language: TypeScript
+stars: 66,276
+forked: 8,490
+stars today: 46
+
+cooderl/wewe-rss
+https://github.com/cooderl/wewe-rss
+🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
+language: TypeScript
+stars: 6,847
+forked: 1,192
+stars today: 10
+
+clash-verge-rev/clash-verge-rev
+https://github.com/clash-verge-rev/clash-verge-rev
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+language: TypeScript
+stars: 55,380
+forked: 4,293
+stars today: 114

@@ -1,0 +1,79 @@
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,120
+forked: 731
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,152
+forked: 1,078
+stars today: 2
+
+IntersectMBO/plutus
+https://github.com/IntersectMBO/plutus
+The Plutus language implementation and tools
+language: Haskell
+stars: 1,589
+forked: 485
+stars today: 0
+
+GaloisInc/parameterized-utils
+https://github.com/GaloisInc/parameterized-utils
+A set of utilities for using indexed types including containers, equality, and comparison.
+language: Haskell
+stars: 60
+forked: 13
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,860
+forked: 441
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,247
+forked: 1,809
+stars today: 4
+
+GaloisInc/llvm-pretty
+https://github.com/GaloisInc/llvm-pretty
+An llvm pretty printer inspired by the haskell llvm binding
+language: Haskell
+stars: 29
+forked: 16
+stars today: 0
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 36,960
+forked: 3,488
+stars today: 12
+
+tidalcycles/Tidal
+https://github.com/tidalcycles/Tidal
+Pattern language
+language: Haskell
+stars: 2,413
+forked: 264
+stars today: 2
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,412
+forked: 328
+stars today: 4

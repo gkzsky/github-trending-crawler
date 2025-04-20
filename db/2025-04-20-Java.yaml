@@ -1,0 +1,159 @@
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 4,737
+forked: 1,295
+stars today: 12
+
+OpenSPG/openspg
+https://github.com/OpenSPG/openspg
+OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) natively support KAG...
+language: Java
+stars: 1,549
+forked: 179
+stars today: 5
+
+Anuken/Mindustry
+https://github.com/Anuken/Mindustry
+The automation tower defense RTS
+language: Java
+stars: 23,669
+forked: 3,071
+stars today: 15
+
+langchain4j/langchain4j-examples
+https://github.com/langchain4j/langchain4j-examples
+-
+language: Java
+stars: 878
+forked: 339
+stars today: 1
+
+freeok/so-novel
+https://github.com/freeok/so-novel
+小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
+language: Java
+stars: 2,501
+forked: 199
+stars today: 14
+
+mybatis/mybatis-3
+https://github.com/mybatis/mybatis-3
+MyBatis SQL mapper framework for Java
+language: Java
+stars: 20,040
+forked: 12,928
+stars today: 2
+
+jeecgboot/JeecgBoot
+https://github.com/jeecgboot/JeecgBoot
+🔥一款基于AIGC和低代码引擎的AI低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；
+language: Java
+stars: 42,335
+forked: 15,266
+stars today: 10
+
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 28,406
+forked: 8,397
+stars today: 8
+
+ashishps1/awesome-leetcode-resources
+https://github.com/ashishps1/awesome-leetcode-resources
+Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
+language: Java
+stars: 9,566
+forked: 2,294
+stars today: 25
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 5,490
+forked: 372
+stars today: 31
+
+apache/pinot
+https://github.com/apache/pinot
+Apache Pinot - A realtime distributed OLAP datastore
+language: Java
+stars: 5,737
+forked: 1,363
+stars today: 3
+
+MeteorDevelopment/meteor-client
+https://github.com/MeteorDevelopment/meteor-client
+Based Minecraft utility mod.
+language: Java
+stars: 2,591
+forked: 1,036
+stars today: 1
+
+baomidou/mybatis-plus
+https://github.com/baomidou/mybatis-plus
+An powerful enhanced toolkit of MyBatis for simplify development
+language: Java
+stars: 16,789
+forked: 4,360
+stars today: 2
+
+iBotPeaches/Apktool
+https://github.com/iBotPeaches/Apktool
+A tool for reverse engineering Android apk files
+language: Java
+stars: 21,809
+forked: 3,706
+stars today: 11
+
+dataease/dataease
+https://github.com/dataease/dataease
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+language: Java
+stars: 19,935
+forked: 3,557
+stars today: 9
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,444
+forked: 1,937
+stars today: 4
+
+CodePhiliaX/Chat2DB
+https://github.com/CodePhiliaX/Chat2DB
+🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+language: Java
+stars: 22,489
+forked: 2,433
+stars today: 16
+
+LawnchairLauncher/lawnchair
+https://github.com/LawnchairLauncher/lawnchair
+No clever tagline needed.
+language: Java
+stars: 10,111
+forked: 1,274
+stars today: 12
+
+redisson/redisson
+https://github.com/redisson/redisson
+Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+language: Java
+stars: 23,734
+forked: 5,433
+stars today: 3
+
+ageerle/ruoyi-ai
+https://github.com/ageerle/ruoyi-ai
+RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+language: Java
+stars: 2,782
+forked: 632
+stars today: 16
