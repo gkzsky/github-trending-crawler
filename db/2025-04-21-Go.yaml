@@ -1,0 +1,175 @@
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+language: Go
+stars: 27,682
+forked: 2,410
+stars today: 233
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 3,001
+forked: 215
+stars today: 27
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 23,270
+forked: 2,796
+stars today: 24
+
+henrygd/beszel
+https://github.com/henrygd/beszel
+Lightweight server monitoring hub with historical data, docker stats, and alerts.
+language: Go
+stars: 10,900
+forked: 331
+stars today: 53
+
+trustwallet/assets
+https://github.com/trustwallet/assets
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+language: Go
+stars: 4,856
+forked: 23,654
+stars today: 2
+
+usual2970/certimate
+https://github.com/usual2970/certimate
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+language: Go
+stars: 6,323
+forked: 580
+stars today: 29
+
+IceWhaleTech/CasaOS
+https://github.com/IceWhaleTech/CasaOS
+CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+language: Go
+stars: 29,418
+forked: 1,599
+stars today: 10
+
+opentofu/opentofu
+https://github.com/opentofu/opentofu
+OpenTofu lets you declaratively manage your cloud infrastructure.
+language: Go
+stars: 25,028
+forked: 988
+stars today: 12
+
+lima-vm/lima
+https://github.com/lima-vm/lima
+Linux virtual machines, with a focus on running containers
+language: Go
+stars: 16,791
+forked: 649
+stars today: 31
+
+Kethsar/ytarchive
+https://github.com/Kethsar/ytarchive
+Garbage Youtube livestream downloader
+language: Go
+stars: 1,391
+forked: 110
+stars today: 4
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+language: Go
+stars: 21,528
+forked: 4,258
+stars today: 7
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+Go library for the WhatsApp web multidevice API
+language: Go
+stars: 3,491
+forked: 543
+stars today: 9
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 45,465
+forked: 2,229
+stars today: 30
+
+ncruces/go-sqlite3
+https://github.com/ncruces/go-sqlite3
+Go bindings to SQLite using wazero
+language: Go
+stars: 658
+forked: 22
+stars today: 4
+
+WireGuard/wireguard-go
+https://github.com/WireGuard/wireguard-go
+Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+language: Go
+stars: 3,396
+forked: 1,164
+stars today: 3
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 69,540
+forked: 4,485
+stars today: 22
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+language: Go
+stars: 31,929
+forked: 2,433
+stars today: 33
+
+OWASP/Go-SCP
+https://github.com/OWASP/Go-SCP
+Golang Secure Coding Practices guide
+language: Go
+stars: 5,095
+forked: 382
+stars today: 14
+
+restic/restic
+https://github.com/restic/restic
+Fast, secure, efficient backup program
+language: Go
+stars: 28,312
+forked: 1,599
+stars today: 13
+
+kubernetes/minikube
+https://github.com/kubernetes/minikube
+Run Kubernetes locally
+language: Go
+stars: 30,265
+forked: 4,966
+stars today: 10
+
+rqlite/rqlite
+https://github.com/rqlite/rqlite
+The lightweight, user-friendly, distributed relational database built on SQLite.
+language: Go
+stars: 16,491
+forked: 737
+stars today: 8
+
+sundowndev/phoneinfoga
+https://github.com/sundowndev/phoneinfoga
+Information gathering framework for phone numbers
+language: Go
+stars: 14,131
+forked: 3,987
+stars today: 12
