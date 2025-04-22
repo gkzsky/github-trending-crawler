@@ -1,0 +1,71 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 51,486
+forked: 2,513
+stars today: 1,033
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 29,256
+forked: 3,274
+stars today: 322
+
+allenai/olmocr
+https://github.com/allenai/olmocr
+Toolkit for linearizing PDFs for LLM datasets/training
+language: Python
+stars: 11,688
+forked: 789
+stars today: 148
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 108,689
+forked: 8,536
+stars today: 329
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 337,284
+forked: 35,629
+stars today: 610
+
+Byaidu/PDFMathTranslate
+https://github.com/Byaidu/PDFMathTranslate
+PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+language: Python
+stars: 21,175
+forked: 1,797
+stars today: 471
+
+jumpserver/jumpserver
+https://github.com/jumpserver/jumpserver
+JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+language: Python
+stars: 27,051
+forked: 5,451
+stars today: 166
+
+oumi-ai/oumi
+https://github.com/oumi-ai/oumi
+Everything you need to build state-of-the-art foundation models, end-to-end.
+language: Python
+stars: 8,010
+forked: 581
+stars today: 72
+
+jixiaozhong/Sonic
+https://github.com/jixiaozhong/Sonic
+Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
+language: Python
+stars: 2,560
+forked: 221
+stars today: 28
