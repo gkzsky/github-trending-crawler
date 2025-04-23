@@ -1,0 +1,159 @@
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 45,794
+forked: 2,249
+stars today: 92
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 10,431
+forked: 692
+stars today: 69
+
+kubernetes-sigs/kubebuilder
+https://github.com/kubernetes-sigs/kubebuilder
+Kubebuilder - SDK for building Kubernetes APIs using CRDs
+language: Go
+stars: 8,336
+forked: 1,534
+stars today: 8
+
+envoyproxy/gateway
+https://github.com/envoyproxy/gateway
+Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+language: Go
+stars: 1,822
+forked: 442
+stars today: 1
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 3,158
+forked: 223
+stars today: 87
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,760
+forked: 4,491
+stars today: 7
+
+cloudwego/eino-ext
+https://github.com/cloudwego/eino-ext
+Various extensions for the Eino framework: https://github.com/cloudwego/eino
+language: Go
+stars: 280
+forked: 83
+stars today: 1
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 9,561
+forked: 854
+stars today: 12
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 11,676
+forked: 903
+stars today: 9
+
+rqlite/rqlite
+https://github.com/rqlite/rqlite
+The lightweight, user-friendly, distributed relational database built on SQLite.
+language: Go
+stars: 16,513
+forked: 739
+stars today: 6
+
+supabase/auth
+https://github.com/supabase/auth
+A JWT based API for managing users and issuing JWT tokens
+language: Go
+stars: 1,852
+forked: 437
+stars today: 6
+
+avelino/awesome-go
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
+language: Go
+stars: 142,311
+forked: 12,247
+stars today: 76
+
+projectdiscovery/katana
+https://github.com/projectdiscovery/katana
+A next-generation crawling and spidering framework.
+language: Go
+stars: 13,413
+forked: 715
+stars today: 13
+
+go-resty/resty
+https://github.com/go-resty/resty
+Simple HTTP, REST, and SSE client library for Go
+language: Go
+stars: 10,788
+forked: 746
+stars today: 6
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 4,899
+forked: 558
+stars today: 20
+
+go-gorm/gorm
+https://github.com/go-gorm/gorm
+The fantastic ORM library for Golang, aims to be developer friendly
+language: Go
+stars: 38,027
+forked: 3,998
+stars today: 5
+
+go-co-op/gocron
+https://github.com/go-co-op/gocron
+Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+language: Go
+stars: 6,138
+forked: 328
+stars today: 9
+
+usual2970/certimate
+https://github.com/usual2970/certimate
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+language: Go
+stars: 6,392
+forked: 584
+stars today: 36
+
+spf13/viper
+https://github.com/spf13/viper
+Go configuration with fangs
+language: Go
+stars: 28,351
+forked: 2,051
+stars today: 12
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,165
+forked: 2,307
+stars today: 4
