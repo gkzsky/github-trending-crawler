@@ -1,0 +1,159 @@
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 16,865
+forked: 530
+stars today: 22
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,221
+forked: 900
+stars today: 4
+
+brahmGAN/ganchain-v2
+https://github.com/brahmGAN/ganchain-v2
+This is the rust and substrate code for the GAN chain and its nodes.
+language: Rust
+stars: 605
+forked: 42
+stars today: 100
+
+TraceMachina/nativelink
+https://github.com/TraceMachina/nativelink
+NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
+language: Rust
+stars: 1,322
+forked: 176
+stars today: 13
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 39,445
+forked: 1,078
+stars today: 59
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 51,032
+forked: 1,437
+stars today: 167
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 23,168
+forked: 1,589
+stars today: 22
+
+TabbyML/tabby
+https://github.com/TabbyML/tabby
+Self-hosted AI coding assistant
+language: Rust
+stars: 30,885
+forked: 1,452
+stars today: 16
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 3,463
+forked: 249
+stars today: 5
+
+rolldown/rolldown
+https://github.com/rolldown/rolldown
+Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+language: Rust
+stars: 10,832
+forked: 574
+stars today: 22
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 23,538
+forked: 635
+stars today: 137
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,069
+forked: 1,456
+stars today: 11
+
+PyO3/maturin
+https://github.com/PyO3/maturin
+Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+language: Rust
+stars: 4,470
+forked: 308
+stars today: 8
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 35,173
+forked: 1,074
+stars today: 18
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 87,261
+forked: 12,352
+stars today: 77
+
+GitoxideLabs/gitoxide
+https://github.com/GitoxideLabs/gitoxide
+An idiomatic, lean, fast & safe pure Rust implementation of Git
+language: Rust
+stars: 9,706
+forked: 340
+stars today: 7
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 14,259
+forked: 553
+stars today: 17
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 12,415
+forked: 455
+stars today: 19
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 19,229
+forked: 1,725
+stars today: 12
+
+prefix-dev/pixi
+https://github.com/prefix-dev/pixi
+Package management made easy
+language: Rust
+stars: 4,281
+forked: 270
+stars today: 17

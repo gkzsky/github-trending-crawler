@@ -1,0 +1,167 @@
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 46,187
+forked: 2,270
+stars today: 393
+
+go-task/task
+https://github.com/go-task/task
+A task runner / simpler Make alternative written in Go
+language: Go
+stars: 12,633
+forked: 671
+stars today: 25
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,770
+forked: 4,491
+stars today: 9
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 3,211
+forked: 230
+stars today: 53
+
+NVIDIA/k8s-device-plugin
+https://github.com/NVIDIA/k8s-device-plugin
+NVIDIA device plugin for Kubernetes
+language: Go
+stars: 3,167
+forked: 687
+stars today: 5
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 58,261
+forked: 9,528
+stars today: 21
+
+spegel-org/spegel
+https://github.com/spegel-org/spegel
+Stateless cluster local OCI registry mirror.
+language: Go
+stars: 2,396
+forked: 89
+stars today: 104
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 40,213
+forked: 2,924
+stars today: 16
+
+projectdiscovery/katana
+https://github.com/projectdiscovery/katana
+A next-generation crawling and spidering framework.
+language: Go
+stars: 13,432
+forked: 718
+stars today: 16
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,090
+forked: 1,599
+stars today: 10
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 10,463
+forked: 692
+stars today: 38
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 24,473
+forked: 1,638
+stars today: 7
+
+gohugoio/hugo
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
+language: Go
+stars: 79,872
+forked: 7,762
+stars today: 81
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 8,590
+forked: 1,036
+stars today: 8
+
+open-policy-agent/opa
+https://github.com/open-policy-agent/opa
+Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+language: Go
+stars: 10,159
+forked: 1,403
+stars today: 4
+
+rancher/rancher
+https://github.com/rancher/rancher
+Complete container management platform
+language: Go
+stars: 24,073
+forked: 3,031
+stars today: 6
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,272
+forked: 4,343
+stars today: 13
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 16,920
+forked: 1,509
+stars today: 11
+
+go-co-op/gocron
+https://github.com/go-co-op/gocron
+Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+language: Go
+stars: 6,147
+forked: 328
+stars today: 11
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 45,045
+forked: 9,823
+stars today: 15
+
+rakyll/hey
+https://github.com/rakyll/hey
+HTTP load generator, ApacheBench (ab) replacement
+language: Go
+stars: 18,782
+forked: 1,228
+stars today: 5
