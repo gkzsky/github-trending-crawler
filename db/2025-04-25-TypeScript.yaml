@@ -1,0 +1,111 @@
+kortix-ai/suna
+https://github.com/kortix-ai/suna
+Suna - Open Source Generalist AI Agent
+language: TypeScript
+stars: 3,909
+forked: 471
+stars today: 1,105
+
+hydralauncher/hydra
+https://github.com/hydralauncher/hydra
+Hydra is a game launcher with its own embedded bittorrent client
+language: TypeScript
+stars: 12,941
+forked: 3,602
+stars today: 403
+
+MetaMask/metamask-mobile
+https://github.com/MetaMask/metamask-mobile
+Mobile web browser providing access to websites that use the Ethereum blockchain
+language: TypeScript
+stars: 2,369
+forked: 1,220
+stars today: 13
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards and BI. 📈📊📋🧑‍💻
+language: TypeScript
+stars: 7,600
+forked: 723
+stars today: 10
+
+ueberdosis/tiptap
+https://github.com/ueberdosis/tiptap
+The headless rich text editor framework for web artisans.
+language: TypeScript
+stars: 29,910
+forked: 2,455
+stars today: 29
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+language: TypeScript
+stars: 12,647
+forked: 1,018
+stars today: 169
+
+chartdb/chartdb
+https://github.com/chartdb/chartdb
+Database diagrams editor that allows you to visualize and design your DB with a single query.
+language: TypeScript
+stars: 16,004
+forked: 782
+stars today: 89
+
+dataelement/bisheng
+https://github.com/dataelement/bisheng
+BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+language: TypeScript
+stars: 8,219
+forked: 1,366
+stars today: 31
+
+LegendApp/legend-list
+https://github.com/LegendApp/legend-list
+A high-performance list component for React Native
+language: TypeScript
+stars: 1,662
+forked: 45
+stars today: 348
+
+activepieces/activepieces
+https://github.com/activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+language: TypeScript
+stars: 14,075
+forked: 1,825
+stars today: 47
+
+langfuse/langfuse
+https://github.com/langfuse/langfuse
+🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+language: TypeScript
+stars: 10,745
+forked: 970
+stars today: 85
+
+browserbase/mcp-server-browserbase
+https://github.com/browserbase/mcp-server-browserbase
+Allow LLMs to control a browser with Browserbase and Stagehand
+language: TypeScript
+stars: 1,326
+forked: 127
+stars today: 95
+
+Eugeny/tabby
+https://github.com/Eugeny/tabby
+A terminal for a more modern age
+language: TypeScript
+stars: 63,289
+forked: 3,580
+stars today: 36
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: TypeScript
+stars: 50,223
+forked: 4,751
+stars today: 165

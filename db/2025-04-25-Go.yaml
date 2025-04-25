@@ -1,0 +1,175 @@
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,097
+forked: 1,601
+stars today: 9
+
+gohugoio/hugo
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
+language: Go
+stars: 79,935
+forked: 7,768
+stars today: 82
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 46,442
+forked: 2,287
+stars today: 426
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 25,593
+forked: 2,506
+stars today: 12
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 24,481
+forked: 1,638
+stars today: 17
+
+autokitteh/autokitteh
+https://github.com/autokitteh/autokitteh
+Durable workflow automation in just a few lines of code
+language: Go
+stars: 667
+forked: 23
+stars today: 98
+
+ray-project/kuberay
+https://github.com/ray-project/kuberay
+A toolkit to run Ray applications on Kubernetes
+language: Go
+stars: 1,703
+forked: 523
+stars today: 3
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,773
+forked: 4,489
+stars today: 6
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
+language: Go
+stars: 114,649
+forked: 40,436
+stars today: 24
+
+stakater/Reloader
+https://github.com/stakater/Reloader
+A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+language: Go
+stars: 8,356
+forked: 546
+stars today: 8
+
+NVIDIA/k8s-device-plugin
+https://github.com/NVIDIA/k8s-device-plugin
+NVIDIA device plugin for Kubernetes
+language: Go
+stars: 3,176
+forked: 688
+stars today: 9
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 36,802
+forked: 7,943
+stars today: 23
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 16,876
+forked: 1,444
+stars today: 17
+
+k8sgpt-ai/k8sgpt
+https://github.com/k8sgpt-ai/k8sgpt
+Giving Kubernetes Superpowers to everyone
+language: Go
+stars: 6,522
+forked: 788
+stars today: 9
+
+projectdiscovery/katana
+https://github.com/projectdiscovery/katana
+A next-generation crawling and spidering framework.
+language: Go
+stars: 13,468
+forked: 721
+stars today: 23
+
+hashicorp/terraform-provider-azurerm
+https://github.com/hashicorp/terraform-provider-azurerm
+Terraform provider for Azure Resource Manager
+language: Go
+stars: 4,722
+forked: 4,747
+stars today: 3
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 26,486
+forked: 2,605
+stars today: 21
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 9,592
+forked: 859
+stars today: 14
+
+hashicorp/packer
+https://github.com/hashicorp/packer
+Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+language: Go
+stars: 15,343
+forked: 3,336
+stars today: 4
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 45,052
+forked: 9,825
+stars today: 7
+
+yannh/kubeconform
+https://github.com/yannh/kubeconform
+A FAST Kubernetes manifests validator, with support for Custom Resources!
+language: Go
+stars: 2,552
+forked: 138
+stars today: 6
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 4,515
+forked: 845
+stars today: 14

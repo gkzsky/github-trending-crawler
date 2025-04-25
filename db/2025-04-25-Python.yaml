@@ -1,0 +1,127 @@
+RVC-Boss/GPT-SoVITS
+https://github.com/RVC-Boss/GPT-SoVITS
+1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+language: Python
+stars: 45,168
+forked: 5,004
+stars today: 128
+
+bytedance/UI-TARS
+https://github.com/bytedance/UI-TARS
+-
+language: Python
+stars: 4,970
+forked: 339
+stars today: 410
+
+khoj-ai/khoj
+https://github.com/khoj-ai/khoj
+Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+language: Python
+stars: 29,044
+forked: 1,622
+stars today: 42
+
+Byaidu/PDFMathTranslate
+https://github.com/Byaidu/PDFMathTranslate
+PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+language: Python
+stars: 21,803
+forked: 1,850
+stars today: 132
+
+huggingface/transformers
+https://github.com/huggingface/transformers
+🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+language: Python
+stars: 143,434
+forked: 28,756
+stars today: 46
+
+goauthentik/authentik
+https://github.com/goauthentik/authentik
+The authentication glue you need.
+language: Python
+stars: 15,847
+forked: 1,085
+stars today: 42
+
+dagster-io/dagster
+https://github.com/dagster-io/dagster
+An orchestration platform for the development, production, and observation of data assets.
+language: Python
+stars: 13,018
+forked: 1,658
+stars today: 10
+
+thunlp/LLMxMapReduce
+https://github.com/thunlp/LLMxMapReduce
+-
+language: Python
+stars: 482
+forked: 35
+stars today: 38
+
+FunAudioLLM/CosyVoice
+https://github.com/FunAudioLLM/CosyVoice
+Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+language: Python
+stars: 13,312
+forked: 1,358
+stars today: 28
+
+Zipstack/unstract
+https://github.com/Zipstack/unstract
+No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+language: Python
+stars: 5,110
+forked: 459
+stars today: 30
+
+microsoft/unilm
+https://github.com/microsoft/unilm
+Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+language: Python
+stars: 21,134
+forked: 2,614
+stars today: 9
+
+PaddlePaddle/PaddleNLP
+https://github.com/PaddlePaddle/PaddleNLP
+Easy-to-use and powerful LLM and SLM library with awesome model zoo.
+language: Python
+stars: 12,536
+forked: 3,018
+stars today: 2
+
+rougier/numpy-100
+https://github.com/rougier/numpy-100
+100 numpy exercises (with solutions)
+language: Python
+stars: 12,699
+forked: 5,977
+stars today: 28
+
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 53,664
+forked: 2,672
+stars today: 731
+
+1Panel-dev/MaxKB
+https://github.com/1Panel-dev/MaxKB
+💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
+language: Python
+stars: 16,142
+forked: 2,094
+stars today: 53
+
+livekit/agents
+https://github.com/livekit/agents
+A powerful framework for building realtime voice AI agents 🤖🎙️📹
+language: Python
+stars: 5,713
+forked: 800
+stars today: 16
