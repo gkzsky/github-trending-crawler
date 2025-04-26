@@ -1,0 +1,183 @@
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 18,168
+forked: 1,365
+stars today: 21
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 25,708
+forked: 2,510
+stars today: 45
+
+joho/godotenv
+https://github.com/joho/godotenv
+A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+language: Go
+stars: 9,151
+forked: 426
+stars today: 6
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 16,958
+forked: 1,523
+stars today: 23
+
+hashicorp/packer
+https://github.com/hashicorp/packer
+Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+language: Go
+stars: 15,350
+forked: 3,337
+stars today: 7
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 26,506
+forked: 2,607
+stars today: 29
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
+language: Go
+stars: 15,245
+forked: 1,391
+stars today: 118
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 46,531
+forked: 2,290
+stars today: 103
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 27,963
+forked: 1,359
+stars today: 20
+
+kubevirt/kubevirt
+https://github.com/kubevirt/kubevirt
+Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+language: Go
+stars: 6,008
+forked: 1,426
+stars today: 6
+
+gohugoio/hugo
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
+language: Go
+stars: 79,993
+forked: 7,770
+stars today: 70
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 4,016
+forked: 324
+stars today: 107
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+language: Go
+stars: 32,123
+forked: 2,448
+stars today: 55
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 9,610
+forked: 862
+stars today: 21
+
+cloudflare/cfssl
+https://github.com/cloudflare/cfssl
+CFSSL: Cloudflare's PKI and TLS toolkit
+language: Go
+stars: 8,990
+forked: 1,128
+stars today: 2
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+A Cloud Native Batch System (Project under CNCF)
+language: Go
+stars: 4,610
+forked: 1,055
+stars today: 8
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,103
+forked: 1,603
+stars today: 6
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 19,629
+forked: 1,590
+stars today: 19
+
+autokitteh/autokitteh
+https://github.com/autokitteh/autokitteh
+Durable workflow automation in just a few lines of code
+language: Go
+stars: 697
+forked: 23
+stars today: 41
+
+siderolabs/talos
+https://github.com/siderolabs/talos
+Talos Linux is a modern Linux distribution built for Kubernetes.
+language: Go
+stars: 7,856
+forked: 648
+stars today: 8
+
+grafana/k6
+https://github.com/grafana/k6
+A modern load testing tool, using Go and JavaScript - https://k6.io
+language: Go
+stars: 27,405
+forked: 1,344
+stars today: 16
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 19,325
+forked: 5,922
+stars today: 18
+
+kubernetes-sigs/gateway-api
+https://github.com/kubernetes-sigs/gateway-api
+Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+language: Go
+stars: 2,038
+forked: 529
+stars today: 6
