@@ -1,0 +1,127 @@
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,290
+forked: 1,811
+stars today: 7
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,205
+forked: 1,081
+stars today: 10
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,121
+forked: 730
+stars today: 2
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 37,068
+forked: 3,494
+stars today: 11
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 218
+forked: 45
+stars today: 0
+
+tidalcycles/Tidal
+https://github.com/tidalcycles/Tidal
+Pattern language
+language: Haskell
+stars: 2,425
+forked: 264
+stars today: 5
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,430
+forked: 329
+stars today: 5
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,672
+forked: 329
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,881
+forked: 442
+stars today: 6
+
+maralorn/nix-output-monitor
+https://github.com/maralorn/nix-output-monitor
+Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+language: Haskell
+stars: 1,086
+forked: 30
+stars today: 0
+
+ghc/ghc
+https://github.com/ghc/ghc
+Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
+language: Haskell
+stars: 3,115
+forked: 715
+stars today: 1
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 5,992
+forked: 274
+stars today: 3
+
+IntersectMBO/plutus
+https://github.com/IntersectMBO/plutus
+The Plutus language implementation and tools
+language: Haskell
+stars: 1,591
+forked: 484
+stars today: 1
+
+GaloisInc/llvm-pretty
+https://github.com/GaloisInc/llvm-pretty
+An llvm pretty printer inspired by the haskell llvm binding
+language: Haskell
+stars: 30
+forked: 16
+stars today: 0
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,791
+forked: 389
+stars today: 0
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 303
+forked: 89
+stars today: 0
