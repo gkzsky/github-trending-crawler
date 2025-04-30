@@ -1,0 +1,111 @@
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+language: TypeScript
+stars: 59,875
+forked: 12,644
+stars today: 298
+
+transformerlab/transformerlab-app
+https://github.com/transformerlab/transformerlab-app
+Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+language: TypeScript
+stars: 2,496
+forked: 179
+stars today: 64
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 16,657
+forked: 1,632
+stars today: 741
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 95,137
+forked: 14,214
+stars today: 327
+
+refined-github/refined-github
+https://github.com/refined-github/refined-github
+Browser extension that simplifies the GitHub interface and adds useful features
+language: TypeScript
+stars: 27,418
+forked: 1,560
+stars today: 175
+
+mountain-loop/yaak
+https://github.com/mountain-loop/yaak
+The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+language: TypeScript
+stars: 6,178
+forked: 195
+stars today: 46
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 64,787
+forked: 3,407
+stars today: 103
+
+dubinc/dub
+https://github.com/dubinc/dub
+The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+language: TypeScript
+stars: 21,276
+forked: 2,398
+stars today: 9
+
+jetkvm/kvm
+https://github.com/jetkvm/kvm
+JetKVM - Control any computer remotely
+language: TypeScript
+stars: 2,373
+forked: 130
+stars today: 75
+
+xyflow/xyflow
+https://github.com/xyflow/xyflow
+React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+language: TypeScript
+stars: 29,182
+forked: 1,900
+stars today: 35
+
+jestjs/jest
+https://github.com/jestjs/jest
+Delightful JavaScript Testing.
+language: TypeScript
+stars: 44,727
+forked: 6,534
+stars today: 4
+
+renovatebot/renovate
+https://github.com/renovatebot/renovate
+Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+language: TypeScript
+stars: 18,852
+forked: 2,536
+stars today: 11
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: TypeScript
+stars: 50,846
+forked: 4,816
+stars today: 126
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 25,673
+forked: 18,327
+stars today: 16
