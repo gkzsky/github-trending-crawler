@@ -1,0 +1,111 @@
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 55,031
+forked: 7,913
+stars today: 1,686
+
+patchy631/ai-engineering-hub
+https://github.com/patchy631/ai-engineering-hub
+In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+language: Jupyter Notebook
+stars: 8,679
+forked: 1,465
+stars today: 54
+
+QwenLM/Qwen-Agent
+https://github.com/QwenLM/Qwen-Agent
+Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+language: Python
+stars: 7,390
+forked: 638
+stars today: 188
+
+QwenLM/Qwen3
+https://github.com/QwenLM/Qwen3
+Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+language: Shell
+stars: 19,607
+forked: 1,288
+stars today: 673
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 16,929
+forked: 1,963
+stars today: 274
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 17,197
+forked: 1,764
+stars today: 418
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 46,307
+forked: 7,183
+stars today: 126
+
+simular-ai/Agent-S
+https://github.com/simular-ai/Agent-S
+Agent S: an open agentic framework that uses computers like a human
+language: Python
+stars: 3,546
+forked: 359
+stars today: 317
+
+microsoft/generative-ai-for-beginners
+https://github.com/microsoft/generative-ai-for-beginners
+21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+language: Jupyter Notebook
+stars: 81,739
+forked: 41,964
+stars today: 474
+
+LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird
+Truly independent web browser
+language: C++
+stars: 38,001
+forked: 1,578
+stars today: 231
+
+ml-explore/mlx-swift-examples
+https://github.com/ml-explore/mlx-swift-examples
+Examples using MLX Swift
+language: Swift
+stars: 1,728
+forked: 214
+stars today: 10
+
+hiyouga/LLaMA-Factory
+https://github.com/hiyouga/LLaMA-Factory
+Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+language: Python
+stars: 48,057
+forked: 5,866
+stars today: 84
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 6,007
+forked: 402
+stars today: 52
+
+bitcoin/bitcoin
+https://github.com/bitcoin/bitcoin
+Bitcoin Core integration/staging tree
+language: C++
+stars: 83,198
+forked: 37,140
+stars today: 49
