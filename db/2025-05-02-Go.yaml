@@ -1,0 +1,191 @@
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,188
+forked: 1,217
+stars today: 9
+
+ibnaleem/gosearch
+https://github.com/ibnaleem/gosearch
+🔍 Search anyone's digital footprint across 300+ websites
+language: Go
+stars: 1,581
+forked: 174
+stars today: 27
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 9,715
+forked: 871
+stars today: 16
+
+GoogleCloudPlatform/kubectl-ai
+https://github.com/GoogleCloudPlatform/kubectl-ai
+AI powered Kubernetes Assistant
+language: Go
+stars: 374
+forked: 44
+stars today: 82
+
+kubernetes-sigs/kustomize
+https://github.com/kubernetes-sigs/kustomize
+Customization of kubernetes YAML configurations
+language: Go
+stars: 11,414
+forked: 2,301
+stars today: 2
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 139,233
+forked: 11,618
+stars today: 84
+
+knadh/listmonk
+https://github.com/knadh/listmonk
+High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+language: Go
+stars: 16,608
+forked: 1,556
+stars today: 23
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 26,062
+forked: 2,524
+stars today: 45
+
+runatlantis/atlantis
+https://github.com/runatlantis/atlantis
+Terraform Pull Request Automation
+language: Go
+stars: 8,219
+forked: 1,100
+stars today: 0
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 15,594
+forked: 3,285
+stars today: 4
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 27,816
+forked: 7,220
+stars today: 6
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 6,907
+forked: 643
+stars today: 6
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+language: Go
+stars: 4,956
+forked: 944
+stars today: 9
+
+segmentio/kafka-go
+https://github.com/segmentio/kafka-go
+Kafka library in Go
+language: Go
+stars: 7,943
+forked: 809
+stars today: 4
+
+hashicorp/terraform-provider-google
+https://github.com/hashicorp/terraform-provider-google
+Terraform Provider for Google Cloud Platform
+language: Go
+stars: 2,464
+forked: 1,802
+stars today: 1
+
+loft-sh/vcluster
+https://github.com/loft-sh/vcluster
+vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+language: Go
+stars: 10,603
+forked: 490
+stars today: 7
+
+aws/karpenter-provider-aws
+https://github.com/aws/karpenter-provider-aws
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 7,234
+forked: 1,080
+stars today: 3
+
+goreleaser/goreleaser
+https://github.com/goreleaser/goreleaser
+Release engineering, simplified
+language: Go
+stars: 14,569
+forked: 985
+stars today: 5
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,280
+forked: 9,466
+stars today: 2
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 59,554
+forked: 2,036
+stars today: 56
+
+grafana/pyroscope
+https://github.com/grafana/pyroscope
+Continuous Profiling Platform. Debug performance issues down to a single line of code
+language: Go
+stars: 10,510
+forked: 645
+stars today: 8
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 23,514
+forked: 2,820
+stars today: 34
+
+Tencent/AI-Infra-Guard
+https://github.com/Tencent/AI-Infra-Guard
+A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
+language: Go
+stars: 1,137
+forked: 111
+stars today: 9
+
+bitnami-labs/sealed-secrets
+https://github.com/bitnami-labs/sealed-secrets
+A Kubernetes controller and tool for one-way encrypted Secrets
+language: Go
+stars: 8,172
+forked: 703
+stars today: 4
