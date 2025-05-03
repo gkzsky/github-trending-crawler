@@ -1,0 +1,127 @@
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+language: TypeScript
+stars: 1,972
+forked: 155
+stars today: 85
+
+cloudflare/mcp-server-cloudflare
+https://github.com/cloudflare/mcp-server-cloudflare
+-
+language: TypeScript
+stars: 1,588
+forked: 121
+stars today: 69
+
+wonderwhy-er/DesktopCommanderMCP
+https://github.com/wonderwhy-er/DesktopCommanderMCP
+This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+language: TypeScript
+stars: 2,329
+forked: 247
+stars today: 90
+
+cloudflare/agents
+https://github.com/cloudflare/agents
+Build and deploy AI Agents on Cloudflare
+language: TypeScript
+stars: 1,771
+forked: 120
+stars today: 84
+
+langwatch/langwatch
+https://github.com/langwatch/langwatch
+The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+language: TypeScript
+stars: 1,678
+forked: 128
+stars today: 67
+
+teableio/teable
+https://github.com/teableio/teable
+✨ The Next Gen Airtable Alternative: No-Code Postgres
+language: TypeScript
+stars: 18,111
+forked: 887
+stars today: 229
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 17,969
+forked: 1,900
+stars today: 393
+
+calcom/cal.com
+https://github.com/calcom/cal.com
+Scheduling infrastructure for absolutely everyone.
+language: TypeScript
+stars: 36,044
+forked: 9,295
+stars today: 23
+
+wasp-lang/open-saas
+https://github.com/wasp-lang/open-saas
+A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+language: TypeScript
+stars: 10,696
+forked: 1,087
+stars today: 103
+
+Viren070/AIOStreams
+https://github.com/Viren070/AIOStreams
+Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
+language: TypeScript
+stars: 249
+forked: 493
+stars today: 3
+
+directus/directus
+https://github.com/directus/directus
+The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+language: TypeScript
+stars: 30,223
+forked: 4,180
+stars today: 88
+
+linkwarden/linkwarden
+https://github.com/linkwarden/linkwarden
+⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+language: TypeScript
+stars: 11,918
+forked: 454
+stars today: 159
+
+a-ghorbani/pocketpal-ai
+https://github.com/a-ghorbani/pocketpal-ai
+An app that brings language models directly to your phone.
+language: TypeScript
+stars: 3,323
+forked: 323
+stars today: 11
+
+iptv-org/iptv
+https://github.com/iptv-org/iptv
+Collection of publicly available IPTV channels from all over the world
+language: TypeScript
+stars: 92,909
+forked: 3,445
+stars today: 25
+
+appwrite/appwrite
+https://github.com/appwrite/appwrite
+Build like a team of hundreds_
+language: TypeScript
+stars: 48,378
+forked: 4,287
+stars today: 18
+
+supabase/supabase
+https://github.com/supabase/supabase
+The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 81,936
+forked: 8,455
+stars today: 46

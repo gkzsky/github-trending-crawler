@@ -1,0 +1,79 @@
+tidalcycles/Tidal
+https://github.com/tidalcycles/Tidal
+Pattern language
+language: Haskell
+stars: 2,446
+forked: 264
+stars today: 2
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 218
+forked: 45
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,123
+forked: 731
+stars today: 0
+
+IntersectMBO/ouroboros-network
+https://github.com/IntersectMBO/ouroboros-network
+Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+language: Haskell
+stars: 281
+forked: 87
+stars today: 0
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,259
+forked: 325
+stars today: 0
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,000
+forked: 276
+stars today: 4
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 10,897
+forked: 441
+stars today: 6
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,316
+forked: 1,812
+stars today: 9
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 37,179
+forked: 3,499
+stars today: 13
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,228
+forked: 1,082
+stars today: 5
