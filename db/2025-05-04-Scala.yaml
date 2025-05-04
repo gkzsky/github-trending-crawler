@@ -1,0 +1,143 @@
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 63,143
+forked: 12,160
+stars today: 3
+
+akka/akka
+https://github.com/akka/akka
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,153
+forked: 3,587
+stars today: 0
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,045
+forked: 28,515
+stars today: 7
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,368
+forked: 319
+stars today: 1
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,241
+forked: 1,253
+stars today: 0
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 831
+forked: 197
+stars today: 0
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,431
+forked: 1,159
+stars today: 1
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 7,992
+forked: 1,820
+stars today: 3
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 2,188
+forked: 373
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,584
+forked: 2,394
+stars today: 4
+
+TheHive-Project/Cortex
+https://github.com/TheHive-Project/Cortex
+Cortex: a Powerful Observable Analysis and Active Response Engine
+language: Scala
+stars: 1,420
+forked: 239
+stars today: 0
+
+HorizenOfficial/Sidechains-SDK
+https://github.com/HorizenOfficial/Sidechains-SDK
+-
+language: Scala
+stars: 162
+forked: 97
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Scala
+stars: 813
+forked: 205
+stars today: 0
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,488
+forked: 556
+stars today: 2
+
+nixiesearch/nixiesearch
+https://github.com/nixiesearch/nixiesearch
+Hybrid search engine, combining best features of text and semantic search worlds
+language: Scala
+stars: 458
+forked: 10
+stars today: 3
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,007
+forked: 1,094
+stars today: 3
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,347
+forked: 762
+stars today: 2
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 2,965
+forked: 2,833
+stars today: 2

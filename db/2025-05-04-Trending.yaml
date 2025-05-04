@@ -1,0 +1,159 @@
+aipotheosis-labs/aci
+https://github.com/aipotheosis-labs/aci
+ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+language: Python
+stars: 1,912
+forked: 134
+stars today: 759
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 56,768
+forked: 2,848
+stars today: 437
+
+Atmosphere-NX/Atmosphere
+https://github.com/Atmosphere-NX/Atmosphere
+Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+language: C++
+stars: 15,931
+forked: 1,271
+stars today: 89
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 59,468
+forked: 8,352
+stars today: 1,582
+
+cloudflare/mcp-server-cloudflare
+https://github.com/cloudflare/mcp-server-cloudflare
+-
+language: TypeScript
+stars: 1,716
+forked: 125
+stars today: 167
+
+aws/aws-sdk-java-v2
+https://github.com/aws/aws-sdk-java-v2
+The official AWS SDK for Java - Version 2
+language: Java
+stars: 2,363
+forked: 905
+stars today: 48
+
+ChrisTitusTech/winutil
+https://github.com/ChrisTitusTech/winutil
+Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+language: PowerShell
+stars: 33,611
+forked: 1,881
+stars today: 121
+
+jackfrued/Python-100-Days
+https://github.com/jackfrued/Python-100-Days
+Python - 100天从新手到大师
+language: Jupyter Notebook
+stars: 165,666
+forked: 53,692
+stars today: 113
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 27,670
+forked: 1,488
+stars today: 35
+
+koreader/koreader
+https://github.com/koreader/koreader
+An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+language: Lua
+stars: 20,922
+forked: 1,418
+stars today: 27
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 13,122
+forked: 476
+stars today: 331
+
+Mail-0/Zero
+https://github.com/Mail-0/Zero
+Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
+language: TypeScript
+stars: 5,707
+forked: 467
+stars today: 75
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 297,961
+forked: 49,509
+stars today: 168
+
+alibaba/MNN
+https://github.com/alibaba/MNN
+MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)
+language: C++
+stars: 10,613
+forked: 1,838
+stars today: 30
+
+pydantic/pydantic
+https://github.com/pydantic/pydantic
+Data validation using Python type hints
+language: Python
+stars: 23,634
+forked: 2,105
+stars today: 28
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 58,626
+forked: 3,104
+stars today: 31
+
+filamentphp/filament
+https://github.com/filamentphp/filament
+A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+language: PHP
+stars: 23,193
+forked: 3,390
+stars today: 32
+
+htr-tech/zphisher
+https://github.com/htr-tech/zphisher
+An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
+language: HTML
+stars: 12,821
+forked: 4,633
+stars today: 43
+
+littlefs-project/littlefs
+https://github.com/littlefs-project/littlefs
+A little fail-safe filesystem designed for microcontrollers
+language: C
+stars: 5,751
+forked: 856
+stars today: 15
+
+sunnypilot/sunnypilot
+https://github.com/sunnypilot/sunnypilot
+sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.
+language: Python
+stars: 1,137
+forked: 851
+stars today: 23

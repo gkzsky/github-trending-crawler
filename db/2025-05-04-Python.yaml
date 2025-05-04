@@ -1,0 +1,143 @@
+aipotheosis-labs/aci
+https://github.com/aipotheosis-labs/aci
+ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+language: Python
+stars: 1,912
+forked: 134
+stars today: 759
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 59,468
+forked: 8,352
+stars today: 1,582
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 297,961
+forked: 49,509
+stars today: 168
+
+pydantic/pydantic
+https://github.com/pydantic/pydantic
+Data validation using Python type hints
+language: Python
+stars: 23,634
+forked: 2,105
+stars today: 28
+
+sunnypilot/sunnypilot
+https://github.com/sunnypilot/sunnypilot
+sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.
+language: Python
+stars: 1,137
+forked: 851
+stars today: 23
+
+521xueweihan/HelloGitHub
+https://github.com/521xueweihan/HelloGitHub
+分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+language: Python
+stars: 102,984
+forked: 9,924
+stars today: 382
+
+JoshuaC215/agent-service-toolkit
+https://github.com/JoshuaC215/agent-service-toolkit
+Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+language: Python
+stars: 2,793
+forked: 406
+stars today: 25
+
+ranaroussi/yfinance
+https://github.com/ranaroussi/yfinance
+Download market data from Yahoo! Finance's API
+language: Python
+stars: 16,919
+forked: 2,633
+stars today: 19
+
+ungoogled-software/ungoogled-chromium
+https://github.com/ungoogled-software/ungoogled-chromium
+Google Chromium, sans integration with Google
+language: Python
+stars: 22,346
+forked: 914
+stars today: 17
+
+DachunKai/Ev-DeblurVSR
+https://github.com/DachunKai/Ev-DeblurVSR
+[AAAI 2025] Event-Enhanced Blurry Video Super-Resolution
+language: Python
+stars: 321
+forked: 30
+stars today: 48
+
+gradio-app/gradio
+https://github.com/gradio-app/gradio
+Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+language: Python
+stars: 37,819
+forked: 2,877
+stars today: 15
+
+unslothai/unsloth
+https://github.com/unslothai/unsloth
+Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+language: Python
+stars: 37,960
+forked: 2,968
+stars today: 61
+
+adap/flower
+https://github.com/adap/flower
+Flower: A Friendly Federated AI Framework
+language: Python
+stars: 5,834
+forked: 990
+stars today: 10
+
+allenai/OLMo
+https://github.com/allenai/OLMo
+Modeling, training, eval, and inference code for OLMo
+language: Python
+stars: 5,557
+forked: 601
+stars today: 8
+
+cyclotruc/gitingest
+https://github.com/cyclotruc/gitingest
+Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+language: Python
+stars: 8,435
+forked: 659
+stars today: 47
+
+lllyasviel/Fooocus
+https://github.com/lllyasviel/Fooocus
+Focus on prompting and generating
+language: Python
+stars: 44,620
+forked: 6,912
+stars today: 15
+
+numpy/numpy
+https://github.com/numpy/numpy
+The fundamental package for scientific computing with Python.
+language: Python
+stars: 29,412
+forked: 10,794
+stars today: 8
+
+oobabooga/text-generation-webui
+https://github.com/oobabooga/text-generation-webui
+A Gradio web UI for Large Language Models with support for multiple inference backends.
+language: Python
+stars: 43,444
+forked: 5,598
+stars today: 13
