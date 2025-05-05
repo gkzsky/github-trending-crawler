@@ -1,0 +1,135 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,596
+forked: 2,395
+stars today: 13
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,050
+forked: 28,517
+stars today: 7
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,434
+forked: 1,159
+stars today: 3
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,369
+forked: 319
+stars today: 1
+
+nixiesearch/nixiesearch
+https://github.com/nixiesearch/nixiesearch
+Hybrid search engine, combining best features of text and semantic search worlds
+language: Scala
+stars: 459
+forked: 10
+stars today: 0
+
+akka/akka
+https://github.com/akka/akka
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,153
+forked: 3,587
+stars today: 0
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 4,205
+forked: 1,338
+stars today: 0
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 321
+forked: 90
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,649
+forked: 649
+stars today: 4
+
+Texera/texera
+https://github.com/Texera/texera
+Collaborative Machine-Learning-Centric Data Analytics Using Workflows
+language: Scala
+stars: 176
+forked: 76
+stars today: 1
+
+SpinalHDL/SpinalHDL
+https://github.com/SpinalHDL/SpinalHDL
+Scala based HDL
+language: Scala
+stars: 1,775
+forked: 346
+stars today: 1
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 524
+forked: 31
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 7,993
+forked: 1,820
+stars today: 1
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,489
+forked: 556
+stars today: 1
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 193
+forked: 51
+stars today: 1
+
+ITV/scala-pact
+https://github.com/ITV/scala-pact
+A Scala implementation of CDC using the Pact standard
+language: Scala
+stars: 108
+forked: 52
+stars today: 0
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 2,965
+forked: 2,832
+stars today: 0
