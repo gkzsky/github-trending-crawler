@@ -1,0 +1,183 @@
+GoogleCloudPlatform/kubectl-ai
+https://github.com/GoogleCloudPlatform/kubectl-ai
+AI powered Kubernetes Assistant
+language: Go
+stars: 1,952
+forked: 137
+stars today: 495
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 23,645
+forked: 892
+stars today: 230
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 18,475
+forked: 3,535
+stars today: 21
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 28,110
+forked: 1,513
+stars today: 179
+
+heroiclabs/nakama
+https://github.com/heroiclabs/nakama
+Distributed server for social and realtime games and apps.
+language: Go
+stars: 10,100
+forked: 1,179
+stars today: 219
+
+gosom/google-maps-scraper
+https://github.com/gosom/google-maps-scraper
+scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+language: Go
+stars: 1,769
+forked: 214
+stars today: 185
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,347
+forked: 4,362
+stars today: 6
+
+danielmiessler/fabric
+https://github.com/danielmiessler/fabric
+fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 30,980
+forked: 3,200
+stars today: 30
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,809
+forked: 4,489
+stars today: 3
+
+google/wire
+https://github.com/google/wire
+Compile-time Dependency Injection for Go
+language: Go
+stars: 13,702
+forked: 638
+stars today: 9
+
+simulot/immich-go
+https://github.com/simulot/immich-go
+An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+language: Go
+stars: 3,056
+forked: 98
+stars today: 11
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 18,264
+forked: 1,369
+stars today: 14
+
+kubernetes/minikube
+https://github.com/kubernetes/minikube
+Run Kubernetes locally
+language: Go
+stars: 30,335
+forked: 4,977
+stars today: 7
+
+projectdiscovery/naabu
+https://github.com/projectdiscovery/naabu
+A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+language: Go
+stars: 5,143
+forked: 591
+stars today: 4
+
+owncast/owncast
+https://github.com/owncast/owncast
+Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+language: Go
+stars: 10,101
+forked: 1,024
+stars today: 8
+
+gabe565/ascii-movie
+https://github.com/gabe565/ascii-movie
+Star Wars SSH + Telnet server written in Go.
+language: Go
+stars: 360
+forked: 18
+stars today: 18
+
+jmoiron/sqlx
+https://github.com/jmoiron/sqlx
+general purpose extensions to golang's database/sql
+language: Go
+stars: 16,891
+forked: 1,103
+stars today: 4
+
+oapi-codegen/oapi-codegen
+https://github.com/oapi-codegen/oapi-codegen
+Generate Go client and server boilerplate from OpenAPI 3 specifications
+language: Go
+stars: 7,055
+forked: 925
+stars today: 4
+
+traefik/traefik
+https://github.com/traefik/traefik
+The Cloud Native Application Proxy
+language: Go
+stars: 54,552
+forked: 5,318
+stars today: 24
+
+hashicorp/terraform-provider-azurerm
+https://github.com/hashicorp/terraform-provider-azurerm
+Terraform provider for Azure Resource Manager
+language: Go
+stars: 4,732
+forked: 4,753
+stars today: 1
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 19,730
+forked: 1,595
+stars today: 9
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 15,605
+forked: 3,288
+stars today: 7
+
+containers/skopeo
+https://github.com/containers/skopeo
+Work with remote images registries - retrieving information, images, signing content
+language: Go
+stars: 9,113
+forked: 831
+stars today: 21
