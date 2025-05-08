@@ -1,0 +1,135 @@
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 90,246
+forked: 24,735
+stars today: 600
+
+voideditor/void
+https://github.com/voideditor/void
+-
+language: TypeScript
+stars: 12,743
+forked: 817
+stars today: 98
+
+beekeeper-studio/beekeeper-studio
+https://github.com/beekeeper-studio/beekeeper-studio
+Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+language: TypeScript
+stars: 18,918
+forked: 1,208
+stars today: 38
+
+cline/cline
+https://github.com/cline/cline
+Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+language: TypeScript
+stars: 42,948
+forked: 4,934
+stars today: 123
+
+louislam/dockge
+https://github.com/louislam/dockge
+A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+language: TypeScript
+stars: 17,260
+forked: 507
+stars today: 40
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 25,713
+forked: 18,369
+stars today: 9
+
+blakeblackshear/frigate
+https://github.com/blakeblackshear/frigate
+NVR with realtime local object detection for IP cameras
+language: TypeScript
+stars: 22,438
+forked: 2,086
+stars today: 39
+
+CapSoftware/Cap
+https://github.com/CapSoftware/Cap
+Open source Loom alternative. Beautiful, shareable screen recordings.
+language: TypeScript
+stars: 9,142
+forked: 496
+stars today: 389
+
+OneUptime/oneuptime
+https://github.com/OneUptime/oneuptime
+OneUptime is the complete open-source observability platform.
+language: TypeScript
+stars: 5,637
+forked: 264
+stars today: 78
+
+wandb/openui
+https://github.com/wandb/openui
+OpenUI let's you describe UI using your imagination, then see it rendered live.
+language: TypeScript
+stars: 21,197
+forked: 1,962
+stars today: 37
+
+sammwyy/MikuMikuBeam
+https://github.com/sammwyy/MikuMikuBeam
+An open-source network stresser tool but it's Hatsune Miku
+language: TypeScript
+stars: 4,610
+forked: 325
+stars today: 19
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: TypeScript
+stars: 51,484
+forked: 4,878
+stars today: 135
+
+mantinedev/mantine
+https://github.com/mantinedev/mantine
+A fully featured React components library
+language: TypeScript
+stars: 28,544
+forked: 2,028
+stars today: 26
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards, BI and embedded AI. 📈📊📋🧑‍💻
+language: TypeScript
+stars: 7,726
+forked: 740
+stars today: 22
+
+aidenybai/react-scan
+https://github.com/aidenybai/react-scan
+Scan for React performance issues and eliminate slow renders in your app
+language: TypeScript
+stars: 18,123
+forked: 279
+stars today: 28
+
+supabase/supabase
+https://github.com/supabase/supabase
+The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 82,365
+forked: 8,512
+stars today: 95
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 96,055
+forked: 14,376
+stars today: 203
