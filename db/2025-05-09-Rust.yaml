@@ -1,0 +1,167 @@
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 58,542
+forked: 4,081
+stars today: 259
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 17,124
+forked: 556
+stars today: 39
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,625
+forked: 1,590
+stars today: 7
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 27,831
+forked: 1,924
+stars today: 17
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 38,562
+forked: 1,317
+stars today: 110
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 14,671
+forked: 1,380
+stars today: 15
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,163
+forked: 1,476
+stars today: 9
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 20,152
+forked: 1,451
+stars today: 21
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 23,780
+forked: 728
+stars today: 33
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 53,127
+forked: 1,497
+stars today: 200
+
+tauri-apps/plugins-workspace
+https://github.com/tauri-apps/plugins-workspace
+All of the official Tauri plugins in one place!
+language: Rust
+stars: 1,240
+forked: 375
+stars today: 0
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 25,259
+forked: 543
+stars today: 26
+
+rust-windowing/winit
+https://github.com/rust-windowing/winit
+Window handling library in pure Rust
+language: Rust
+stars: 5,247
+forked: 1,049
+stars today: 3
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+UI components for building fantastic desktop application by using GPUI.
+language: Rust
+stars: 1,347
+forked: 78
+stars today: 302
+
+reubeno/brush
+https://github.com/reubeno/brush
+bash/POSIX-compatible shell implemented in Rust
+language: Rust
+stars: 654
+forked: 19
+stars today: 85
+
+trifectatechfoundation/sudo-rs
+https://github.com/trifectatechfoundation/sudo-rs
+A memory safe implementation of sudo and su.
+language: Rust
+stars: 3,322
+forked: 95
+stars today: 73
+
+awslabs/mountpoint-s3
+https://github.com/awslabs/mountpoint-s3
+A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+language: Rust
+stars: 5,093
+forked: 200
+stars today: 2
+
+libp2p/rust-libp2p
+https://github.com/libp2p/rust-libp2p
+The Rust Implementation of the libp2p networking stack.
+language: Rust
+stars: 4,976
+forked: 1,065
+stars today: 3
+
+moghtech/komodo
+https://github.com/moghtech/komodo
+🦎 a tool to build and deploy software on many servers 🦎
+language: Rust
+stars: 5,389
+forked: 120
+stars today: 43
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 18,732
+forked: 581
+stars today: 35
+
+rust-bitcoin/rust-bitcoin
+https://github.com/rust-bitcoin/rust-bitcoin
+Rust Bitcoin library
+language: Rust
+stars: 2,346
+forked: 813
+stars today: 3
