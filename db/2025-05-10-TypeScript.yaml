@@ -1,0 +1,143 @@
+voideditor/void
+https://github.com/voideditor/void
+-
+language: TypeScript
+stars: 15,410
+forked: 896
+stars today: 1,879
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 25,787
+forked: 18,392
+stars today: 16
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 96,379
+forked: 14,434
+stars today: 179
+
+renovatebot/renovate
+https://github.com/renovatebot/renovate
+Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+language: TypeScript
+stars: 18,945
+forked: 2,545
+stars today: 7
+
+labring/FastGPT
+https://github.com/labring/FastGPT
+FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+language: TypeScript
+stars: 23,982
+forked: 6,195
+stars today: 24
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 91,077
+forked: 24,988
+stars today: 407
+
+microsoft/vscode
+https://github.com/microsoft/vscode
+Visual Studio Code
+language: TypeScript
+stars: 170,973
+forked: 32,149
+stars today: 70
+
+ant-design/ant-design
+https://github.com/ant-design/ant-design
+An enterprise-class UI design language and React UI library
+language: TypeScript
+stars: 94,549
+forked: 52,224
+stars today: 25
+
+beekeeper-studio/beekeeper-studio
+https://github.com/beekeeper-studio/beekeeper-studio
+Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+language: TypeScript
+stars: 19,080
+forked: 1,218
+stars today: 31
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: TypeScript
+stars: 51,758
+forked: 4,936
+stars today: 139
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+language: TypeScript
+stars: 3,408
+forked: 243
+stars today: 357
+
+cline/cline
+https://github.com/cline/cline
+Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+language: TypeScript
+stars: 43,205
+forked: 4,983
+stars today: 114
+
+ant-design/x
+https://github.com/ant-design/x
+Craft AI-driven interfaces effortlessly 🤖
+language: TypeScript
+stars: 3,271
+forked: 624
+stars today: 7
+
+brocoders/nestjs-boilerplate
+https://github.com/brocoders/nestjs-boilerplate
+NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
+language: TypeScript
+stars: 3,715
+forked: 786
+stars today: 6
+
+slidevjs/slidev
+https://github.com/slidevjs/slidev
+Presentation Slides for Developers
+language: TypeScript
+stars: 37,694
+forked: 1,550
+stars today: 80
+
+google/blockly
+https://github.com/google/blockly
+The web-based visual programming editor.
+language: TypeScript
+stars: 12,866
+forked: 3,765
+stars today: 8
+
+toeverything/AFFiNE
+https://github.com/toeverything/AFFiNE
+There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+language: TypeScript
+stars: 50,567
+forked: 3,348
+stars today: 56
+
+frangoteam/FUXA
+https://github.com/frangoteam/FUXA
+Web-based Process Visualization (SCADA/HMI/Dashboard) software
+language: TypeScript
+stars: 3,334
+forked: 946
+stars today: 15

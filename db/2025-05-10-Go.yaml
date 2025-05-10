@@ -1,0 +1,159 @@
+GoogleCloudPlatform/kubectl-ai
+https://github.com/GoogleCloudPlatform/kubectl-ai
+AI powered Kubernetes Assistant
+language: Go
+stars: 4,359
+forked: 297
+stars today: 400
+
+heroiclabs/nakama
+https://github.com/heroiclabs/nakama
+Distributed server for social and realtime games and apps.
+language: Go
+stars: 10,679
+forked: 1,203
+stars today: 46
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 14,250
+forked: 1,750
+stars today: 13
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 34,602
+forked: 3,194
+stars today: 28
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 6,304
+forked: 814
+stars today: 18
+
+uber-go/zap
+https://github.com/uber-go/zap
+Blazing fast, structured, leveled logging in Go.
+language: Go
+stars: 23,029
+forked: 1,474
+stars today: 8
+
+open-telemetry/opentelemetry-go-contrib
+https://github.com/open-telemetry/opentelemetry-go-contrib
+Collection of extensions for OpenTelemetry-Go.
+language: Go
+stars: 1,401
+forked: 652
+stars today: 7
+
+coreybutler/nvm-windows
+https://github.com/coreybutler/nvm-windows
+A node.js version management utility for Windows. Ironically written in Go.
+language: Go
+stars: 40,969
+forked: 3,510
+stars today: 13
+
+databricks/terraform-provider-databricks
+https://github.com/databricks/terraform-provider-databricks
+Databricks Terraform Provider
+language: Go
+stars: 513
+forked: 428
+stars today: 0
+
+gorilla/websocket
+https://github.com/gorilla/websocket
+Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+language: Go
+stars: 23,496
+forked: 3,540
+stars today: 16
+
+kubesphere/kubesphere
+https://github.com/kubesphere/kubesphere
+The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+language: Go
+stars: 15,926
+forked: 2,207
+stars today: 8
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end stack for WebRTC. SFU media server and SDKs.
+language: Go
+stars: 12,512
+forked: 1,128
+stars today: 10
+
+grafana/k6
+https://github.com/grafana/k6
+A modern load testing tool, using Go and JavaScript - https://k6.io
+language: Go
+stars: 27,560
+forked: 1,353
+stars today: 20
+
+pulumi/pulumi
+https://github.com/pulumi/pulumi
+Pulumi - Infrastructure as Code in any programming language 🚀
+language: Go
+stars: 22,970
+forked: 1,192
+stars today: 11
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 38,384
+forked: 5,928
+stars today: 4
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 4,696
+forked: 386
+stars today: 49
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 40,364
+forked: 2,939
+stars today: 10
+
+sqlc-dev/sqlc
+https://github.com/sqlc-dev/sqlc
+Generate type-safe code from SQL
+language: Go
+stars: 14,979
+forked: 873
+stars today: 8
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 5,682
+forked: 1,156
+stars today: 2
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 5,264
+forked: 663
+stars today: 23

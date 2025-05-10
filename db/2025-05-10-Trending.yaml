@@ -1,0 +1,119 @@
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+UI components for building fantastic desktop application by using GPUI.
+language: Rust
+stars: 1,763
+forked: 90
+stars today: 174
+
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 28,160
+forked: 4,147
+stars today: 434
+
+GoogleCloudPlatform/kubectl-ai
+https://github.com/GoogleCloudPlatform/kubectl-ai
+AI powered Kubernetes Assistant
+language: Go
+stars: 4,359
+forked: 297
+stars today: 400
+
+NVIDIA/NeMo
+https://github.com/NVIDIA/NeMo
+A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+language: Python
+stars: 14,145
+forked: 2,833
+stars today: 197
+
+voideditor/void
+https://github.com/voideditor/void
+-
+language: TypeScript
+stars: 15,410
+forked: 896
+stars today: 1,879
+
+Byaidu/PDFMathTranslate
+https://github.com/Byaidu/PDFMathTranslate
+PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+language: Python
+stars: 23,016
+forked: 1,968
+stars today: 124
+
+ultralytics/ultralytics
+https://github.com/ultralytics/ultralytics
+Ultralytics YOLO11 🚀
+language: Python
+stars: 40,502
+forked: 7,838
+stars today: 74
+
+ruanyf/weekly
+https://github.com/ruanyf/weekly
+科技爱好者周刊，每周五发布
+language: -
+stars: 60,717
+forked: 3,319
+stars today: 702
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 4,286
+forked: 348
+stars today: 179
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 25,787
+forked: 18,392
+stars today: 16
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 58,844
+forked: 4,109
+stars today: 345
+
+mason-org/mason.nvim
+https://github.com/mason-org/mason.nvim
+Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+language: Lua
+stars: 8,889
+forked: 307
+stars today: 28
+
+Blaizzy/mlx-audio
+https://github.com/Blaizzy/mlx-audio
+A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+language: Python
+stars: 1,296
+forked: 92
+stars today: 251
+
+Lightricks/ComfyUI-LTXVideo
+https://github.com/Lightricks/ComfyUI-LTXVideo
+LTX-Video Support for ComfyUI
+language: Python
+stars: 1,279
+forked: 98
+stars today: 46
+
+heroiclabs/nakama
+https://github.com/heroiclabs/nakama
+Distributed server for social and realtime games and apps.
+language: Go
+stars: 10,679
+forked: 1,203
+stars today: 46

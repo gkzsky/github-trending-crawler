@@ -1,0 +1,159 @@
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+UI components for building fantastic desktop application by using GPUI.
+language: Rust
+stars: 1,763
+forked: 90
+stars today: 174
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 58,844
+forked: 4,109
+stars today: 345
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 12,497
+forked: 947
+stars today: 46
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 3,474
+forked: 147
+stars today: 69
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 53,302
+forked: 1,500
+stars today: 170
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 18,754
+forked: 582
+stars today: 22
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 33,540
+forked: 2,225
+stars today: 23
+
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 26,309
+forked: 1,699
+stars today: 58
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 27,393
+forked: 1,094
+stars today: 32
+
+Wilfred/difftastic
+https://github.com/Wilfred/difftastic
+a structural diff that understands syntax 🟥🟩
+language: Rust
+stars: 22,164
+forked: 370
+stars today: 5
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 17,146
+forked: 557
+stars today: 32
+
+trifectatechfoundation/sudo-rs
+https://github.com/trifectatechfoundation/sudo-rs
+A memory safe implementation of sudo and su.
+language: Rust
+stars: 3,362
+forked: 98
+stars today: 46
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 38,643
+forked: 1,321
+stars today: 81
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,169
+forked: 1,477
+stars today: 5
+
+web-infra-dev/rspack
+https://github.com/web-infra-dev/rspack
+The fast Rust-based web bundler with webpack-compatible API 🦀️
+language: Rust
+stars: 11,411
+forked: 652
+stars today: 5
+
+tari-project/tari
+https://github.com/tari-project/tari
+The Tari protocol
+language: Rust
+stars: 400
+forked: 226
+stars today: 6
+
+awslabs/aws-lambda-web-adapter
+https://github.com/awslabs/aws-lambda-web-adapter
+Run web applications on AWS Lambda
+language: Rust
+stars: 2,277
+forked: 134
+stars today: 6
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 12,902
+forked: 405
+stars today: 29
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+language: Rust
+stars: 4,004
+forked: 262
+stars today: 22
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 21,493
+forked: 1,160
+stars today: 17
