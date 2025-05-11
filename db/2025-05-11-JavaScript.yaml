@@ -1,0 +1,159 @@
+mrdoob/three.js
+https://github.com/mrdoob/three.js
+JavaScript 3D Library.
+language: JavaScript
+stars: 106,147
+forked: 35,743
+stars today: 25
+
+modelcontextprotocol/servers
+https://github.com/modelcontextprotocol/servers
+Model Context Protocol Servers
+language: JavaScript
+stars: 45,203
+forked: 5,030
+stars today: 193
+
+sveltejs/svelte
+https://github.com/sveltejs/svelte
+web development for the rest of us
+language: JavaScript
+stars: 82,566
+forked: 4,510
+stars today: 24
+
+certd/certd
+https://github.com/certd/certd
+开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
+language: JavaScript
+stars: 2,810
+forked: 352
+stars today: 14
+
+nasa/openmct
+https://github.com/nasa/openmct
+A web based mission control framework.
+language: JavaScript
+stars: 12,354
+forked: 1,294
+stars today: 14
+
+cryptpad/cryptpad
+https://github.com/cryptpad/cryptpad
+Collaborative office suite, end-to-end encrypted and open-source.
+language: JavaScript
+stars: 6,408
+forked: 704
+stars today: 65
+
+pollinations/pollinations
+https://github.com/pollinations/pollinations
+Free Open-Source Image and Text Generation
+language: JavaScript
+stars: 1,863
+forked: 206
+stars today: 10
+
+WordPress/gutenberg
+https://github.com/WordPress/gutenberg
+The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+language: JavaScript
+stars: 11,107
+forked: 4,391
+stars today: 2
+
+philc/vimium
+https://github.com/philc/vimium
+The hacker's browser.
+language: JavaScript
+stars: 24,622
+forked: 2,507
+stars today: 12
+
+lovell/sharp
+https://github.com/lovell/sharp
+High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+language: JavaScript
+stars: 30,373
+forked: 1,330
+stars today: 9
+
+lodash/lodash
+https://github.com/lodash/lodash
+A modern JavaScript utility library delivering modularity, performance, & extras.
+language: JavaScript
+stars: 60,447
+forked: 7,065
+stars today: 9
+
+webpack/webpack
+https://github.com/webpack/webpack
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+language: JavaScript
+stars: 65,273
+forked: 9,080
+stars today: 8
+
+axios/axios
+https://github.com/axios/axios
+Promise based HTTP client for the browser and node.js
+language: JavaScript
+stars: 106,826
+forked: 11,138
+stars today: 10
+
+iamkun/dayjs
+https://github.com/iamkun/dayjs
+⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+language: JavaScript
+stars: 47,772
+forked: 2,356
+stars today: 6
+
+gatsbyjs/gatsby
+https://github.com/gatsbyjs/gatsby
+The best React-based framework with performance, scalability and security built in.
+language: JavaScript
+stars: 55,850
+forked: 10,294
+stars today: 4
+
+gorhill/uBlock
+https://github.com/gorhill/uBlock
+uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+language: JavaScript
+stars: 53,521
+forked: 3,480
+stars today: 45
+
+vercel/next.js
+https://github.com/vercel/next.js
+The React Framework
+language: JavaScript
+stars: 131,709
+forked: 28,345
+stars today: 31
+
+DavidAnson/markdownlint
+https://github.com/DavidAnson/markdownlint
+A Node.js style checker and lint tool for Markdown/CommonMark files.
+language: JavaScript
+stars: 5,136
+forked: 758
+stars today: 1
+
+sveltejs/kit
+https://github.com/sveltejs/kit
+web development, streamlined
+language: JavaScript
+stars: 19,280
+forked: 2,055
+stars today: 8
+
+nuejs/nue
+https://github.com/nuejs/nue
+Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+language: JavaScript
+stars: 8,569
+forked: 254
+stars today: 25

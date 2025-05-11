@@ -1,0 +1,175 @@
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 59,049
+forked: 4,141
+stars today: 259
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+UI components for building fantastic desktop application by using GPUI.
+language: Rust
+stars: 2,126
+forked: 103
+stars today: 507
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 37,711
+forked: 6,849
+stars today: 170
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 38,701
+forked: 1,322
+stars today: 83
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 3,500
+forked: 148
+stars today: 29
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 92,358
+forked: 2,844
+stars today: 40
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 27,412
+forked: 1,094
+stars today: 25
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+language: Rust
+stars: 4,021
+forked: 264
+stars today: 18
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 23,837
+forked: 646
+stars today: 15
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 12,920
+forked: 405
+stars today: 24
+
+trifectatechfoundation/sudo-rs
+https://github.com/trifectatechfoundation/sudo-rs
+A memory safe implementation of sudo and su.
+language: Rust
+stars: 3,400
+forked: 99
+stars today: 58
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,241
+forked: 918
+stars today: 0
+
+sunface/rust-by-practice
+https://github.com/sunface/rust-by-practice
+Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+language: Rust
+stars: 12,924
+forked: 1,058
+stars today: 9
+
+a2x/cs2-dumper
+https://github.com/a2x/cs2-dumper
+Counter-Strike: 2 Offset Dumper
+language: Rust
+stars: 1,251
+forked: 168
+stars today: 3
+
+quickwit-oss/tantivy
+https://github.com/quickwit-oss/tantivy
+Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+language: Rust
+stars: 13,121
+forked: 752
+stars today: 7
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 6,759
+forked: 1,024
+stars today: 6
+
+raphamorim/rio
+https://github.com/raphamorim/rio
+A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+language: Rust
+stars: 5,074
+forked: 182
+stars today: 9
+
+Canop/dysk
+https://github.com/Canop/dysk
+A linux utility to get information on filesystems, like df but better
+language: Rust
+stars: 1,230
+forked: 25
+stars today: 78
+
+rust-lang/rustup
+https://github.com/rust-lang/rustup
+The Rust toolchain installer
+language: Rust
+stars: 6,439
+forked: 946
+stars today: 4
+
+delta-io/delta-rs
+https://github.com/delta-io/delta-rs
+A native Rust library for Delta Lake, with bindings into Python
+language: Rust
+stars: 2,744
+forked: 475
+stars today: 4
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 15,352
+forked: 484
+stars today: 11
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 53,447
+forked: 1,503
+stars today: 156
