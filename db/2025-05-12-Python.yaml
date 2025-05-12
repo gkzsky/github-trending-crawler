@@ -1,0 +1,103 @@
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 29,838
+forked: 4,322
+stars today: 894
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 4,902
+forked: 389
+stars today: 328
+
+Lightricks/ComfyUI-LTXVideo
+https://github.com/Lightricks/ComfyUI-LTXVideo
+LTX-Video Support for ComfyUI
+language: Python
+stars: 1,530
+forked: 126
+stars today: 72
+
+Blaizzy/mlx-audio
+https://github.com/Blaizzy/mlx-audio
+A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+language: Python
+stars: 1,703
+forked: 117
+stars today: 203
+
+shane-mason/FieldStation42
+https://github.com/shane-mason/FieldStation42
+Broadcast TV simulator
+language: Python
+stars: 560
+forked: 24
+stars today: 125
+
+pydantic/pydantic-ai
+https://github.com/pydantic/pydantic-ai
+Agent Framework / shim to use Pydantic with LLMs
+language: Python
+stars: 9,357
+forked: 822
+stars today: 39
+
+remsky/Kokoro-FastAPI
+https://github.com/remsky/Kokoro-FastAPI
+Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
+language: Python
+stars: 2,654
+forked: 374
+stars today: 18
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 31,628
+forked: 3,551
+stars today: 76
+
+kijai/ComfyUI-KJNodes
+https://github.com/kijai/ComfyUI-KJNodes
+Various custom nodes for ComfyUI
+language: Python
+stars: 1,341
+forked: 130
+stars today: 4
+
+pipecat-ai/pipecat
+https://github.com/pipecat-ai/pipecat
+Open Source framework for voice and multimodal conversational AI
+language: Python
+stars: 6,040
+forked: 827
+stars today: 20
+
+MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo
+A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+language: Python
+stars: 20,120
+forked: 2,988
+stars today: 25
+
+yeongpin/cursor-free-vip
+https://github.com/yeongpin/cursor-free-vip
+[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+language: Python
+stars: 24,952
+forked: 3,115
+stars today: 152
+
+airweave-ai/airweave
+https://github.com/airweave-ai/airweave
+Airweave lets agents search any app or database
+language: Python
+stars: 924
+forked: 127
+stars today: 31

@@ -1,0 +1,183 @@
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+UI components for building fantastic desktop application by using GPUI.
+language: Rust
+stars: 2,408
+forked: 111
+stars today: 299
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 59,246
+forked: 4,157
+stars today: 223
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 30,410
+forked: 3,170
+stars today: 27
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 4,175
+forked: 373
+stars today: 17
+
+XAMPPRocky/tokei
+https://github.com/XAMPPRocky/tokei
+Count your code, quickly.
+language: Rust
+stars: 12,363
+forked: 576
+stars today: 13
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 37,897
+forked: 6,890
+stars today: 221
+
+trifectatechfoundation/sudo-rs
+https://github.com/trifectatechfoundation/sudo-rs
+A memory safe implementation of sudo and su.
+language: Rust
+stars: 3,436
+forked: 100
+stars today: 38
+
+gleam-lang/gleam
+https://github.com/gleam-lang/gleam
+⭐️ A friendly language for building type-safe, scalable systems!
+language: Rust
+stars: 19,254
+forked: 819
+stars today: 12
+
+apache/opendal
+https://github.com/apache/opendal
+Apache OpenDAL: One Layer, All Storage.
+language: Rust
+stars: 4,101
+forked: 589
+stars today: 3
+
+bee-san/RustScan
+https://github.com/bee-san/RustScan
+🤖 The Modern Port Scanner 🤖
+language: Rust
+stars: 16,377
+forked: 1,101
+stars today: 10
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 12,943
+forked: 407
+stars today: 23
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 60,557
+forked: 2,990
+stars today: 521
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 21,509
+forked: 1,162
+stars today: 11
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 8,897
+forked: 1,966
+stars today: 4
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 39,488
+forked: 3,878
+stars today: 20
+
+actix/actix-web
+https://github.com/actix/actix-web
+Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+language: Rust
+stars: 22,868
+forked: 1,739
+stars today: 9
+
+mullvad/mullvadvpn-app
+https://github.com/mullvad/mullvadvpn-app
+The Mullvad VPN client app for desktop and mobile
+language: Rust
+stars: 5,767
+forked: 401
+stars today: 5
+
+Universal-Debloater-Alliance/universal-android-debloater-next-generation
+https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 3,683
+forked: 135
+stars today: 12
+
+Canop/dysk
+https://github.com/Canop/dysk
+A linux utility to get information on filesystems, like df but better
+language: Rust
+stars: 1,286
+forked: 26
+stars today: 59
+
+Jondolf/avian
+https://github.com/Jondolf/avian
+ECS-driven 2D and 3D physics engine for the Bevy game engine.
+language: Rust
+stars: 2,089
+forked: 158
+stars today: 20
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 24,105
+forked: 1,380
+stars today: 6
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 38,728
+forked: 1,323
+stars today: 50
+
+elkowar/eww
+https://github.com/elkowar/eww
+ElKowars wacky widgets
+language: Rust
+stars: 10,556
+forked: 446
+stars today: 18

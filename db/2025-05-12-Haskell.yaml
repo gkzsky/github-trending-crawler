@@ -1,0 +1,95 @@
+tidalcycles/Tidal
+https://github.com/tidalcycles/Tidal
+Pattern language
+language: Haskell
+stars: 2,490
+forked: 265
+stars today: 8
+
+composewell/streamly
+https://github.com/composewell/streamly
+High performance, concurrent functional programming abstractions
+language: Haskell
+stars: 891
+forked: 66
+stars today: 0
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,056
+forked: 205
+stars today: 0
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 145
+forked: 61
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,257
+forked: 1,084
+stars today: 2
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,798
+forked: 388
+stars today: 0
+
+diku-dk/futhark
+https://github.com/diku-dk/futhark
+💥💻💥 A data-parallel functional programming language
+language: Haskell
+stars: 2,519
+forked: 177
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,460
+forked: 332
+stars today: 1
+
+IntersectMBO/cardano-db-sync
+https://github.com/IntersectMBO/cardano-db-sync
+A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+language: Haskell
+stars: 306
+forked: 163
+stars today: 0
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 37,325
+forked: 3,507
+stars today: 14
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 304
+forked: 90
+stars today: 1
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 218
+forked: 45
+stars today: 0
