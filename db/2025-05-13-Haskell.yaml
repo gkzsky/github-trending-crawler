@@ -1,0 +1,103 @@
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 145
+forked: 61
+stars today: 0
+
+tidalcycles/Tidal
+https://github.com/tidalcycles/Tidal
+Pattern language
+language: Haskell
+stars: 2,491
+forked: 265
+stars today: 3
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 218
+forked: 45
+stars today: 0
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 304
+forked: 90
+stars today: 0
+
+carp-lang/Carp
+https://github.com/carp-lang/Carp
+A statically typed lisp, without a GC, for real-time applications.
+language: Haskell
+stars: 5,655
+forked: 172
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,358
+forked: 1,814
+stars today: 4
+
+NixOS/nixfmt
+https://github.com/NixOS/nixfmt
+The official (but not yet stable) formatter for Nix code
+language: Haskell
+stars: 1,134
+forked: 55
+stars today: 1
+
+composewell/streamly
+https://github.com/composewell/streamly
+High performance, concurrent functional programming abstractions
+language: Haskell
+stars: 891
+forked: 66
+stars today: 0
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,054
+forked: 205
+stars today: 0
+
+IntersectMBO/cardano-db-sync
+https://github.com/IntersectMBO/cardano-db-sync
+A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+language: Haskell
+stars: 306
+forked: 163
+stars today: 0
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,798
+forked: 388
+stars today: 0
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 37,340
+forked: 3,509
+stars today: 17
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,126
+forked: 733
+stars today: 0
