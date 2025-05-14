@@ -1,0 +1,119 @@
+plankanban/planka
+https://github.com/plankanban/planka
+PLANKA is the kanban-style project mastering tool for everyone
+language: JavaScript
+stars: 9,219
+forked: 908
+stars today: 19
+
+facebook/react
+https://github.com/facebook/react
+The library for web and native user interfaces.
+language: JavaScript
+stars: 235,384
+forked: 48,470
+stars today: 43
+
+gchq/CyberChef
+https://github.com/gchq/CyberChef
+The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+language: JavaScript
+stars: 31,198
+forked: 3,497
+stars today: 11
+
+pedroslopez/whatsapp-web.js
+https://github.com/pedroslopez/whatsapp-web.js
+A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+language: JavaScript
+stars: 16,799
+forked: 4,053
+stars today: 11
+
+quasarframework/quasar
+https://github.com/quasarframework/quasar
+Quasar Framework - Build high-performance VueJS user interfaces in record time
+language: JavaScript
+stars: 26,577
+forked: 3,608
+stars today: 3
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 10,113
+forked: 2,818
+stars today: 5
+
+HumanSignal/label-studio
+https://github.com/HumanSignal/label-studio
+Label Studio is a multi-type data labeling and annotation tool with standardized output format
+language: JavaScript
+stars: 22,047
+forked: 2,734
+stars today: 13
+
+modelcontextprotocol/servers
+https://github.com/modelcontextprotocol/servers
+Model Context Protocol Servers
+language: JavaScript
+stars: 45,973
+forked: 5,146
+stars today: 265
+
+songquanpeng/one-api
+https://github.com/songquanpeng/one-api
+LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+language: JavaScript
+stars: 25,206
+forked: 5,160
+stars today: 28
+
+node-red/node-red
+https://github.com/node-red/node-red
+Low-code programming for event-driven applications
+language: JavaScript
+stars: 21,110
+forked: 3,561
+stars today: 18
+
+f/awesome-chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts
+This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+language: JavaScript
+stars: 124,339
+forked: 16,631
+stars today: 69
+
+NodeBB/NodeBB
+https://github.com/NodeBB/NodeBB
+Node.js based forum software built for the modern web
+language: JavaScript
+stars: 14,592
+forked: 2,851
+stars today: 3
+
+evalstate/fast-agent
+https://github.com/evalstate/fast-agent
+Define, Prompt and Test MCP enabled Agents and Workflows
+language: JavaScript
+stars: 1,838
+forked: 179
+stars today: 32
+
+jgraph/drawio
+https://github.com/jgraph/drawio
+draw.io is a JavaScript, client-side editor for general diagramming.
+language: JavaScript
+stars: 1,449
+forked: 251
+stars today: 24
+
+WebGoat/WebGoat
+https://github.com/WebGoat/WebGoat
+WebGoat is a deliberately insecure application
+language: JavaScript
+stars: 7,475
+forked: 6,689
+stars today: 3

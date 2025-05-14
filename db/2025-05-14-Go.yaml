@@ -1,0 +1,183 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 26,514
+forked: 2,541
+stars today: 41
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end stack for WebRTC. SFU media server and SDKs.
+language: Go
+stars: 12,567
+forked: 1,134
+stars today: 23
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 38,418
+forked: 5,930
+stars today: 7
+
+kubernetes/dashboard
+https://github.com/kubernetes/dashboard
+General-purpose web UI for Kubernetes clusters
+language: Go
+stars: 14,914
+forked: 4,230
+stars today: 3
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,163
+forked: 1,614
+stars today: 5
+
+usual2970/certimate
+https://github.com/usual2970/certimate
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+language: Go
+stars: 6,552
+forked: 598
+stars today: 15
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 25,528
+forked: 4,864
+stars today: 12
+
+uber-go/mock
+https://github.com/uber-go/mock
+GoMock is a mocking framework for the Go programming language.
+language: Go
+stars: 2,776
+forked: 140
+stars today: 3
+
+opentofu/opentofu
+https://github.com/opentofu/opentofu
+OpenTofu lets you declaratively manage your cloud infrastructure.
+language: Go
+stars: 25,356
+forked: 993
+stars today: 11
+
+googleapis/google-cloud-go
+https://github.com/googleapis/google-cloud-go
+Google Cloud Client Libraries for Go.
+language: Go
+stars: 4,256
+forked: 1,420
+stars today: 0
+
+iawia002/lux
+https://github.com/iawia002/lux
+👾 Fast and simple video download library and CLI tool written in Go
+language: Go
+stars: 29,502
+forked: 3,141
+stars today: 32
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 11,779
+forked: 906
+stars today: 8
+
+golang-jwt/jwt
+https://github.com/golang-jwt/jwt
+Go implementation of JSON Web Tokens (JWT).
+language: Go
+stars: 8,014
+forked: 375
+stars today: 3
+
+go-git/go-git
+https://github.com/go-git/go-git
+A highly extensible Git implementation in pure Go.
+language: Go
+stars: 6,511
+forked: 788
+stars today: 3
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 18,303
+forked: 1,371
+stars today: 10
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,555
+forked: 2,731
+stars today: 0
+
+labstack/echo
+https://github.com/labstack/echo
+High performance, minimalist Go web framework
+language: Go
+stars: 30,987
+forked: 2,272
+stars today: 7
+
+dexidp/dex
+https://github.com/dexidp/dex
+OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+language: Go
+stars: 9,890
+forked: 1,777
+stars today: 5
+
+ehang-io/nps
+https://github.com/ehang-io/nps
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+language: Go
+stars: 32,448
+forked: 5,856
+stars today: 18
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,379
+forked: 4,360
+stars today: 6
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 19,404
+forked: 871
+stars today: 17
+
+spf13/viper
+https://github.com/spf13/viper
+Go configuration with fangs
+language: Go
+stars: 28,491
+forked: 2,054
+stars today: 11
+
+qax-os/excelize
+https://github.com/qax-os/excelize
+Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+language: Go
+stars: 19,094
+forked: 1,777
+stars today: 44
