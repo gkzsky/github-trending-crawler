@@ -1,0 +1,95 @@
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: C++
+stars: 19,315
+forked: 1,428
+stars today: 304
+
+mem0ai/mem0
+https://github.com/mem0ai/mem0
+Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+language: Python
+stars: 29,869
+forked: 2,886
+stars today: 473
+
+airweave-ai/airweave
+https://github.com/airweave-ai/airweave
+Airweave lets agents search any app
+language: Python
+stars: 1,657
+forked: 171
+stars today: 183
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 3,072
+forked: 593
+stars today: 146
+
+openai/simple-evals
+https://github.com/openai/simple-evals
+-
+language: Python
+stars: 3,213
+forked: 313
+stars today: 131
+
+ossu/computer-science
+https://github.com/ossu/computer-science
+🎓 Path to a free self-taught education in Computer Science!
+language: HTML
+stars: 179,504
+forked: 22,759
+stars today: 90
+
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 32,750
+forked: 4,605
+stars today: 537
+
+xming521/WeClone
+https://github.com/xming521/WeClone
+🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+language: Python
+stars: 7,461
+forked: 578
+stars today: 2,057
+
+i-am-alice/3rd-devs
+https://github.com/i-am-alice/3rd-devs
+-
+language: TypeScript
+stars: 393
+forked: 267
+stars today: 44
+
+ahmedkhaleel2004/gitdiagram
+https://github.com/ahmedkhaleel2004/gitdiagram
+Free, simple, fast interactive diagrams for any GitHub repository
+language: TypeScript
+stars: 12,174
+forked: 849
+stars today: 157
+
+xaoyaoo/PyWxDump
+https://github.com/xaoyaoo/PyWxDump
+获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
+language: Python
+stars: 7,751
+forked: 1,220
+stars today: 141
+
+mlabonne/llm-course
+https://github.com/mlabonne/llm-course
+Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+language: Jupyter Notebook
+stars: 51,102
+forked: 5,480
+stars today: 453

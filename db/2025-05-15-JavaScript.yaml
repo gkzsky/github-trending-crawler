@@ -1,0 +1,127 @@
+DataDog/documentation
+https://github.com/DataDog/documentation
+The source for Datadog's documentation site.
+language: JavaScript
+stars: 513
+forked: 1,167
+stars today: 1
+
+chinese-poetry/chinese-poetry
+https://github.com/chinese-poetry/chinese-poetry
+The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+language: JavaScript
+stars: 49,234
+forked: 9,882
+stars today: 71
+
+f/awesome-chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts
+This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+language: JavaScript
+stars: 124,407
+forked: 16,641
+stars today: 93
+
+plankanban/planka
+https://github.com/plankanban/planka
+PLANKA is the kanban-style project mastering tool for everyone.
+language: JavaScript
+stars: 9,245
+forked: 908
+stars today: 28
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 10,118
+forked: 2,821
+stars today: 12
+
+wonderwhy-er/DesktopCommanderMCP
+https://github.com/wonderwhy-er/DesktopCommanderMCP
+This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+language: JavaScript
+stars: 2,771
+forked: 295
+stars today: 39
+
+shaka-project/shaka-player
+https://github.com/shaka-project/shaka-player
+JavaScript player library / DASH & HLS client / MSE-EME player
+language: JavaScript
+stars: 7,493
+forked: 1,384
+stars today: 3
+
+facebook/react
+https://github.com/facebook/react
+The library for web and native user interfaces.
+language: JavaScript
+stars: 235,424
+forked: 48,484
+stars today: 48
+
+DataDog/dd-trace-js
+https://github.com/DataDog/dd-trace-js
+Datadog APM client for Node.js
+language: JavaScript
+stars: 705
+forked: 335
+stars today: 1
+
+jgraph/drawio
+https://github.com/jgraph/drawio
+draw.io is a JavaScript, client-side editor for general diagramming.
+language: JavaScript
+stars: 1,472
+forked: 251
+stars today: 31
+
+gradio-app/fastrtc
+https://github.com/gradio-app/fastrtc
+The python library for real-time communication
+language: JavaScript
+stars: 3,878
+forked: 336
+stars today: 10
+
+rabbitmq/rabbitmq-server
+https://github.com/rabbitmq/rabbitmq-server
+Open source RabbitMQ: core server and tier 1 (built-in) plugins
+language: JavaScript
+stars: 12,783
+forked: 3,947
+stars today: 6
+
+OpenZeppelin/openzeppelin-contracts-upgradeable
+https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
+language: JavaScript
+stars: 1,062
+forked: 462
+stars today: 1
+
+huggingface/transformers.js
+https://github.com/huggingface/transformers.js
+State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+language: JavaScript
+stars: 13,583
+forked: 916
+stars today: 6
+
+pedroslopez/whatsapp-web.js
+https://github.com/pedroslopez/whatsapp-web.js
+A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+language: JavaScript
+stars: 16,807
+forked: 4,057
+stars today: 15
+
+qishibo/AnotherRedisDesktopManager
+https://github.com/qishibo/AnotherRedisDesktopManager
+🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
+language: JavaScript
+stars: 32,290
+forked: 2,636
+stars today: 8
