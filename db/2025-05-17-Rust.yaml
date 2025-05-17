@@ -1,0 +1,135 @@
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 17,578
+forked: 602
+stars today: 87
+
+rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy
+A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+language: Rust
+stars: 12,028
+forked: 1,648
+stars today: 3
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 15,496
+forked: 496
+stars today: 27
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 88,343
+forked: 12,610
+stars today: 81
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 14,763
+forked: 512
+stars today: 107
+
+awslabs/mountpoint-s3
+https://github.com/awslabs/mountpoint-s3
+A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+language: Rust
+stars: 5,112
+forked: 201
+stars today: 7
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 54,499
+forked: 1,529
+stars today: 174
+
+bottlerocket-os/bottlerocket
+https://github.com/bottlerocket-os/bottlerocket
+An operating system designed for hosting containers
+language: Rust
+stars: 9,116
+forked: 532
+stars today: 4
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,153
+forked: 810
+stars today: 4
+
+rerun-io/rerun
+https://github.com/rerun-io/rerun
+Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+language: Rust
+stars: 8,414
+forked: 451
+stars today: 13
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 102,993
+forked: 5,587
+stars today: 23
+
+kitao/pyxel
+https://github.com/kitao/pyxel
+A retro game engine for Python
+language: Rust
+stars: 16,292
+forked: 878
+stars today: 9
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+language: Rust
+stars: 7,229
+forked: 456
+stars today: 4
+
+apache/arrow-rs
+https://github.com/apache/arrow-rs
+Official Rust implementation of Apache Arrow
+language: Rust
+stars: 2,936
+forked: 924
+stars today: 7
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 35,088
+forked: 1,822
+stars today: 21
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 40,494
+forked: 1,098
+stars today: 72
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 15,161
+forked: 601
+stars today: 5
