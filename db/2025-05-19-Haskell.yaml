@@ -1,0 +1,103 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 37,428
+forked: 3,518
+stars today: 15
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,290
+forked: 1,087
+stars today: 2
+
+composewell/streamly
+https://github.com/composewell/streamly
+High performance, concurrent functional programming abstractions
+language: Haskell
+stars: 891
+forked: 66
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,473
+forked: 332
+stars today: 3
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,798
+forked: 389
+stars today: 0
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 145
+forked: 61
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,384
+forked: 1,817
+stars today: 5
+
+IntersectMBO/ouroboros-network
+https://github.com/IntersectMBO/ouroboros-network
+Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+language: Haskell
+stars: 281
+forked: 87
+stars today: 0
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,019
+forked: 276
+stars today: 2
+
+agda/agda
+https://github.com/agda/agda
+Agda is a dependently typed programming language / interactive theorem prover.
+language: Haskell
+stars: 2,635
+forked: 369
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,125
+forked: 731
+stars today: 0
+
+diku-dk/futhark
+https://github.com/diku-dk/futhark
+💥💻💥 A data-parallel functional programming language
+language: Haskell
+stars: 2,527
+forked: 178
+stars today: 3
+
+purescript/purescript
+https://github.com/purescript/purescript
+A strongly-typed language that compiles to JavaScript
+language: Haskell
+stars: 8,717
+forked: 569
+stars today: 1
