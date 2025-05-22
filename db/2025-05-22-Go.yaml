@@ -1,0 +1,167 @@
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 518
+forked: 40
+stars today: 64
+
+usememos/memos
+https://github.com/usememos/memos
+An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+language: Go
+stars: 40,586
+forked: 2,884
+stars today: 498
+
+nektos/act
+https://github.com/nektos/act
+Run your GitHub Actions locally 🚀
+language: Go
+stars: 62,737
+forked: 1,632
+stars today: 293
+
+keploy/keploy
+https://github.com/keploy/keploy
+Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
+language: Go
+stars: 9,910
+forked: 1,170
+stars today: 110
+
+containers/skopeo
+https://github.com/containers/skopeo
+Work with remote images registries - retrieving information, images, signing content
+language: Go
+stars: 9,191
+forked: 838
+stars today: 12
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 19,795
+forked: 610
+stars today: 29
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 5,050
+forked: 431
+stars today: 44
+
+TencentCloud/tencentcloud-sdk-go
+https://github.com/TencentCloud/tencentcloud-sdk-go
+Tencent Cloud API 3.0 SDK for Golang
+language: Go
+stars: 687
+forked: 198
+stars today: 4
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,458
+forked: 1,419
+stars today: 7
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,114
+forked: 1,300
+stars today: 2
+
+ThreeDotsLabs/watermill
+https://github.com/ThreeDotsLabs/watermill
+Building event-driven applications the easy way in Go.
+language: Go
+stars: 8,438
+forked: 436
+stars today: 15
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 45,220
+forked: 9,867
+stars today: 8
+
+mark3labs/mcphost
+https://github.com/mark3labs/mcphost
+A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+language: Go
+stars: 889
+forked: 136
+stars today: 11
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 141,253
+forked: 11,826
+stars today: 122
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,307
+forked: 9,485
+stars today: 4
+
+kubernetes/autoscaler
+https://github.com/kubernetes/autoscaler
+Autoscaling components for Kubernetes
+language: Go
+stars: 8,405
+forked: 4,110
+stars today: 1
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,206
+forked: 1,630
+stars today: 9
+
+kubernetes-sigs/kustomize
+https://github.com/kubernetes-sigs/kustomize
+Customization of kubernetes YAML configurations
+language: Go
+stars: 11,448
+forked: 2,307
+stars today: 3
+
+prometheus/alertmanager
+https://github.com/prometheus/alertmanager
+Prometheus Alertmanager
+language: Go
+stars: 6,997
+forked: 2,216
+stars today: 1
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 28,575
+forked: 4,288
+stars today: 21
+
+rancher/rancher
+https://github.com/rancher/rancher
+Complete container management platform
+language: Go
+stars: 24,167
+forked: 3,040
+stars today: 10

@@ -1,0 +1,103 @@
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 31,990
+forked: 5,489
+stars today: 1,214
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 300,299
+forked: 49,812
+stars today: 209
+
+volcengine/verl
+https://github.com/volcengine/verl
+verl: Volcano Engine Reinforcement Learning for LLMs
+language: Python
+stars: 8,304
+forked: 1,006
+stars today: 62
+
+tinygrad/tinygrad
+https://github.com/tinygrad/tinygrad
+You like pytorch? You like micrograd? You love tinygrad! ❤️
+language: Python
+stars: 29,160
+forked: 3,396
+stars today: 90
+
+bilibili/Index-anisora
+https://github.com/bilibili/Index-anisora
+-
+language: Python
+stars: 733
+forked: 34
+stars today: 127
+
+unslothai/unsloth
+https://github.com/unslothai/unsloth
+Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+language: Python
+stars: 39,127
+forked: 3,064
+stars today: 106
+
+apache/iceberg-python
+https://github.com/apache/iceberg-python
+Apache PyIceberg
+language: Python
+stars: 742
+forked: 289
+stars today: 4
+
+sherlock-project/sherlock
+https://github.com/sherlock-project/sherlock
+Hunt down social media accounts by username across social networks
+language: Python
+stars: 65,496
+forked: 7,531
+stars today: 235
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 47,793
+forked: 7,536
+stars today: 87
+
+acl-org/aclpubcheck
+https://github.com/acl-org/aclpubcheck
+Tools for checking ACL paper submissions
+language: Python
+stars: 714
+forked: 51
+stars today: 2
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+language: Python
+stars: 19,480
+forked: 3,202
+stars today: 68
+
+celery/celery
+https://github.com/celery/celery
+Distributed Task Queue (development branch)
+language: Python
+stars: 26,398
+forked: 4,782
+stars today: 15
+
+comfyanonymous/ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 77,427
+forked: 8,511
+stars today: 109
