@@ -1,0 +1,143 @@
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,350
+forked: 492
+stars today: 1
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,393
+forked: 327
+stars today: 3
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,155
+forked: 28,562
+stars today: 13
+
+apache/kyuubi
+https://github.com/apache/kyuubi
+Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+language: Scala
+stars: 2,188
+forked: 939
+stars today: 1
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,387
+forked: 768
+stars today: 7
+
+JohnSnowLabs/spark-nlp
+https://github.com/JohnSnowLabs/spark-nlp
+State of the Art Natural Language Processing
+language: Scala
+stars: 3,980
+forked: 724
+stars today: 1
+
+akka/akka
+https://github.com/akka/akka
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,161
+forked: 3,585
+stars today: 2
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,666
+forked: 2,405
+stars today: 5
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,658
+forked: 1,206
+stars today: 0
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 834
+forked: 199
+stars today: 0
+
+yahoo/CMAK
+https://github.com/yahoo/CMAK
+CMAK is a tool for managing Apache Kafka clusters
+language: Scala
+stars: 11,900
+forked: 2,509
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,037
+forked: 1,833
+stars today: 2
+
+awslabs/deequ
+https://github.com/awslabs/deequ
+Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+language: Scala
+stars: 3,424
+forked: 554
+stars today: 1
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 912
+forked: 608
+stars today: 1
+
+scalapb/ScalaPB
+https://github.com/scalapb/ScalaPB
+Protocol buffer compiler for Scala.
+language: Scala
+stars: 1,316
+forked: 288
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Scala
+stars: 814
+forked: 206
+stars today: 0
+
+NVIDIA/spark-rapids
+https://github.com/NVIDIA/spark-rapids
+Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+language: Scala
+stars: 902
+forked: 252
+stars today: 0
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,273
+forked: 628
+stars today: 1

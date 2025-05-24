@@ -1,0 +1,87 @@
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+language: Python
+stars: 20,201
+forked: 3,275
+stars today: 312
+
+All-Hands-AI/OpenHands
+https://github.com/All-Hands-AI/OpenHands
+🙌 OpenHands: Code Less, Make More
+language: Python
+stars: 55,609
+forked: 6,244
+stars today: 504
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 951
+forked: 55
+stars today: 207
+
+mindsdb/mindsdb
+https://github.com/mindsdb/mindsdb
+AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+language: Python
+stars: 29,005
+forked: 5,049
+stars today: 269
+
+XiaoYouChR/Ghost-Downloader-3
+https://github.com/XiaoYouChR/Ghost-Downloader-3
+A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+language: Python
+stars: 1,540
+forked: 78
+stars today: 126
+
+microsoft/vscode
+https://github.com/microsoft/vscode
+Visual Studio Code
+language: TypeScript
+stars: 172,448
+forked: 32,578
+stars today: 306
+
+freeCodeCamp/freeCodeCamp
+https://github.com/freeCodeCamp/freeCodeCamp
+freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+language: TypeScript
+stars: 418,551
+forked: 40,191
+stars today: 127
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 300,749
+forked: 49,864
+stars today: 171
+
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: Shell
+stars: 9,346
+forked: 517
+stars today: 275
+
+flutter/flutter
+https://github.com/flutter/flutter
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+language: Dart
+stars: 170,501
+forked: 28,586
+stars today: 55
+
+Fosowl/agenticSeek
+https://github.com/Fosowl/agenticSeek
+Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+language: Python
+stars: 3,347
+forked: 356
+stars today: 133

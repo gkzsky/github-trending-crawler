@@ -1,0 +1,151 @@
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 12,999
+forked: 997
+stars today: 60
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 64,904
+forked: 3,132
+stars today: 326
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 60,286
+forked: 4,314
+stars today: 68
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
+language: Rust
+stars: 18,531
+forked: 1,837
+stars today: 5
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 6,962
+forked: 11,487
+stars today: 4
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 1,175
+forked: 173
+stars today: 28
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 88,884
+forked: 12,696
+stars today: 117
+
+IBM/ACE-RISCV
+https://github.com/IBM/ACE-RISCV
+Assured confidential execution (ACE) implements VM-based trusted execution environment (TEE) for embedded RISC-V systems with focus on a formally verified and auditable firmware.
+language: Rust
+stars: 143
+forked: 16
+stars today: 10
+
+matter-labs/zksync-era
+https://github.com/matter-labs/zksync-era
+zkSync era
+language: Rust
+stars: 3,173
+forked: 2,123
+stars today: 2
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 92,759
+forked: 2,861
+stars today: 25
+
+greenbone/openvas-scanner
+https://github.com/greenbone/openvas-scanner
+This repository contains the scanner component for Greenbone Community Edition.
+language: Rust
+stars: 3,833
+forked: 672
+stars today: 3
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+UI components for building fantastic desktop application by using GPUI.
+language: Rust
+stars: 2,983
+forked: 130
+stars today: 24
+
+hrkfdn/ncspot
+https://github.com/hrkfdn/ncspot
+Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+language: Rust
+stars: 5,594
+forked: 229
+stars today: 84
+
+TheAlgorithms/Rust
+https://github.com/TheAlgorithms/Rust
+All Algorithms implemented in Rust
+language: Rust
+stars: 23,992
+forked: 2,389
+stars today: 27
+
+GreptimeTeam/greptimedb
+https://github.com/GreptimeTeam/greptimedb
+Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+language: Rust
+stars: 5,227
+forked: 377
+stars today: 6
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,239
+forked: 1,494
+stars today: 6
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 37,677
+forked: 2,830
+stars today: 27
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,302
+forked: 3,763
+stars today: 2
+
+databendlabs/databend
+https://github.com/databendlabs/databend
+𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+language: Rust
+stars: 8,440
+forked: 775
+stars today: 3
