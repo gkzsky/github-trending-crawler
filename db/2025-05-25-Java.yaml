@@ -1,0 +1,183 @@
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 77,230
+forked: 41,179
+stars today: 13
+
+microsoft/typespec
+https://github.com/microsoft/typespec
+-
+language: Java
+stars: 5,097
+forked: 276
+stars today: 2
+
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 5,330
+forked: 1,470
+stars today: 22
+
+apache/rocketmq
+https://github.com/apache/rocketmq
+Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+language: Java
+stars: 21,790
+forked: 11,860
+stars today: 4
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 9,141
+forked: 6,046
+stars today: 1
+
+provectus/kafka-ui
+https://github.com/provectus/kafka-ui
+Open-Source Web UI for Apache Kafka Management
+language: Java
+stars: 10,815
+forked: 1,275
+stars today: 9
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+language: Java
+stars: 31,439
+forked: 13,028
+stars today: 3
+
+DependencyTrack/dependency-track
+https://github.com/DependencyTrack/dependency-track
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+language: Java
+stars: 3,052
+forked: 628
+stars today: 2
+
+apache/flink-cdc
+https://github.com/apache/flink-cdc
+Flink CDC is a streaming data integration tool
+language: Java
+stars: 6,068
+forked: 2,012
+stars today: 0
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 1,624
+forked: 396
+stars today: 10
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 50,797
+forked: 10,995
+stars today: 9
+
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 10,644
+forked: 3,119
+stars today: 1
+
+apache/beam
+https://github.com/apache/beam
+Apache Beam is a unified programming model for Batch and Streaming data processing.
+language: Java
+stars: 8,111
+forked: 4,342
+stars today: 1
+
+google/ExoPlayer
+https://github.com/google/ExoPlayer
+This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
+language: Java
+stars: 21,835
+forked: 6,036
+stars today: 1
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,537
+forked: 2,846
+stars today: 3
+
+Catfriend1/syncthing-android
+https://github.com/Catfriend1/syncthing-android
+Syncthing-Fork - A Syncthing Wrapper for Android.
+language: Java
+stars: 3,686
+forked: 115
+stars today: 7
+
+kubernetes-client/java
+https://github.com/kubernetes-client/java
+Official Java client library for kubernetes
+language: Java
+stars: 3,752
+forked: 1,990
+stars today: 0
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,519
+forked: 1,983
+stars today: 1
+
+alibaba/arthas
+https://github.com/alibaba/arthas
+Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+language: Java
+stars: 36,283
+forked: 7,553
+stars today: 1
+
+binarywang/WxJava
+https://github.com/binarywang/WxJava
+微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+language: Java
+stars: 31,134
+forked: 8,855
+stars today: 4
+
+traccar/traccar
+https://github.com/traccar/traccar
+Traccar GPS Tracking System
+language: Java
+stars: 5,867
+forked: 2,778
+stars today: 2
+
+Card-Forge/forge
+https://github.com/Card-Forge/forge
+An unofficial rules engine for the world's greatest card game.
+language: Java
+stars: 1,353
+forked: 647
+stars today: 8
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 7,462
+forked: 2,566
+stars today: 3

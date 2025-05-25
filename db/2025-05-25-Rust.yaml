@@ -1,0 +1,183 @@
+mfontanini/presenterm
+https://github.com/mfontanini/presenterm
+A markdown terminal slideshow tool
+language: Rust
+stars: 6,087
+forked: 124
+stars today: 68
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 19,334
+forked: 2,928
+stars today: 628
+
+TheAlgorithms/Rust
+https://github.com/TheAlgorithms/Rust
+All Algorithms implemented in Rust
+language: Rust
+stars: 24,004
+forked: 2,388
+stars today: 14
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 29,912
+forked: 2,063
+stars today: 18
+
+awslabs/mountpoint-s3
+https://github.com/awslabs/mountpoint-s3
+A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+language: Rust
+stars: 5,129
+forked: 202
+stars today: 3
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 3,578
+forked: 261
+stars today: 5
+
+eza-community/eza
+https://github.com/eza-community/eza
+A modern alternative to ls
+language: Rust
+stars: 15,503
+forked: 294
+stars today: 16
+
+hrkfdn/ncspot
+https://github.com/hrkfdn/ncspot
+Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+language: Rust
+stars: 5,640
+forked: 229
+stars today: 43
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 25,569
+forked: 545
+stars today: 20
+
+XAMPPRocky/tokei
+https://github.com/XAMPPRocky/tokei
+Count your code, quickly.
+language: Rust
+stars: 12,475
+forked: 580
+stars today: 19
+
+eclipse-zenoh/zenoh
+https://github.com/eclipse-zenoh/zenoh
+zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
+language: Rust
+stars: 1,851
+forked: 194
+stars today: 6
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 13,034
+forked: 1,000
+stars today: 41
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 30,596
+forked: 3,176
+stars today: 16
+
+mierak/rmpc
+https://github.com/mierak/rmpc
+A configurable, terminal based Media Player Client with album art support via various terminal image protocols
+language: Rust
+stars: 619
+forked: 22
+stars today: 30
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 1,191
+forked: 175
+stars today: 20
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 4,379
+forked: 391
+stars today: 19
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 7,662
+forked: 367
+stars today: 11
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 28,631
+forked: 2,636
+stars today: 7
+
+slint-ui/slint
+https://github.com/slint-ui/slint
+Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+language: Rust
+stars: 19,146
+forked: 673
+stars today: 13
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 52,697
+forked: 1,293
+stars today: 21
+
+ducaale/xh
+https://github.com/ducaale/xh
+Friendly and fast tool for sending HTTP requests
+language: Rust
+stars: 6,440
+forked: 103
+stars today: 19
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 13,155
+forked: 415
+stars today: 22
+
+Lagrange-Labs/deep-prove
+https://github.com/Lagrange-Labs/deep-prove
+Framework to prove inference of ML models blazingly fast
+language: Rust
+stars: 1,714
+forked: 28
+stars today: 340

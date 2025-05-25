@@ -1,0 +1,87 @@
+mindsdb/mindsdb
+https://github.com/mindsdb/mindsdb
+AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+language: Python
+stars: 29,408
+forked: 5,076
+stars today: 425
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+language: Python
+stars: 20,580
+forked: 3,316
+stars today: 426
+
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: Shell
+stars: 9,697
+forked: 543
+stars today: 402
+
+All-Hands-AI/OpenHands
+https://github.com/All-Hands-AI/OpenHands
+🙌 OpenHands: Code Less, Make More
+language: Python
+stars: 55,885
+forked: 6,262
+stars today: 326
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+language: TypeScript
+stars: 61,173
+forked: 12,835
+stars today: 58
+
+Fosowl/agenticSeek
+https://github.com/Fosowl/agenticSeek
+Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+language: Python
+stars: 3,740
+forked: 387
+stars today: 422
+
+usebruno/bruno
+https://github.com/usebruno/bruno
+Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+language: JavaScript
+stars: 34,370
+forked: 1,629
+stars today: 58
+
+XiaoYouChR/Ghost-Downloader-3
+https://github.com/XiaoYouChR/Ghost-Downloader-3
+A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+language: Python
+stars: 1,867
+forked: 88
+stars today: 280
+
+freeCodeCamp/freeCodeCamp
+https://github.com/freeCodeCamp/freeCodeCamp
+freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+language: TypeScript
+stars: 418,746
+forked: 40,200
+stars today: 212
+
+disposable-email-domains/disposable-email-domains
+https://github.com/disposable-email-domains/disposable-email-domains
+a list of disposable email domains
+language: Python
+stars: 3,928
+forked: 645
+stars today: 55
+
+huggingface/huggingface.js
+https://github.com/huggingface/huggingface.js
+Utilities to use the Hugging Face Hub API
+language: TypeScript
+stars: 2,042
+forked: 401
+stars today: 33
