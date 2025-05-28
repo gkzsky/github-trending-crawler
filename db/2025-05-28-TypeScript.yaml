@@ -1,0 +1,159 @@
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+language: TypeScript
+stars: 61,795
+forked: 12,886
+stars today: 218
+
+groupultra/telegram-search
+https://github.com/groupultra/telegram-search
+🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+language: TypeScript
+stars: 1,944
+forked: 135
+stars today: 295
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 99,646
+forked: 27,710
+stars today: 509
+
+wg-easy/wg-easy
+https://github.com/wg-easy/wg-easy
+The easiest way to run WireGuard VPN + Web-based Admin UI.
+language: TypeScript
+stars: 19,351
+forked: 1,836
+stars today: 347
+
+nuxt/nuxt
+https://github.com/nuxt/nuxt
+The Intuitive Vue Framework.
+language: TypeScript
+stars: 57,123
+forked: 5,260
+stars today: 19
+
+googleapis/js-genai
+https://github.com/googleapis/js-genai
+TypeScript/JavaScript SDK for Gemini and Vertex AI.
+language: TypeScript
+stars: 558
+forked: 67
+stars today: 55
+
+microsoft/data-formulator
+https://github.com/microsoft/data-formulator
+🪄 Create rich visualizations with AI
+language: TypeScript
+stars: 12,105
+forked: 955
+stars today: 209
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 323,906
+forked: 41,759
+stars today: 411
+
+agno-agi/agent-ui
+https://github.com/agno-agi/agent-ui
+A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
+language: TypeScript
+stars: 633
+forked: 123
+stars today: 34
+
+codexu/note-gen
+https://github.com/codexu/note-gen
+A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+language: TypeScript
+stars: 2,677
+forked: 191
+stars today: 43
+
+iptv-org/iptv
+https://github.com/iptv-org/iptv
+Collection of publicly available IPTV channels from all over the world
+language: TypeScript
+stars: 94,295
+forked: 3,566
+stars today: 277
+
+rowboatlabs/rowboat
+https://github.com/rowboatlabs/rowboat
+AI-powered multi-agent builder
+language: TypeScript
+stars: 2,982
+forked: 245
+stars today: 30
+
+bytedance/flowgram.ai
+https://github.com/bytedance/flowgram.ai
+FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+language: TypeScript
+stars: 4,191
+forked: 298
+stars today: 106
+
+supabase/supabase
+https://github.com/supabase/supabase
+The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 83,538
+forked: 8,732
+stars today: 70
+
+caorushizi/mediago
+https://github.com/caorushizi/mediago
+跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.
+language: TypeScript
+stars: 6,763
+forked: 633
+stars today: 35
+
+hcengineering/platform
+https://github.com/hcengineering/platform
+Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+language: TypeScript
+stars: 20,965
+forked: 1,364
+stars today: 19
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 99,361
+forked: 14,950
+stars today: 231
+
+linshenkx/prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
+一款提示词优化器，助力于编写高质量的提示词
+language: TypeScript
+stars: 5,183
+forked: 666
+stars today: 26
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: TypeScript
+stars: 53,719
+forked: 5,153
+stars today: 132
+
+actions/checkout
+https://github.com/actions/checkout
+Action for checking out a repo
+language: TypeScript
+stars: 6,565
+forked: 1,992
+stars today: 5

@@ -1,0 +1,175 @@
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 8,080
+forked: 380
+stars today: 169
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 20,170
+forked: 3,263
+stars today: 363
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 15,345
+forked: 525
+stars today: 80
+
+antinomyhq/forge
+https://github.com/antinomyhq/forge
+AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+language: Rust
+stars: 1,834
+forked: 872
+stars today: 337
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 20,590
+forked: 1,475
+stars today: 127
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 36,494
+forked: 1,140
+stars today: 67
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 89,215
+forked: 12,772
+stars today: 83
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 4,480
+forked: 400
+stars today: 38
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,148
+forked: 4,862
+stars today: 4
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 4,690
+forked: 310
+stars today: 4
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,268
+forked: 933
+stars today: 3
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 15,238
+forked: 577
+stars today: 20
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 25,312
+forked: 542
+stars today: 41
+
+Lagrange-Labs/deep-prove
+https://github.com/Lagrange-Labs/deep-prove
+Framework to prove inference of ML models blazingly fast
+language: Rust
+stars: 2,416
+forked: 36
+stars today: 438
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,675
+forked: 1,624
+stars today: 3
+
+delta-io/delta-rs
+https://github.com/delta-io/delta-rs
+A native Rust library for Delta Lake, with bindings into Python
+language: Rust
+stars: 2,787
+forked: 481
+stars today: 15
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 27,746
+forked: 1,111
+stars today: 27
+
+risingwavelabs/risingwave
+https://github.com/risingwavelabs/risingwave
+Stream processing and management platform.
+language: Rust
+stars: 7,784
+forked: 640
+stars today: 7
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 26,660
+forked: 1,309
+stars today: 22
+
+microsoft/windows-rs
+https://github.com/microsoft/windows-rs
+Rust for Windows
+language: Rust
+stars: 11,344
+forked: 561
+stars today: 4
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 65,804
+forked: 3,197
+stars today: 283
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 51,518
+forked: 2,055
+stars today: 24
