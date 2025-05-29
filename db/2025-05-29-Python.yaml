@@ -1,0 +1,119 @@
+Fosowl/agenticSeek
+https://github.com/Fosowl/agenticSeek
+Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+language: Python
+stars: 11,886
+forked: 981
+stars today: 2,379
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+language: Python
+stars: 22,981
+forked: 3,564
+stars today: 351
+
+langflow-ai/langflow
+https://github.com/langflow-ai/langflow
+Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+language: Python
+stars: 65,422
+forked: 6,616
+stars today: 577
+
+zhayujie/chatgpt-on-wechat
+https://github.com/zhayujie/chatgpt-on-wechat
+基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+language: Python
+stars: 37,099
+forked: 9,238
+stars today: 53
+
+microsoft/RD-Agent
+https://github.com/microsoft/RD-Agent
+Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+language: Python
+stars: 5,179
+forked: 461
+stars today: 234
+
+ccxt/ccxt
+https://github.com/ccxt/ccxt
+A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+language: Python
+stars: 36,427
+forked: 7,920
+stars today: 46
+
+sktime/sktime
+https://github.com/sktime/sktime
+A unified framework for machine learning with time series
+language: Python
+stars: 8,899
+forked: 1,587
+stars today: 282
+
+allenai/olmocr
+https://github.com/allenai/olmocr
+Toolkit for linearizing PDFs for LLM datasets/training
+language: Python
+stars: 12,572
+forked: 885
+stars today: 40
+
+kubernetes-client/python
+https://github.com/kubernetes-client/python
+Official Python client library for kubernetes
+language: Python
+stars: 7,114
+forked: 3,336
+stars today: 5
+
+volcengine/verl
+https://github.com/volcengine/verl
+verl: Volcano Engine Reinforcement Learning for LLMs
+language: Python
+stars: 8,630
+forked: 1,079
+stars today: 73
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 48,434
+forked: 7,652
+stars today: 199
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 6,183
+forked: 505
+stars today: 69
+
+eosphoros-ai/DB-GPT
+https://github.com/eosphoros-ai/DB-GPT
+AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+language: Python
+stars: 16,617
+forked: 2,278
+stars today: 18
+
+seleniumbase/SeleniumBase
+https://github.com/seleniumbase/SeleniumBase
+Python APIs for web automation, testing, and bypassing bot-detection.
+language: Python
+stars: 10,619
+forked: 1,331
+stars today: 84
+
+DLR-RM/stable-baselines3
+https://github.com/DLR-RM/stable-baselines3
+PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+language: Python
+stars: 10,747
+forked: 1,839
+stars today: 22

@@ -1,0 +1,175 @@
+Lagrange-Labs/deep-prove
+https://github.com/Lagrange-Labs/deep-prove
+Framework to prove inference of ML models blazingly fast
+language: Rust
+stars: 2,739
+forked: 45
+stars today: 271
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 8,291
+forked: 384
+stars today: 401
+
+antinomyhq/forge
+https://github.com/antinomyhq/forge
+AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+language: Rust
+stars: 2,176
+forked: 880
+stars today: 329
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 20,194
+forked: 3,262
+stars today: 53
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,086
+forked: 3,609
+stars today: 11
+
+BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+language: Rust
+stars: 52,664
+forked: 2,131
+stars today: 44
+
+huggingface/tokenizers
+https://github.com/huggingface/tokenizers
+💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+language: Rust
+stars: 9,735
+forked: 906
+stars today: 4
+
+delta-io/delta-rs
+https://github.com/delta-io/delta-rs
+A native Rust library for Delta Lake, with bindings into Python
+language: Rust
+stars: 2,793
+forked: 482
+stars today: 10
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 4,501
+forked: 401
+stars today: 24
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 89,297
+forked: 12,788
+stars today: 93
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 23,814
+forked: 1,642
+stars today: 25
+
+mainmatter/100-exercises-to-learn-rust
+https://github.com/mainmatter/100-exercises-to-learn-rust
+A self-paced course to learn Rust, one exercise at a time.
+language: Rust
+stars: 7,759
+forked: 1,541
+stars today: 5
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 21,724
+forked: 1,177
+stars today: 18
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 20,610
+forked: 1,477
+stars today: 29
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 33,825
+forked: 2,244
+stars today: 26
+
+swc-project/swc
+https://github.com/swc-project/swc
+Rust-based platform for the Web
+language: Rust
+stars: 32,262
+forked: 1,288
+stars today: 7
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build portable, modular & lightweight Fullstack Agents
+language: Rust
+stars: 3,680
+forked: 395
+stars today: 10
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, mobile, and more.
+language: Rust
+stars: 27,764
+forked: 1,113
+stars today: 24
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 92,944
+forked: 2,871
+stars today: 40
+
+greenbone/openvas-scanner
+https://github.com/greenbone/openvas-scanner
+This repository contains the scanner component for Greenbone Community Edition.
+language: Rust
+stars: 3,852
+forked: 673
+stars today: 8
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 691
+forked: 113
+stars today: 7
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 15,741
+forked: 510
+stars today: 29
