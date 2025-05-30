@@ -1,0 +1,183 @@
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 20,907
+forked: 2,441
+stars today: 9
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 20,444
+forked: 632
+stars today: 47
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+language: Go
+stars: 2,918
+forked: 204
+stars today: 492
+
+aws/karpenter-provider-aws
+https://github.com/aws/karpenter-provider-aws
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 7,277
+forked: 1,098
+stars today: 2
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 15,616
+forked: 5,650
+stars today: 6
+
+prometheus-operator/prometheus-operator
+https://github.com/prometheus-operator/prometheus-operator
+Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+language: Go
+stars: 9,467
+forked: 3,774
+stars today: 10
+
+jesseduffield/lazydocker
+https://github.com/jesseduffield/lazydocker
+The lazier way to manage everything docker
+language: Go
+stars: 44,286
+forked: 1,401
+stars today: 84
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end stack for WebRTC. SFU media server and SDKs.
+language: Go
+stars: 12,739
+forked: 1,164
+stars today: 15
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 18,589
+forked: 8,386
+stars today: 4
+
+SpecterOps/BloodHound
+https://github.com/SpecterOps/BloodHound
+Six Degrees of Domain Admin
+language: Go
+stars: 1,680
+forked: 181
+stars today: 3
+
+prometheus/node_exporter
+https://github.com/prometheus/node_exporter
+Exporter for machine metrics
+language: Go
+stars: 12,092
+forked: 2,486
+stars today: 7
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 14,130
+forked: 1,379
+stars today: 13
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 69,803
+forked: 18,756
+stars today: 11
+
+gofiber/fiber
+https://github.com/gofiber/fiber
+⚡️ Express inspired web framework written in Go
+language: Go
+stars: 36,610
+forked: 1,788
+stars today: 39
+
+NVIDIA/KAI-Scheduler
+https://github.com/NVIDIA/KAI-Scheduler
+KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+language: Go
+stars: 595
+forked: 61
+stars today: 2
+
+kubernetes/client-go
+https://github.com/kubernetes/client-go
+Go client for Kubernetes.
+language: Go
+stars: 9,430
+forked: 2,989
+stars today: 3
+
+ehang-io/nps
+https://github.com/ehang-io/nps
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+language: Go
+stars: 32,685
+forked: 5,895
+stars today: 20
+
+seaweedfs/seaweedfs
+https://github.com/seaweedfs/seaweedfs
+SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+language: Go
+stars: 24,477
+forked: 2,404
+stars today: 17
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 15,672
+forked: 3,302
+stars today: 4
+
+authzed/spicedb
+https://github.com/authzed/spicedb
+Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
+language: Go
+stars: 5,715
+forked: 316
+stars today: 7
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+Heterogeneous AI Computing Virtualization Middleware
+language: Go
+stars: 1,696
+forked: 303
+stars today: 14
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 26,944
+forked: 2,567
+stars today: 19
+
+kubernetes/dashboard
+https://github.com/kubernetes/dashboard
+General-purpose web UI for Kubernetes clusters
+language: Go
+stars: 14,947
+forked: 4,237
+stars today: 2

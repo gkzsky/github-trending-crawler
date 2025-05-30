@@ -1,0 +1,183 @@
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 28,025
+forked: 1,943
+stars today: 14
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 8,363
+forked: 391
+stars today: 105
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 49,010
+forked: 2,120
+stars today: 36
+
+Lagrange-Labs/deep-prove
+https://github.com/Lagrange-Labs/deep-prove
+Framework to prove inference of ML models blazingly fast
+language: Rust
+stars: 2,936
+forked: 48
+stars today: 318
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 38,947
+forked: 7,219
+stars today: 143
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,276
+forked: 937
+stars today: 4
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,684
+forked: 1,629
+stars today: 3
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 44,967
+forked: 2,128
+stars today: 33
+
+rolldown/rolldown
+https://github.com/rolldown/rolldown
+Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+language: Rust
+stars: 11,074
+forked: 592
+stars today: 11
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+the AI-native open-source embedding database
+language: Rust
+stars: 20,139
+forked: 1,629
+stars today: 32
+
+seanmonstar/reqwest
+https://github.com/seanmonstar/reqwest
+An easy and powerful Rust HTTP Client
+language: Rust
+stars: 10,654
+forked: 1,230
+stars today: 3
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 60,638
+forked: 4,370
+stars today: 72
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 15,489
+forked: 529
+stars today: 63
+
+delta-io/delta-rs
+https://github.com/delta-io/delta-rs
+A native Rust library for Delta Lake, with bindings into Python
+language: Rust
+stars: 2,799
+forked: 484
+stars today: 3
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 24,076
+forked: 651
+stars today: 17
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,306
+forked: 3,777
+stars today: 1
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 23,840
+forked: 1,645
+stars today: 31
+
+antinomyhq/forge
+https://github.com/antinomyhq/forge
+AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+language: Rust
+stars: 2,322
+forked: 886
+stars today: 168
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 4,678
+forked: 232
+stars today: 67
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 17,280
+forked: 1,114
+stars today: 12
+
+tikv/tikv
+https://github.com/tikv/tikv
+Distributed transactional key-value database, originally created to complement TiDB
+language: Rust
+stars: 15,854
+forked: 2,186
+stars today: 2
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,091
+forked: 3,610
+stars today: 7
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 21,739
+forked: 1,177
+stars today: 27

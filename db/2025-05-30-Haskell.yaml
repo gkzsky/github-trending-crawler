@@ -1,0 +1,87 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,337
+forked: 1,090
+stars today: 3
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,087
+forked: 444
+stars today: 29
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 37,628
+forked: 3,525
+stars today: 22
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,488
+forked: 332
+stars today: 2
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,452
+forked: 1,818
+stars today: 5
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,130
+forked: 731
+stars today: 1
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,800
+forked: 391
+stars today: 0
+
+ucsd-progsys/liquidhaskell
+https://github.com/ucsd-progsys/liquidhaskell
+Liquid Types For Haskell
+language: Haskell
+stars: 1,243
+forked: 147
+stars today: 2
+
+fossas/fossa-cli
+https://github.com/fossas/fossa-cli
+Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+language: Haskell
+stars: 1,388
+forked: 181
+stars today: 0
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 146
+forked: 61
+stars today: 0
+
+IntersectMBO/ouroboros-consensus
+https://github.com/IntersectMBO/ouroboros-consensus
+Implementation of a Consensus Layer for the Ouroboros family of protocols
+language: Haskell
+stars: 52
+forked: 27
+stars today: 0
