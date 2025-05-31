@@ -1,0 +1,143 @@
+risingwavelabs/risingwave
+https://github.com/risingwavelabs/risingwave
+Stream processing and management platform.
+language: Rust
+stars: 7,796
+forked: 645
+stars today: 2
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 39,007
+forked: 7,235
+stars today: 69
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 4,707
+forked: 233
+stars today: 54
+
+loco-rs/loco
+https://github.com/loco-rs/loco
+🚂 🦀 The one-person framework for Rust for side-projects and startups
+language: Rust
+stars: 7,723
+forked: 332
+stars today: 7
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 18,328
+forked: 652
+stars today: 21
+
+Lagrange-Labs/deep-prove
+https://github.com/Lagrange-Labs/deep-prove
+Framework to prove inference of ML models blazingly fast
+language: Rust
+stars: 3,051
+forked: 50
+stars today: 128
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 703
+forked: 114
+stars today: 11
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+the AI-native open-source embedding database
+language: Rust
+stars: 20,166
+forked: 1,630
+stars today: 30
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 28,680
+forked: 2,642
+stars today: 10
+
+mainmatter/100-exercises-to-learn-rust
+https://github.com/mainmatter/100-exercises-to-learn-rust
+A self-paced course to learn Rust, one exercise at a time.
+language: Rust
+stars: 7,767
+forked: 1,548
+stars today: 2
+
+tari-project/tari
+https://github.com/tari-project/tari
+The Tari protocol
+language: Rust
+stars: 429
+forked: 234
+stars today: 2
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 27,773
+forked: 1,995
+stars today: 16
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 23,869
+forked: 1,645
+stars today: 17
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,096
+forked: 3,613
+stars today: 5
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 26,689
+forked: 1,313
+stars today: 13
+
+rolldown/rolldown
+https://github.com/rolldown/rolldown
+Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+language: Rust
+stars: 11,094
+forked: 592
+stars today: 19
+
+hyperlight-dev/hyperlight
+https://github.com/hyperlight-dev/hyperlight
+Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+language: Rust
+stars: 3,613
+forked: 130
+stars today: 5
+
+huggingface/tokenizers
+https://github.com/huggingface/tokenizers
+💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+language: Rust
+stars: 9,746
+forked: 908
+stars today: 1

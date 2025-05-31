@@ -1,0 +1,183 @@
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,199
+forked: 28,576
+stars today: 10
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,048
+forked: 1,837
+stars today: 2
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,404
+forked: 771
+stars today: 4
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,358
+forked: 497
+stars today: 1
+
+apache/kyuubi
+https://github.com/apache/kyuubi
+Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+language: Scala
+stars: 2,188
+forked: 941
+stars today: 1
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 63,235
+forked: 12,156
+stars today: 5
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 838
+forked: 199
+stars today: 1
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 913
+forked: 608
+stars today: 1
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,407
+forked: 328
+stars today: 0
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,452
+forked: 1,168
+stars today: 2
+
+NVIDIA/spark-rapids
+https://github.com/NVIDIA/spark-rapids
+Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+language: Scala
+stars: 903
+forked: 253
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,687
+forked: 2,411
+stars today: 4
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,672
+forked: 656
+stars today: 0
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 2,198
+forked: 374
+stars today: 1
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,281
+forked: 630
+stars today: 4
+
+JohnSnowLabs/spark-nlp
+https://github.com/JohnSnowLabs/spark-nlp
+State of the Art Natural Language Processing
+language: Scala
+stars: 3,986
+forked: 726
+stars today: 1
+
+MightyPirates/OpenComputers
+https://github.com/MightyPirates/OpenComputers
+Home of the OpenComputers mod for Minecraft.
+language: Scala
+stars: 1,638
+forked: 443
+stars today: 0
+
+akka/akka
+https://github.com/akka/akka
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,164
+forked: 3,588
+stars today: 2
+
+scala/scala
+https://github.com/scala/scala
+Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+language: Scala
+stars: 14,381
+forked: 3,111
+stars today: 1
+
+VirtusLab/scala-cli
+https://github.com/VirtusLab/scala-cli
+Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
+language: Scala
+stars: 602
+forked: 145
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,022
+forked: 1,096
+stars today: 0
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,550
+forked: 561
+stars today: 1
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,667
+forked: 1,208
+stars today: 4
