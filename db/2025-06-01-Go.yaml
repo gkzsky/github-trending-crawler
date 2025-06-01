@@ -1,0 +1,191 @@
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+language: Go
+stars: 3,837
+forked: 257
+stars today: 509
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 70,920
+forked: 4,553
+stars today: 57
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 14,794
+forked: 1,078
+stars today: 22
+
+jesseduffield/lazydocker
+https://github.com/jesseduffield/lazydocker
+The lazier way to manage everything docker
+language: Go
+stars: 44,376
+forked: 1,405
+stars today: 41
+
+binwiederhier/ntfy
+https://github.com/binwiederhier/ntfy
+Send push notifications to your phone or desktop using PUT/POST
+language: Go
+stars: 23,220
+forked: 914
+stars today: 31
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 22,853
+forked: 1,825
+stars today: 18
+
+usual2970/certimate
+https://github.com/usual2970/certimate
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+language: Go
+stars: 6,752
+forked: 618
+stars today: 11
+
+kubernetes/dashboard
+https://github.com/kubernetes/dashboard
+General-purpose web UI for Kubernetes clusters
+language: Go
+stars: 14,959
+forked: 4,238
+stars today: 5
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 24,668
+forked: 1,646
+stars today: 4
+
+rancher/rancher
+https://github.com/rancher/rancher
+Complete container management platform
+language: Go
+stars: 24,223
+forked: 3,046
+stars today: 5
+
+openbao/openbao
+https://github.com/openbao/openbao
+OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+language: Go
+stars: 3,887
+forked: 206
+stars today: 8
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 13,844
+forked: 657
+stars today: 20
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 40,582
+forked: 2,945
+stars today: 13
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 26,960
+forked: 2,571
+stars today: 12
+
+hibiken/asynq
+https://github.com/hibiken/asynq
+Simple, reliable, and efficient distributed task queue in Go
+language: Go
+stars: 11,252
+forked: 794
+stars today: 6
+
+GoogleCloudPlatform/microservices-demo
+https://github.com/GoogleCloudPlatform/microservices-demo
+Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+language: Go
+stars: 18,153
+forked: 8,188
+stars today: 22
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,893
+forked: 4,499
+stars today: 2
+
+adnanh/webhook
+https://github.com/adnanh/webhook
+webhook is a lightweight incoming webhook server to run shell commands
+language: Go
+stars: 10,942
+forked: 851
+stars today: 6
+
+kubernetes/enhancements
+https://github.com/kubernetes/enhancements
+Enhancements tracking repo for Kubernetes
+language: Go
+stars: 3,648
+forked: 1,534
+stars today: 2
+
+cilium/cilium
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+language: Go
+stars: 21,718
+forked: 3,225
+stars today: 5
+
+charmbracelet/bubbletea
+https://github.com/charmbracelet/bubbletea
+A powerful little TUI framework 🏗
+language: Go
+stars: 31,834
+forked: 911
+stars today: 19
+
+erigontech/erigon
+https://github.com/erigontech/erigon
+Ethereum implementation on the efficiency frontier
+language: Go
+stars: 3,356
+forked: 1,285
+stars today: 1
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 142,369
+forked: 11,940
+stars today: 98
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 15,622
+forked: 5,654
+stars today: 1

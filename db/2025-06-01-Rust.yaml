@@ -1,0 +1,183 @@
+facebook/buck2
+https://github.com/facebook/buck2
+Build system, successor to Buck
+language: Rust
+stars: 3,892
+forked: 272
+stars today: 2
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 41,205
+forked: 1,114
+stars today: 150
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 103,169
+forked: 5,606
+stars today: 20
+
+hyperium/tonic
+https://github.com/hyperium/tonic
+A native gRPC client & server implementation with async/await support.
+language: Rust
+stars: 10,931
+forked: 1,082
+stars today: 4
+
+awslabs/mountpoint-s3
+https://github.com/awslabs/mountpoint-s3
+A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+language: Rust
+stars: 5,157
+forked: 203
+stars today: 13
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 39,048
+forked: 7,241
+stars today: 43
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,272
+forked: 1,500
+stars today: 5
+
+GitoxideLabs/gitoxide
+https://github.com/GitoxideLabs/gitoxide
+An idiomatic, lean, fast & safe pure Rust implementation of Git
+language: Rust
+stars: 9,887
+forked: 353
+stars today: 6
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 27,779
+forked: 1,996
+stars today: 8
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 25,427
+forked: 546
+stars today: 31
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 14,574
+forked: 572
+stars today: 7
+
+rolldown/rolldown
+https://github.com/rolldown/rolldown
+Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+language: Rust
+stars: 11,106
+forked: 593
+stars today: 14
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 19,621
+forked: 1,747
+stars today: 5
+
+trynova/nova
+https://github.com/trynova/nova
+JS engine lolz
+language: Rust
+stars: 1,405
+forked: 51
+stars today: 23
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 60,729
+forked: 4,393
+stars today: 53
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 29,331
+forked: 992
+stars today: 6
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 24,266
+forked: 1,394
+stars today: 4
+
+bottlerocket-os/bottlerocket
+https://github.com/bottlerocket-os/bottlerocket
+An operating system designed for hosting containers
+language: Rust
+stars: 9,146
+forked: 533
+stars today: 4
+
+probe-rs/probe-rs
+https://github.com/probe-rs/probe-rs
+A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
+language: Rust
+stars: 2,159
+forked: 444
+stars today: 4
+
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 27,264
+forked: 1,769
+stars today: 40
+
+emilk/egui
+https://github.com/emilk/egui
+egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+language: Rust
+stars: 24,978
+forked: 1,749
+stars today: 19
+
+verus-lang/verus
+https://github.com/verus-lang/verus
+Verified Rust for low-level systems code
+language: Rust
+stars: 1,871
+forked: 101
+stars today: 4
+
+platformatic/php-node
+https://github.com/platformatic/php-node
+PHP HTTP Request handler for Node.js
+language: Rust
+stars: 152
+forked: 2
+stars today: 44
