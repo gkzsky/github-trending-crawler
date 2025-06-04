@@ -1,0 +1,143 @@
+junit-team/junit5
+https://github.com/junit-team/junit5
+✅ The programmer-friendly testing framework for Java and the JVM
+language: Java
+stars: 6,672
+forked: 1,555
+stars today: 7
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 57,527
+forked: 6,427
+stars today: 40
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,375
+forked: 3,219
+stars today: 13
+
+liferay/liferay-portal
+https://github.com/liferay/liferay-portal
+-
+language: Java
+stars: 2,140
+forked: 3,667
+stars today: 0
+
+apache/camel
+https://github.com/apache/camel
+Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+language: Java
+stars: 5,852
+forked: 5,033
+stars today: 2
+
+cryptomator/cryptomator
+https://github.com/cryptomator/cryptomator
+Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+language: Java
+stars: 12,922
+forked: 1,102
+stars today: 9
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 23,903
+forked: 6,967
+stars today: 5
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 72,854
+forked: 25,238
+stars today: 16
+
+xiaojieonly/Ehviewer_CN_SXJ
+https://github.com/xiaojieonly/Ehviewer_CN_SXJ
+ehviewer，用爱发电，快乐前行
+language: Java
+stars: 17,552
+forked: 472
+stars today: 29
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 7,522
+forked: 2,583
+stars today: 6
+
+signalapp/Signal-Server
+https://github.com/signalapp/Signal-Server
+Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+language: Java
+stars: 9,783
+forked: 2,265
+stars today: 6
+
+openrewrite/rewrite
+https://github.com/openrewrite/rewrite
+Automated mass refactoring of source code.
+language: Java
+stars: 2,786
+forked: 426
+stars today: 4
+
+questdb/questdb
+https://github.com/questdb/questdb
+QuestDB is a high performance, open-source, time-series database
+language: Java
+stars: 15,272
+forked: 1,247
+stars today: 8
+
+zaproxy/zaproxy
+https://github.com/zaproxy/zaproxy
+The ZAP by Checkmarx Core project
+language: Java
+stars: 13,668
+forked: 2,371
+stars today: 8
+
+DataDog/dd-trace-java
+https://github.com/DataDog/dd-trace-java
+Datadog APM client for Java
+language: Java
+stars: 646
+forked: 304
+stars today: 0
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 9,153
+forked: 6,057
+stars today: 0
+
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 41,994
+forked: 4,546
+stars today: 126
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 19,002
+forked: 5,602
+stars today: 18
