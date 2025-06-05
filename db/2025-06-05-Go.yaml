@@ -1,0 +1,175 @@
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 71,864
+forked: 4,592
+stars today: 116
+
+google/gvisor
+https://github.com/google/gvisor
+Application Kernel for Containers
+language: Go
+stars: 16,537
+forked: 1,381
+stars today: 7
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 5,549
+forked: 703
+stars today: 9
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 14,296
+forked: 987
+stars today: 34
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 13,960
+forked: 665
+stars today: 69
+
+aquasecurity/kube-bench
+https://github.com/aquasecurity/kube-bench
+Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+language: Go
+stars: 7,499
+forked: 1,274
+stars today: 7
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,416
+forked: 224
+stars today: 8
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 128,181
+forked: 18,084
+stars today: 20
+
+gofr-dev/gofr
+https://github.com/gofr-dev/gofr
+An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+language: Go
+stars: 10,924
+forked: 1,624
+stars today: 91
+
+langhuihui/monibuca
+https://github.com/langhuihui/monibuca
+🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
+language: Go
+stars: 1,926
+forked: 281
+stars today: 15
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 7,090
+forked: 664
+stars today: 12
+
+cloudreve/Cloudreve
+https://github.com/cloudreve/Cloudreve
+🌩 Self-hosted file management and sharing system, supports multiple storage providers
+language: Go
+stars: 23,271
+forked: 3,559
+stars today: 39
+
+GoogleCloudPlatform/terraformer
+https://github.com/GoogleCloudPlatform/terraformer
+CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+language: Go
+stars: 13,672
+forked: 1,762
+stars today: 10
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 5,053
+forked: 580
+stars today: 7
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,276
+forked: 2,316
+stars today: 3
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+language: Go
+stars: 7,450
+forked: 427
+stars today: 6
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,620
+forked: 2,790
+stars today: 4
+
+apache/answer
+https://github.com/apache/answer
+A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+language: Go
+stars: 14,492
+forked: 1,167
+stars today: 8
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 8,689
+forked: 1,043
+stars today: 2
+
+golang-migrate/migrate
+https://github.com/golang-migrate/migrate
+Database migrations. CLI and Golang library.
+language: Go
+stars: 16,753
+forked: 1,477
+stars today: 9
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,263
+forked: 1,639
+stars today: 6
+
+gophish/gophish
+https://github.com/gophish/gophish
+Open-Source Phishing Toolkit
+language: Go
+stars: 12,671
+forked: 2,582
+stars today: 6
