@@ -1,0 +1,119 @@
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 14,708
+forked: 698
+stars today: 320
+
+lastmile-ai/mcp-agent
+https://github.com/lastmile-ai/mcp-agent
+Build effective agents using Model Context Protocol and simple workflow patterns
+language: Python
+stars: 5,314
+forked: 486
+stars today: 244
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 5 lines of code
+language: Python
+stars: 3,391
+forked: 288
+stars today: 590
+
+stanfordnlp/dspy
+https://github.com/stanfordnlp/dspy
+DSPy: The framework for programming—not prompting—language models
+language: Python
+stars: 24,891
+forked: 1,934
+stars today: 66
+
+codexu/note-gen
+https://github.com/codexu/note-gen
+A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+language: TypeScript
+stars: 3,331
+forked: 220
+stars today: 127
+
+unslothai/notebooks
+https://github.com/unslothai/notebooks
+Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
+language: Jupyter Notebook
+stars: 1,332
+forked: 216
+stars today: 226
+
+jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university
+A complete computer science study plan to become a software engineer.
+language: -
+stars: 319,289
+forked: 79,036
+stars today: 130
+
+deepsense-ai/ragbits
+https://github.com/deepsense-ai/ragbits
+Building blocks for rapid development of GenAI applications
+language: Python
+stars: 881
+forked: 68
+stars today: 257
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 90,003
+forked: 12,927
+stars today: 105
+
+coleam00/Archon
+https://github.com/coleam00/Archon
+Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
+language: Python
+stars: 4,720
+forked: 922
+stars today: 35
+
+mlabonne/llm-course
+https://github.com/mlabonne/llm-course
+Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+language: -
+stars: 54,611
+forked: 5,824
+stars today: 264
+
+practical-tutorials/project-based-learning
+https://github.com/practical-tutorials/project-based-learning
+Curated list of project-based tutorials
+language: -
+stars: 230,497
+forked: 30,098
+stars today: 399
+
+ArduPilot/ardupilot
+https://github.com/ArduPilot/ardupilot
+ArduPlane, ArduCopter, ArduRover, ArduSub source
+language: C++
+stars: 12,794
+forked: 18,815
+stars today: 237
+
+codecrafters-io/build-your-own-x
+https://github.com/codecrafters-io/build-your-own-x
+Master programming by recreating your favorite technologies from scratch.
+language: Markdown
+stars: 385,097
+forked: 35,915
+stars today: 348
+
+onlook-dev/onlook
+https://github.com/onlook-dev/onlook
+The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+language: TypeScript
+stars: 17,029
+forked: 1,040
+stars today: 551
