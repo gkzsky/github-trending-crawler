@@ -1,0 +1,191 @@
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 7,864
+forked: 1,443
+stars today: 11
+
+CodePhiliaX/Chat2DB
+https://github.com/CodePhiliaX/Chat2DB
+🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+language: Java
+stars: 23,218
+forked: 2,517
+stars today: 13
+
+microsoft/typespec
+https://github.com/microsoft/typespec
+-
+language: Java
+stars: 5,146
+forked: 281
+stars today: 5
+
+dataease/dataease
+https://github.com/dataease/dataease
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+language: Java
+stars: 20,255
+forked: 3,600
+stars today: 12
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,594
+forked: 2,874
+stars today: 5
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 30,228
+forked: 14,427
+stars today: 5
+
+YunaiV/ruoyi-vue-pro
+https://github.com/YunaiV/ruoyi-vue-pro
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+language: Java
+stars: 31,388
+forked: 6,760
+stars today: 19
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 60,881
+forked: 5,130
+stars today: 63
+
+halo-dev/halo
+https://github.com/halo-dev/halo
+强大易用的开源建站工具。
+language: Java
+stars: 35,774
+forked: 9,930
+stars today: 10
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 1,754
+forked: 437
+stars today: 9
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 11,103
+forked: 2,560
+stars today: 3
+
+kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+language: Java
+stars: 19,233
+forked: 12,025
+stars today: 14
+
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 61,805
+forked: 19,982
+stars today: 9
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,117
+forked: 9,047
+stars today: 1
+
+tencentmusic/supersonic
+https://github.com/tencentmusic/supersonic
+SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+language: Java
+stars: 3,818
+forked: 739
+stars today: 5
+
+apache/rocketmq
+https://github.com/apache/rocketmq
+Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+language: Java
+stars: 21,826
+forked: 11,870
+stars today: 2
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,558
+forked: 1,999
+stars today: 4
+
+oracle/graal
+https://github.com/oracle/graal
+GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+language: Java
+stars: 20,899
+forked: 1,711
+stars today: 5
+
+HbmMods/Hbm-s-Nuclear-Tech-GIT
+https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT
+A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
+language: Java
+stars: 568
+forked: 349
+stars today: 9
+
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+language: Java
+stars: 18,374
+forked: 1,536
+stars today: 14
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 77,388
+forked: 41,214
+stars today: 17
+
+redisson/redisson
+https://github.com/redisson/redisson
+Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+language: Java
+stars: 23,837
+forked: 5,447
+stars today: 0
+
+apache/polaris
+https://github.com/apache/polaris
+Apache Polaris, the interoperable, open source catalog for Apache Iceberg
+language: Java
+stars: 1,526
+forked: 248
+stars today: 4
+
+eugenp/tutorials
+https://github.com/eugenp/tutorials
+Getting Started with Spring Boot 3:
+language: Java
+stars: 37,161
+forked: 54,282
+stars today: 3

@@ -1,0 +1,127 @@
+DavidHDev/react-bits
+https://github.com/DavidHDev/react-bits
+An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
+language: JavaScript
+stars: 12,920
+forked: 481
+stars today: 122
+
+huggingface/transformers.js-examples
+https://github.com/huggingface/transformers.js-examples
+A collection of 🤗 Transformers.js demos and example applications
+language: JavaScript
+stars: 1,576
+forked: 188
+stars today: 11
+
+eyaltoledano/claude-task-master
+https://github.com/eyaltoledano/claude-task-master
+An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+language: JavaScript
+stars: 12,588
+forked: 1,317
+stars today: 445
+
+tidalcycles/strudel
+https://github.com/tidalcycles/strudel
+Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+language: JavaScript
+stars: 1,303
+forked: 175
+stars today: 25
+
+webpack/webpack
+https://github.com/webpack/webpack
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+language: JavaScript
+stars: 65,335
+forked: 9,078
+stars today: 9
+
+drawdb-io/drawdb
+https://github.com/drawdb-io/drawdb
+Free, simple, and intuitive online database diagram editor and SQL generator.
+language: JavaScript
+stars: 30,442
+forked: 2,157
+stars today: 21
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 10,235
+forked: 2,848
+stars today: 4
+
+gorhill/uBlock
+https://github.com/gorhill/uBlock
+uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+language: JavaScript
+stars: 54,257
+forked: 3,513
+stars today: 48
+
+xszyou/Fay
+https://github.com/xszyou/Fay
+fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+language: JavaScript
+stars: 11,281
+forked: 2,075
+stars today: 12
+
+mozilla/pdf.js
+https://github.com/mozilla/pdf.js
+PDF Reader in JavaScript
+language: JavaScript
+stars: 50,974
+forked: 10,330
+stars today: 9
+
+juliangarnier/anime
+https://github.com/juliangarnier/anime
+JavaScript animation engine
+language: JavaScript
+stars: 61,180
+forked: 4,094
+stars today: 32
+
+dcloudio/uni-app
+https://github.com/dcloudio/uni-app
+A cross-platform framework using Vue.js
+language: JavaScript
+stars: 40,852
+forked: 3,694
+stars today: 6
+
+microsoft/monaco-editor
+https://github.com/microsoft/monaco-editor
+A browser based code editor
+language: JavaScript
+stars: 42,802
+forked: 3,764
+stars today: 13
+
+advplyr/audiobookshelf
+https://github.com/advplyr/audiobookshelf
+Self-hosted audiobook and podcast server
+language: JavaScript
+stars: 9,003
+forked: 610
+stars today: 13
+
+bgstaal/multipleWindow3dScene
+https://github.com/bgstaal/multipleWindow3dScene
+A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+language: JavaScript
+stars: 18,129
+forked: 2,799
+stars today: 6
+
+jerosoler/Drawflow
+https://github.com/jerosoler/Drawflow
+Simple flow library 🖥️🖱️
+language: JavaScript
+stars: 5,274
+forked: 814
+stars today: 3

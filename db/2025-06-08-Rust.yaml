@@ -1,0 +1,167 @@
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 57,100
+forked: 1,618
+stars today: 105
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 39,831
+forked: 1,384
+stars today: 45
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 90,119
+forked: 12,935
+stars today: 219
+
+risingwavelabs/risingwave
+https://github.com/risingwavelabs/risingwave
+Stream processing and management platform.
+language: Rust
+stars: 7,847
+forked: 648
+stars today: 10
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 28,116
+forked: 1,948
+stars today: 11
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 11,307
+forked: 581
+stars today: 10
+
+EricLBuehler/mistral.rs
+https://github.com/EricLBuehler/mistral.rs
+Blazingly fast LLM inference.
+language: Rust
+stars: 5,683
+forked: 410
+stars today: 7
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 20,891
+forked: 1,857
+stars today: 14
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,309
+forked: 3,779
+stars today: 0
+
+GreptimeTeam/greptimedb
+https://github.com/GreptimeTeam/greptimedb
+Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+language: Rust
+stars: 5,280
+forked: 381
+stars today: 1
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+the AI-native open-source embedding database
+language: Rust
+stars: 20,315
+forked: 1,638
+stars today: 28
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 747
+forked: 122
+stars today: 6
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Sealevel Framework
+language: Rust
+stars: 4,348
+forked: 1,562
+stars today: 5
+
+tursodatabase/limbo
+https://github.com/tursodatabase/limbo
+Limbo is a project to build the next evolution of SQLite.
+language: Rust
+stars: 10,997
+forked: 418
+stars today: 10
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 14,881
+forked: 1,407
+stars today: 8
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,006
+forked: 1,997
+stars today: 10
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 14,124
+forked: 1,110
+stars today: 70
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+language: Rust
+stars: 4,694
+forked: 314
+stars today: 87
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 3,658
+forked: 269
+stars today: 3
+
+skyzh/mini-lsm
+https://github.com/skyzh/mini-lsm
+A course of building an LSM-Tree storage engine (database) in a week.
+language: Rust
+stars: 3,409
+forked: 500
+stars today: 15
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 4,224
+forked: 405
+stars today: 14

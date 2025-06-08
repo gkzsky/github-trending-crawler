@@ -1,0 +1,151 @@
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 5 lines of code
+language: Python
+stars: 4,159
+forked: 334
+stars today: 440
+
+scrapy/scrapy
+https://github.com/scrapy/scrapy
+Scrapy, a fast high-level web crawling & scraping framework for Python.
+language: Python
+stars: 56,500
+forked: 10,896
+stars today: 54
+
+jwohlwend/boltz
+https://github.com/jwohlwend/boltz
+Official repository for the Boltz biomolecular interaction models
+language: Python
+stars: 2,038
+forked: 328
+stars today: 90
+
+deepsense-ai/ragbits
+https://github.com/deepsense-ai/ragbits
+Building blocks for rapid development of GenAI applications
+language: Python
+stars: 1,046
+forked: 80
+stars today: 239
+
+stanfordnlp/dspy
+https://github.com/stanfordnlp/dspy
+DSPy: The framework for programming—not prompting—language models
+language: Python
+stars: 24,998
+forked: 1,940
+stars today: 154
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 349,970
+forked: 36,794
+stars today: 237
+
+vinta/awesome-python
+https://github.com/vinta/awesome-python
+An opinionated list of awesome Python frameworks, libraries, software and resources.
+language: Python
+stars: 245,889
+forked: 25,763
+stars today: 145
+
+haris-musa/excel-mcp-server
+https://github.com/haris-musa/excel-mcp-server
+A Model Context Protocol server for Excel file manipulation
+language: Python
+stars: 943
+forked: 113
+stars today: 19
+
+microsoft/autogen
+https://github.com/microsoft/autogen
+A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+language: Python
+stars: 45,647
+forked: 6,922
+stars today: 32
+
+coleam00/Archon
+https://github.com/coleam00/Archon
+Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
+language: Python
+stars: 4,806
+forked: 929
+stars today: 156
+
+karpathy/nanoGPT
+https://github.com/karpathy/nanoGPT
+The simplest, fastest repository for training/finetuning medium-sized GPTs.
+language: Python
+stars: 41,720
+forked: 6,958
+stars today: 18
+
+dreammis/social-auto-upload
+https://github.com/dreammis/social-auto-upload
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+language: Python
+stars: 5,175
+forked: 869
+stars today: 10
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: Python
+stars: 54,541
+forked: 5,289
+stars today: 47
+
+onnx/onnx
+https://github.com/onnx/onnx
+Open standard for machine learning interoperability
+language: Python
+stars: 19,066
+forked: 3,750
+stars today: 8
+
+lastmile-ai/mcp-agent
+https://github.com/lastmile-ai/mcp-agent
+Build effective agents using Model Context Protocol and simple workflow patterns
+language: Python
+stars: 5,416
+forked: 496
+stars today: 183
+
+huggingface/lerobot
+https://github.com/huggingface/lerobot
+🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+language: Python
+stars: 14,162
+forked: 1,767
+stars today: 41
+
+RVC-Boss/GPT-SoVITS
+https://github.com/RVC-Boss/GPT-SoVITS
+1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+language: Python
+stars: 47,299
+forked: 5,212
+stars today: 43
+
+xming521/WeClone
+https://github.com/xming521/WeClone
+🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案
+language: Python
+stars: 13,227
+forked: 988
+stars today: 69
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 33,540
+forked: 3,823
+stars today: 151
