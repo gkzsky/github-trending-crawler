@@ -1,0 +1,127 @@
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+language: Rust
+stars: 5,384
+forked: 347
+stars today: 193
+
+codexu/note-gen
+https://github.com/codexu/note-gen
+A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+language: TypeScript
+stars: 4,009
+forked: 252
+stars today: 321
+
+langgenius/dify
+https://github.com/langgenius/dify
+Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+language: TypeScript
+stars: 102,268
+forked: 15,332
+stars today: 566
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 5 lines of code
+language: Python
+stars: 4,649
+forked: 357
+stars today: 884
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 28,912
+forked: 4,328
+stars today: 26
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 33,722
+forked: 3,839
+stars today: 76
+
+zijie0/HumanSystemOptimization
+https://github.com/zijie0/HumanSystemOptimization
+健康学习到150岁 - 人体系统调优不完全指南
+language: -
+stars: 15,485
+forked: 1,134
+stars today: 414
+
+iib0011/omni-tools
+https://github.com/iib0011/omni-tools
+Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+language: TypeScript
+stars: 3,151
+forked: 134
+stars today: 414
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 15,208
+forked: 718
+stars today: 233
+
+Daymychen/art-design-pro
+https://github.com/Daymychen/art-design-pro
+A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
+language: Vue
+stars: 1,918
+forked: 319
+stars today: 116
+
+friuns2/BlackFriday-GPTs-Prompts
+https://github.com/friuns2/BlackFriday-GPTs-Prompts
+List of free GPTs that doesn't require plus subscription
+language: -
+stars: 7,163
+forked: 1,091
+stars today: 43
+
+deepsense-ai/ragbits
+https://github.com/deepsense-ai/ragbits
+Building blocks for rapid development of GenAI applications
+language: Python
+stars: 1,176
+forked: 88
+stars today: 149
+
+kelseyhightower/kubernetes-the-hard-way
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+Bootstrap Kubernetes the hard way. No scripts.
+language: -
+stars: 44,344
+forked: 14,878
+stars today: 24
+
+codecrafters-io/build-your-own-x
+https://github.com/codecrafters-io/build-your-own-x
+Master programming by recreating your favorite technologies from scratch.
+language: Markdown
+stars: 385,701
+forked: 35,974
+stars today: 261
+
+unslothai/notebooks
+https://github.com/unslothai/notebooks
+Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
+language: Jupyter Notebook
+stars: 1,776
+forked: 258
+stars today: 139
+
+stanfordnlp/dspy
+https://github.com/stanfordnlp/dspy
+DSPy: The framework for programming—not prompting—language models
+language: Python
+stars: 25,131
+forked: 1,944
+stars today: 107

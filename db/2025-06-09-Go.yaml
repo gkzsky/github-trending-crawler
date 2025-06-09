@@ -1,0 +1,135 @@
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 28,912
+forked: 4,328
+stars today: 26
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 15,208
+forked: 718
+stars today: 233
+
+kubetail-org/kubetail
+https://github.com/kubetail-org/kubetail
+Real-time logging dashboard for Kubernetes (browser/terminal)
+language: Go
+stars: 1,288
+forked: 72
+stars today: 21
+
+trustwallet/assets
+https://github.com/trustwallet/assets
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+language: Go
+stars: 4,948
+forked: 24,284
+stars today: 2
+
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+language: Go
+stars: 28,827
+forked: 2,511
+stars today: 23
+
+authelia/authelia
+https://github.com/authelia/authelia
+The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+language: Go
+stars: 24,077
+forked: 1,229
+stars today: 6
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 24,176
+forked: 2,881
+stars today: 16
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 7,140
+forked: 671
+stars today: 10
+
+gofr-dev/gofr
+https://github.com/gofr-dev/gofr
+An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+language: Go
+stars: 11,320
+forked: 1,632
+stars today: 75
+
+restic/restic
+https://github.com/restic/restic
+Fast, secure, efficient backup program
+language: Go
+stars: 28,913
+forked: 1,610
+stars today: 34
+
+Jguer/yay
+https://github.com/Jguer/yay
+Yet another Yogurt - An AUR Helper written in Go
+language: Go
+stars: 11,973
+forked: 370
+stars today: 8
+
+charmbracelet/bubbletea
+https://github.com/charmbracelet/bubbletea
+A powerful little TUI framework 🏗
+language: Go
+stars: 32,012
+forked: 914
+stars today: 27
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 6,964
+forked: 883
+stars today: 17
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 22,995
+forked: 1,844
+stars today: 18
+
+fluxcd/flux2
+https://github.com/fluxcd/flux2
+Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+language: Go
+stars: 7,144
+forked: 659
+stars today: 1
+
+gocolly/colly
+https://github.com/gocolly/colly
+Elegant Scraper and Crawler Framework for Golang
+language: Go
+stars: 24,276
+forked: 1,799
+stars today: 5
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 2,334
+forked: 61
+stars today: 24
