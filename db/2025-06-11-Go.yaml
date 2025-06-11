@@ -1,0 +1,167 @@
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 29,178
+forked: 4,349
+stars today: 147
+
+envoyproxy/gateway
+https://github.com/envoyproxy/gateway
+Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+language: Go
+stars: 1,925
+forked: 489
+stars today: 4
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 17,306
+forked: 1,586
+stars today: 7
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 35,263
+forked: 3,242
+stars today: 32
+
+sashabaranov/go-openai
+https://github.com/sashabaranov/go-openai
+OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+language: Go
+stars: 10,049
+forked: 1,611
+stars today: 6
+
+go-resty/resty
+https://github.com/go-resty/resty
+Simple HTTP, REST, and SSE client library for Go
+language: Go
+stars: 10,945
+forked: 754
+stars today: 7
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 5,750
+forked: 1,172
+stars today: 5
+
+argoproj/argo-rollouts
+https://github.com/argoproj/argo-rollouts
+Progressive Delivery for Kubernetes
+language: Go
+stars: 3,047
+forked: 965
+stars today: 3
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+language: Go
+stars: 1,736
+forked: 309
+stars today: 6
+
+uber-go/zap
+https://github.com/uber-go/zap
+Blazing fast, structured, leveled logging in Go.
+language: Go
+stars: 23,184
+forked: 1,476
+stars today: 6
+
+kubernetes/client-go
+https://github.com/kubernetes/client-go
+Go client for Kubernetes.
+language: Go
+stars: 9,447
+forked: 2,992
+stars today: 1
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+A Cloud Native Batch System (Project under CNCF)
+language: Go
+stars: 4,730
+forked: 1,097
+stars today: 4
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 69,867
+forked: 18,767
+stars today: 12
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,633
+forked: 2,801
+stars today: 3
+
+abiosoft/colima
+https://github.com/abiosoft/colima
+Container runtimes on macOS (and Linux) with minimal setup
+language: Go
+stars: 23,078
+forked: 456
+stars today: 49
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end stack for WebRTC. SFU media server and SDKs.
+language: Go
+stars: 12,898
+forked: 1,186
+stars today: 17
+
+fyne-io/fyne
+https://github.com/fyne-io/fyne
+Cross platform GUI toolkit in Go inspired by Material Design
+language: Go
+stars: 26,562
+forked: 1,453
+stars today: 10
+
+WireGuard/wireguard-go
+https://github.com/WireGuard/wireguard-go
+Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+language: Go
+stars: 3,503
+forked: 1,204
+stars today: 3
+
+quic-go/quic-go
+https://github.com/quic-go/quic-go
+A QUIC implementation in pure Go
+language: Go
+stars: 10,721
+forked: 1,384
+stars today: 4
+
+docker/cli
+https://github.com/docker/cli
+The Docker CLI
+language: Go
+stars: 5,290
+forked: 2,001
+stars today: 3
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 18,720
+forked: 3,567
+stars today: 11
