@@ -1,0 +1,79 @@
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 39,031
+forked: 4,480
+stars today: 2,174
+
+sindresorhus/awesome
+https://github.com/sindresorhus/awesome
+😎 Awesome lists about all kinds of interesting topics
+language: -
+stars: 367,455
+forked: 29,553
+stars today: 676
+
+xiangechen/chili3d
+https://github.com/xiangechen/chili3d
+A web-based 3D CAD application for online model design and editing
+language: TypeScript
+stars: 2,232
+forked: 193
+stars today: 685
+
+datawhalechina/self-llm
+https://github.com/datawhalechina/self-llm
+《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+language: Jupyter Notebook
+stars: 18,028
+forked: 1,905
+stars today: 379
+
+jdepoix/youtube-transcript-api
+https://github.com/jdepoix/youtube-transcript-api
+This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+language: Python
+stars: 4,709
+forked: 516
+stars today: 239
+
+microsoft/ai-agents-for-beginners
+https://github.com/microsoft/ai-agents-for-beginners
+11 Lessons to Get Started Building AI Agents
+language: Jupyter Notebook
+stars: 26,144
+forked: 7,093
+stars today: 481
+
+confident-ai/deepeval
+https://github.com/confident-ai/deepeval
+The LLM Evaluation Framework
+language: Python
+stars: 7,737
+forked: 692
+stars today: 331
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 8,399
+forked: 274
+stars today: 146
+
+FareedKhan-dev/all-rag-techniques
+https://github.com/FareedKhan-dev/all-rag-techniques
+Implementation of all RAG techniques in a simpler way
+language: Jupyter Notebook
+stars: 3,714
+forked: 499
+stars today: 974
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 36,062
+forked: 6,264
+stars today: 248

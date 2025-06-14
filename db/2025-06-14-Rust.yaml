@@ -1,0 +1,175 @@
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 8,399
+forked: 274
+stars today: 146
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 14,922
+forked: 586
+stars today: 52
+
+rivet-gg/rivet
+https://github.com/rivet-gg/rivet
+🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
+language: Rust
+stars: 3,878
+forked: 99
+stars today: 28
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 8,673
+forked: 272
+stars today: 74
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+language: Rust
+stars: 12,713
+forked: 610
+stars today: 187
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 16,034
+forked: 530
+stars today: 22
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 20,741
+forked: 3,406
+stars today: 15
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 49,306
+forked: 2,134
+stars today: 28
+
+garyttierney/me3
+https://github.com/garyttierney/me3
+A framework for modding and instrumenting games.
+language: Rust
+stars: 180
+forked: 12
+stars today: 9
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 3,685
+forked: 271
+stars today: 5
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 67,410
+forked: 3,254
+stars today: 199
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 35,396
+forked: 1,846
+stars today: 13
+
+BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+language: Rust
+stars: 53,043
+forked: 2,146
+stars today: 28
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,179
+forked: 4,902
+stars today: 3
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 2,090
+forked: 158
+stars today: 3
+
+eclipse-zenoh/zenoh
+https://github.com/eclipse-zenoh/zenoh
+zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
+language: Rust
+stars: 1,900
+forked: 196
+stars today: 5
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 19,714
+forked: 1,767
+stars today: 10
+
+mainmatter/100-exercises-to-learn-rust
+https://github.com/mainmatter/100-exercises-to-learn-rust
+A self-paced course to learn Rust, one exercise at a time.
+language: Rust
+stars: 7,889
+forked: 1,565
+stars today: 20
+
+greenbone/openvas-scanner
+https://github.com/greenbone/openvas-scanner
+This repository contains the scanner component for Greenbone Community Edition.
+language: Rust
+stars: 3,891
+forked: 680
+stars today: 4
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 58,776
+forked: 10,644
+stars today: 16
+
+leptos-rs/leptos
+https://github.com/leptos-rs/leptos
+Build fast web applications with Rust.
+language: Rust
+stars: 18,593
+forked: 769
+stars today: 14
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 6,315
+forked: 1,119
+stars today: 14
