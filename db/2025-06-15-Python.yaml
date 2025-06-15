@@ -1,0 +1,103 @@
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 40,435
+forked: 4,620
+stars today: 1,595
+
+jdepoix/youtube-transcript-api
+https://github.com/jdepoix/youtube-transcript-api
+This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+language: Python
+stars: 4,849
+forked: 531
+stars today: 170
+
+confident-ai/deepeval
+https://github.com/confident-ai/deepeval
+The LLM Evaluation Framework
+language: Python
+stars: 7,882
+forked: 708
+stars today: 186
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 36,211
+forked: 6,295
+stars today: 159
+
+OWASP/Nettacker
+https://github.com/OWASP/Nettacker
+Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+language: Python
+stars: 4,193
+forked: 873
+stars today: 26
+
+modelcontextprotocol/servers
+https://github.com/modelcontextprotocol/servers
+Model Context Protocol Servers
+language: Python
+stars: 53,726
+forked: 6,118
+stars today: 165
+
+jwohlwend/boltz
+https://github.com/jwohlwend/boltz
+Official repository for the Boltz biomolecular interaction models
+language: Python
+stars: 2,792
+forked: 414
+stars today: 22
+
+RockChinQ/LangBot
+https://github.com/RockChinQ/LangBot
+🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ Bots for QQ / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent
+language: Python
+stars: 11,927
+forked: 912
+stars today: 29
+
+Azure/Azure-Sentinel
+https://github.com/Azure/Azure-Sentinel
+Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+language: Python
+stars: 5,108
+forked: 3,228
+stars today: 4
+
+sml2h3/ddddocr
+https://github.com/sml2h3/ddddocr
+带带弟弟 通用验证码识别OCR pypi版
+language: Python
+stars: 12,023
+forked: 2,005
+stars today: 15
+
+EleutherAI/lm-evaluation-harness
+https://github.com/EleutherAI/lm-evaluation-harness
+A framework for few-shot evaluation of language models.
+language: Python
+stars: 9,266
+forked: 2,460
+stars today: 12
+
+gpustack/gpustack
+https://github.com/gpustack/gpustack
+Simple, scalable AI model deployment on GPU clusters
+language: Python
+stars: 2,912
+forked: 296
+stars today: 5
+
+AtsushiSakai/PythonRobotics
+https://github.com/AtsushiSakai/PythonRobotics
+Python sample codes and textbook for robotics algorithms.
+language: Python
+stars: 25,210
+forked: 6,802
+stars today: 14
