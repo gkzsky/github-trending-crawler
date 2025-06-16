@@ -1,0 +1,95 @@
+jdepoix/youtube-transcript-api
+https://github.com/jdepoix/youtube-transcript-api
+This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+language: Python
+stars: 4,996
+forked: 541
+stars today: 124
+
+confident-ai/deepeval
+https://github.com/confident-ai/deepeval
+The LLM Evaluation Framework
+language: Python
+stars: 8,059
+forked: 714
+stars today: 151
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 36,413
+forked: 6,317
+stars today: 157
+
+OWASP/Nettacker
+https://github.com/OWASP/Nettacker
+Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+language: Python
+stars: 4,208
+forked: 874
+stars today: 17
+
+modelcontextprotocol/servers
+https://github.com/modelcontextprotocol/servers
+Model Context Protocol Servers
+language: Python
+stars: 53,910
+forked: 6,145
+stars today: 166
+
+jwohlwend/boltz
+https://github.com/jwohlwend/boltz
+Official repository for the Boltz biomolecular interaction models
+language: Python
+stars: 2,805
+forked: 419
+stars today: 9
+
+RockChinQ/LangBot
+https://github.com/RockChinQ/LangBot
+🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ Bots for QQ / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent
+language: Python
+stars: 11,952
+forked: 916
+stars today: 25
+
+Azure/Azure-Sentinel
+https://github.com/Azure/Azure-Sentinel
+Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+language: Python
+stars: 5,111
+forked: 3,229
+stars today: 4
+
+sml2h3/ddddocr
+https://github.com/sml2h3/ddddocr
+带带弟弟 通用验证码识别OCR pypi版
+language: Python
+stars: 12,030
+forked: 2,008
+stars today: 8
+
+EleutherAI/lm-evaluation-harness
+https://github.com/EleutherAI/lm-evaluation-harness
+A framework for few-shot evaluation of language models.
+language: Python
+stars: 9,278
+forked: 2,462
+stars today: 7
+
+gpustack/gpustack
+https://github.com/gpustack/gpustack
+Simple, scalable AI model deployment on GPU clusters
+language: Python
+stars: 2,919
+forked: 296
+stars today: 4
+
+AtsushiSakai/PythonRobotics
+https://github.com/AtsushiSakai/PythonRobotics
+Python sample codes and textbook for robotics algorithms.
+language: Python
+stars: 25,229
+forked: 6,803
+stars today: 12
