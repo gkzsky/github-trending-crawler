@@ -1,0 +1,159 @@
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 8,787
+forked: 285
+stars today: 161
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 40,121
+forked: 3,952
+stars today: 23
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 49,362
+forked: 2,137
+stars today: 27
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 17,125
+forked: 890
+stars today: 7
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 35,455
+forked: 1,851
+stars today: 22
+
+mullvad/mullvadvpn-app
+https://github.com/mullvad/mullvadvpn-app
+The Mullvad VPN client app for desktop and mobile
+language: Rust
+stars: 5,915
+forked: 412
+stars today: 4
+
+shadowsocks/shadowsocks-rust
+https://github.com/shadowsocks/shadowsocks-rust
+A Rust port of shadowsocks
+language: Rust
+stars: 9,516
+forked: 1,306
+stars today: 6
+
+ruffle-rs/ruffle
+https://github.com/ruffle-rs/ruffle
+A Flash Player emulator written in Rust
+language: Rust
+stars: 16,767
+forked: 890
+stars today: 5
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 1,911
+forked: 86
+stars today: 10
+
+wez/govee2mqtt
+https://github.com/wez/govee2mqtt
+Govee2MQTT: Connect Govee lights and devices to Home Assistant
+language: Rust
+stars: 813
+forked: 57
+stars today: 2
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 90,791
+forked: 13,048
+stars today: 81
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 67,819
+forked: 3,269
+stars today: 172
+
+rust-unofficial/awesome-rust
+https://github.com/rust-unofficial/awesome-rust
+A curated list of Rust code and resources.
+language: Rust
+stars: 50,921
+forked: 2,936
+stars today: 29
+
+RustPython/RustPython
+https://github.com/RustPython/RustPython
+A Python Interpreter written in Rust
+language: Rust
+stars: 20,165
+forked: 1,318
+stars today: 6
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 59,188
+forked: 3,128
+stars today: 11
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 2,103
+forked: 161
+stars today: 5
+
+touchHLE/touchHLE
+https://github.com/touchHLE/touchHLE
+High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
+language: Rust
+stars: 3,059
+forked: 148
+stars today: 2
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki's shared backend and web components, and the Qt frontend
+language: Rust
+stars: 21,948
+forked: 2,368
+stars today: 21
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 25,946
+forked: 549
+stars today: 19
+
+TeamFlos/phira
+https://github.com/TeamFlos/phira
+-
+language: Rust
+stars: 1,748
+forked: 136
+stars today: 1
