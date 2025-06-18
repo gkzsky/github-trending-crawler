@@ -1,0 +1,63 @@
+microsoft/fluentui-system-icons
+https://github.com/microsoft/fluentui-system-icons
+Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+language: HTML
+stars: 8,183
+forked: 637
+stars today: 910
+
+menloresearch/jan
+https://github.com/menloresearch/jan
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+language: TypeScript
+stars: 30,808
+forked: 1,817
+stars today: 196
+
+anthropics/anthropic-cookbook
+https://github.com/anthropics/anthropic-cookbook
+A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+language: Jupyter Notebook
+stars: 14,726
+forked: 1,628
+stars today: 1,022
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: Python
+stars: 56,449
+forked: 5,549
+stars today: 754
+
+deepseek-ai/DeepEP
+https://github.com/deepseek-ai/DeepEP
+DeepEP: an efficient expert-parallel communication library
+language: Cuda
+stars: 7,880
+forked: 801
+stars today: 13
+
+automatisch/automatisch
+https://github.com/automatisch/automatisch
+The open source Zapier alternative. Build workflow automation without spending time and money.
+language: JavaScript
+stars: 9,251
+forked: 705
+stars today: 67
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 43,855
+forked: 4,942
+stars today: 986
+
+continuedev/continue
+https://github.com/continuedev/continue
+⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+language: TypeScript
+stars: 27,097
+forked: 2,979
+stars today: 33

@@ -1,0 +1,175 @@
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,309
+forked: 1,651
+stars today: 5
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 15,681
+forked: 5,653
+stars today: 3
+
+googleapis/google-cloud-go
+https://github.com/googleapis/google-cloud-go
+Google Cloud Client Libraries for Go.
+language: Go
+stars: 4,273
+forked: 1,431
+stars today: 0
+
+kubernetes-sigs/karpenter
+https://github.com/kubernetes-sigs/karpenter
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 1,057
+forked: 289
+stars today: 6
+
+lejianwen/rustdesk-api
+https://github.com/lejianwen/rustdesk-api
+Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
+language: Go
+stars: 1,391
+forked: 293
+stars today: 34
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 18,486
+forked: 1,373
+stars today: 8
+
+Musixal/Backhaul
+https://github.com/Musixal/Backhaul
+Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
+language: Go
+stars: 402
+forked: 86
+stars today: 16
+
+m1k1o/neko
+https://github.com/m1k1o/neko
+A self hosted virtual browser that runs in docker and uses WebRTC.
+language: Go
+stars: 10,508
+forked: 737
+stars today: 24
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 49,630
+forked: 10,075
+stars today: 11
+
+uber-go/zap
+https://github.com/uber-go/zap
+Blazing fast, structured, leveled logging in Go.
+language: Go
+stars: 23,218
+forked: 1,476
+stars today: 7
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,470
+forked: 231
+stars today: 6
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 5,836
+forked: 534
+stars today: 32
+
+grafana/tempo
+https://github.com/grafana/tempo
+Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+language: Go
+stars: 4,531
+forked: 582
+stars today: 6
+
+go-sql-driver/mysql
+https://github.com/go-sql-driver/mysql
+Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+language: Go
+stars: 14,864
+forked: 2,331
+stars today: 4
+
+hibiken/asynq
+https://github.com/hibiken/asynq
+Simple, reliable, and efficient distributed task queue in Go
+language: Go
+stars: 11,386
+forked: 809
+stars today: 10
+
+asdf-vm/asdf
+https://github.com/asdf-vm/asdf
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+language: Go
+stars: 23,729
+forked: 880
+stars today: 7
+
+labstack/echo
+https://github.com/labstack/echo
+High performance, minimalist Go web framework
+language: Go
+stars: 31,151
+forked: 2,275
+stars today: 6
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 24,352
+forked: 2,904
+stars today: 25
+
+kubernetes/client-go
+https://github.com/kubernetes/client-go
+Go client for Kubernetes.
+language: Go
+stars: 9,461
+forked: 2,996
+stars today: 2
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 143,942
+forked: 12,109
+stars today: 109
+
+coredns/coredns
+https://github.com/coredns/coredns
+CoreDNS is a DNS server that chains plugins
+language: Go
+stars: 13,086
+forked: 2,250
+stars today: 6
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 24,747
+forked: 1,652
+stars today: 2
