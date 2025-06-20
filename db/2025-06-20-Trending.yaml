@@ -1,0 +1,127 @@
+DataExpert-io/data-engineer-handbook
+https://github.com/DataExpert-io/data-engineer-handbook
+This is a repo with links to everything you'd ever want to learn about data engineering
+language: Jupyter Notebook
+stars: 31,369
+forked: 6,185
+stars today: 675
+
+menloresearch/jan
+https://github.com/menloresearch/jan
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+language: TypeScript
+stars: 32,149
+forked: 1,880
+stars today: 448
+
+dail8859/NotepadNext
+https://github.com/dail8859/NotepadNext
+A cross-platform, reimplementation of Notepad++
+language: C++
+stars: 10,746
+forked: 646
+stars today: 71
+
+automatisch/automatisch
+https://github.com/automatisch/automatisch
+The open source Zapier alternative. Build workflow automation without spending time and money.
+language: JavaScript
+stars: 10,988
+forked: 796
+stars today: 1,329
+
+microsoft/fluentui-system-icons
+https://github.com/microsoft/fluentui-system-icons
+Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+language: HTML
+stars: 8,859
+forked: 664
+stars today: 241
+
+kortix-ai/suna
+https://github.com/kortix-ai/suna
+Suna - Open Source Generalist AI Agent
+language: TypeScript
+stars: 14,888
+forked: 2,232
+stars today: 116
+
+cloudflare/ai
+https://github.com/cloudflare/ai
+-
+language: TypeScript
+stars: 459
+forked: 122
+stars today: 46
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 85,321
+forked: 8,938
+stars today: 114
+
+deepseek-ai/DeepEP
+https://github.com/deepseek-ai/DeepEP
+DeepEP: an efficient expert-parallel communication library
+language: Cuda
+stars: 8,111
+forked: 813
+stars today: 103
+
+php/frankenphp
+https://github.com/php/frankenphp
+🧟 The modern PHP app server
+language: Go
+stars: 8,785
+forked: 329
+stars today: 177
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 144,218
+forked: 12,136
+stars today: 130
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 50,164
+forked: 8,202
+stars today: 99
+
+espressif/esp-idf
+https://github.com/espressif/esp-idf
+Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+language: C
+stars: 15,549
+forked: 7,710
+stars today: 20
+
+firebase/genkit
+https://github.com/firebase/genkit
+An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+language: TypeScript
+stars: 2,238
+forked: 292
+stars today: 47
+
+anthropics/anthropic-cookbook
+https://github.com/anthropics/anthropic-cookbook
+A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+language: Jupyter Notebook
+stars: 16,247
+forked: 1,712
+stars today: 997
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,098
+forked: 11,534
+stars today: 22
