@@ -1,0 +1,159 @@
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,132
+forked: 11,536
+stars today: 77
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 61,659
+forked: 4,526
+stars today: 70
+
+ast-grep/ast-grep
+https://github.com/ast-grep/ast-grep
+⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+language: Rust
+stars: 9,013
+forked: 234
+stars today: 24
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 16,331
+forked: 551
+stars today: 67
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 28,263
+forked: 1,960
+stars today: 42
+
+huggingface/tokenizers
+https://github.com/huggingface/tokenizers
+💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+language: Rust
+stars: 9,820
+forked: 924
+stars today: 7
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 42,239
+forked: 1,133
+stars today: 58
+
+smallcloudai/refact
+https://github.com/smallcloudai/refact
+AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+language: Rust
+stars: 2,205
+forked: 173
+stars today: 9
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 34,103
+forked: 2,274
+stars today: 17
+
+matter-labs/zksync-era
+https://github.com/matter-labs/zksync-era
+zkSync era
+language: Rust
+stars: 3,178
+forked: 2,128
+stars today: 0
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 67,810
+forked: 3,298
+stars today: 215
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 40,203
+forked: 1,405
+stars today: 34
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 19,549
+forked: 617
+stars today: 38
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,274
+forked: 826
+stars today: 6
+
+rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server
+RustDesk Server Program
+language: Rust
+stars: 8,020
+forked: 1,782
+stars today: 8
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,359
+forked: 1,508
+stars today: 4
+
+tokio-rs/tracing
+https://github.com/tokio-rs/tracing
+Application level tracing for Rust.
+language: Rust
+stars: 5,991
+forked: 798
+stars today: 4
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 27,944
+forked: 2,007
+stars today: 7
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,150
+forked: 1,769
+stars today: 7
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 91,098
+forked: 13,137
+stars today: 108

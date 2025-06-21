@@ -1,0 +1,119 @@
+DataExpert-io/data-engineer-handbook
+https://github.com/DataExpert-io/data-engineer-handbook
+This is a repo with links to everything you'd ever want to learn about data engineering
+language: Jupyter Notebook
+stars: 32,740
+forked: 6,288
+stars today: 1,810
+
+dail8859/NotepadNext
+https://github.com/dail8859/NotepadNext
+A cross-platform, reimplementation of Notepad++
+language: C++
+stars: 10,963
+forked: 663
+stars today: 277
+
+automatisch/automatisch
+https://github.com/automatisch/automatisch
+The open source Zapier alternative. Build workflow automation without spending time and money.
+language: JavaScript
+stars: 11,215
+forked: 817
+stars today: 291
+
+php/frankenphp
+https://github.com/php/frankenphp
+🧟 The modern PHP app server
+language: Go
+stars: 8,936
+forked: 332
+stars today: 172
+
+YimMenu/YimMenuV2
+https://github.com/YimMenu/YimMenuV2
+Experimental menu for GTA 5: Enhanced
+language: C++
+stars: 446
+forked: 121
+stars today: 9
+
+grafana/loki
+https://github.com/grafana/loki
+Like Prometheus, but for logs.
+language: Go
+stars: 25,760
+forked: 3,694
+stars today: 21
+
+Mail-0/Zero
+https://github.com/Mail-0/Zero
+Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+language: TypeScript
+stars: 8,302
+forked: 781
+stars today: 52
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 50,318
+forked: 8,228
+stars today: 189
+
+gabime/spdlog
+https://github.com/gabime/spdlog
+Fast C++ logging library.
+language: C++
+stars: 26,457
+forked: 4,806
+stars today: 18
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 109,722
+forked: 31,626
+stars today: 373
+
+ManimCommunity/manim
+https://github.com/ManimCommunity/manim
+A community-maintained Python framework for creating mathematical animations.
+language: Python
+stars: 32,529
+forked: 2,289
+stars today: 74
+
+rasbt/LLMs-from-scratch
+https://github.com/rasbt/LLMs-from-scratch
+Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+language: Jupyter Notebook
+stars: 51,731
+forked: 7,521
+stars today: 95
+
+anthropics/anthropic-cookbook
+https://github.com/anthropics/anthropic-cookbook
+A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+language: Jupyter Notebook
+stars: 16,472
+forked: 1,723
+stars today: 295
+
+n8n-io/self-hosted-ai-starter-kit
+https://github.com/n8n-io/self-hosted-ai-starter-kit
+The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+language: -
+stars: 9,579
+forked: 2,285
+stars today: 40
+
+moby/buildkit
+https://github.com/moby/buildkit
+concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+language: Go
+stars: 9,048
+forked: 1,250
+stars today: 19

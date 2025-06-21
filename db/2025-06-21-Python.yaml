@@ -1,0 +1,127 @@
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 50,318
+forked: 8,228
+stars today: 189
+
+ManimCommunity/manim
+https://github.com/ManimCommunity/manim
+A community-maintained Python framework for creating mathematical animations.
+language: Python
+stars: 32,529
+forked: 2,289
+stars today: 74
+
+coleam00/Archon
+https://github.com/coleam00/Archon
+Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
+language: Python
+stars: 4,975
+forked: 973
+stars today: 25
+
+ultralytics/ultralytics
+https://github.com/ultralytics/ultralytics
+Ultralytics YOLO11 🚀
+language: Python
+stars: 42,170
+forked: 8,218
+stars today: 35
+
+hiyouga/EasyR1
+https://github.com/hiyouga/EasyR1
+EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
+language: Python
+stars: 2,741
+forked: 205
+stars today: 15
+
+wger-project/wger
+https://github.com/wger-project/wger
+Self hosted FLOSS fitness/workout, nutrition and weight tracker
+language: Python
+stars: 4,795
+forked: 700
+stars today: 9
+
+dottxt-ai/outlines
+https://github.com/dottxt-ai/outlines
+Structured Text Generation
+language: Python
+stars: 11,870
+forked: 606
+stars today: 62
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 27,725
+forked: 623
+stars today: 170
+
+All-Hands-AI/OpenHands
+https://github.com/All-Hands-AI/OpenHands
+🙌 OpenHands: Code Less, Make More
+language: Python
+stars: 58,823
+forked: 6,776
+stars today: 156
+
+tadata-org/fastapi_mcp
+https://github.com/tadata-org/fastapi_mcp
+Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+language: Python
+stars: 5,526
+forked: 467
+stars today: 19
+
+cyclotruc/gitingest
+https://github.com/cyclotruc/gitingest
+Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+language: Python
+stars: 9,474
+forked: 728
+stars today: 156
+
+pytorch/pytorch
+https://github.com/pytorch/pytorch
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+language: Python
+stars: 90,918
+forked: 24,480
+stars today: 25
+
+e-p-armstrong/augmentoolkit
+https://github.com/e-p-armstrong/augmentoolkit
+Create Custom LLMs
+language: Python
+stars: 1,619
+forked: 221
+stars today: 23
+
+facebookresearch/ParlAI
+https://github.com/facebookresearch/ParlAI
+A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+language: Python
+stars: 10,575
+forked: 2,094
+stars today: 11
+
+LMCache/LMCache
+https://github.com/LMCache/LMCache
+Redis for LLMs
+language: Python
+stars: 1,590
+forked: 236
+stars today: 120
+
+lyuwenyu/RT-DETR
+https://github.com/lyuwenyu/RT-DETR
+[CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
+language: Python
+stars: 3,809
+forked: 446
+stars today: 7

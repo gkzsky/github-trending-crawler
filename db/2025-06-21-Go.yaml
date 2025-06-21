@@ -1,0 +1,191 @@
+php/frankenphp
+https://github.com/php/frankenphp
+🧟 The modern PHP app server
+language: Go
+stars: 8,936
+forked: 332
+stars today: 172
+
+grafana/loki
+https://github.com/grafana/loki
+Like Prometheus, but for logs.
+language: Go
+stars: 25,760
+forked: 3,694
+stars today: 21
+
+moby/buildkit
+https://github.com/moby/buildkit
+concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+language: Go
+stars: 9,048
+forked: 1,250
+stars today: 19
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 40,821
+forked: 2,953
+stars today: 26
+
+manusa/kubernetes-mcp-server
+https://github.com/manusa/kubernetes-mcp-server
+Model Context Protocol (MCP) server for Kubernetes and OpenShift
+language: Go
+stars: 305
+forked: 53
+stars today: 13
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 25,289
+forked: 966
+stars today: 33
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+language: Go
+stars: 5,118
+forked: 598
+stars today: 10
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,162
+forked: 20,933
+stars today: 11
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,361
+forked: 9,542
+stars today: 5
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 6,093
+forked: 501
+stars today: 215
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 144,339
+forked: 12,145
+stars today: 201
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 1,560
+forked: 112
+stars today: 24
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 7,310
+forked: 916
+stars today: 64
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 19,609
+forked: 878
+stars today: 10
+
+tmc/langchaingo
+https://github.com/tmc/langchaingo
+LangChain for Go, the easiest way to write LLM-based programs in Go
+language: Go
+stars: 6,932
+forked: 865
+stars today: 18
+
+erigontech/erigon
+https://github.com/erigontech/erigon
+Ethereum implementation on the efficiency frontier
+language: Go
+stars: 3,371
+forked: 1,307
+stars today: 3
+
+dexidp/dex
+https://github.com/dexidp/dex
+OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+language: Go
+stars: 9,956
+forked: 1,805
+stars today: 2
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,948
+forked: 4,517
+stars today: 4
+
+flipped-aurora/gin-vue-admin
+https://github.com/flipped-aurora/gin-vue-admin
+🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+language: Go
+stars: 23,067
+forked: 6,735
+stars today: 7
+
+rclone/rclone
+https://github.com/rclone/rclone
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+language: Go
+stars: 51,090
+forked: 4,574
+stars today: 19
+
+GoogleContainerTools/kaniko
+https://github.com/GoogleContainerTools/kaniko
+Build Container Images In Kubernetes
+language: Go
+stars: 15,633
+forked: 1,499
+stars today: 0
+
+spf13/viper
+https://github.com/spf13/viper
+Go configuration with fangs
+language: Go
+stars: 28,717
+forked: 2,055
+stars today: 6
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 18,653
+forked: 8,391
+stars today: 5
+
+aws/aws-sdk-go-v2
+https://github.com/aws/aws-sdk-go-v2
+AWS SDK for the Go programming language.
+language: Go
+stars: 3,103
+forked: 688
+stars today: 1
