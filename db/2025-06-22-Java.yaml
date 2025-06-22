@@ -1,0 +1,183 @@
+DrKLO/Telegram
+https://github.com/DrKLO/Telegram
+Telegram for Android source
+language: Java
+stars: 26,353
+forked: 8,442
+stars today: 41
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 77,508
+forked: 41,251
+stars today: 8
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 10,989
+forked: 2,265
+stars today: 5
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 11,186
+forked: 2,549
+stars today: 9
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 9,178
+forked: 6,062
+stars today: 1
+
+apache/pulsar
+https://github.com/apache/pulsar
+Apache Pulsar - distributed pub-sub messaging system
+language: Java
+stars: 14,677
+forked: 3,644
+stars today: 2
+
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+language: Java
+stars: 19,252
+forked: 1,593
+stars today: 25
+
+apache/cloudstack
+https://github.com/apache/cloudstack
+Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+language: Java
+stars: 2,418
+forked: 1,190
+stars today: 7
+
+micrometer-metrics/micrometer
+https://github.com/micrometer-metrics/micrometer
+An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
+language: Java
+stars: 4,643
+forked: 1,032
+stars today: 4
+
+debezium/debezium
+https://github.com/debezium/debezium
+Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+language: Java
+stars: 11,519
+forked: 2,683
+stars today: 2
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 57,985
+forked: 6,476
+stars today: 26
+
+kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+language: Java
+stars: 19,361
+forked: 12,078
+stars today: 15
+
+openmrs/openmrs-core
+https://github.com/openmrs/openmrs-core
+OpenMRS API and web application code
+language: Java
+stars: 1,566
+forked: 3,846
+stars today: 1
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,625
+forked: 2,883
+stars today: 3
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 34,184
+forked: 16,105
+stars today: 4
+
+apache/paimon
+https://github.com/apache/paimon
+Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+language: Java
+stars: 2,853
+forked: 1,167
+stars today: 1
+
+microsoft/typespec
+https://github.com/microsoft/typespec
+-
+language: Java
+stars: 5,196
+forked: 287
+stars today: 2
+
+wiremock/wiremock
+https://github.com/wiremock/wiremock
+A tool for mocking HTTP services
+language: Java
+stars: 6,843
+forked: 1,473
+stars today: 2
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,465
+forked: 3,236
+stars today: 6
+
+apache/lucene
+https://github.com/apache/lucene
+Apache Lucene open-source search software
+language: Java
+stars: 3,025
+forked: 1,202
+stars today: 1
+
+648540858/wvp-GB28181-pro
+https://github.com/648540858/wvp-GB28181-pro
+WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+language: Java
+stars: 5,974
+forked: 1,697
+stars today: 3
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 24,098
+forked: 9,075
+stars today: 7
+
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 5,818
+forked: 1,618
+stars today: 9

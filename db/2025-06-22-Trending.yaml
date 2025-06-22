@@ -1,0 +1,95 @@
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 42,433
+forked: 1,136
+stars today: 65
+
+patchy631/ai-engineering-hub
+https://github.com/patchy631/ai-engineering-hub
+In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+language: Jupyter Notebook
+stars: 11,029
+forked: 1,889
+stars today: 547
+
+dail8859/NotepadNext
+https://github.com/dail8859/NotepadNext
+A cross-platform, reimplementation of Notepad++
+language: C++
+stars: 11,140
+forked: 672
+stars today: 198
+
+DataExpert-io/data-engineer-handbook
+https://github.com/DataExpert-io/data-engineer-handbook
+This is a repo with links to everything you'd ever want to learn about data engineering
+language: Jupyter Notebook
+stars: 33,286
+forked: 6,373
+stars today: 1,052
+
+rasbt/LLMs-from-scratch
+https://github.com/rasbt/LLMs-from-scratch
+Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+language: Jupyter Notebook
+stars: 52,193
+forked: 7,549
+stars today: 433
+
+DrKLO/Telegram
+https://github.com/DrKLO/Telegram
+Telegram for Android source
+language: Java
+stars: 26,353
+forked: 8,442
+stars today: 41
+
+cyclotruc/gitingest
+https://github.com/cyclotruc/gitingest
+Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+language: Python
+stars: 9,690
+forked: 733
+stars today: 119
+
+ourongxing/newsnow
+https://github.com/ourongxing/newsnow
+Elegant reading of real-time and hottest news
+language: TypeScript
+stars: 11,449
+forked: 3,288
+stars today: 35
+
+n8n-io/self-hosted-ai-starter-kit
+https://github.com/n8n-io/self-hosted-ai-starter-kit
+The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+language: -
+stars: 9,777
+forked: 2,300
+stars today: 188
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 68,049
+forked: 3,320
+stars today: 209
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 110,221
+forked: 31,774
+stars today: 544
+
+Flowseal/zapret-discord-youtube
+https://github.com/Flowseal/zapret-discord-youtube
+-
+language: Batchfile
+stars: 14,170
+forked: 947
+stars today: 134
