@@ -1,0 +1,167 @@
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 9,062
+forked: 387
+stars today: 217
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 68,247
+forked: 3,337
+stars today: 258
+
+Automattic/harper
+https://github.com/Automattic/harper
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+language: Rust
+stars: 5,753
+forked: 140
+stars today: 413
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 42,574
+forked: 1,139
+stars today: 217
+
+biliticket/bili_ticket_rush
+https://github.com/biliticket/bili_ticket_rush
+自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 |超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
+language: Rust
+stars: 372
+forked: 33
+stars today: 26
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 61,741
+forked: 4,542
+stars today: 49
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 1,502
+forked: 224
+stars today: 12
+
+asterinas/asterinas
+https://github.com/asterinas/asterinas
+Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
+language: Rust
+stars: 3,255
+forked: 197
+stars today: 44
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,534
+forked: 1,444
+stars today: 8
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 40,197
+forked: 3,962
+stars today: 8
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,134
+forked: 11,537
+stars today: 1
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 39,801
+forked: 7,422
+stars today: 24
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 5,135
+forked: 442
+stars today: 40
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 25,972
+forked: 558
+stars today: 26
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 15,359
+forked: 614
+stars today: 17
+
+Universal-Debloater-Alliance/universal-android-debloater-next-generation
+https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 3,947
+forked: 154
+stars today: 8
+
+PyO3/pyo3
+https://github.com/PyO3/pyo3
+Rust bindings for the Python interpreter
+language: Rust
+stars: 13,870
+forked: 847
+stars today: 11
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 17,171
+forked: 892
+stars today: 8
+
+witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+Building a community around a cheap ESP32 Display with a touch screen
+language: Rust
+stars: 2,701
+forked: 278
+stars today: 14
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 17,463
+forked: 1,129
+stars today: 10
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 8,832
+forked: 426
+stars today: 25

@@ -1,0 +1,87 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 38,044
+forked: 3,551
+stars today: 10
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,807
+forked: 397
+stars today: 2
+
+composewell/streamly
+https://github.com/composewell/streamly
+High performance, concurrent functional programming abstractions
+language: Haskell
+stars: 893
+forked: 66
+stars today: 0
+
+koka-lang/koka
+https://github.com/koka-lang/koka
+Koka language compiler and interpreter
+language: Haskell
+stars: 3,536
+forked: 181
+stars today: 1
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,061
+forked: 277
+stars today: 2
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 310
+forked: 92
+stars today: 0
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 2,864
+forked: 161
+stars today: 1
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,133
+forked: 732
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,585
+forked: 1,823
+stars today: 1
+
+facebook/duckling
+https://github.com/facebook/duckling
+Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+language: Haskell
+stars: 4,163
+forked: 732
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,425
+forked: 1,094
+stars today: 2

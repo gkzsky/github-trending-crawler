@@ -1,0 +1,143 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,772
+forked: 2,419
+stars today: 6
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,345
+forked: 28,631
+stars today: 3
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,260
+forked: 1,253
+stars today: 0
+
+twitter/finagle
+https://github.com/twitter/finagle
+A fault tolerant, protocol-agnostic RPC system
+language: Scala
+stars: 8,828
+forked: 1,447
+stars today: 0
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 196
+forked: 51
+stars today: 0
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 2,204
+forked: 378
+stars today: 0
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for Twitter's Recommendation Algorithm
+language: Scala
+stars: 63,319
+forked: 12,145
+stars today: 5
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 529
+forked: 32
+stars today: 0
+
+scala/scala
+https://github.com/scala/scala
+Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+language: Scala
+stars: 14,388
+forked: 3,111
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 30
+forked: 19
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,706
+forked: 656
+stars today: 2
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 331
+forked: 92
+stars today: 0
+
+open-korean-text/open-korean-text
+https://github.com/open-korean-text/open-korean-text
+Open Korean Text Processor - An Open-source Korean Text Processor
+language: Scala
+stars: 632
+forked: 98
+stars today: 0
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,454
+forked: 331
+stars today: 0
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,582
+forked: 562
+stars today: 1
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 2,982
+forked: 2,847
+stars today: 2
+
+ClickHouse/spark-clickhouse-connector
+https://github.com/ClickHouse/spark-clickhouse-connector
+Spark ClickHouse Connector build on DataSourceV2 API
+language: Scala
+stars: 196
+forked: 72
+stars today: 0
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,697
+forked: 1,211
+stars today: 0
