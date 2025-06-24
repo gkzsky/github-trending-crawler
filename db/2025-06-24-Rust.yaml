@@ -1,0 +1,167 @@
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 9,463
+forked: 406
+stars today: 370
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 42,858
+forked: 1,145
+stars today: 180
+
+rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy
+A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+language: Rust
+stars: 12,197
+forked: 1,694
+stars today: 8
+
+Automattic/harper
+https://github.com/Automattic/harper
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+language: Rust
+stars: 5,974
+forked: 144
+stars today: 269
+
+asterinas/asterinas
+https://github.com/asterinas/asterinas
+Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
+language: Rust
+stars: 3,289
+forked: 198
+stars today: 47
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 68,402
+forked: 3,352
+stars today: 152
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 24,181
+forked: 754
+stars today: 27
+
+witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+Building a community around a cheap ESP32 Display with a touch screen
+language: Rust
+stars: 2,714
+forked: 278
+stars today: 12
+
+biliticket/bili_ticket_rush
+https://github.com/biliticket/bili_ticket_rush
+自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 |超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
+language: Rust
+stars: 395
+forked: 37
+stars today: 28
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 59,256
+forked: 3,128
+stars today: 13
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 8,847
+forked: 426
+stars today: 19
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,374
+forked: 1,516
+stars today: 9
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki's shared backend and web components, and the Qt frontend
+language: Rust
+stars: 22,054
+forked: 2,382
+stars today: 24
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 29,465
+forked: 1,003
+stars today: 14
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 5,165
+forked: 442
+stars today: 38
+
+redlib-org/redlib
+https://github.com/redlib-org/redlib
+Private front-end for Reddit
+language: Rust
+stars: 2,102
+forked: 142
+stars today: 8
+
+aome510/spotify-player
+https://github.com/aome510/spotify-player
+A Spotify player in the terminal with full feature parity
+language: Rust
+stars: 4,701
+forked: 214
+stars today: 13
+
+LemmyNet/lemmy
+https://github.com/LemmyNet/lemmy
+🐀 A link aggregator and forum for the fediverse
+language: Rust
+stars: 13,862
+forked: 926
+stars today: 3
+
+RustPython/RustPython
+https://github.com/RustPython/RustPython
+A Python Interpreter written in Rust
+language: Rust
+stars: 20,199
+forked: 1,321
+stars today: 4
+
+godot-rust/gdext
+https://github.com/godot-rust/gdext
+Rust bindings for Godot 4
+language: Rust
+stars: 3,778
+forked: 231
+stars today: 6
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 15,369
+forked: 616
+stars today: 14
