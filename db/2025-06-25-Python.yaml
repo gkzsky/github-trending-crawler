@@ -1,0 +1,127 @@
+opendatalab/MinerU
+https://github.com/opendatalab/MinerU
+A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+language: Python
+stars: 36,702
+forked: 2,998
+stars today: 288
+
+livekit/agents
+https://github.com/livekit/agents
+A powerful framework for building realtime voice AI agents 🤖🎙️📹
+language: Python
+stars: 6,547
+forked: 1,006
+stars today: 52
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+language: Python
+stars: 28,810
+forked: 3,669
+stars today: 96
+
+odoo/odoo
+https://github.com/odoo/odoo
+Odoo. Open Source Apps To Grow Your Business.
+language: Python
+stars: 43,765
+forked: 28,380
+stars today: 32
+
+openai/openai-agents-python
+https://github.com/openai/openai-agents-python
+A lightweight, powerful framework for multi-agent workflows
+language: Python
+stars: 11,891
+forked: 1,775
+stars today: 66
+
+danielgatis/rembg
+https://github.com/danielgatis/rembg
+Rembg is a tool to remove images background
+language: Python
+stars: 19,490
+forked: 2,053
+stars today: 89
+
+cyclotruc/gitingest
+https://github.com/cyclotruc/gitingest
+Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+language: Python
+stars: 10,159
+forked: 757
+stars today: 82
+
+NVIDIA/NeMo-Guardrails
+https://github.com/NVIDIA/NeMo-Guardrails
+NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+language: Python
+stars: 4,829
+forked: 492
+stars today: 4
+
+Epodonios/v2ray-configs
+https://github.com/Epodonios/v2ray-configs
+Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
+language: Python
+stars: 1,303
+forked: 205
+stars today: 25
+
+ManimCommunity/manim
+https://github.com/ManimCommunity/manim
+A community-maintained Python framework for creating mathematical animations.
+language: Python
+stars: 32,999
+forked: 2,309
+stars today: 42
+
+HKUDS/AutoAgent
+https://github.com/HKUDS/AutoAgent
+"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+language: Python
+stars: 5,131
+forked: 723
+stars today: 36
+
+comfyanonymous/ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 80,682
+forked: 8,927
+stars today: 257
+
+LeCAR-Lab/ASAP
+https://github.com/LeCAR-Lab/ASAP
+Official implementation of "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
+language: Python
+stars: 1,167
+forked: 106
+stars today: 5
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: Python
+stars: 20,592
+forked: 2,313
+stars today: 16
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 307,956
+forked: 50,811
+stars today: 445
+
+dendenxu/fast-gaussian-rasterization
+https://github.com/dendenxu/fast-gaussian-rasterization
+A geometry-shader-based, global CUDA sorted high-performance 3D Gaussian Splatting rasterizer. Can achieve a 5-10x speedup in rendering compared to the vanialla diff-gaussian-rasterization.
+language: Python
+stars: 990
+forked: 53
+stars today: 26
