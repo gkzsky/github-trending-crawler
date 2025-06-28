@@ -1,0 +1,127 @@
+automatisch/automatisch
+https://github.com/automatisch/automatisch
+The open source Zapier alternative. Build workflow automation without spending time and money.
+language: JavaScript
+stars: 12,126
+forked: 885
+stars today: 183
+
+pot-app/pot-desktop
+https://github.com/pot-app/pot-desktop
+🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+language: JavaScript
+stars: 13,077
+forked: 600
+stars today: 202
+
+ToolJet/ToolJet
+https://github.com/ToolJet/ToolJet
+Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+language: JavaScript
+stars: 35,910
+forked: 4,656
+stars today: 8
+
+zotero/zotero
+https://github.com/zotero/zotero
+Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+language: JavaScript
+stars: 11,885
+forked: 848
+stars today: 26
+
+danielmiessler/fabric
+https://github.com/danielmiessler/fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: JavaScript
+stars: 31,725
+forked: 3,299
+stars today: 49
+
+i-am-shodan/USBArmyKnife
+https://github.com/i-am-shodan/USBArmyKnife
+USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
+language: JavaScript
+stars: 1,663
+forked: 157
+stars today: 6
+
+prebid/Prebid.js
+https://github.com/prebid/Prebid.js
+Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
+language: JavaScript
+stars: 1,451
+forked: 2,194
+stars today: 2
+
+node-red/node-red
+https://github.com/node-red/node-red
+Low-code programming for event-driven applications
+language: JavaScript
+stars: 21,435
+forked: 3,612
+stars today: 4
+
+usebruno/bruno
+https://github.com/usebruno/bruno
+Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+language: JavaScript
+stars: 35,219
+forked: 1,712
+stars today: 22
+
+axios/axios
+https://github.com/axios/axios
+Promise based HTTP client for the browser and node.js
+language: JavaScript
+stars: 107,135
+forked: 11,154
+stars today: 15
+
+nodejs/undici
+https://github.com/nodejs/undici
+An HTTP/1.1 client, written from scratch for Node.js
+language: JavaScript
+stars: 6,902
+forked: 645
+stars today: 5
+
+semantic-release/semantic-release
+https://github.com/semantic-release/semantic-release
+📦🚀 Fully automated version management and package publishing
+language: JavaScript
+stars: 22,155
+forked: 1,743
+stars today: 9
+
+academind/react-complete-guide-course-resources
+https://github.com/academind/react-complete-guide-course-resources
+React - The Complete Guide Course Resources (Code, Attachments, Slides)
+language: JavaScript
+stars: 3,235
+forked: 2,488
+stars today: 7
+
+docker/welcome-to-docker
+https://github.com/docker/welcome-to-docker
+-
+language: JavaScript
+stars: 633
+forked: 2,129
+stars today: 0
+
+bgstaal/multipleWindow3dScene
+https://github.com/bgstaal/multipleWindow3dScene
+A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+language: JavaScript
+stars: 18,521
+forked: 2,860
+stars today: 10
+
+DavidAnson/markdownlint
+https://github.com/DavidAnson/markdownlint
+A Node.js style checker and lint tool for Markdown/CommonMark files.
+language: JavaScript
+stars: 5,229
+forked: 782
+stars today: 5
