@@ -1,0 +1,95 @@
+twentyhq/twenty
+https://github.com/twentyhq/twenty
+Building a modern alternative to Salesforce, powered by the community.
+language: TypeScript
+stars: 30,474
+forked: 3,487
+stars today: 425
+
+midday-ai/midday
+https://github.com/midday-ai/midday
+Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+language: TypeScript
+stars: 8,200
+forked: 804
+stars today: 33
+
+fastapi/full-stack-fastapi-template
+https://github.com/fastapi/full-stack-fastapi-template
+Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+language: TypeScript
+stars: 33,973
+forked: 6,459
+stars today: 132
+
+linshenkx/prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
+一款提示词优化器，助力于编写高质量的提示词
+language: TypeScript
+stars: 8,164
+forked: 1,018
+stars today: 97
+
+cloudflare/templates
+https://github.com/cloudflare/templates
+Templates for Cloudflare Workers
+language: TypeScript
+stars: 1,425
+forked: 770
+stars today: 6
+
+TriliumNext/Trilium
+https://github.com/TriliumNext/Trilium
+Build your personal knowledge base with Trilium Notes
+language: TypeScript
+stars: 29,039
+forked: 1,948
+stars today: 40
+
+langgenius/dify
+https://github.com/langgenius/dify
+Production-ready platform for agentic workflow development.
+language: TypeScript
+stars: 105,018
+forked: 15,818
+stars today: 85
+
+magnitudedev/magnitude
+https://github.com/magnitudedev/magnitude
+The AI browser automation framework
+language: TypeScript
+stars: 2,652
+forked: 78
+stars today: 208
+
+mui/base-ui
+https://github.com/mui/base-ui
+Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+language: TypeScript
+stars: 4,246
+forked: 171
+stars today: 235
+
+Portkey-AI/gateway
+https://github.com/Portkey-AI/gateway
+A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+language: TypeScript
+stars: 8,530
+forked: 629
+stars today: 47
+
+babel/babel
+https://github.com/babel/babel
+🐠 Babel is a compiler for writing next generation JavaScript.
+language: TypeScript
+stars: 43,630
+forked: 5,718
+stars today: 4
+
+arc53/DocsGPT
+https://github.com/arc53/DocsGPT
+DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+language: TypeScript
+stars: 15,827
+forked: 1,682
+stars today: 6

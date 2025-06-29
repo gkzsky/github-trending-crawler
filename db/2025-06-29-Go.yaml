@@ -1,0 +1,183 @@
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,402
+forked: 1,260
+stars today: 5
+
+gtsteffaniak/filebrowser
+https://github.com/gtsteffaniak/filebrowser
+📂 Web File Browser
+language: Go
+stars: 2,378
+forked: 67
+stars today: 49
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 1,794
+forked: 123
+stars today: 14
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 23,367
+forked: 1,875
+stars today: 23
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 21,227
+forked: 1,661
+stars today: 190
+
+kubernetes-sigs/kustomize
+https://github.com/kubernetes-sigs/kustomize
+Customization of kubernetes YAML configurations
+language: Go
+stars: 11,524
+forked: 2,314
+stars today: 5
+
+m1k1o/neko
+https://github.com/m1k1o/neko
+A self hosted virtual browser that runs in docker and uses WebRTC.
+language: Go
+stars: 11,016
+forked: 754
+stars today: 208
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 69,992
+forked: 18,780
+stars today: 8
+
+JanDeDobbeleer/oh-my-posh
+https://github.com/JanDeDobbeleer/oh-my-posh
+The most customisable and low-latency cross platform/shell prompt renderer
+language: Go
+stars: 19,418
+forked: 2,542
+stars today: 17
+
+filebrowser/filebrowser
+https://github.com/filebrowser/filebrowser
+📂 Web File Browser
+language: Go
+stars: 29,976
+forked: 3,360
+stars today: 67
+
+lima-vm/lima
+https://github.com/lima-vm/lima
+Linux virtual machines, with a focus on running containers
+language: Go
+stars: 17,583
+forked: 673
+stars today: 45
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 12,043
+forked: 917
+stars today: 6
+
+aws/aws-sdk-go-v2
+https://github.com/aws/aws-sdk-go-v2
+AWS SDK for the Go programming language.
+language: Go
+stars: 3,123
+forked: 692
+stars today: 4
+
+anchore/grype
+https://github.com/anchore/grype
+A vulnerability scanner for container images and filesystems
+language: Go
+stars: 10,142
+forked: 649
+stars today: 62
+
+charmbracelet/bubbletea
+https://github.com/charmbracelet/bubbletea
+A powerful little TUI framework 🏗
+language: Go
+stars: 32,683
+forked: 928
+stars today: 48
+
+NVIDIA/KAI-Scheduler
+https://github.com/NVIDIA/KAI-Scheduler
+KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+language: Go
+stars: 677
+forked: 71
+stars today: 2
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,967
+forked: 4,519
+stars today: 1
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,666
+forked: 2,842
+stars today: 3
+
+swaggo/swag
+https://github.com/swaggo/swag
+Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+language: Go
+stars: 11,887
+forked: 1,277
+stars today: 4
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 53,402
+forked: 5,977
+stars today: 23
+
+k3s-io/k3s
+https://github.com/k3s-io/k3s
+Lightweight Kubernetes
+language: Go
+stars: 30,069
+forked: 2,463
+stars today: 10
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 14,917
+forked: 1,822
+stars today: 6
+
+joho/godotenv
+https://github.com/joho/godotenv
+A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+language: Go
+stars: 9,415
+forked: 428
+stars today: 7
