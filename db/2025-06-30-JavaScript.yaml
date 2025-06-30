@@ -1,0 +1,135 @@
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: JavaScript
+stars: 31,791
+forked: 3,302
+stars today: 43
+
+pot-app/pot-desktop
+https://github.com/pot-app/pot-desktop
+🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+language: JavaScript
+stars: 13,362
+forked: 613
+stars today: 210
+
+openwrt/luci
+https://github.com/openwrt/luci
+LuCI - OpenWrt Configuration Interface
+language: JavaScript
+stars: 6,915
+forked: 2,657
+stars today: 4
+
+bgstaal/multipleWindow3dScene
+https://github.com/bgstaal/multipleWindow3dScene
+A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+language: JavaScript
+stars: 18,586
+forked: 2,876
+stars today: 25
+
+Worklenz/worklenz
+https://github.com/Worklenz/worklenz
+All in one project management tool for efficient teams
+language: JavaScript
+stars: 1,976
+forked: 168
+stars today: 55
+
+brave/brave-browser
+https://github.com/brave/brave-browser
+Brave browser for Android, iOS, Linux, macOS, Windows.
+language: JavaScript
+stars: 19,594
+forked: 2,634
+stars today: 14
+
+google/zx
+https://github.com/google/zx
+A tool for writing better scripts
+language: JavaScript
+stars: 44,291
+forked: 1,145
+stars today: 12
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 10,365
+forked: 2,893
+stars today: 12
+
+sveltejs/kit
+https://github.com/sveltejs/kit
+web development, streamlined
+language: JavaScript
+stars: 19,441
+forked: 2,083
+stars today: 5
+
+schlagmichdoch/PairDrop
+https://github.com/schlagmichdoch/PairDrop
+PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
+language: JavaScript
+stars: 7,793
+forked: 445
+stars today: 109
+
+meshery/meshery
+https://github.com/meshery/meshery
+Meshery, the cloud native manager
+language: JavaScript
+stars: 7,433
+forked: 2,422
+stars today: 7
+
+XengShi/materialYouNewTab
+https://github.com/XengShi/materialYouNewTab
+A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
+language: JavaScript
+stars: 1,960
+forked: 302
+stars today: 2
+
+qist/tvbox
+https://github.com/qist/tvbox
+OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+language: JavaScript
+stars: 5,287
+forked: 1,996
+stars today: 15
+
+hiteshchoudhary/apihub
+https://github.com/hiteshchoudhary/apihub
+Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
+language: JavaScript
+stars: 8,025
+forked: 1,287
+stars today: 36
+
+bia-pain-bache/BPB-Worker-Panel
+https://github.com/bia-pain-bache/BPB-Worker-Panel
+A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
+language: JavaScript
+stars: 7,944
+forked: 31,150
+stars today: 16
+
+nodejs/node
+https://github.com/nodejs/node
+Node.js JavaScript runtime ✨🐢🚀✨
+language: JavaScript
+stars: 111,973
+forked: 31,979
+stars today: 20
+
+huggingface/transformers.js
+https://github.com/huggingface/transformers.js
+State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+language: JavaScript
+stars: 13,925
+forked: 944
+stars today: 5
