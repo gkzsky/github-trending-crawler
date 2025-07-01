@@ -1,0 +1,159 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 16,808
+forked: 2,425
+stars today: 5
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,378
+forked: 28,652
+stars today: 6
+
+microsoft/SynapseML
+https://github.com/microsoft/SynapseML
+Simple and Distributed Machine Learning
+language: Scala
+stars: 5,145
+forked: 848
+stars today: 0
+
+JetBrains/sbt-idea-plugin
+https://github.com/JetBrains/sbt-idea-plugin
+Develop IntelliJ plugins with Scala and SBT
+language: Scala
+stars: 103
+forked: 29
+stars today: 0
+
+apache/openwhisk
+https://github.com/apache/openwhisk
+Apache OpenWhisk is an open source serverless cloud platform
+language: Scala
+stars: 6,654
+forked: 1,177
+stars today: 2
+
+JetBrains/intellij-scala
+https://github.com/JetBrains/intellij-scala
+Scala plugin for IntelliJ IDEA
+language: Scala
+stars: 1,215
+forked: 411
+stars today: 0
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 915
+forked: 611
+stars today: 0
+
+apache/logging-log4j-scala
+https://github.com/apache/logging-log4j-scala
+A Scala-friendly interface to log against the Log4j API
+language: Scala
+stars: 23
+forked: 12
+stars today: 0
+
+apache/kyuubi
+https://github.com/apache/kyuubi
+Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+language: Scala
+stars: 2,212
+forked: 948
+stars today: 2
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,315
+forked: 630
+stars today: 2
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,708
+forked: 1,213
+stars today: 0
+
+softwaremill/elasticmq
+https://github.com/softwaremill/elasticmq
+In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+language: Scala
+stars: 2,682
+forked: 199
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,717
+forked: 658
+stars today: 1
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,460
+forked: 777
+stars today: 1
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 2,989
+forked: 2,847
+stars today: 0
+
+DataBiosphere/leonardo
+https://github.com/DataBiosphere/leonardo
+Notebook service
+language: Scala
+stars: 44
+forked: 21
+stars today: 0
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,265
+forked: 1,253
+stars today: 0
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,468
+forked: 331
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Scala
+stars: 816
+forked: 208
+stars today: 1
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,049
+forked: 1,104
+stars today: 2
