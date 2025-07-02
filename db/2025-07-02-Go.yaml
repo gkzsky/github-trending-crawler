@@ -1,0 +1,175 @@
+aws/karpenter-provider-aws
+https://github.com/aws/karpenter-provider-aws
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 7,337
+forked: 1,124
+stars today: 4
+
+aldinokemal/go-whatsapp-web-multidevice
+https://github.com/aldinokemal/go-whatsapp-web-multidevice
+API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+language: Go
+stars: 1,347
+forked: 435
+stars today: 251
+
+docker/compose
+https://github.com/docker/compose
+Define and run multi-container applications with Docker
+language: Go
+stars: 35,730
+forked: 5,440
+stars today: 20
+
+chaitin/SafeLine
+https://github.com/chaitin/SafeLine
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+language: Go
+stars: 16,946
+forked: 1,023
+stars today: 18
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 39,652
+forked: 6,710
+stars today: 37
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 48,042
+forked: 2,418
+stars today: 26
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,084
+forked: 7,268
+stars today: 14
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 17,256
+forked: 1,478
+stars today: 14
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 29,483
+forked: 1,586
+stars today: 24
+
+golang-jwt/jwt
+https://github.com/golang-jwt/jwt
+Go implementation of JSON Web Tokens (JWT).
+language: Go
+stars: 8,208
+forked: 393
+stars today: 7
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 12,068
+forked: 917
+stars today: 7
+
+pressly/goose
+https://github.com/pressly/goose
+A database migration tool. Supports SQL migrations and Go functions.
+language: Go
+stars: 8,636
+forked: 586
+stars today: 14
+
+blampe/rreading-glasses
+https://github.com/blampe/rreading-glasses
+Corrective lenses for curmudgeonly readars in your life
+language: Go
+stars: 538
+forked: 8
+stars today: 27
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,344
+forked: 1,670
+stars today: 1
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 40,993
+forked: 2,958
+stars today: 26
+
+psviderski/uncloud
+https://github.com/psviderski/uncloud
+A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
+language: Go
+stars: 1,653
+forked: 38
+stars today: 136
+
+gorilla/mux
+https://github.com/gorilla/mux
+Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+language: Go
+stars: 21,448
+forked: 1,871
+stars today: 8
+
+m1k1o/neko
+https://github.com/m1k1o/neko
+A self hosted virtual browser that runs in docker and uses WebRTC.
+language: Go
+stars: 11,572
+forked: 774
+stars today: 59
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 14,418
+forked: 1,406
+stars today: 13
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+language: Go
+stars: 82,959
+forked: 8,248
+stars today: 24
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 59,255
+forked: 9,627
+stars today: 30
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,654
+forked: 2,612
+stars today: 8
