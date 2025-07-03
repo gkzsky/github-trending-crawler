@@ -1,0 +1,183 @@
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 44,212
+forked: 3,755
+stars today: 26
+
+kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+language: Java
+stars: 19,510
+forked: 12,136
+stars today: 21
+
+apache/gravitino
+https://github.com/apache/gravitino
+World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+language: Java
+stars: 1,671
+forked: 515
+stars today: 1
+
+apache/flink-cdc
+https://github.com/apache/flink-cdc
+Flink CDC is a streaming data integration tool
+language: Java
+stars: 6,129
+forked: 2,033
+stars today: 4
+
+binarywang/WxJava
+https://github.com/binarywang/WxJava
+微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+language: Java
+stars: 31,443
+forked: 8,904
+stars today: 30
+
+ashishps1/awesome-leetcode-resources
+https://github.com/ashishps1/awesome-leetcode-resources
+Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
+language: Java
+stars: 11,420
+forked: 2,615
+stars today: 22
+
+tencentmusic/supersonic
+https://github.com/tencentmusic/supersonic
+SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+language: Java
+stars: 3,908
+forked: 768
+stars today: 7
+
+alibaba/DataX
+https://github.com/alibaba/DataX
+DataX是阿里云DataWorks数据集成的开源版本。
+language: Java
+stars: 16,629
+forked: 5,560
+stars today: 5
+
+apache/fineract
+https://github.com/apache/fineract
+Apache Fineract
+language: Java
+stars: 1,644
+forked: 1,943
+stars today: 1
+
+bazelbuild/bazel
+https://github.com/bazelbuild/bazel
+a fast, scalable, multi-language and extensible build system
+language: Java
+stars: 24,264
+forked: 4,240
+stars today: 3
+
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,623
+forked: 3,836
+stars today: 3
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,147
+forked: 9,062
+stars today: 0
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 8,205
+forked: 1,500
+stars today: 18
+
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 28,565
+forked: 8,441
+stars today: 1
+
+apache/fluss
+https://github.com/apache/fluss
+Apache Fluss is a streaming storage built for real-time analytics.
+language: Java
+stars: 1,248
+forked: 331
+stars today: 6
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 28,015
+forked: 7,420
+stars today: 19
+
+apache/hive
+https://github.com/apache/hive
+Apache Hive
+language: Java
+stars: 5,737
+forked: 4,758
+stars today: 1
+
+OpenSPG/openspg
+https://github.com/OpenSPG/openspg
+OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) natively support KAG...
+language: Java
+stars: 1,747
+forked: 209
+stars today: 2
+
+awsdocs/aws-doc-sdk-examples
+https://github.com/awsdocs/aws-doc-sdk-examples
+Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
+language: Java
+stars: 10,085
+forked: 5,786
+stars today: 4
+
+spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework
+Spring Framework
+language: Java
+stars: 58,366
+forked: 38,561
+stars today: 6
+
+mik3y/usb-serial-for-android
+https://github.com/mik3y/usb-serial-for-android
+Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
+language: Java
+stars: 5,259
+forked: 1,639
+stars today: 3
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,525
+forked: 3,248
+stars today: 12
+
+apache/solr
+https://github.com/apache/solr
+Apache Solr open-source search software
+language: Java
+stars: 1,417
+forked: 735
+stars today: 1

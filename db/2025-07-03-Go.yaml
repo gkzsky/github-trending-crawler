@@ -1,0 +1,199 @@
+binwiederhier/ntfy
+https://github.com/binwiederhier/ntfy
+Send push notifications to your phone or desktop using PUT/POST
+language: Go
+stars: 24,466
+forked: 961
+stars today: 274
+
+aldinokemal/go-whatsapp-web-multidevice
+https://github.com/aldinokemal/go-whatsapp-web-multidevice
+API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+language: Go
+stars: 1,398
+forked: 438
+stars today: 48
+
+psviderski/uncloud
+https://github.com/psviderski/uncloud
+A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
+language: Go
+stars: 1,747
+forked: 39
+stars today: 74
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 16,771
+forked: 778
+stars today: 57
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 14,430
+forked: 1,409
+stars today: 10
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 21,979
+forked: 4,517
+stars today: 5
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 17,266
+forked: 1,478
+stars today: 14
+
+getsops/sops
+https://github.com/getsops/sops
+Simple and flexible tool for managing secrets
+language: Go
+stars: 18,822
+forked: 943
+stars today: 12
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 128,668
+forked: 18,225
+stars today: 18
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 35,725
+forked: 3,274
+stars today: 23
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 39,678
+forked: 6,715
+stars today: 31
+
+kubernetes-sigs/kueue
+https://github.com/kubernetes-sigs/kueue
+Kubernetes-native Job Queueing
+language: Go
+stars: 1,857
+forked: 368
+stars today: 2
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 10,170
+forked: 928
+stars today: 9
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 71,464
+forked: 2,534
+stars today: 24
+
+hibiken/asynq
+https://github.com/hibiken/asynq
+Simple, reliable, and efficient distributed task queue in Go
+language: Go
+stars: 11,499
+forked: 817
+stars today: 9
+
+coredns/coredns
+https://github.com/coredns/coredns
+CoreDNS is a DNS server that chains plugins
+language: Go
+stars: 13,132
+forked: 2,259
+stars today: 8
+
+FiloSottile/mkcert
+https://github.com/FiloSottile/mkcert
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+language: Go
+stars: 54,131
+forked: 2,835
+stars today: 9
+
+grafana/alloy
+https://github.com/grafana/alloy
+OpenTelemetry Collector distribution with programmable pipelines
+language: Go
+stars: 2,202
+forked: 363
+stars today: 4
+
+cloudreve/cloudreve
+https://github.com/cloudreve/cloudreve
+🌩 Self-hosted file management and sharing system, supports multiple storage providers
+language: Go
+stars: 23,906
+forked: 3,611
+stars today: 14
+
+gofr-dev/gofr
+https://github.com/gofr-dev/gofr
+An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+language: Go
+stars: 11,742
+forked: 1,743
+stars today: 3
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 6,103
+forked: 1,039
+stars today: 6
+
+dapr/dapr
+https://github.com/dapr/dapr
+Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+language: Go
+stars: 24,884
+forked: 1,971
+stars today: 10
+
+zeromicro/go-zero
+https://github.com/zeromicro/go-zero
+A cloud-native Go microservices framework with cli tool for productivity.
+language: Go
+stars: 31,340
+forked: 4,154
+stars today: 7
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,229
+forked: 20,942
+stars today: 9
+
+bytebase/bytebase
+https://github.com/bytebase/bytebase
+World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+language: Go
+stars: 12,679
+forked: 819
+stars today: 10
