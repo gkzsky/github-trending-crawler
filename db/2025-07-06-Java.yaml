@@ -1,0 +1,175 @@
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 30,398
+forked: 14,485
+stars today: 6
+
+traccar/traccar
+https://github.com/traccar/traccar
+Traccar GPS Tracking System
+language: Java
+stars: 5,994
+forked: 2,828
+stars today: 3
+
+YunaiV/ruoyi-vue-pro
+https://github.com/YunaiV/ruoyi-vue-pro
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+language: Java
+stars: 32,042
+forked: 6,886
+stars today: 19
+
+648540858/wvp-GB28181-pro
+https://github.com/648540858/wvp-GB28181-pro
+WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+language: Java
+stars: 6,021
+forked: 1,711
+stars today: 1
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 6,764
+forked: 466
+stars today: 4
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 19,259
+forked: 5,661
+stars today: 3
+
+LawnchairLauncher/lawnchair
+https://github.com/LawnchairLauncher/lawnchair
+No clever tagline needed.
+language: Java
+stars: 10,516
+forked: 1,310
+stars today: 2
+
+freeok/so-novel
+https://github.com/freeok/so-novel
+小说下载｜网文下载 | 网络小说
+language: Java
+stars: 3,457
+forked: 292
+stars today: 10
+
+apache/beam
+https://github.com/apache/beam
+Apache Beam is a unified programming model for Batch and Streaming data processing.
+language: Java
+stars: 8,193
+forked: 4,366
+stars today: 4
+
+questdb/questdb
+https://github.com/questdb/questdb
+QuestDB is a high performance, open-source, time-series database
+language: Java
+stars: 15,365
+forked: 1,269
+stars today: 7
+
+apache/paimon
+https://github.com/apache/paimon
+Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+language: Java
+stars: 2,869
+forked: 1,173
+stars today: 1
+
+apache/fluss
+https://github.com/apache/fluss
+Apache Fluss is a streaming storage built for real-time analytics.
+language: Java
+stars: 1,268
+forked: 334
+stars today: 4
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+language: Java
+stars: 31,715
+forked: 13,079
+stars today: 7
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 73,123
+forked: 25,320
+stars today: 8
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 10,247
+forked: 2,047
+stars today: 6
+
+yuliskov/SmartTube
+https://github.com/yuliskov/SmartTube
+Advanced player for set-top boxes and tvs running Android OS
+language: Java
+stars: 23,478
+forked: 1,258
+stars today: 14
+
+HbmMods/Hbm-s-Nuclear-Tech-GIT
+https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT
+A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
+language: Java
+stars: 591
+forked: 361
+stars today: 5
+
+xuxueli/xxl-job
+https://github.com/xuxueli/xxl-job
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+language: Java
+stars: 28,976
+forked: 11,232
+stars today: 4
+
+SuperMonster003/AutoJs6
+https://github.com/SuperMonster003/AutoJs6
+安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+language: Java
+stars: 4,157
+forked: 1,223
+stars today: 3
+
+Tencent/APIJSON
+https://github.com/Tencent/APIJSON
+🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+language: Java
+stars: 18,051
+forked: 2,240
+stars today: 3
+
+frohoff/ysoserial
+https://github.com/frohoff/ysoserial
+A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+language: Java
+stars: 8,315
+forked: 1,810
+stars today: 1
+
+halo-dev/halo
+https://github.com/halo-dev/halo
+强大易用的开源建站工具。
+language: Java
+stars: 35,982
+forked: 9,962
+stars today: 7
