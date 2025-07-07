@@ -1,0 +1,151 @@
+qichiyuhub/rule
+https://github.com/qichiyuhub/rule
+Clash、Sing-box、等分流规则
+language: Go
+stars: 519
+forked: 518
+stars today: 21
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 24,863
+forked: 2,939
+stars today: 55
+
+argoproj/argo-rollouts
+https://github.com/argoproj/argo-rollouts
+Progressive Delivery for Kubernetes
+language: Go
+stars: 3,154
+forked: 989
+stars today: 6
+
+coder/coder
+https://github.com/coder/coder
+Provision remote development environments via Terraform
+language: Go
+stars: 10,323
+forked: 934
+stars today: 39
+
+usememos/memos
+https://github.com/usememos/memos
+A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+language: Go
+stars: 42,376
+forked: 3,015
+stars today: 46
+
+kitops-ml/kitops
+https://github.com/kitops-ml/kitops
+An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
+language: Go
+stars: 1,032
+forked: 116
+stars today: 12
+
+cloudflare/cloudflared
+https://github.com/cloudflare/cloudflared
+Cloudflare Tunnel client (formerly Argo Tunnel)
+language: Go
+stars: 10,967
+forked: 983
+stars today: 8
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 28,929
+forked: 1,407
+stars today: 22
+
+k3s-io/k3s
+https://github.com/k3s-io/k3s
+Lightweight Kubernetes
+language: Go
+stars: 30,139
+forked: 2,468
+stars today: 5
+
+DiceDB/dice
+https://github.com/DiceDB/dice
+DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+language: Go
+stars: 10,587
+forked: 1,403
+stars today: 13
+
+iam-veeramalla/observability-zero-to-hero
+https://github.com/iam-veeramalla/observability-zero-to-hero
+Repo for learning observability
+language: Go
+stars: 2,215
+forked: 3,407
+stars today: 8
+
+kubeedge/kubeedge
+https://github.com/kubeedge/kubeedge
+Kubernetes Native Edge Computing Framework (project under CNCF)
+language: Go
+stars: 7,142
+forked: 1,775
+stars today: 2
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+language: Go
+stars: 22,110
+forked: 4,369
+stars today: 19
+
+jpillora/chisel
+https://github.com/jpillora/chisel
+A fast TCP/UDP tunnel over HTTP
+language: Go
+stars: 14,740
+forked: 1,494
+stars today: 7
+
+alireza0/s-ui
+https://github.com/alireza0/s-ui
+An advanced Web Panel • Built for SagerNet/Sing-Box
+language: Go
+stars: 3,947
+forked: 658
+stars today: 8
+
+trustwallet/assets
+https://github.com/trustwallet/assets
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+language: Go
+stars: 4,983
+forked: 24,627
+stars today: 4
+
+BishopFox/sliver
+https://github.com/BishopFox/sliver
+Adversary Emulation Framework
+language: Go
+stars: 9,624
+forked: 1,304
+stars today: 7
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,245
+forked: 20,962
+stars today: 9
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 25,963
+forked: 981
+stars today: 37
