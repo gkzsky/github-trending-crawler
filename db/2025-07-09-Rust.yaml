@@ -1,0 +1,143 @@
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀 High-performance distributed object storage for MinIO alternative.
+language: Rust
+stars: 3,256
+forked: 163
+stars today: 1,369
+
+smallcloudai/refact
+https://github.com/smallcloudai/refact
+AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+language: Rust
+stars: 2,812
+forked: 234
+stars today: 311
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 27,276
+forked: 882
+stars today: 345
+
+vosen/ZLUDA
+https://github.com/vosen/ZLUDA
+CUDA on non-NVIDIA GPUs
+language: Rust
+stars: 12,450
+forked: 779
+stars today: 75
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 29,393
+forked: 1,216
+stars today: 49
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 15,638
+forked: 1,314
+stars today: 74
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 92,310
+forked: 13,414
+stars today: 136
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 40,470
+forked: 3,979
+stars today: 19
+
+szabodanika/microbin
+https://github.com/szabodanika/microbin
+A secure, configurable file-sharing and URL shortening web app written in Rust.
+language: Rust
+stars: 3,402
+forked: 210
+stars today: 24
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,123
+forked: 2,027
+stars today: 4
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 4,478
+forked: 197
+stars today: 45
+
+witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+Building a community around a cheap ESP32 Display with a touch screen
+language: Rust
+stars: 2,775
+forked: 282
+stars today: 4
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 17,556
+forked: 1,140
+stars today: 8
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 40,656
+forked: 1,428
+stars today: 28
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 11,500
+forked: 613
+stars today: 6
+
+gdt050579/AppCUI-rs
+https://github.com/gdt050579/AppCUI-rs
+AppCUI – A feature-rich and cross-platform TUI/CUI framework for Rust, enabling modern terminal-based applications on Windows, Linux, and macOS. Includes built-in UI components like buttons, menus, list views, tree views, checkboxes, and more. Perfect for building fast and interactive CLI tools and text-based interfaces
+language: Rust
+stars: 186
+forked: 2
+stars today: 23
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 60,782
+forked: 1,736
+stars today: 120
+
+boundless-xyz/boundless
+https://github.com/boundless-xyz/boundless
+Monorepo for Boundless, the universal ZK protocol
+language: Rust
+stars: 82
+forked: 67
+stars today: 6
