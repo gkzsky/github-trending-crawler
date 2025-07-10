@@ -1,0 +1,143 @@
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 77,714
+forked: 41,283
+stars today: 16
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 24,192
+forked: 7,026
+stars today: 5
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,632
+forked: 2,017
+stars today: 5
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,163
+forked: 9,067
+stars today: 5
+
+apache/rocketmq
+https://github.com/apache/rocketmq
+Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+language: Java
+stars: 21,880
+forked: 11,897
+stars today: 1
+
+androidx/media
+https://github.com/androidx/media
+Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+language: Java
+stars: 2,286
+forked: 560
+stars today: 2
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 19,306
+forked: 5,671
+stars today: 21
+
+xuxueli/xxl-job
+https://github.com/xuxueli/xxl-job
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+language: Java
+stars: 28,988
+forked: 11,243
+stars today: 8
+
+CodePhiliaX/Chat2DB
+https://github.com/CodePhiliaX/Chat2DB
+🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+language: Java
+stars: 23,567
+forked: 2,559
+stars today: 51
+
+mybatis/mybatis-3
+https://github.com/mybatis/mybatis-3
+MyBatis SQL mapper framework for Java
+language: Java
+stars: 20,137
+forked: 12,940
+stars today: 3
+
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 6,046
+forked: 1,672
+stars today: 15
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 30,430
+forked: 14,495
+stars today: 9
+
+bazelbuild/bazel
+https://github.com/bazelbuild/bazel
+a fast, scalable, multi-language and extensible build system
+language: Java
+stars: 24,284
+forked: 4,245
+stars today: 6
+
+apache/gravitino
+https://github.com/apache/gravitino
+World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+language: Java
+stars: 1,687
+forked: 529
+stars today: 2
+
+RikkaApps/Shizuku-API
+https://github.com/RikkaApps/Shizuku-API
+The API and the developer guide for Shizuku and Sui.
+language: Java
+stars: 1,448
+forked: 426
+stars today: 4
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 63,177
+forked: 5,362
+stars today: 51
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,551
+forked: 3,255
+stars today: 4
+
+dependency-check/DependencyCheck
+https://github.com/dependency-check/DependencyCheck
+OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+language: Java
+stars: 7,045
+forked: 1,355
+stars today: 0
