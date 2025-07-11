@@ -1,0 +1,55 @@
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,693
+forked: 1,831
+stars today: 24
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,333
+forked: 457
+stars today: 5
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,496
+forked: 1,104
+stars today: 6
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,567
+forked: 329
+stars today: 1
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 38,291
+forked: 3,572
+stars today: 25
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 2,882
+forked: 162
+stars today: 1
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,134
+forked: 732
+stars today: 0

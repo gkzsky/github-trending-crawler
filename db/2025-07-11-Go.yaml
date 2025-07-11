@@ -1,0 +1,183 @@
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 5,001
+forked: 391
+stars today: 1,040
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,181
+forked: 7,280
+stars today: 12
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 45,642
+forked: 9,929
+stars today: 21
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 8,587
+forked: 1,016
+stars today: 457
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 14,803
+forked: 1,023
+stars today: 9
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 27,453
+forked: 2,620
+stars today: 25
+
+beam-cloud/beta9
+https://github.com/beam-cloud/beta9
+Secure, high-performance AI infrastructure in Python.
+language: Go
+stars: 1,011
+forked: 77
+stars today: 32
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 3,153
+forked: 85
+stars today: 223
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,369
+forked: 2,322
+stars today: 9
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 71,905
+forked: 2,546
+stars today: 215
+
+ethereum-optimism/optimism
+https://github.com/ethereum-optimism/optimism
+Optimism is Ethereum, scaled.
+language: Go
+stars: 6,125
+forked: 3,628
+stars today: 4
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+language: Go
+stars: 49,517
+forked: 5,907
+stars today: 37
+
+mikefarah/yq
+https://github.com/mikefarah/yq
+yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+language: Go
+stars: 13,715
+forked: 663
+stars today: 9
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 15,742
+forked: 5,659
+stars today: 3
+
+google/cadvisor
+https://github.com/google/cadvisor
+Analyzes resource usage and performance characteristics of running containers.
+language: Go
+stars: 18,126
+forked: 2,379
+stars today: 9
+
+aws/karpenter-provider-aws
+https://github.com/aws/karpenter-provider-aws
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 7,359
+forked: 1,134
+stars today: 2
+
+open-policy-agent/opa
+https://github.com/open-policy-agent/opa
+Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+language: Go
+stars: 10,422
+forked: 1,440
+stars today: 2
+
+asdf-vm/asdf
+https://github.com/asdf-vm/asdf
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+language: Go
+stars: 23,861
+forked: 878
+stars today: 8
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,694
+forked: 2,876
+stars today: 3
+
+kubernetes-sigs/external-dns
+https://github.com/kubernetes-sigs/external-dns
+Configure external DNS servers dynamically from Kubernetes resources
+language: Go
+stars: 8,323
+forked: 2,718
+stars today: 3
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,000
+forked: 4,525
+stars today: 3
+
+heroiclabs/nakama
+https://github.com/heroiclabs/nakama
+Distributed server for social and realtime games and apps.
+language: Go
+stars: 11,253
+forked: 1,245
+stars today: 11
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 5,812
+forked: 1,193
+stars today: 5

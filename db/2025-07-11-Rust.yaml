@@ -1,0 +1,183 @@
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀 High-performance distributed object storage for MinIO alternative.
+language: Rust
+stars: 4,154
+forked: 191
+stars today: 454
+
+medialab/xan
+https://github.com/medialab/xan
+The CSV magician
+language: Rust
+stars: 2,969
+forked: 52
+stars today: 36
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 24,583
+forked: 1,431
+stars today: 16
+
+Eventual-Inc/Daft
+https://github.com/Eventual-Inc/Daft
+Distributed query engine providing simple and reliable data processing for any modality and scale
+language: Rust
+stars: 3,089
+forked: 234
+stars today: 8
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,433
+forked: 1,538
+stars today: 7
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 4,450
+forked: 482
+stars today: 5
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 62,318
+forked: 4,668
+stars today: 58
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 27,895
+forked: 911
+stars today: 353
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 15,775
+forked: 1,335
+stars today: 79
+
+EricLBuehler/mistral.rs
+https://github.com/EricLBuehler/mistral.rs
+Blazingly fast LLM inference.
+language: Rust
+stars: 5,860
+forked: 430
+stars today: 18
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 15,753
+forked: 595
+stars today: 6
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,164
+forked: 11,539
+stars today: 1
+
+googleapis/google-cloud-rust
+https://github.com/googleapis/google-cloud-rust
+Google Cloud Platform Rust Client Libraries
+language: Rust
+stars: 615
+forked: 65
+stars today: 31
+
+facebook/relay
+https://github.com/facebook/relay
+Relay is a JavaScript framework for building data-driven React applications.
+language: Rust
+stars: 18,690
+forked: 1,859
+stars today: 7
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 9,046
+forked: 448
+stars today: 13
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 5,571
+forked: 478
+stars today: 33
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 26,433
+forked: 563
+stars today: 32
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 4,581
+forked: 197
+stars today: 68
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 92,456
+forked: 13,455
+stars today: 66
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+the AI-native open-source embedding database
+language: Rust
+stars: 20,978
+forked: 1,680
+stars today: 21
+
+lldap/lldap
+https://github.com/lldap/lldap
+Light LDAP implementation
+language: Rust
+stars: 5,240
+forked: 271
+stars today: 24
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 17,578
+forked: 1,143
+stars today: 13
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,017
+forked: 181
+stars today: 7

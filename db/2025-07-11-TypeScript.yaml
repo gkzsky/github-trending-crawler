@@ -1,0 +1,111 @@
+strapi/strapi
+https://github.com/strapi/strapi
+🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+language: TypeScript
+stars: 67,592
+forked: 8,710
+stars today: 205
+
+yamadashy/repomix
+https://github.com/yamadashy/repomix
+📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+language: TypeScript
+stars: 17,619
+forked: 765
+stars today: 39
+
+grafana/grafana
+https://github.com/grafana/grafana
+The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+language: TypeScript
+stars: 68,916
+forked: 12,762
+stars today: 26
+
+supabase/supabase
+https://github.com/supabase/supabase
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 85,537
+forked: 9,173
+stars today: 61
+
+apify/crawlee
+https://github.com/apify/crawlee
+Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language: TypeScript
+stars: 18,412
+forked: 874
+stars today: 67
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+language: TypeScript
+stars: 5,878
+forked: 432
+stars today: 54
+
+RSSNext/Folo
+https://github.com/RSSNext/Folo
+🧡 Follow everything in one place
+language: TypeScript
+stars: 28,510
+forked: 1,272
+stars today: 238
+
+medusajs/medusa
+https://github.com/medusajs/medusa
+The world's most flexible commerce platform.
+language: TypeScript
+stars: 29,820
+forked: 3,475
+stars today: 18
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 116,984
+forked: 34,940
+stars today: 397
+
+pacocoursey/cmdk
+https://github.com/pacocoursey/cmdk
+Fast, unstyled command menu React component.
+language: TypeScript
+stars: 11,412
+forked: 334
+stars today: 25
+
+langgenius/dify
+https://github.com/langgenius/dify
+Production-ready platform for agentic workflow development.
+language: TypeScript
+stars: 106,505
+forked: 16,126
+stars today: 161
+
+calcom/cal.com
+https://github.com/calcom/cal.com
+Scheduling infrastructure for absolutely everyone.
+language: TypeScript
+stars: 37,074
+forked: 9,952
+stars today: 27
+
+refly-ai/refly
+https://github.com/refly-ai/refly
+The world's first open-source "Vibe Workflow" platform for complex tasks.
+language: TypeScript
+stars: 4,284
+forked: 368
+stars today: 23
+
+braden-w/whispering
+https://github.com/braden-w/whispering
+Press shortcut → speak → get text. Free and open source ❤️
+language: TypeScript
+stars: 951
+forked: 78
+stars today: 53
