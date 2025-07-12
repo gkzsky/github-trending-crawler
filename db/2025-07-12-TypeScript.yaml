@@ -1,0 +1,111 @@
+modelcontextprotocol/typescript-sdk
+https://github.com/modelcontextprotocol/typescript-sdk
+The official Typescript SDK for Model Context Protocol servers and clients
+language: TypeScript
+stars: 8,463
+forked: 1,036
+stars today: 42
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+language: TypeScript
+stars: 63,361
+forked: 13,180
+stars today: 33
+
+angular/angular
+https://github.com/angular/angular
+Deliver web apps with confidence 🚀
+language: TypeScript
+stars: 98,277
+forked: 26,402
+stars today: 9
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 117,311
+forked: 35,087
+stars today: 343
+
+apify/crawlee
+https://github.com/apify/crawlee
+Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language: TypeScript
+stars: 18,444
+forked: 876
+stars today: 35
+
+Lissy93/personal-security-checklist
+https://github.com/Lissy93/personal-security-checklist
+🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+language: TypeScript
+stars: 19,110
+forked: 1,331
+stars today: 158
+
+mishushakov/llm-scraper
+https://github.com/mishushakov/llm-scraper
+Turn any webpage into structured data using LLMs
+language: TypeScript
+stars: 5,277
+forked: 309
+stars today: 25
+
+RSSNext/Folo
+https://github.com/RSSNext/Folo
+🧡 Follow everything in one place
+language: TypeScript
+stars: 28,648
+forked: 1,284
+stars today: 186
+
+aws/aws-cdk
+https://github.com/aws/aws-cdk
+The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+language: TypeScript
+stars: 12,288
+forked: 4,199
+stars today: 5
+
+josdejong/jsonrepair
+https://github.com/josdejong/jsonrepair
+Repair invalid JSON documents
+language: TypeScript
+stars: 1,200
+forked: 57
+stars today: 45
+
+docker/build-push-action
+https://github.com/docker/build-push-action
+GitHub Action to build and push Docker images with Buildx
+language: TypeScript
+stars: 4,861
+forked: 624
+stars today: 8
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+language: TypeScript
+stars: 5,898
+forked: 433
+stars today: 21
+
+alan2207/bulletproof-react
+https://github.com/alan2207/bulletproof-react
+🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+language: TypeScript
+stars: 31,977
+forked: 2,901
+stars today: 18
+
+mastra-ai/mastra
+https://github.com/mastra-ai/mastra
+The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+language: TypeScript
+stars: 14,925
+forked: 916
+stars today: 52
