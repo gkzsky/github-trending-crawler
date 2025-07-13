@@ -1,0 +1,159 @@
+snap-stanford/Biomni
+https://github.com/snap-stanford/Biomni
+Biomni: a general-purpose biomedical AI agent
+language: Python
+stars: 1,506
+forked: 163
+stars today: 203
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 12,719
+forked: 1,082
+stars today: 93
+
+landing-ai/agentic-doc
+https://github.com/landing-ai/agentic-doc
+Python library for Agentic Document Extraction from LandingAI
+language: Python
+stars: 959
+forked: 98
+stars today: 131
+
+ocrmypdf/OCRmyPDF
+https://github.com/ocrmypdf/OCRmyPDF
+OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+language: Python
+stars: 30,208
+forked: 2,078
+stars today: 93
+
+psf/black
+https://github.com/psf/black
+The uncompromising Python code formatter
+language: Python
+stars: 40,574
+forked: 2,606
+stars today: 12
+
+Alibaba-NLP/WebAgent
+https://github.com/Alibaba-NLP/WebAgent
+🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+language: Python
+stars: 3,810
+forked: 275
+stars today: 209
+
+odoo/odoo
+https://github.com/odoo/odoo
+Odoo. Open Source Apps To Grow Your Business.
+language: Python
+stars: 44,246
+forked: 28,649
+stars today: 23
+
+Significant-Gravitas/AutoGPT
+https://github.com/Significant-Gravitas/AutoGPT
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+language: Python
+stars: 176,859
+forked: 45,871
+stars today: 29
+
+getsentry/sentry
+https://github.com/getsentry/sentry
+Developer-first error tracking and performance monitoring
+language: Python
+stars: 41,418
+forked: 4,388
+stars today: 86
+
+EleutherAI/lm-evaluation-harness
+https://github.com/EleutherAI/lm-evaluation-harness
+A framework for few-shot evaluation of language models.
+language: Python
+stars: 9,531
+forked: 2,534
+stars today: 6
+
+browser-use/browser-use
+https://github.com/browser-use/browser-use
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+language: Python
+stars: 65,325
+forked: 7,474
+stars today: 64
+
+goauthentik/authentik
+https://github.com/goauthentik/authentik
+The authentication glue you need.
+language: Python
+stars: 17,198
+forked: 1,206
+stars today: 196
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+language: Python
+stars: 59,692
+forked: 5,958
+stars today: 71
+
+jax-ml/jax
+https://github.com/jax-ml/jax
+Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+language: Python
+stars: 32,777
+forked: 3,097
+stars today: 19
+
+langchain-ai/langgraph
+https://github.com/langchain-ai/langgraph
+Build resilient language agents as graphs.
+language: Python
+stars: 15,603
+forked: 2,680
+stars today: 41
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+language: Python
+stars: 29,775
+forked: 3,789
+stars today: 87
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 52,082
+forked: 8,663
+stars today: 62
+
+coleam00/ai-agents-masterclass
+https://github.com/coleam00/ai-agents-masterclass
+Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
+language: Python
+stars: 2,688
+forked: 1,126
+stars today: 16
+
+lukas-blecher/LaTeX-OCR
+https://github.com/lukas-blecher/LaTeX-OCR
+pix2tex: Using a ViT to convert images of equations into LaTeX code.
+language: Python
+stars: 14,927
+forked: 1,203
+stars today: 182
+
+markqvist/Reticulum
+https://github.com/markqvist/Reticulum
+The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+language: Python
+stars: 2,862
+forked: 193
+stars today: 50
