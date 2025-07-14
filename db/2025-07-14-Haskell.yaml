@@ -1,0 +1,47 @@
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,573
+forked: 329
+stars today: 2
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 38,327
+forked: 3,573
+stars today: 17
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 2,883
+forked: 163
+stars today: 1
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 201
+forked: 19
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 633
+forked: 79
+stars today: 0
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,325
+forked: 331
+stars today: 1
