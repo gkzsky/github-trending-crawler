@@ -1,0 +1,135 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 61,274
+forked: 3,265
+stars today: 547
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 26,967
+forked: 4,136
+stars today: 241
+
+mindsdb/mindsdb
+https://github.com/mindsdb/mindsdb
+AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+language: Python
+stars: 34,144
+forked: 5,533
+stars today: 363
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+language: Python
+stars: 1,880
+forked: 126
+stars today: 201
+
+comfyanonymous/ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 82,525
+forked: 9,141
+stars today: 99
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 13,308
+forked: 1,118
+stars today: 337
+
+opendatalab/MinerU
+https://github.com/opendatalab/MinerU
+A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+language: Python
+stars: 39,588
+forked: 3,250
+stars today: 307
+
+landing-ai/agentic-doc
+https://github.com/landing-ai/agentic-doc
+Python library for Agentic Document Extraction from LandingAI
+language: Python
+stars: 1,241
+forked: 113
+stars today: 182
+
+AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Stable Diffusion web UI
+language: Python
+stars: 154,497
+forked: 28,683
+stars today: 46
+
+agno-agi/agno
+https://github.com/agno-agi/agno
+Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+language: Python
+stars: 29,941
+forked: 3,803
+stars today: 95
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 26,341
+forked: 8,757
+stars today: 69
+
+freqtrade/freqtrade
+https://github.com/freqtrade/freqtrade
+Free, open source crypto trading bot
+language: Python
+stars: 40,430
+forked: 8,090
+stars today: 29
+
+vanna-ai/vanna
+https://github.com/vanna-ai/vanna
+🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+language: Python
+stars: 18,674
+forked: 1,716
+stars today: 80
+
+donnemartin/awesome-aws
+https://github.com/donnemartin/awesome-aws
+A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+language: Python
+stars: 13,601
+forked: 1,833
+stars today: 4
+
+iam-veeramalla/aws-devops-zero-to-hero
+https://github.com/iam-veeramalla/aws-devops-zero-to-hero
+AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
+language: Python
+stars: 8,308
+forked: 12,163
+stars today: 11
+
+NanmiCoder/MediaCrawler
+https://github.com/NanmiCoder/MediaCrawler
+小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+language: Python
+stars: 31,396
+forked: 7,638
+stars today: 489
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 362,895
+forked: 63,754
+stars today: 103

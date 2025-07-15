@@ -1,0 +1,119 @@
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: PowerShell
+stars: 22,224
+forked: 1,221
+stars today: 1,916
+
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 61,274
+forked: 3,265
+stars today: 547
+
+gorhill/uBlock
+https://github.com/gorhill/uBlock
+uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+language: JavaScript
+stars: 55,986
+forked: 3,581
+stars today: 302
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 26,967
+forked: 4,136
+stars today: 241
+
+vercel/commerce
+https://github.com/vercel/commerce
+Next.js Commerce
+language: TypeScript
+stars: 13,130
+forked: 4,878
+stars today: 367
+
+mindsdb/mindsdb
+https://github.com/mindsdb/mindsdb
+AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+language: Python
+stars: 34,144
+forked: 5,533
+stars today: 363
+
+ripienaar/free-for-dev
+https://github.com/ripienaar/free-for-dev
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+language: HTML
+stars: 105,426
+forked: 10,995
+stars today: 728
+
+leaningtech/webvm
+https://github.com/leaningtech/webvm
+Virtual Machine for the Web
+language: JavaScript
+stars: 14,968
+forked: 2,647
+stars today: 109
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+language: Python
+stars: 1,880
+forked: 126
+stars today: 201
+
+trimstray/the-book-of-secret-knowledge
+https://github.com/trimstray/the-book-of-secret-knowledge
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+language: -
+stars: 177,906
+forked: 11,096
+stars today: 795
+
+nisargjhaveri/WirelessAndroidAutoDongle
+https://github.com/nisargjhaveri/WirelessAndroidAutoDongle
+Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
+language: C++
+stars: 1,539
+forked: 142
+stars today: 115
+
+musistudio/claude-code-router
+https://github.com/musistudio/claude-code-router
+Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+language: TypeScript
+stars: 4,109
+forked: 318
+stars today: 326
+
+TomBursch/kitchenowl
+https://github.com/TomBursch/kitchenowl
+KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
+language: Dart
+stars: 2,161
+forked: 127
+stars today: 55
+
+comfyanonymous/ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 82,525
+forked: 9,141
+stars today: 99
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 13,308
+forked: 1,118
+stars today: 337
