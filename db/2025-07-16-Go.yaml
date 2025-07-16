@@ -1,0 +1,175 @@
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,084
+forked: 2,458
+stars today: 9
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,704
+forked: 2,885
+stars today: 4
+
+golang-migrate/migrate
+https://github.com/golang-migrate/migrate
+Database migrations. CLI and Golang library.
+language: Go
+stars: 17,010
+forked: 1,491
+stars today: 10
+
+cilium/cilium
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+language: Go
+stars: 22,020
+forked: 3,305
+stars today: 18
+
+RezaSi/go-interview-practice
+https://github.com/RezaSi/go-interview-practice
+Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
+language: Go
+stars: 573
+forked: 160
+stars today: 57
+
+IceWhaleTech/CasaOS
+https://github.com/IceWhaleTech/CasaOS
+CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+language: Go
+stars: 30,576
+forked: 1,666
+stars today: 20
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+language: Go
+stars: 1,967
+forked: 322
+stars today: 16
+
+hashicorp/consul
+https://github.com/hashicorp/consul
+Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+language: Go
+stars: 29,137
+forked: 4,494
+stars today: 7
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 18,659
+forked: 1,379
+stars today: 8
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 27,723
+forked: 2,708
+stars today: 101
+
+moby/buildkit
+https://github.com/moby/buildkit
+concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+language: Go
+stars: 9,218
+forked: 1,264
+stars today: 6
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 18,963
+forked: 3,610
+stars today: 5
+
+go-gorm/gorm
+https://github.com/go-gorm/gorm
+The fantastic ORM library for Golang, aims to be developer friendly
+language: Go
+stars: 38,529
+forked: 4,059
+stars today: 15
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,699
+forked: 2,626
+stars today: 4
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 59,480
+forked: 9,663
+stars today: 21
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 41,120
+forked: 2,963
+stars today: 8
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,775
+forked: 4,406
+stars today: 10
+
+docker/compose
+https://github.com/docker/compose
+Define and run multi-container applications with Docker
+language: Go
+stars: 35,797
+forked: 5,458
+stars today: 9
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 19,752
+forked: 883
+stars today: 5
+
+lxc/incus
+https://github.com/lxc/incus
+Powerful system container and virtual machine manager
+language: Go
+stars: 3,789
+forked: 324
+stars today: 8
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 35,991
+forked: 3,298
+stars today: 31
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 21,484
+forked: 1,676
+stars today: 16

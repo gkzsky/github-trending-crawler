@@ -1,0 +1,167 @@
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 16,678
+forked: 1,403
+stars today: 129
+
+frectonz/sql-studio
+https://github.com/frectonz/sql-studio
+SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
+language: Rust
+stars: 2,860
+forked: 85
+stars today: 50
+
+jafioti/luminal
+https://github.com/jafioti/luminal
+Deep learning at the speed of light.
+language: Rust
+stars: 1,879
+forked: 113
+stars today: 21
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 28,173
+forked: 2,035
+stars today: 14
+
+katanemo/archgw
+https://github.com/katanemo/archgw
+The edge and AI gateway for agentic apps. Arch handles the messy low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. It’s a language and framework friendly infrastructure layer designed to help you build and ship agentic apps faster.
+language: Rust
+stars: 3,215
+forked: 172
+stars today: 39
+
+libnyanpasu/clash-nyanpasu
+https://github.com/libnyanpasu/clash-nyanpasu
+Clash Nyanpasu～(∠・ω< )⌒☆​
+language: Rust
+stars: 11,521
+forked: 716
+stars today: 29
+
+Xerxes-2/clewdr
+https://github.com/Xerxes-2/clewdr
+High Performance LLM Reverse Proxy
+language: Rust
+stars: 373
+forked: 67
+stars today: 12
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 17,501
+forked: 562
+stars today: 43
+
+antinomyhq/forge
+https://github.com/antinomyhq/forge
+AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+language: Rust
+stars: 3,688
+forked: 1,185
+stars today: 38
+
+alexpasmantier/television
+https://github.com/alexpasmantier/television
+A cross-platform, fast and extensible general purpose fuzzy finder 📺
+language: Rust
+stars: 3,136
+forked: 71
+stars today: 25
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 21,274
+forked: 1,927
+stars today: 10
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 5,734
+forked: 491
+stars today: 35
+
+glzr-io/glazewm
+https://github.com/glzr-io/glazewm
+GlazeWM is a tiling window manager for Windows inspired by i3wm.
+language: Rust
+stars: 9,180
+forked: 265
+stars today: 17
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 105,067
+forked: 13,536
+stars today: 46
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 19,931
+forked: 1,792
+stars today: 8
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 9,650
+forked: 350
+stars today: 21
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,333
+forked: 979
+stars today: 3
+
+tock/tock
+https://github.com/tock/tock
+A secure embedded operating system for microcontrollers
+language: Rust
+stars: 5,919
+forked: 755
+stars today: 12
+
+volta-cli/volta
+https://github.com/volta-cli/volta
+Volta: JS Toolchains as Code. ⚡
+language: Rust
+stars: 12,159
+forked: 294
+stars today: 11
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 20,109
+forked: 642
+stars today: 27
+
+facebook/relay
+https://github.com/facebook/relay
+Relay is a JavaScript framework for building data-driven React applications.
+language: Rust
+stars: 18,736
+forked: 1,859
+stars today: 7
