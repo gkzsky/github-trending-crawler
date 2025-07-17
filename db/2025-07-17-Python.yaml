@@ -1,0 +1,127 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 65,153
+forked: 3,460
+stars today: 2,415
+
+PromtEngineer/localGPT
+https://github.com/PromtEngineer/localGPT
+Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+language: Python
+stars: 21,112
+forked: 2,339
+stars today: 80
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 26,837
+forked: 8,805
+stars today: 330
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+language: Python
+stars: 2,696
+forked: 161
+stars today: 434
+
+lastmile-ai/mcp-agent
+https://github.com/lastmile-ai/mcp-agent
+Build effective agents using Model Context Protocol and simple workflow patterns
+language: Python
+stars: 6,449
+forked: 636
+stars today: 80
+
+vanna-ai/vanna
+https://github.com/vanna-ai/vanna
+🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+language: Python
+stars: 18,971
+forked: 1,743
+stars today: 129
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Investment Research for Everyone, Everywhere.
+language: Python
+stars: 42,936
+forked: 3,851
+stars today: 329
+
+mindsdb/mindsdb
+https://github.com/mindsdb/mindsdb
+AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+language: Python
+stars: 34,513
+forked: 5,567
+stars today: 226
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 13,904
+forked: 1,173
+stars today: 384
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 27,174
+forked: 4,156
+stars today: 82
+
+mindverse/Second-Me
+https://github.com/mindverse/Second-Me
+Train your AI self, amplify you, bridge the world
+language: Python
+stars: 13,301
+forked: 969
+stars today: 28
+
+philippemerle/KubeDiagrams
+https://github.com/philippemerle/KubeDiagrams
+Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
+language: Python
+stars: 1,295
+forked: 68
+stars today: 41
+
+XiaoYouChR/Ghost-Downloader-3
+https://github.com/XiaoYouChR/Ghost-Downloader-3
+A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
+language: Python
+stars: 3,437
+forked: 172
+stars today: 104
+
+localstack/localstack
+https://github.com/localstack/localstack
+💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+language: Python
+stars: 59,693
+forked: 4,192
+stars today: 45
+
+frdel/agent-zero
+https://github.com/frdel/agent-zero
+Agent Zero AI framework
+language: Python
+stars: 11,067
+forked: 2,134
+stars today: 26
+
+triton-inference-server/server
+https://github.com/triton-inference-server/server
+The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+language: Python
+stars: 9,470
+forked: 1,610
+stars today: 8

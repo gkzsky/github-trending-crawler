@@ -1,0 +1,151 @@
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 15,840
+forked: 3,341
+stars today: 5
+
+hypermodeinc/badger
+https://github.com/hypermodeinc/badger
+Fast key-value DB in Go.
+language: Go
+stars: 14,786
+forked: 1,234
+stars today: 4
+
+bcicen/ctop
+https://github.com/bcicen/ctop
+Top-like interface for container metrics
+language: Go
+stars: 16,570
+forked: 562
+stars today: 29
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 17,332
+forked: 1,477
+stars today: 2
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 27,762
+forked: 2,710
+stars today: 44
+
+aws/aws-sdk-go-v2
+https://github.com/aws/aws-sdk-go-v2
+AWS SDK for the Go programming language.
+language: Go
+stars: 3,156
+forked: 701
+stars today: 1
+
+tmc/langchaingo
+https://github.com/tmc/langchaingo
+LangChain for Go, the easiest way to write LLM-based programs in Go
+language: Go
+stars: 7,163
+forked: 890
+stars today: 11
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 21,523
+forked: 1,677
+stars today: 15
+
+oapi-codegen/oapi-codegen
+https://github.com/oapi-codegen/oapi-codegen
+Generate Go client and server boilerplate from OpenAPI 3 specifications
+language: Go
+stars: 7,346
+forked: 954
+stars today: 21
+
+getzep/zep
+https://github.com/getzep/zep
+Zep | Examples, Integrations, & More
+language: Go
+stars: 3,384
+forked: 513
+stars today: 7
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,020
+forked: 4,525
+stars today: 7
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 36,012
+forked: 3,301
+stars today: 23
+
+harvester/harvester
+https://github.com/harvester/harvester
+Open source hyperconverged infrastructure (HCI) software
+language: Go
+stars: 4,531
+forked: 369
+stars today: 3
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 49,848
+forked: 10,109
+stars today: 7
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+language: Go
+stars: 1,899
+forked: 333
+stars today: 4
+
+testcontainers/testcontainers-go
+https://github.com/testcontainers/testcontainers-go
+Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+language: Go
+stars: 4,195
+forked: 551
+stars today: 2
+
+go-gorm/gorm
+https://github.com/go-gorm/gorm
+The fantastic ORM library for Golang, aims to be developer friendly
+language: Go
+stars: 38,538
+forked: 4,061
+stars today: 9
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 38,732
+forked: 5,976
+stars today: 4
+
+kubernetes/autoscaler
+https://github.com/kubernetes/autoscaler
+Autoscaling components for Kubernetes
+language: Go
+stars: 8,480
+forked: 4,148
+stars today: 2

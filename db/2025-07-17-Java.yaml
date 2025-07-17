@@ -1,0 +1,191 @@
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 30,484
+forked: 14,505
+stars today: 13
+
+apache/commons-lang
+https://github.com/apache/commons-lang
+Apache Commons Lang
+language: Java
+stars: 2,820
+forked: 1,683
+stars today: 1
+
+kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+language: Java
+stars: 19,752
+forked: 12,228
+stars today: 22
+
+LawnchairLauncher/lawnchair
+https://github.com/LawnchairLauncher/lawnchair
+No clever tagline needed.
+language: Java
+stars: 10,609
+forked: 1,313
+stars today: 15
+
+apache/doris
+https://github.com/apache/doris
+Apache Doris is an easy-to-use, high performance and unified analytics database.
+language: Java
+stars: 13,957
+forked: 3,495
+stars today: 11
+
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 62,392
+forked: 20,072
+stars today: 17
+
+648540858/wvp-GB28181-pro
+https://github.com/648540858/wvp-GB28181-pro
+WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+language: Java
+stars: 6,062
+forked: 1,729
+stars today: 5
+
+apache/fineract
+https://github.com/apache/fineract
+Apache Fineract
+language: Java
+stars: 1,660
+forked: 1,960
+stars today: 0
+
+apache/hbase
+https://github.com/apache/hbase
+Apache HBase
+language: Java
+stars: 5,363
+forked: 3,358
+stars today: 0
+
+JetBrains/intellij-community
+https://github.com/JetBrains/intellij-community
+IntelliJ IDEA Community Edition & IntelliJ Platform
+language: Java
+stars: 18,181
+forked: 5,461
+stars today: 8
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 8,372
+forked: 1,536
+stars today: 14
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,599
+forked: 3,265
+stars today: 8
+
+apache/nifi
+https://github.com/apache/nifi
+Apache NiFi
+language: Java
+stars: 5,465
+forked: 2,835
+stars today: 4
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 34,259
+forked: 16,126
+stars today: 8
+
+apache/pulsar
+https://github.com/apache/pulsar
+Apache Pulsar - distributed pub-sub messaging system
+language: Java
+stars: 14,739
+forked: 3,647
+stars today: 4
+
+xuxueli/xxl-job
+https://github.com/xuxueli/xxl-job
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+language: Java
+stars: 29,023
+forked: 11,252
+stars today: 11
+
+Card-Forge/forge
+https://github.com/Card-Forge/forge
+An unofficial rules engine for the world's greatest card game.
+language: Java
+stars: 1,652
+forked: 703
+stars today: 7
+
+apache/skywalking
+https://github.com/apache/skywalking
+APM, Application Performance Monitoring System
+language: Java
+stars: 24,410
+forked: 6,604
+stars today: 2
+
+DataDog/dd-trace-java
+https://github.com/DataDog/dd-trace-java
+Datadog APM client for Java
+language: Java
+stars: 652
+forked: 309
+stars today: 2
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+language: Java
+stars: 31,768
+forked: 13,098
+stars today: 10
+
+apache/cassandra
+https://github.com/apache/cassandra
+Apache Cassandra®
+language: Java
+stars: 9,280
+forked: 3,724
+stars today: 1
+
+apache/zookeeper
+https://github.com/apache/zookeeper
+Apache ZooKeeper
+language: Java
+stars: 12,542
+forked: 7,294
+stars today: 1
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 44,433
+forked: 3,778
+stars today: 21
+
+apache/flink
+https://github.com/apache/flink
+Apache Flink
+language: Java
+stars: 25,047
+forked: 13,706
+stars today: 6
