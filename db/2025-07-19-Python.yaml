@@ -1,0 +1,135 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 67,897
+forked: 3,591
+stars today: 1,382
+
+langchain-ai/open_deep_research
+https://github.com/langchain-ai/open_deep_research
+-
+language: Python
+stars: 5,060
+forked: 719
+stars today: 322
+
+soxoj/maigret
+https://github.com/soxoj/maigret
+🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+language: Python
+stars: 16,508
+forked: 1,126
+stars today: 524
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 7,281
+forked: 629
+stars today: 86
+
+PromtEngineer/localGPT
+https://github.com/PromtEngineer/localGPT
+Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+language: Python
+stars: 21,584
+forked: 2,374
+stars today: 250
+
+pydantic/pydantic-ai
+https://github.com/pydantic/pydantic-ai
+Agent Framework / shim to use Pydantic with LLMs
+language: Python
+stars: 11,031
+forked: 1,048
+stars today: 52
+
+chubin/wttr.in
+https://github.com/chubin/wttr.in
+⛅ The right way to check the weather
+language: Python
+stars: 27,004
+forked: 1,158
+stars today: 163
+
+vanna-ai/vanna
+https://github.com/vanna-ai/vanna
+🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+language: Python
+stars: 19,364
+forked: 1,761
+stars today: 237
+
+streamlit/streamlit
+https://github.com/streamlit/streamlit
+Streamlit — A faster way to build and share data apps.
+language: Python
+stars: 40,474
+forked: 3,591
+stars today: 17
+
+lastmile-ai/mcp-agent
+https://github.com/lastmile-ai/mcp-agent
+Build effective agents using Model Context Protocol and simple workflow patterns
+language: Python
+stars: 6,604
+forked: 651
+stars today: 51
+
+aliasrobotics/cai
+https://github.com/aliasrobotics/cai
+Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+language: Python
+stars: 1,781
+forked: 238
+stars today: 33
+
+1Panel-dev/MaxKB
+https://github.com/1Panel-dev/MaxKB
+🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+language: Python
+stars: 17,200
+forked: 2,241
+stars today: 52
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 26,993
+forked: 8,825
+stars today: 33
+
+HKUDS/LightRAG
+https://github.com/HKUDS/LightRAG
+"LightRAG: Simple and Fast Retrieval-Augmented Generation"
+language: Python
+stars: 18,543
+forked: 2,600
+stars today: 30
+
+maxdorninger/MediaManager
+https://github.com/maxdorninger/MediaManager
+A modern selfhosted media management system for your media library
+language: Python
+stars: 850
+forked: 13
+stars today: 206
+
+langflow-ai/langflow
+https://github.com/langflow-ai/langflow
+Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+language: Python
+stars: 87,590
+forked: 7,108
+stars today: 486
+
+apache/airflow
+https://github.com/apache/airflow
+Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+language: Python
+stars: 41,092
+forked: 15,336
+stars today: 39

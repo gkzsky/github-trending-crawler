@@ -1,0 +1,191 @@
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 22,015
+forked: 1,703
+stars today: 328
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 15,837
+forked: 5,667
+stars today: 7
+
+swaggo/swag
+https://github.com/swaggo/swag
+Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+language: Go
+stars: 11,971
+forked: 1,283
+stars today: 8
+
+smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink
+node of the decentralized oracle network, bridging on and off-chain computation
+language: Go
+stars: 7,416
+forked: 1,801
+stars today: 5
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,602
+forked: 1,445
+stars today: 3
+
+cloudnative-pg/cloudnative-pg
+https://github.com/cloudnative-pg/cloudnative-pg
+CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+language: Go
+stars: 6,372
+forked: 454
+stars today: 32
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,417
+forked: 1,686
+stars today: 9
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 18,987
+forked: 3,613
+stars today: 12
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 27,587
+forked: 2,635
+stars today: 22
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+language: Go
+stars: 83,191
+forked: 8,264
+stars today: 19
+
+ethereum-optimism/optimism
+https://github.com/ethereum-optimism/optimism
+Optimism is Ethereum, scaled.
+language: Go
+stars: 6,130
+forked: 3,633
+stars today: 2
+
+hypermodeinc/ristretto
+https://github.com/hypermodeinc/ristretto
+A high performance memory-bound Go cache
+language: Go
+stars: 6,278
+forked: 409
+stars today: 7
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 146,895
+forked: 12,444
+stars today: 93
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 36,059
+forked: 3,307
+stars today: 22
+
+hypermodeinc/badger
+https://github.com/hypermodeinc/badger
+Fast key-value DB in Go.
+language: Go
+stars: 14,804
+forked: 1,235
+stars today: 5
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 15,155
+forked: 1,848
+stars today: 21
+
+getzep/zep
+https://github.com/getzep/zep
+Zep | Examples, Integrations, & More
+language: Go
+stars: 3,398
+forked: 515
+stars today: 7
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,100
+forked: 2,463
+stars today: 7
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+A Cloud Native Batch System (Project under CNCF)
+language: Go
+stars: 4,832
+forked: 1,161
+stars today: 4
+
+oapi-codegen/oapi-codegen
+https://github.com/oapi-codegen/oapi-codegen
+Generate Go client and server boilerplate from OpenAPI 3 specifications
+language: Go
+stars: 7,368
+forked: 954
+stars today: 8
+
+grafana/alloy
+https://github.com/grafana/alloy
+OpenTelemetry Collector distribution with programmable pipelines
+language: Go
+stars: 2,275
+forked: 371
+stars today: 8
+
+openbao/openbao
+https://github.com/openbao/openbao
+OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+language: Go
+stars: 4,149
+forked: 233
+stars today: 7
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
+language: Go
+stars: 116,390
+forked: 40,965
+stars today: 22
+
+expr-lang/expr
+https://github.com/expr-lang/expr
+Expression language and expression evaluation for Go
+language: Go
+stars: 7,026
+forked: 447
+stars today: 7
