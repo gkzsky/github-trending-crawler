@@ -1,0 +1,111 @@
+roboflow/supervision
+https://github.com/roboflow/supervision
+We write your reusable computer vision tools. 💜
+language: Python
+stars: 28,133
+forked: 2,196
+stars today: 211
+
+langchain-ai/open_deep_research
+https://github.com/langchain-ai/open_deep_research
+-
+language: Python
+stars: 5,552
+forked: 768
+stars today: 249
+
+freqtrade/freqtrade
+https://github.com/freqtrade/freqtrade
+Free, open source crypto trading bot
+language: Python
+stars: 40,636
+forked: 8,150
+stars today: 79
+
+hesreallyhim/awesome-claude-code
+https://github.com/hesreallyhim/awesome-claude-code
+A curated list of awesome commands, files, and workflows for Claude Code
+language: Python
+stars: 4,790
+forked: 255
+stars today: 322
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 38,287
+forked: 6,733
+stars today: 32
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 7,442
+forked: 642
+stars today: 76
+
+AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Stable Diffusion web UI
+language: Python
+stars: 154,690
+forked: 28,726
+stars today: 33
+
+QuivrHQ/MegaParse
+https://github.com/QuivrHQ/MegaParse
+File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+language: Python
+stars: 6,914
+forked: 371
+stars today: 35
+
+soxoj/maigret
+https://github.com/soxoj/maigret
+🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+language: Python
+stars: 16,950
+forked: 1,141
+stars today: 251
+
+wasi-master/13ft
+https://github.com/wasi-master/13ft
+My own custom 12ft.io replacement
+language: Python
+stars: 3,433
+forked: 178
+stars today: 22
+
+snailyp/gemini-balance
+https://github.com/snailyp/gemini-balance
+Gemini polling proxy service （gemini轮询代理服务）
+language: Python
+stars: 3,508
+forked: 613
+stars today: 60
+
+mikf/gallery-dl
+https://github.com/mikf/gallery-dl
+Command-line program to download image galleries and collections from several image hosting sites
+language: Python
+stars: 14,252
+forked: 1,139
+stars today: 12
+
+RVC-Boss/GPT-SoVITS
+https://github.com/RVC-Boss/GPT-SoVITS
+1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+language: Python
+stars: 48,959
+forked: 5,378
+stars today: 50
+
+huggingface/transformers
+https://github.com/huggingface/transformers
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+language: Python
+stars: 147,220
+forked: 29,720
+stars today: 31
