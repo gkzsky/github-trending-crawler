@@ -1,0 +1,159 @@
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 15,551
+forked: 1,870
+stars today: 44
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+GitHub's official MCP Server
+language: Go
+stars: 18,465
+forked: 1,504
+stars today: 227
+
+FiloSottile/mkcert
+https://github.com/FiloSottile/mkcert
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+language: Go
+stars: 54,729
+forked: 2,856
+stars today: 346
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 15,976
+forked: 5,679
+stars today: 17
+
+yorukot/superfile
+https://github.com/yorukot/superfile
+Pretty fancy and modern terminal file manager
+language: Go
+stars: 14,337
+forked: 354
+stars today: 65
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 23,817
+forked: 1,907
+stars today: 25
+
+ibnaleem/gosearch
+https://github.com/ibnaleem/gosearch
+🔍 Search anyone's digital footprint across 300+ websites
+language: Go
+stars: 2,128
+forked: 214
+stars today: 33
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,338
+forked: 20,988
+stars today: 13
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 29,224
+forked: 1,423
+stars today: 17
+
+kitops-ml/kitops
+https://github.com/kitops-ml/kitops
+An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
+language: Go
+stars: 1,080
+forked: 123
+stars today: 5
+
+qichiyuhub/rule
+https://github.com/qichiyuhub/rule
+Clash、Sing-box、等分流规则
+language: Go
+stars: 608
+forked: 580
+stars today: 3
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+language: Go
+stars: 147,142
+forked: 12,474
+stars today: 97
+
+v2ray/domain-list-community
+https://github.com/v2ray/domain-list-community
+Community managed domain list
+language: Go
+stars: 2,463
+forked: 459
+stars today: 2
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,034
+forked: 4,526
+stars today: 1
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+language: Go
+stars: 22,389
+forked: 4,408
+stars today: 18
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 22,386
+forked: 1,719
+stars today: 75
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 96,422
+forked: 14,234
+stars today: 48
+
+everywall/ladder
+https://github.com/everywall/ladder
+Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+language: Go
+stars: 4,972
+forked: 204
+stars today: 26
+
+donetick/donetick
+https://github.com/donetick/donetick
+Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
+language: Go
+stars: 889
+forked: 37
+stars today: 11
+
+garethgeorge/backrest
+https://github.com/garethgeorge/backrest
+Backrest is a web UI and orchestrator for restic backup.
+language: Go
+stars: 3,448
+forked: 90
+stars today: 37
