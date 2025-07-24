@@ -1,0 +1,191 @@
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,204
+forked: 18,780
+stars today: 29
+
+ibnaleem/gosearch
+https://github.com/ibnaleem/gosearch
+🔍 Search anyone's digital footprint across 300+ websites
+language: Go
+stars: 2,225
+forked: 225
+stars today: 36
+
+kedacore/keda
+https://github.com/kedacore/keda
+KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+language: Go
+stars: 9,279
+forked: 1,175
+stars today: 5
+
+docker/cli
+https://github.com/docker/cli
+The Docker CLI
+language: Go
+stars: 5,356
+forked: 2,021
+stars today: 5
+
+tenable/terrascan
+https://github.com/tenable/terrascan
+Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+language: Go
+stars: 5,084
+forked: 525
+stars today: 16
+
+kgretzky/evilginx2
+https://github.com/kgretzky/evilginx2
+Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+language: Go
+stars: 13,440
+forked: 2,340
+stars today: 31
+
+golang-jwt/jwt
+https://github.com/golang-jwt/jwt
+Go implementation of JSON Web Tokens (JWT).
+language: Go
+stars: 8,287
+forked: 399
+stars today: 6
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 11,249
+forked: 765
+stars today: 30
+
+kubernetes/autoscaler
+https://github.com/kubernetes/autoscaler
+Autoscaling components for Kubernetes
+language: Go
+stars: 8,492
+forked: 4,153
+stars today: 3
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,805
+forked: 4,412
+stars today: 3
+
+gravitational/teleport
+https://github.com/gravitational/teleport
+The easiest, and most secure way to access and protect all of your infrastructure.
+language: Go
+stars: 18,844
+forked: 1,880
+stars today: 8
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,645
+forked: 1,448
+stars today: 20
+
+opencost/opencost
+https://github.com/opencost/opencost
+Cost monitoring for Kubernetes workloads and cloud costs
+language: Go
+stars: 5,907
+forked: 640
+stars today: 5
+
+casdoor/casdoor
+https://github.com/casdoor/casdoor
+An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
+language: Go
+stars: 11,924
+forked: 1,388
+stars today: 10
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,124
+forked: 2,466
+stars today: 9
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,730
+forked: 2,901
+stars today: 2
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 62,240
+forked: 2,134
+stars today: 55
+
+ray-project/kuberay
+https://github.com/ray-project/kuberay
+A toolkit to run Ray applications on Kubernetes
+language: Go
+stars: 1,908
+forked: 575
+stars today: 7
+
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+language: Go
+stars: 30,022
+forked: 2,608
+stars today: 51
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 14,578
+forked: 1,424
+stars today: 14
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 5,983
+forked: 1,207
+stars today: 3
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,721
+forked: 2,630
+stars today: 2
+
+kubernetes/kube-state-metrics
+https://github.com/kubernetes/kube-state-metrics
+Add-on agent to generate and expose cluster-level metrics.
+language: Go
+stars: 5,809
+forked: 2,094
+stars today: 3
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 8,817
+forked: 1,069
+stars today: 6

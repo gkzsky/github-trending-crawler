@@ -1,0 +1,183 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 22,412
+forked: 3,885
+stars today: 61
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 17,972
+forked: 592
+stars today: 179
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 12,166
+forked: 642
+stars today: 141
+
+fujiapple852/trippy
+https://github.com/fujiapple852/trippy
+A network diagnostic tool
+language: Rust
+stars: 5,488
+forked: 144
+stars today: 306
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 44,156
+forked: 1,177
+stars today: 31
+
+wssheldon/osintui
+https://github.com/wssheldon/osintui
+OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
+language: Rust
+stars: 1,152
+forked: 80
+stars today: 11
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 22,728
+forked: 2,420
+stars today: 176
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,659
+forked: 1,463
+stars today: 10
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 4,547
+forked: 496
+stars today: 16
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 93,748
+forked: 13,649
+stars today: 68
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+language: Rust
+stars: 8,733
+forked: 558
+stars today: 34
+
+garyttierney/me3
+https://github.com/garyttierney/me3
+A framework for modding and instrumenting games.
+language: Rust
+stars: 248
+forked: 27
+stars today: 1
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 62,374
+forked: 1,796
+stars today: 119
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 40,691
+forked: 4,020
+stars today: 17
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing.
+language: Rust
+stars: 2,272
+forked: 155
+stars today: 16
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 20,234
+forked: 646
+stars today: 14
+
+ast-grep/ast-grep
+https://github.com/ast-grep/ast-grep
+⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+language: Rust
+stars: 9,345
+forked: 246
+stars today: 5
+
+blockworks-foundation/autobahn
+https://github.com/blockworks-foundation/autobahn
+Dex aggregator on Solana
+language: Rust
+stars: 280
+forked: 74
+stars today: 14
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,197
+forked: 11,556
+stars today: 5
+
+neovide/neovide
+https://github.com/neovide/neovide
+No Nonsense Neovim Client in Rust
+language: Rust
+stars: 14,177
+forked: 566
+stars today: 7
+
+cachix/devenv
+https://github.com/cachix/devenv
+Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+language: Rust
+stars: 5,386
+forked: 402
+stars today: 19
+
+topgrade-rs/topgrade
+https://github.com/topgrade-rs/topgrade
+Upgrade all the things
+language: Rust
+stars: 2,664
+forked: 168
+stars today: 22
+
+huggingface/tokenizers
+https://github.com/huggingface/tokenizers
+💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+language: Rust
+stars: 9,921
+forked: 940
+stars today: 7
