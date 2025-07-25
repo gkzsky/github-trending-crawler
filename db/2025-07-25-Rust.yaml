@@ -1,0 +1,183 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 22,609
+forked: 3,889
+stars today: 266
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 22,746
+forked: 2,422
+stars today: 21
+
+fujiapple852/trippy
+https://github.com/fujiapple852/trippy
+A network diagnostic tool
+language: Rust
+stars: 5,597
+forked: 151
+stars today: 73
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 93,818
+forked: 13,675
+stars today: 84
+
+Eventual-Inc/Daft
+https://github.com/Eventual-Inc/Daft
+Distributed query engine providing simple and reliable data processing for any modality and scale
+language: Rust
+stars: 3,159
+forked: 241
+stars today: 16
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 4,848
+forked: 207
+stars today: 34
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+language: Rust
+stars: 8,774
+forked: 561
+stars today: 45
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 12,194
+forked: 644
+stars today: 28
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,324
+forked: 3,790
+stars today: 1
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,200
+forked: 11,557
+stars today: 3
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 15,794
+forked: 616
+stars today: 14
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 15,142
+forked: 1,433
+stars today: 10
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 18,071
+forked: 593
+stars today: 169
+
+wssheldon/osintui
+https://github.com/wssheldon/osintui
+OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
+language: Rust
+stars: 1,162
+forked: 81
+stars today: 14
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 2,237
+forked: 176
+stars today: 34
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 1,825
+forked: 271
+stars today: 11
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso Database is a project to build the next evolution of SQLite.
+language: Rust
+stars: 12,352
+forked: 477
+stars today: 45
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,523
+forked: 1,554
+stars today: 16
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 19,858
+forked: 822
+stars today: 62
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,666
+forked: 1,463
+stars today: 7
+
+topgrade-rs/topgrade
+https://github.com/topgrade-rs/topgrade
+Upgrade all the things
+language: Rust
+stars: 2,686
+forked: 168
+stars today: 22
+
+idootop/open-xiaoai
+https://github.com/idootop/open-xiaoai
+让小爱音箱「听见你的声音」，解锁无限可能。
+language: Rust
+stars: 633
+forked: 58
+stars today: 5
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
+language: Rust
+stars: 18,728
+forked: 1,863
+stars today: 5
