@@ -1,0 +1,103 @@
+QwenLM/Qwen3-Coder
+https://github.com/QwenLM/Qwen3-Coder
+Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+language: Python
+stars: 8,889
+forked: 635
+stars today: 714
+
+m1k1o/neko
+https://github.com/m1k1o/neko
+A self hosted virtual browser that runs in docker and uses WebRTC.
+language: Go
+stars: 13,664
+forked: 855
+stars today: 985
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 22,753
+forked: 3,893
+stars today: 219
+
+semgrep/semgrep
+https://github.com/semgrep/semgrep
+Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+language: OCaml
+stars: 12,275
+forked: 746
+stars today: 23
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Investment Research for Everyone, Everywhere.
+language: Python
+stars: 46,103
+forked: 4,182
+stars today: 622
+
+frappe/hrms
+https://github.com/frappe/hrms
+Open Source HR and Payroll Software
+language: Python
+stars: 4,266
+forked: 1,354
+stars today: 486
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+language: Rust
+stars: 8,936
+forked: 569
+stars today: 51
+
+software-mansion/react-native-reanimated
+https://github.com/software-mansion/react-native-reanimated
+React Native's Animated library reimplemented
+language: TypeScript
+stars: 9,948
+forked: 1,389
+stars today: 21
+
+steven2358/awesome-generative-ai
+https://github.com/steven2358/awesome-generative-ai
+A curated list of modern Generative Artificial Intelligence projects and services
+language: -
+stars: 9,433
+forked: 1,038
+stars today: 74
+
+srbhr/Resume-Matcher
+https://github.com/srbhr/Resume-Matcher
+Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+language: TypeScript
+stars: 19,704
+forked: 4,096
+stars today: 1,814
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 7,727
+forked: 652
+stars today: 542
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,306
+forked: 18,786
+stars today: 12
+
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: MDX
+stars: 172,674
+forked: 79,116
+stars today: 18
