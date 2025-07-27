@@ -1,0 +1,183 @@
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 28,605
+forked: 7,463
+stars today: 55
+
+dataease/dataease
+https://github.com/dataease/dataease
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+language: Java
+stars: 20,811
+forked: 3,675
+stars today: 57
+
+bepass-org/oblivion
+https://github.com/bepass-org/oblivion
+Unofficial warp client for android
+language: Java
+stars: 4,373
+forked: 592
+stars today: 39
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+Java version of LangChain
+language: Java
+stars: 8,494
+forked: 1,558
+stars today: 12
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,670
+forked: 2,028
+stars today: 3
+
+runelite/runelite
+https://github.com/runelite/runelite
+Open source Old School RuneScape client
+language: Java
+stars: 5,048
+forked: 5,463
+stars today: 2
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,634
+forked: 3,273
+stars today: 3
+
+nayuki/QR-Code-generator
+https://github.com/nayuki/QR-Code-generator
+High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+language: Java
+stars: 5,968
+forked: 1,181
+stars today: 3
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 77,891
+forked: 41,338
+stars today: 13
+
+apache/lucene
+https://github.com/apache/lucene
+Apache Lucene open-source search software
+language: Java
+stars: 3,077
+forked: 1,228
+stars today: 2
+
+microsoft/typespec
+https://github.com/microsoft/typespec
+-
+language: Java
+stars: 5,264
+forked: 297
+stars today: 4
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 24,357
+forked: 7,067
+stars today: 10
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,190
+forked: 9,077
+stars today: 1
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 5,028
+forked: 1,007
+stars today: 7
+
+Eanya-Tonic/CCTV_Viewer
+https://github.com/Eanya-Tonic/CCTV_Viewer
+电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
+language: Java
+stars: 2,493
+forked: 249
+stars today: 3
+
+648540858/wvp-GB28181-pro
+https://github.com/648540858/wvp-GB28181-pro
+WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+language: Java
+stars: 6,095
+forked: 1,740
+stars today: 3
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 19,417
+forked: 5,709
+stars today: 9
+
+apache/druid
+https://github.com/apache/druid
+Apache Druid: a high performance real-time analytics database.
+language: Java
+stars: 13,782
+forked: 3,748
+stars today: 3
+
+OpenLineage/OpenLineage
+https://github.com/OpenLineage/OpenLineage
+An Open Standard for lineage metadata collection
+language: Java
+stars: 2,038
+forked: 362
+stars today: 2
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 7,752
+forked: 2,692
+stars today: 3
+
+Azure/azure-sdk-for-java
+https://github.com/Azure/azure-sdk-for-java
+This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+language: Java
+stars: 2,503
+forked: 2,105
+stars today: 0
+
+apache/dolphinscheduler
+https://github.com/apache/dolphinscheduler
+Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+language: Java
+stars: 13,679
+forked: 4,853
+stars today: 2
+
+bazelbuild/bazel
+https://github.com/bazelbuild/bazel
+a fast, scalable, multi-language and extensible build system
+language: Java
+stars: 24,359
+forked: 4,262
+stars today: 4
