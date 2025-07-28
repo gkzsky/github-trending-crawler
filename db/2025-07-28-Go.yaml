@@ -1,0 +1,167 @@
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 5,354
+forked: 436
+stars today: 47
+
+safing/portmaster
+https://github.com/safing/portmaster
+🏔 Love Freedom - ❌ Block Mass Surveillance
+language: Go
+stars: 10,521
+forked: 361
+stars today: 39
+
+m1k1o/neko
+https://github.com/m1k1o/neko
+A self hosted virtual browser that runs in docker and uses WebRTC.
+language: Go
+stars: 14,177
+forked: 883
+stars today: 220
+
+IceWhaleTech/CasaOS
+https://github.com/IceWhaleTech/CasaOS
+CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+language: Go
+stars: 30,923
+forked: 1,685
+stars today: 64
+
+gosom/google-maps-scraper
+https://github.com/gosom/google-maps-scraper
+scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+language: Go
+stars: 2,191
+forked: 258
+stars today: 5
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 8,087
+forked: 674
+stars today: 171
+
+TwiN/gatus
+https://github.com/TwiN/gatus
+⛑ Automated developer-oriented status page
+language: Go
+stars: 7,847
+forked: 536
+stars today: 24
+
+kubernetes/kops
+https://github.com/kubernetes/kops
+Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+language: Go
+stars: 16,283
+forked: 4,683
+stars today: 4
+
+googleapis/go-genai
+https://github.com/googleapis/go-genai
+Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
+language: Go
+stars: 616
+forked: 71
+stars today: 2
+
+jhaals/yopass
+https://github.com/jhaals/yopass
+Secure sharing of secrets, passwords and files
+language: Go
+stars: 2,219
+forked: 328
+stars today: 13
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 23,921
+forked: 1,921
+stars today: 22
+
+jpillora/chisel
+https://github.com/jpillora/chisel
+A fast TCP/UDP tunnel over HTTP
+language: Go
+stars: 14,842
+forked: 1,502
+stars today: 4
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 15,651
+forked: 1,128
+stars today: 16
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+language: Go
+stars: 34,134
+forked: 2,661
+stars today: 19
+
+v2fly/v2ray-core
+https://github.com/v2fly/v2ray-core
+A platform for building proxies to bypass network restrictions.
+language: Go
+stars: 31,581
+forked: 4,848
+stars today: 6
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 25,409
+forked: 2,994
+stars today: 20
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 73,891
+forked: 4,666
+stars today: 25
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+language: Go
+stars: 5,234
+forked: 1,001
+stars today: 6
+
+filebrowser/filebrowser
+https://github.com/filebrowser/filebrowser
+📂 Web File Browser
+language: Go
+stars: 30,546
+forked: 3,413
+stars today: 13
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 30,169
+forked: 4,457
+stars today: 20
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 29,386
+forked: 2,081
+stars today: 14
