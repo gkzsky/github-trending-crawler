@@ -1,0 +1,103 @@
+outline/outline
+https://github.com/outline/outline
+The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+language: TypeScript
+stars: 33,228
+forked: 2,720
+stars today: 37
+
+mattermost-community/focalboard
+https://github.com/mattermost-community/focalboard
+Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+language: TypeScript
+stars: 24,127
+forked: 2,255
+stars today: 29
+
+linshenkx/prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
+一款提示词优化器，助力于编写高质量的提示词
+language: TypeScript
+stars: 10,768
+forked: 1,333
+stars today: 339
+
+Infisical/infisical
+https://github.com/Infisical/infisical
+Infisical is the open-source platform for secrets management, PKI, and SSH access.
+language: TypeScript
+stars: 19,552
+forked: 1,293
+stars today: 265
+
+blakeblackshear/frigate
+https://github.com/blakeblackshear/frigate
+NVR with realtime local object detection for IP cameras
+language: TypeScript
+stars: 24,083
+forked: 2,252
+stars today: 18
+
+toss/es-toolkit
+https://github.com/toss/es-toolkit
+A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+language: TypeScript
+stars: 8,981
+forked: 440
+stars today: 147
+
+fuma-nama/fumadocs
+https://github.com/fuma-nama/fumadocs
+The beautiful docs framework with Next.js and any React.js framework.
+language: TypeScript
+stars: 7,366
+forked: 390
+stars today: 26
+
+bytedance/flowgram.ai
+https://github.com/bytedance/flowgram.ai
+FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+language: TypeScript
+stars: 6,211
+forked: 507
+stars today: 87
+
+gitroomhq/postiz-app
+https://github.com/gitroomhq/postiz-app
+📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+language: TypeScript
+stars: 22,729
+forked: 3,621
+stars today: 30
+
+wg-easy/wg-easy
+https://github.com/wg-easy/wg-easy
+The easiest way to run WireGuard VPN + Web-based Admin UI.
+language: TypeScript
+stars: 20,479
+forked: 1,963
+stars today: 17
+
+idosal/git-mcp
+https://github.com/idosal/git-mcp
+Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+language: TypeScript
+stars: 3,595
+forked: 252
+stars today: 17
+
+imsyy/DailyHotApi
+https://github.com/imsyy/DailyHotApi
+🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
+language: TypeScript
+stars: 2,685
+forked: 983
+stars today: 60
+
+invoke-ai/InvokeAI
+https://github.com/invoke-ai/InvokeAI
+Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+language: TypeScript
+stars: 25,589
+forked: 2,625
+stars today: 16
