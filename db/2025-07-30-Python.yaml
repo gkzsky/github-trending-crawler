@@ -1,0 +1,79 @@
+9001/copyparty
+https://github.com/9001/copyparty
+Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+language: Python
+stars: 10,860
+forked: 327
+stars today: 4,125
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 53,597
+forked: 6,226
+stars today: 638
+
+daveebbelaar/ai-cookbook
+https://github.com/daveebbelaar/ai-cookbook
+Examples and tutorials to help developers build AI systems
+language: Python
+stars: 2,332
+forked: 835
+stars today: 268
+
+sinaptik-ai/pandas-ai
+https://github.com/sinaptik-ai/pandas-ai
+Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+language: Python
+stars: 21,167
+forked: 2,049
+stars today: 31
+
+allenai/olmocr
+https://github.com/allenai/olmocr
+Toolkit for linearizing PDFs for LLM datasets/training
+language: Python
+stars: 13,380
+forked: 983
+stars today: 20
+
+myshell-ai/MeloTTS
+https://github.com/myshell-ai/MeloTTS
+High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+language: Python
+stars: 6,439
+forked: 897
+stars today: 40
+
+dgtlmoon/changedetection.io
+https://github.com/dgtlmoon/changedetection.io
+Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+language: Python
+stars: 25,674
+forked: 1,414
+stars today: 409
+
+potpie-ai/potpie
+https://github.com/potpie-ai/potpie
+Prompt-To-Agent : Create custom engineering agents for your codebase
+language: Python
+stars: 4,812
+forked: 442
+stars today: 20
+
+commaai/openpilot
+https://github.com/commaai/openpilot
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+language: Python
+stars: 55,591
+forked: 9,986
+stars today: 20
+
+sissbruecker/linkding
+https://github.com/sissbruecker/linkding
+Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+language: Python
+stars: 8,757
+forked: 432
+stars today: 27
