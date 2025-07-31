@@ -1,0 +1,95 @@
+9001/copyparty
+https://github.com/9001/copyparty
+Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+language: Python
+stars: 14,320
+forked: 449
+stars today: 3,579
+
+roboflow/supervision
+https://github.com/roboflow/supervision
+We write your reusable computer vision tools. 💜
+language: Python
+stars: 32,067
+forked: 2,555
+stars today: 752
+
+mikf/gallery-dl
+https://github.com/mikf/gallery-dl
+Command-line program to download image galleries and collections from several image hosting sites
+language: Python
+stars: 14,646
+forked: 1,163
+stars today: 30
+
+LMCache/LMCache
+https://github.com/LMCache/LMCache
+Supercharge Your LLM with the Fastest KV Cache Layer
+language: Python
+stars: 3,652
+forked: 412
+stars today: 118
+
+sherlock-project/sherlock
+https://github.com/sherlock-project/sherlock
+Hunt down social media accounts by username across social networks
+language: Python
+stars: 67,621
+forked: 7,761
+stars today: 44
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 38,871
+forked: 6,833
+stars today: 152
+
+huggingface/smollm
+https://github.com/huggingface/smollm
+Everything about the SmolLM and SmolVLM family of models
+language: Python
+stars: 3,049
+forked: 198
+stars today: 49
+
+protectai/vulnhuntr
+https://github.com/protectai/vulnhuntr
+Zero shot vulnerability discovery using LLMs
+language: Python
+stars: 2,096
+forked: 225
+stars today: 62
+
+denizsafak/abogen
+https://github.com/denizsafak/abogen
+Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+language: Python
+stars: 756
+forked: 54
+stars today: 94
+
+searxng/searxng
+https://github.com/searxng/searxng
+SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+language: Python
+stars: 20,779
+forked: 2,113
+stars today: 26
+
+kijai/ComfyUI-WanVideoWrapper
+https://github.com/kijai/ComfyUI-WanVideoWrapper
+-
+language: Python
+stars: 3,518
+forked: 263
+stars today: 32
+
+dgtlmoon/changedetection.io
+https://github.com/dgtlmoon/changedetection.io
+Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+language: Python
+stars: 25,743
+forked: 1,414
+stars today: 64
