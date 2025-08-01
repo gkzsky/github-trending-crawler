@@ -1,0 +1,191 @@
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 94,513
+forked: 13,824
+stars today: 125
+
+n0-computer/iroh
+https://github.com/n0-computer/iroh
+peer-2-peer that just works
+language: Rust
+stars: 6,543
+forked: 287
+stars today: 57
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+language: Rust
+stars: 40,763
+forked: 7,606
+stars today: 84
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso Database is a project to build the next evolution of SQLite.
+language: Rust
+stars: 12,571
+forked: 493
+stars today: 44
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 6,221
+forked: 324
+stars today: 64
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,369
+forked: 987
+stars today: 0
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 63,279
+forked: 1,827
+stars today: 122
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 37,078
+forked: 1,168
+stars today: 36
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 1,888
+forked: 282
+stars today: 14
+
+awslabs/mountpoint-s3
+https://github.com/awslabs/mountpoint-s3
+A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+language: Rust
+stars: 5,316
+forked: 211
+stars today: 4
+
+imsnif/bandwhich
+https://github.com/imsnif/bandwhich
+Terminal bandwidth utilization tool
+language: Rust
+stars: 10,929
+forked: 321
+stars today: 25
+
+sigoden/dufs
+https://github.com/sigoden/dufs
+A file server that supports static serving, uploading, searching, accessing control, webdav...
+language: Rust
+stars: 8,549
+forked: 430
+stars today: 25
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 10,034
+forked: 1,215
+stars today: 27
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 29,804
+forked: 1,235
+stars today: 24
+
+sigp/lighthouse
+https://github.com/sigp/lighthouse
+Ethereum consensus client in Rust
+language: Rust
+stars: 3,235
+forked: 891
+stars today: 4
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 21,504
+forked: 1,964
+stars today: 22
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build portable, modular & lightweight Fullstack Agents
+language: Rust
+stars: 4,048
+forked: 434
+stars today: 19
+
+a2x/cs2-dumper
+https://github.com/a2x/cs2-dumper
+Counter-Strike: 2 Offset Dumper
+language: Rust
+stars: 1,402
+forked: 194
+stars today: 3
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 29,751
+forked: 1,018
+stars today: 16
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 15,937
+forked: 612
+stars today: 8
+
+EricLBuehler/mistral.rs
+https://github.com/EricLBuehler/mistral.rs
+Blazingly fast LLM inference.
+language: Rust
+stars: 5,961
+forked: 437
+stars today: 8
+
+vosen/ZLUDA
+https://github.com/vosen/ZLUDA
+CUDA on non-NVIDIA GPUs
+language: Rust
+stars: 12,827
+forked: 805
+stars today: 7
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,838
+forked: 1,745
+stars today: 3
+
+ethersync/ethersync
+https://github.com/ethersync/ethersync
+Editor-agnostic, real-time collaborative editing of local text files.
+language: Rust
+stars: 712
+forked: 13
+stars today: 66

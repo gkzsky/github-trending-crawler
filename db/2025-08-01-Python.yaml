@@ -1,0 +1,135 @@
+kijai/ComfyUI-WanVideoWrapper
+https://github.com/kijai/ComfyUI-WanVideoWrapper
+-
+language: Python
+stars: 3,654
+forked: 273
+stars today: 41
+
+SkyworkAI/SkyReels-V2
+https://github.com/SkyworkAI/SkyReels-V2
+SkyReels-V2: Infinite-length Film Generative model
+language: Python
+stars: 3,901
+forked: 490
+stars today: 36
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+language: Python
+stars: 4,243
+forked: 261
+stars today: 279
+
+9001/copyparty
+https://github.com/9001/copyparty
+Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+language: Python
+stars: 16,552
+forked: 530
+stars today: 3,325
+
+stanford-oval/storm
+https://github.com/stanford-oval/storm
+An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+language: Python
+stars: 27,070
+forked: 2,439
+stars today: 26
+
+roboflow/supervision
+https://github.com/roboflow/supervision
+We write your reusable computer vision tools. 💜
+language: Python
+stars: 32,488
+forked: 2,588
+stars today: 513
+
+OSU-NLP-Group/HippoRAG
+https://github.com/OSU-NLP-Group/HippoRAG
+[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.
+language: Python
+stars: 2,635
+forked: 242
+stars today: 12
+
+tinygrad/tinygrad
+https://github.com/tinygrad/tinygrad
+You like pytorch? You like micrograd? You love tinygrad! ❤️
+language: Python
+stars: 29,762
+forked: 3,546
+stars today: 6
+
+Alibaba-NLP/WebAgent
+https://github.com/Alibaba-NLP/WebAgent
+🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
+language: Python
+stars: 5,491
+forked: 400
+stars today: 100
+
+Pythagora-io/gpt-pilot
+https://github.com/Pythagora-io/gpt-pilot
+The first real AI developer
+language: Python
+stars: 33,259
+forked: 3,407
+stars today: 15
+
+jumpserver/jumpserver
+https://github.com/jumpserver/jumpserver
+JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+language: Python
+stars: 28,196
+forked: 5,514
+stars today: 18
+
+galaxyproject/galaxy
+https://github.com/galaxyproject/galaxy
+Data intensive science for everyone.
+language: Python
+stars: 1,560
+forked: 1,064
+stars today: 7
+
+plotly/dash
+https://github.com/plotly/dash
+Data Apps & Dashboards for Python. No JavaScript Required.
+language: Python
+stars: 23,769
+forked: 2,181
+stars today: 63
+
+microsoft/mcp-for-beginners
+https://github.com/microsoft/mcp-for-beginners
+This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+language: Python
+stars: 6,005
+forked: 1,673
+stars today: 132
+
+camel-ai/camel
+https://github.com/camel-ai/camel
+🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+language: Python
+stars: 13,619
+forked: 1,476
+stars today: 33
+
+nikmcfly/ANUS
+https://github.com/nikmcfly/ANUS
+-
+language: Python
+stars: 6,008
+forked: 930
+stars today: 103
+
+google-deepmind/alphafold3
+https://github.com/google-deepmind/alphafold3
+AlphaFold 3 inference pipeline.
+language: Python
+stars: 6,807
+forked: 896
+stars today: 8
