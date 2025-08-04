@@ -1,0 +1,103 @@
+TideDra/zotero-arxiv-daily
+https://github.com/TideDra/zotero-arxiv-daily
+Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+language: Python
+stars: 2,694
+forked: 2,356
+stars today: 50
+
+reflex-dev/reflex
+https://github.com/reflex-dev/reflex
+🕸️ Web apps in pure Python 🐍
+language: Python
+stars: 24,155
+forked: 1,415
+stars today: 165
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 121,070
+forked: 9,605
+stars today: 116
+
+spotDL/spotify-downloader
+https://github.com/spotDL/spotify-downloader
+Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+language: Python
+stars: 20,871
+forked: 1,858
+stars today: 21
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+language: Python
+stars: 4,791
+forked: 298
+stars today: 85
+
+nerfstudio-project/viser
+https://github.com/nerfstudio-project/viser
+Web-based 3D visualization + Python
+language: Python
+stars: 1,591
+forked: 115
+stars today: 24
+
+commaai/openpilot
+https://github.com/commaai/openpilot
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+language: Python
+stars: 55,659
+forked: 10,006
+stars today: 14
+
+RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+Easily train a good VC model with voice data <= 10 mins!
+language: Python
+stars: 31,208
+forked: 4,362
+stars today: 28
+
+paperless-ngx/paperless-ngx
+https://github.com/paperless-ngx/paperless-ngx
+A community-supported supercharged document management system: scan, index and archive all your documents
+language: Python
+stars: 29,806
+forked: 1,791
+stars today: 41
+
+freqtrade/freqtrade
+https://github.com/freqtrade/freqtrade
+Free, open source crypto trading bot
+language: Python
+stars: 41,030
+forked: 8,278
+stars today: 26
+
+zauberzeug/nicegui
+https://github.com/zauberzeug/nicegui
+Create web-based user interfaces with Python. The nice way.
+language: Python
+stars: 13,051
+forked: 784
+stars today: 15
+
+MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo
+A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+language: Python
+stars: 21,978
+forked: 3,185
+stars today: 23
+
+souzatharsis/podcastfy
+https://github.com/souzatharsis/podcastfy
+An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+language: Python
+stars: 4,278
+forked: 516
+stars today: 118

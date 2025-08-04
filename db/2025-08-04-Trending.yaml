@@ -1,0 +1,119 @@
+dyad-sh/dyad
+https://github.com/dyad-sh/dyad
+Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+language: TypeScript
+stars: 5,136
+forked: 612
+stars today: 751
+
+wg-easy/wg-easy
+https://github.com/wg-easy/wg-easy
+The easiest way to run WireGuard VPN + Web-based Admin UI.
+language: TypeScript
+stars: 21,134
+forked: 2,007
+stars today: 274
+
+eclipse-sumo/sumo
+https://github.com/eclipse-sumo/sumo
+Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+language: C++
+stars: 3,359
+forked: 1,594
+stars today: 39
+
+trekhleb/javascript-algorithms
+https://github.com/trekhleb/javascript-algorithms
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+language: JavaScript
+stars: 192,757
+forked: 30,807
+stars today: 158
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 30,407
+forked: 4,474
+stars today: 30
+
+jellyfin/jellyfin
+https://github.com/jellyfin/jellyfin
+The Free Software Media System - Server Backend & API
+language: C#
+stars: 41,884
+forked: 3,753
+stars today: 41
+
+rasbt/LLMs-from-scratch
+https://github.com/rasbt/LLMs-from-scratch
+Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+language: Jupyter Notebook
+stars: 61,429
+forked: 8,654
+stars today: 362
+
+LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird
+Truly independent web browser
+language: C++
+stars: 46,328
+forked: 1,989
+stars today: 128
+
+sst/opencode
+https://github.com/sst/opencode
+AI coding agent, built for the terminal.
+language: Go
+stars: 16,828
+forked: 1,048
+stars today: 282
+
+TideDra/zotero-arxiv-daily
+https://github.com/TideDra/zotero-arxiv-daily
+Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+language: Python
+stars: 2,694
+forked: 2,356
+stars today: 50
+
+TandoorRecipes/recipes
+https://github.com/TandoorRecipes/recipes
+Application for managing recipes, planning meals, building shopping lists and much much more!
+language: HTML
+stars: 7,015
+forked: 675
+stars today: 50
+
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+language: TypeScript
+stars: 4,885
+forked: 382
+stars today: 291
+
+reflex-dev/reflex
+https://github.com/reflex-dev/reflex
+🕸️ Web apps in pure Python 🐍
+language: Python
+stars: 24,155
+forked: 1,415
+stars today: 165
+
+flydelabs/flyde
+https://github.com/flydelabs/flyde
+Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
+language: TypeScript
+stars: 3,065
+forked: 127
+stars today: 172
+
+pointfreeco/swift-composable-architecture
+https://github.com/pointfreeco/swift-composable-architecture
+A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+language: Swift
+stars: 13,697
+forked: 1,562
+stars today: 63
