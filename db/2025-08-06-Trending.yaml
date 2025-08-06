@@ -1,0 +1,103 @@
+dyad-sh/dyad
+https://github.com/dyad-sh/dyad
+Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+language: TypeScript
+stars: 9,262
+forked: 907
+stars today: 2,004
+
+reflex-dev/reflex
+https://github.com/reflex-dev/reflex
+🕸️ Web apps in pure Python 🐍
+language: Python
+stars: 25,058
+forked: 1,470
+stars today: 479
+
+ethereum/solidity
+https://github.com/ethereum/solidity
+Solidity, the Smart Contract Programming Language
+language: C++
+stars: 24,781
+forked: 6,141
+stars today: 21
+
+microsoft/mcp-for-beginners
+https://github.com/microsoft/mcp-for-beginners
+This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+language: Python
+stars: 7,148
+forked: 1,929
+stars today: 420
+
+simstudioai/sim
+https://github.com/simstudioai/sim
+Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+language: TypeScript
+stars: 6,590
+forked: 893
+stars today: 120
+
+actualbudget/actual
+https://github.com/actualbudget/actual
+A local-first personal finance app
+language: TypeScript
+stars: 21,146
+forked: 1,700
+stars today: 364
+
+pointfreeco/swift-composable-architecture
+https://github.com/pointfreeco/swift-composable-architecture
+A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+language: Swift
+stars: 13,767
+forked: 1,569
+stars today: 26
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 359,888
+forked: 37,751
+stars today: 331
+
+hashcat/hashcat
+https://github.com/hashcat/hashcat
+World's fastest and most advanced password recovery utility
+language: C
+stars: 23,658
+forked: 3,162
+stars today: 159
+
+TideDra/zotero-arxiv-daily
+https://github.com/TideDra/zotero-arxiv-daily
+Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+language: Python
+stars: 2,982
+forked: 2,469
+stars today: 65
+
+huiyadanli/RevokeMsgPatcher
+https://github.com/huiyadanli/RevokeMsgPatcher
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+language: C#
+stars: 33,822
+forked: 3,727
+stars today: 50
+
+wg-easy/wg-easy
+https://github.com/wg-easy/wg-easy
+The easiest way to run WireGuard VPN + Web-based Admin UI.
+language: TypeScript
+stars: 21,827
+forked: 2,040
+stars today: 388
+
+thewh1teagle/vibe
+https://github.com/thewh1teagle/vibe
+Transcribe on your own!
+language: TypeScript
+stars: 3,425
+forked: 201
+stars today: 50
