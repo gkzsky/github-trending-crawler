@@ -1,0 +1,127 @@
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 11,773
+forked: 1,336
+stars today: 218
+
+dyad-sh/dyad
+https://github.com/dyad-sh/dyad
+Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+language: TypeScript
+stars: 10,846
+forked: 1,011
+stars today: 1,997
+
+simstudioai/sim
+https://github.com/simstudioai/sim
+Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+language: TypeScript
+stars: 6,839
+forked: 910
+stars today: 237
+
+browserbase/stagehand
+https://github.com/browserbase/stagehand
+The AI Browser Automation Framework
+language: TypeScript
+stars: 15,354
+forked: 922
+stars today: 163
+
+python-poetry/poetry
+https://github.com/python-poetry/poetry
+Python packaging and dependency management made easy
+language: Python
+stars: 33,631
+forked: 2,365
+stars today: 25
+
+blakeblackshear/frigate
+https://github.com/blakeblackshear/frigate
+NVR with realtime local object detection for IP cameras
+language: TypeScript
+stars: 24,736
+forked: 2,290
+stars today: 180
+
+ethereum/solidity
+https://github.com/ethereum/solidity
+Solidity, the Smart Contract Programming Language
+language: C++
+stars: 24,862
+forked: 6,145
+stars today: 123
+
+openssl/openssl
+https://github.com/openssl/openssl
+TLS/SSL and crypto library
+language: C
+stars: 28,231
+forked: 10,758
+stars today: 105
+
+themactep/thingino-firmware
+https://github.com/themactep/thingino-firmware
+Open-source firmware for Ingenic SoC IP cameras
+language: Shell
+stars: 975
+forked: 126
+stars today: 82
+
+dstotijn/hetty
+https://github.com/dstotijn/hetty
+An HTTP toolkit for security research.
+language: Go
+stars: 7,808
+forked: 434
+stars today: 103
+
+MaaAssistantArknights/MaaAssistantArknights
+https://github.com/MaaAssistantArknights/MaaAssistantArknights
+《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+language: C++
+stars: 17,398
+forked: 2,252
+stars today: 38
+
+JetBrains/intellij-community
+https://github.com/JetBrains/intellij-community
+IntelliJ IDEA & IntelliJ Platform
+language: Java
+stars: 18,536
+forked: 5,499
+stars today: 23
+
+open-edge-platform/anomalib
+https://github.com/open-edge-platform/anomalib
+An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
+language: Python
+stars: 4,708
+forked: 787
+stars today: 17
+
+confident-ai/deepeval
+https://github.com/confident-ai/deepeval
+The LLM Evaluation Framework
+language: Python
+stars: 9,939
+forked: 861
+stars today: 46
+
+prisma/prisma
+https://github.com/prisma/prisma
+Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+language: TypeScript
+stars: 43,203
+forked: 1,822
+stars today: 31
+
+openai/openai-cookbook
+https://github.com/openai/openai-cookbook
+Examples and guides for using the OpenAI API
+language: Jupyter Notebook
+stars: 66,068
+forked: 10,974
+stars today: 113
