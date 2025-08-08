@@ -1,0 +1,111 @@
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 12,730
+forked: 1,395
+stars today: 1,894
+
+browserbase/stagehand
+https://github.com/browserbase/stagehand
+The AI Browser Automation Framework
+language: TypeScript
+stars: 15,698
+forked: 938
+stars today: 354
+
+lvgl/lvgl
+https://github.com/lvgl/lvgl
+Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+language: C
+stars: 20,634
+forked: 3,761
+stars today: 42
+
+vllm-project/vllm
+https://github.com/vllm-project/vllm
+A high-throughput and memory-efficient inference and serving engine for LLMs
+language: Python
+stars: 54,452
+forked: 9,222
+stars today: 154
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 149,402
+forked: 12,741
+stars today: 242
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 17,769
+forked: 828
+stars today: 85
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 62,977
+forked: 2,160
+stars today: 89
+
+ethereum/solidity
+https://github.com/ethereum/solidity
+Solidity, the Smart Contract Programming Language
+language: C++
+stars: 24,918
+forked: 6,149
+stars today: 69
+
+simstudioai/sim
+https://github.com/simstudioai/sim
+Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+language: TypeScript
+stars: 7,042
+forked: 930
+stars today: 263
+
+openai/openai-cookbook
+https://github.com/openai/openai-cookbook
+Examples and guides for using the OpenAI API
+language: Jupyter Notebook
+stars: 66,348
+forked: 11,011
+stars today: 315
+
+prisma/prisma
+https://github.com/prisma/prisma
+Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+language: TypeScript
+stars: 43,374
+forked: 1,828
+stars today: 230
+
+xiaoyaocz/dart_simple_live
+https://github.com/xiaoyaocz/dart_simple_live
+简简单单的看直播
+language: Dart
+stars: 11,874
+forked: 787
+stars today: 42
+
+datawhalechina/self-llm
+https://github.com/datawhalechina/self-llm
+《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+language: Jupyter Notebook
+stars: 22,662
+forked: 2,286
+stars today: 87
+
+dotnet/efcore
+https://github.com/dotnet/efcore
+EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+language: C#
+stars: 14,284
+forked: 3,289
+stars today: 7
