@@ -1,0 +1,103 @@
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 13,123
+forked: 1,426
+stars today: 499
+
+openai/openai-cookbook
+https://github.com/openai/openai-cookbook
+Examples and guides for using the OpenAI API
+language: Jupyter Notebook
+stars: 66,631
+forked: 11,039
+stars today: 331
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 32,908
+forked: 3,817
+stars today: 569
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 17,925
+forked: 832
+stars today: 197
+
+FFmpeg/asm-lessons
+https://github.com/FFmpeg/asm-lessons
+FFMPEG Assembly Language Lessons
+language: -
+stars: 7,749
+forked: 225
+stars today: 443
+
+polarsource/polar
+https://github.com/polarsource/polar
+An open source engine for your digital products. Sell SaaS and digital products in minutes.
+language: Python
+stars: 6,168
+forked: 387
+stars today: 71
+
+python-poetry/poetry
+https://github.com/python-poetry/poetry
+Python packaging and dependency management made easy
+language: Python
+stars: 33,766
+forked: 2,368
+stars today: 25
+
+google/adk-python
+https://github.com/google/adk-python
+An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+language: Python
+stars: 11,858
+forked: 1,646
+stars today: 89
+
+browserbase/stagehand
+https://github.com/browserbase/stagehand
+The AI Browser Automation Framework
+language: TypeScript
+stars: 15,916
+forked: 951
+stars today: 311
+
+e2b-dev/awesome-ai-agents
+https://github.com/e2b-dev/awesome-ai-agents
+A list of AI autonomous agents
+language: -
+stars: 20,715
+forked: 1,650
+stars today: 96
+
+backstage/backstage
+https://github.com/backstage/backstage
+Backstage is an open framework for building developer portals
+language: TypeScript
+stars: 31,031
+forked: 6,716
+stars today: 29
+
+google/adk-samples
+https://github.com/google/adk-samples
+A collection of sample agents built with Agent Development (ADK)
+language: Python
+stars: 4,287
+forked: 1,226
+stars today: 66
+
+openai/openai-python
+https://github.com/openai/openai-python
+The official Python library for the OpenAI API
+language: Python
+stars: 27,893
+forked: 4,139
+stars today: 64

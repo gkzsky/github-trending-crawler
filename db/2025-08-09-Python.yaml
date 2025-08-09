@@ -1,0 +1,87 @@
+polarsource/polar
+https://github.com/polarsource/polar
+An open source engine for your digital products. Sell SaaS and digital products in minutes.
+language: Python
+stars: 6,168
+forked: 387
+stars today: 71
+
+python-poetry/poetry
+https://github.com/python-poetry/poetry
+Python packaging and dependency management made easy
+language: Python
+stars: 33,766
+forked: 2,368
+stars today: 25
+
+google/adk-python
+https://github.com/google/adk-python
+An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+language: Python
+stars: 11,858
+forked: 1,646
+stars today: 89
+
+google/adk-samples
+https://github.com/google/adk-samples
+A collection of sample agents built with Agent Development (ADK)
+language: Python
+stars: 4,287
+forked: 1,226
+stars today: 66
+
+openai/openai-python
+https://github.com/openai/openai-python
+The official Python library for the OpenAI API
+language: Python
+stars: 27,893
+forked: 4,139
+stars today: 64
+
+Azure-Samples/azure-search-openai-demo
+https://github.com/Azure-Samples/azure-search-openai-demo
+A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+language: Python
+stars: 7,205
+forked: 4,903
+stars today: 8
+
+hao-ai-lab/FastVideo
+https://github.com/hao-ai-lab/FastVideo
+A unified inference and post-training framework for accelerated video generation.
+language: Python
+stars: 1,849
+forked: 126
+stars today: 19
+
+unslothai/unsloth
+https://github.com/unslothai/unsloth
+Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+language: Python
+stars: 43,569
+forked: 3,499
+stars today: 102
+
+roboflow/rf-detr
+https://github.com/roboflow/rf-detr
+RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+language: Python
+stars: 2,689
+forked: 300
+stars today: 5
+
+BerriAI/litellm
+https://github.com/BerriAI/litellm
+Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+language: Python
+stars: 27,101
+forked: 3,760
+stars today: 72
+
+pytorch/pytorch
+https://github.com/pytorch/pytorch
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+language: Python
+stars: 92,217
+forked: 24,898
+stars today: 38
