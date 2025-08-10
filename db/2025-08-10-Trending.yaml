@@ -1,0 +1,111 @@
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 33,440
+forked: 3,863
+stars today: 616
+
+xiaoyaocz/dart_simple_live
+https://github.com/xiaoyaocz/dart_simple_live
+简简单单的看直播
+language: Dart
+stars: 12,015
+forked: 851
+stars today: 26
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 13,363
+forked: 1,438
+stars today: 302
+
+nomic-ai/gpt4all
+https://github.com/nomic-ai/gpt4all
+GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+language: C++
+stars: 74,090
+forked: 8,079
+stars today: 24
+
+polarsource/polar
+https://github.com/polarsource/polar
+An open source engine for your digital products. Sell SaaS and digital products in minutes.
+language: Python
+stars: 6,426
+forked: 400
+stars today: 273
+
+exo-explore/exo
+https://github.com/exo-explore/exo
+Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+language: Python
+stars: 29,584
+forked: 1,894
+stars today: 71
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 4,171
+forked: 112
+stars today: 112
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: Python
+stars: 2,954
+forked: 275
+stars today: 137
+
+libsdl-org/SDL
+https://github.com/libsdl-org/SDL
+Simple Directmedia Layer
+language: C
+stars: 13,053
+forked: 2,292
+stars today: 14
+
+sinaptik-ai/pandas-ai
+https://github.com/sinaptik-ai/pandas-ai
+Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+language: Python
+stars: 21,624
+forked: 2,096
+stars today: 144
+
+openai/openai-python
+https://github.com/openai/openai-python
+The official Python library for the OpenAI API
+language: Python
+stars: 28,178
+forked: 4,156
+stars today: 361
+
+tadata-org/fastapi_mcp
+https://github.com/tadata-org/fastapi_mcp
+Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+language: Python
+stars: 7,129
+forked: 585
+stars today: 114
+
+datawhalechina/self-llm
+https://github.com/datawhalechina/self-llm
+《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+language: Jupyter Notebook
+stars: 22,891
+forked: 2,306
+stars today: 43
+
+zumerlab/snapdom
+https://github.com/zumerlab/snapdom
+snapDOM captures HTML elements to images with exceptional speed and accuracy.
+language: JavaScript
+stars: 4,983
+forked: 162
+stars today: 59

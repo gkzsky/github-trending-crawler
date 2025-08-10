@@ -1,0 +1,175 @@
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 33,440
+forked: 3,863
+stars today: 616
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 13,363
+forked: 1,438
+stars today: 302
+
+shshemi/tabiew
+https://github.com/shshemi/tabiew
+A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
+language: Rust
+stars: 1,971
+forked: 55
+stars today: 53
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 19,356
+forked: 738
+stars today: 9
+
+lencx/ChatGPT
+https://github.com/lencx/ChatGPT
+🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+language: Rust
+stars: 53,988
+forked: 6,145
+stars today: 12
+
+risingwavelabs/risingwave
+https://github.com/risingwavelabs/risingwave
+Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
+language: Rust
+stars: 8,221
+forked: 666
+stars today: 2
+
+libp2p/rust-libp2p
+https://github.com/libp2p/rust-libp2p
+The Rust Implementation of the libp2p networking stack.
+language: Rust
+stars: 5,110
+forked: 1,105
+stars today: 8
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 64,255
+forked: 1,869
+stars today: 116
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 29,885
+forked: 1,003
+stars today: 22
+
+esp-rs/esp-hal
+https://github.com/esp-rs/esp-hal
+no_std Hardware Abstraction Layers for ESP32 microcontrollers
+language: Rust
+stars: 1,319
+forked: 309
+stars today: 5
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 4,691
+forked: 522
+stars today: 5
+
+bluealloy/revm
+https://github.com/bluealloy/revm
+Rust implementation of the Ethereum Virtual Machine.
+language: Rust
+stars: 1,938
+forked: 768
+stars today: 4
+
+guidance-ai/llguidance
+https://github.com/guidance-ai/llguidance
+Super-fast Structured Outputs
+language: Rust
+stars: 393
+forked: 33
+stars today: 17
+
+apache/arrow-rs
+https://github.com/apache/arrow-rs
+Official Rust implementation of Apache Arrow
+language: Rust
+stars: 3,085
+forked: 988
+stars today: 5
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,253
+forked: 1,130
+stars today: 10
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 105,634
+forked: 13,626
+stars today: 33
+
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 28,092
+forked: 1,858
+stars today: 18
+
+zellij-org/zellij
+https://github.com/zellij-org/zellij
+A terminal workspace with batteries included
+language: Rust
+stars: 25,633
+forked: 785
+stars today: 21
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,261
+forked: 2,078
+stars today: 7
+
+op-rs/kona
+https://github.com/op-rs/kona
+Monorepo for OP Stack Types, Components, and Services built in Rust.
+language: Rust
+stars: 239
+forked: 124
+stars today: 2
+
+facebook/relay
+https://github.com/facebook/relay
+Relay is a JavaScript framework for building data-driven React applications.
+language: Rust
+stars: 18,809
+forked: 1,863
+stars today: 1
+
+SeaQL/sea-orm
+https://github.com/SeaQL/sea-orm
+🐚 An async & dynamic ORM for Rust
+language: Rust
+stars: 8,572
+forked: 599
+stars today: 6

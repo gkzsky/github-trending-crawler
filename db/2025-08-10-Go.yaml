@@ -1,0 +1,167 @@
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 4,171
+forked: 112
+stars today: 112
+
+gotify/server
+https://github.com/gotify/server
+A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+language: Go
+stars: 13,428
+forked: 738
+stars today: 128
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 63,282
+forked: 2,174
+stars today: 97
+
+openai/openai-go
+https://github.com/openai/openai-go
+The official Go library for the OpenAI API
+language: Go
+stars: 2,182
+forked: 182
+stars today: 13
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 17,996
+forked: 838
+stars today: 116
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 7,446
+forked: 689
+stars today: 5
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,484
+forked: 1,699
+stars today: 4
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,323
+forked: 7,299
+stars today: 6
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,309
+forked: 6,256
+stars today: 7
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 19,899
+forked: 892
+stars today: 10
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 6,018
+forked: 1,217
+stars today: 4
+
+fullstorydev/grpcurl
+https://github.com/fullstorydev/grpcurl
+Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+language: Go
+stars: 11,907
+forked: 539
+stars today: 11
+
+RezaSi/go-interview-practice
+https://github.com/RezaSi/go-interview-practice
+Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
+language: Go
+stars: 825
+forked: 346
+stars today: 30
+
+sashabaranov/go-openai
+https://github.com/sashabaranov/go-openai
+OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+language: Go
+stars: 10,226
+forked: 1,647
+stars today: 3
+
+maximhq/bifrost
+https://github.com/maximhq/bifrost
+The Fastest LLM Gateway with built in OTel observability and MCP gateway
+language: Go
+stars: 414
+forked: 28
+stars today: 32
+
+shirou/gopsutil
+https://github.com/shirou/gopsutil
+psutil for golang
+language: Go
+stars: 11,370
+forked: 1,629
+stars today: 4
+
+ray-project/kuberay
+https://github.com/ray-project/kuberay
+A toolkit to run Ray applications on Kubernetes
+language: Go
+stars: 1,962
+forked: 590
+stars today: 8
+
+containers/kubernetes-mcp-server
+https://github.com/containers/kubernetes-mcp-server
+Model Context Protocol (MCP) server for Kubernetes and OpenShift
+language: Go
+stars: 461
+forked: 86
+stars today: 3
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open device management
+language: Go
+stars: 5,359
+forked: 639
+stars today: 4
+
+kubernetes-sigs/controller-runtime
+https://github.com/kubernetes-sigs/controller-runtime
+Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+language: Go
+stars: 2,769
+forked: 1,218
+stars today: 0
+
+cilium/cilium
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+language: Go
+stars: 22,204
+forked: 3,349
+stars today: 9
