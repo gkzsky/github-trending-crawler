@@ -1,0 +1,103 @@
+umami-software/umami
+https://github.com/umami-software/umami
+Umami is a modern, privacy-focused alternative to Google Analytics.
+language: TypeScript
+stars: 28,647
+forked: 5,327
+stars today: 202
+
+libsdl-org/SDL
+https://github.com/libsdl-org/SDL
+Simple Directmedia Layer
+language: C
+stars: 13,151
+forked: 2,294
+stars today: 80
+
+menloresearch/jan
+https://github.com/menloresearch/jan
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+language: TypeScript
+stars: 35,946
+forked: 2,107
+stars today: 331
+
+nomic-ai/gpt4all
+https://github.com/nomic-ai/gpt4all
+GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+language: C++
+stars: 74,299
+forked: 8,090
+stars today: 169
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 33,991
+forked: 3,904
+stars today: 497
+
+RSSNext/Folo
+https://github.com/RSSNext/Folo
+🧡 Follow everything in one place
+language: TypeScript
+stars: 30,992
+forked: 1,401
+stars today: 63
+
+polarsource/polar
+https://github.com/polarsource/polar
+An open source engine for your digital products. Sell SaaS and digital products in minutes.
+language: Python
+stars: 6,698
+forked: 409
+stars today: 230
+
+fastapi/full-stack-fastapi-template
+https://github.com/fastapi/full-stack-fastapi-template
+Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+language: TypeScript
+stars: 35,583
+forked: 6,817
+stars today: 93
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Kotlin
+stars: 55,132
+forked: 14,702
+stars today: 40
+
+idosal/git-mcp
+https://github.com/idosal/git-mcp
+Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+language: TypeScript
+stars: 4,443
+forked: 325
+stars today: 117
+
+binhnguyennus/awesome-scalability
+https://github.com/binhnguyennus/awesome-scalability
+The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+language: -
+stars: 64,159
+forked: 6,531
+stars today: 93
+
+openai/openai-node
+https://github.com/openai/openai-node
+Official JavaScript / TypeScript library for the OpenAI API
+language: TypeScript
+stars: 9,840
+forked: 1,185
+stars today: 55
+
+xiaoyaocz/dart_simple_live
+https://github.com/xiaoyaocz/dart_simple_live
+简简单单的看直播
+language: Dart
+stars: 12,160
+forked: 901
+stars today: 116

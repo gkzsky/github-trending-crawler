@@ -1,0 +1,167 @@
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 33,991
+forked: 3,904
+stars today: 497
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 15,928
+forked: 612
+stars today: 63
+
+shshemi/tabiew
+https://github.com/shshemi/tabiew
+A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
+language: Rust
+stars: 1,998
+forked: 55
+stars today: 34
+
+SoundnessLabs/soundness-layer
+https://github.com/SoundnessLabs/soundness-layer
+Soundness Layer is a decentralized verification layer built on Walrus and Sui.
+language: Rust
+stars: 306
+forked: 761
+stars today: 11
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 5,406
+forked: 707
+stars today: 3
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 64,328
+forked: 1,871
+stars today: 90
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,306
+forked: 1,346
+stars today: 17
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 10,268
+forked: 379
+stars today: 42
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,265
+forked: 2,080
+stars today: 8
+
+rust-lang/cargo
+https://github.com/rust-lang/cargo
+The Rust package manager
+language: Rust
+stars: 13,869
+forked: 2,618
+stars today: 5
+
+H-M-H/Weylus
+https://github.com/H-M-H/Weylus
+Use your tablet as graphic tablet/touch screen on your computer.
+language: Rust
+stars: 8,120
+forked: 318
+stars today: 6
+
+modrinth/code
+https://github.com/modrinth/code
+The Modrinth monorepo containing all code which powers Modrinth!
+language: Rust
+stars: 1,573
+forked: 311
+stars today: 3
+
+yewstack/yew
+https://github.com/yewstack/yew
+Rust / Wasm framework for creating reliable and efficient web applications
+language: Rust
+stars: 31,846
+forked: 1,442
+stars today: 3
+
+rust-lang/book
+https://github.com/rust-lang/book
+The Rust Programming Language
+language: Rust
+stars: 16,489
+forked: 3,735
+stars today: 5
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,336
+forked: 1,812
+stars today: 6
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 27,358
+forked: 582
+stars today: 22
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 59,869
+forked: 3,160
+stars today: 24
+
+ruffle-rs/ruffle
+https://github.com/ruffle-rs/ruffle
+A Flash Player emulator written in Rust
+language: Rust
+stars: 17,049
+forked: 906
+stars today: 10
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 40,941
+forked: 4,045
+stars today: 21
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,433
+forked: 845
+stars today: 6
+
+awslabs/llrt
+https://github.com/awslabs/llrt
+LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+language: Rust
+stars: 8,522
+forked: 376
+stars today: 6

@@ -1,0 +1,95 @@
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,221
+forked: 461
+stars today: 7
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 38,703
+forked: 3,591
+stars today: 11
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+language: Haskell
+stars: 2,824
+forked: 401
+stars today: 0
+
+zachjs/sv2v
+https://github.com/zachjs/sv2v
+SystemVerilog to Verilog conversion
+language: Haskell
+stars: 656
+forked: 58
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 205
+forked: 18
+stars today: 0
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,357
+forked: 332
+stars today: 0
+
+fuzzypixelz/hustle
+https://github.com/fuzzypixelz/hustle
+Haskell implementation of the KDL Document Language
+language: Haskell
+stars: 24
+forked: 3
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,137
+forked: 734
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 37,904
+forked: 1,845
+stars today: 9
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 645
+forked: 77
+stars today: 0
+
+channable/icepeak
+https://github.com/channable/icepeak
+Icepeak is a fast JSON document store with push notification support.
+language: Haskell
+stars: 132
+forked: 4
+stars today: 0
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,110
+forked: 210
+stars today: 1
