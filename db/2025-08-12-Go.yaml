@@ -1,0 +1,151 @@
+RezaSi/go-interview-practice
+https://github.com/RezaSi/go-interview-practice
+Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
+language: Go
+stars: 873
+forked: 361
+stars today: 15
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 97,228
+forked: 14,316
+stars today: 67
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 4,455
+forked: 118
+stars today: 117
+
+sundowndev/phoneinfoga
+https://github.com/sundowndev/phoneinfoga
+Information gathering framework for phone numbers
+language: Go
+stars: 14,789
+forked: 4,257
+stars today: 16
+
+lxc/incus
+https://github.com/lxc/incus
+Powerful system container and virtual machine manager
+language: Go
+stars: 3,950
+forked: 337
+stars today: 22
+
+e2b-dev/infra
+https://github.com/e2b-dev/infra
+Infrastructure for AI code interpreting that's powering E2B.
+language: Go
+stars: 585
+forked: 137
+stars today: 6
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 26,899
+forked: 1,015
+stars today: 49
+
+sammcj/gollama
+https://github.com/sammcj/gollama
+Go manage your Ollama models
+language: Go
+stars: 1,345
+forked: 74
+stars today: 18
+
+gtsteffaniak/filebrowser
+https://github.com/gtsteffaniak/filebrowser
+📂 Web File Browser
+language: Go
+stars: 3,086
+forked: 99
+stars today: 10
+
+Jguer/yay
+https://github.com/Jguer/yay
+Yet another Yogurt - An AUR Helper written in Go
+language: Go
+stars: 12,266
+forked: 379
+stars today: 5
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 29,608
+forked: 2,096
+stars today: 19
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 25,795
+forked: 3,032
+stars today: 23
+
+k8sgpt-ai/k8sgpt
+https://github.com/k8sgpt-ai/k8sgpt
+Giving Kubernetes Superpowers to everyone
+language: Go
+stars: 6,850
+forked: 852
+stars today: 6
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 49,822
+forked: 2,537
+stars today: 36
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 24,212
+forked: 1,947
+stars today: 18
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 10,626
+forked: 960
+stars today: 15
+
+apernet/hysteria
+https://github.com/apernet/hysteria
+Hysteria is a powerful, lightning fast and censorship resistant proxy.
+language: Go
+stars: 17,073
+forked: 1,870
+stars today: 14
+
+crossplane/crossplane
+https://github.com/crossplane/crossplane
+The Cloud Native Control Plane
+language: Go
+stars: 10,663
+forked: 1,058
+stars today: 23
+
+go-dev-frame/sponge
+https://github.com/go-dev-frame/sponge
+A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
+language: Go
+stars: 2,320
+forked: 217
+stars today: 16

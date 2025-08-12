@@ -1,0 +1,167 @@
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 34,417
+forked: 3,928
+stars today: 540
+
+SoundnessLabs/soundness-layer
+https://github.com/SoundnessLabs/soundness-layer
+Soundness Layer is a decentralized verification layer built on Walrus and Sui.
+language: Rust
+stars: 319
+forked: 770
+stars today: 13
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 5,175
+forked: 223
+stars today: 37
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 21,631
+forked: 1,994
+stars today: 16
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 10,292
+forked: 380
+stars today: 38
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 47,812
+forked: 2,252
+stars today: 43
+
+cloud-hypervisor/cloud-hypervisor
+https://github.com/cloud-hypervisor/cloud-hypervisor
+A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+language: Rust
+stars: 4,641
+forked: 509
+stars today: 9
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,322
+forked: 1,348
+stars today: 23
+
+ruffle-rs/ruffle
+https://github.com/ruffle-rs/ruffle
+A Flash Player emulator written in Rust
+language: Rust
+stars: 17,055
+forked: 906
+stars today: 12
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 50,422
+forked: 2,184
+stars today: 26
+
+kitao/pyxel
+https://github.com/kitao/pyxel
+A retro game engine for Python
+language: Rust
+stars: 16,555
+forked: 895
+stars today: 4
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,342
+forked: 1,811
+stars today: 9
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 27,394
+forked: 583
+stars today: 35
+
+unionlabs/union
+https://github.com/unionlabs/union
+The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+language: Rust
+stars: 73,925
+forked: 3,793
+stars today: 64
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso Database is a project to build the next evolution of SQLite.
+language: Rust
+stars: 12,774
+forked: 507
+stars today: 20
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 4,622
+forked: 562
+stars today: 3
+
+rust-lang/book
+https://github.com/rust-lang/book
+The Rust Programming Language
+language: Rust
+stars: 16,496
+forked: 3,736
+stars today: 7
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 34,837
+forked: 2,345
+stars today: 18
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 40,969
+forked: 4,046
+stars today: 17
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 18,235
+forked: 598
+stars today: 25
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing.
+language: Rust
+stars: 2,490
+forked: 163
+stars today: 30

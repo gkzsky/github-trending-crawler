@@ -1,0 +1,111 @@
+tadata-org/fastapi_mcp
+https://github.com/tadata-org/fastapi_mcp
+Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+language: Python
+stars: 7,524
+forked: 610
+stars today: 93
+
+trailofbits/buttercup
+https://github.com/trailofbits/buttercup
+-
+language: Python
+stars: 555
+forked: 59
+stars today: 94
+
+denizsafak/abogen
+https://github.com/denizsafak/abogen
+Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+language: Python
+stars: 1,989
+forked: 98
+stars today: 534
+
+instaloader/instaloader
+https://github.com/instaloader/instaloader
+Download pictures (or videos) along with their captions and other metadata from Instagram.
+language: Python
+stars: 10,393
+forked: 1,356
+stars today: 37
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: Python
+stars: 3,265
+forked: 327
+stars today: 136
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 315,394
+forked: 51,736
+stars today: 308
+
+omkarcloud/botasaurus
+https://github.com/omkarcloud/botasaurus
+The All in One Framework to Build Undefeatable Scrapers
+language: Python
+stars: 2,648
+forked: 232
+stars today: 65
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 16,599
+forked: 1,440
+stars today: 175
+
+mindverse/Second-Me
+https://github.com/mindverse/Second-Me
+Train your AI self, amplify you, bridge the world
+language: Python
+stars: 13,923
+forked: 1,031
+stars today: 28
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 122,081
+forked: 9,706
+stars today: 144
+
+hesreallyhim/awesome-claude-code
+https://github.com/hesreallyhim/awesome-claude-code
+A curated list of awesome commands, files, and workflows for Claude Code
+language: Python
+stars: 10,037
+forked: 547
+stars today: 198
+
+mikf/gallery-dl
+https://github.com/mikf/gallery-dl
+Command-line program to download image galleries and collections from several image hosting sites
+language: Python
+stars: 14,867
+forked: 1,180
+stars today: 19
+
+kovidgoyal/kitty
+https://github.com/kovidgoyal/kitty
+Cross-platform, fast, feature-rich, GPU based terminal
+language: Python
+stars: 28,459
+forked: 1,113
+stars today: 14
+
+inventree/InvenTree
+https://github.com/inventree/InvenTree
+Open Source Inventory Management System
+language: Python
+stars: 5,292
+forked: 1,013
+stars today: 8
