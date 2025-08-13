@@ -1,0 +1,159 @@
+antinomyhq/forge
+https://github.com/antinomyhq/forge
+AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+language: Rust
+stars: 4,048
+forked: 1,202
+stars today: 15
+
+rathole-org/rathole
+https://github.com/rathole-org/rathole
+A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+language: Rust
+stars: 11,349
+forked: 596
+stars today: 32
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 103,846
+forked: 5,686
+stars today: 12
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 14,443
+forked: 449
+stars today: 67
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 5,208
+forked: 224
+stars today: 43
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 29,026
+forked: 2,014
+stars today: 18
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 4,877
+forked: 1,785
+stars today: 12
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 64,557
+forked: 1,877
+stars today: 107
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 34,677
+forked: 3,960
+stars today: 389
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,731
+forked: 1,476
+stars today: 5
+
+rust-lang/cargo
+https://github.com/rust-lang/cargo
+The Rust package manager
+language: Rust
+stars: 13,878
+forked: 2,623
+stars today: 3
+
+wezterm/wezterm
+https://github.com/wezterm/wezterm
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+language: Rust
+stars: 21,408
+forked: 973
+stars today: 19
+
+mainmatter/100-exercises-to-learn-rust
+https://github.com/mainmatter/100-exercises-to-learn-rust
+A self-paced course to learn Rust, one exercise at a time.
+language: Rust
+stars: 8,133
+forked: 1,660
+stars today: 4
+
+idootop/open-xiaoai
+https://github.com/idootop/open-xiaoai
+让小爱音箱「听见你的声音」，解锁无限可能。
+language: Rust
+stars: 744
+forked: 73
+stars today: 6
+
+starkware-libs/cairo
+https://github.com/starkware-libs/cairo
+Cairo is the first Turing-complete language for creating provable programs for general computation.
+language: Rust
+stars: 1,786
+forked: 617
+stars today: 1
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 39,329
+forked: 2,991
+stars today: 28
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Sealevel Framework
+language: Rust
+stars: 4,516
+forked: 1,642
+stars today: 5
+
+BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+language: Rust
+stars: 54,351
+forked: 2,210
+stars today: 30
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,337
+forked: 1,348
+stars today: 15
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,347
+forked: 1,811
+stars today: 7

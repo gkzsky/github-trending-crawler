@@ -1,0 +1,159 @@
+songquanpeng/one-api
+https://github.com/songquanpeng/one-api
+LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+language: JavaScript
+stars: 26,677
+forked: 5,347
+stars today: 25
+
+microsoft/Web-Dev-For-Beginners
+https://github.com/microsoft/Web-Dev-For-Beginners
+24 Lessons, 12 Weeks, Get Started as a Web Developer
+language: JavaScript
+stars: 91,258
+forked: 13,847
+stars today: 78
+
+louislam/uptime-kuma
+https://github.com/louislam/uptime-kuma
+A fancy self-hosted monitoring tool
+language: JavaScript
+stars: 73,133
+forked: 6,503
+stars today: 59
+
+eyaltoledano/claude-task-master
+https://github.com/eyaltoledano/claude-task-master
+An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+language: JavaScript
+stars: 20,438
+forked: 2,003
+stars today: 74
+
+webpack/webpack
+https://github.com/webpack/webpack
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+language: JavaScript
+stars: 65,470
+forked: 9,090
+stars today: 2
+
+dequelabs/axe-core
+https://github.com/dequelabs/axe-core
+Accessibility engine for automated Web UI testing
+language: JavaScript
+stars: 6,546
+forked: 837
+stars today: 4
+
+vercel/next.js
+https://github.com/vercel/next.js
+The React Framework
+language: JavaScript
+stars: 133,754
+forked: 29,051
+stars today: 30
+
+fishjar/kiss-translator
+https://github.com/fishjar/kiss-translator
+A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+language: JavaScript
+stars: 6,641
+forked: 243
+stars today: 200
+
+ethereumbook/ethereumbook
+https://github.com/ethereumbook/ethereumbook
+Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+language: JavaScript
+stars: 20,720
+forked: 5,099
+stars today: 7
+
+lint-staged/lint-staged
+https://github.com/lint-staged/lint-staged
+🚫💩 — Run tasks like formatters and linters against staged git files
+language: JavaScript
+stars: 14,079
+forked: 449
+stars today: 4
+
+DefiLlama/chainlist
+https://github.com/DefiLlama/chainlist
+-
+language: JavaScript
+stars: 2,697
+forked: 2,874
+stars today: 3
+
+adrianhajdin/react-movies
+https://github.com/adrianhajdin/react-movies
+Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
+language: JavaScript
+stars: 1,367
+forked: 116
+stars today: 10
+
+gaotianliuyun/gao
+https://github.com/gaotianliuyun/gao
+FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+language: JavaScript
+stars: 6,752
+forked: 2,526
+stars today: 8
+
+f/awesome-chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts
+This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+language: JavaScript
+stars: 132,431
+forked: 17,570
+stars today: 75
+
+pinojs/pino
+https://github.com/pinojs/pino
+🌲 super fast, all natural json logger
+language: JavaScript
+stars: 15,940
+forked: 917
+stars today: 6
+
+crocodilestick/Calibre-Web-Automated
+https://github.com/crocodilestick/Calibre-Web-Automated
+Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
+language: JavaScript
+stars: 3,307
+forked: 153
+stars today: 9
+
+bchiang7/v4
+https://github.com/bchiang7/v4
+Fourth iteration of my personal website built with Gatsby
+language: JavaScript
+stars: 8,012
+forked: 4,117
+stars today: 3
+
+iancoleman/bip39
+https://github.com/iancoleman/bip39
+A web tool for converting BIP39 mnemonic codes
+language: JavaScript
+stars: 3,916
+forked: 1,557
+stars today: 2
+
+jquery/jquery
+https://github.com/jquery/jquery
+jQuery JavaScript Library
+language: JavaScript
+stars: 59,543
+forked: 20,557
+stars today: 0
+
+advplyr/audiobookshelf
+https://github.com/advplyr/audiobookshelf
+Self-hosted audiobook and podcast server
+language: JavaScript
+stars: 9,696
+forked: 669
+stars today: 6
