@@ -1,0 +1,135 @@
+apple/embedding-atlas
+https://github.com/apple/embedding-atlas
+Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+language: TypeScript
+stars: 1,933
+forked: 89
+stars today: 542
+
+jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet
+Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+language: TypeScript
+stars: 26,386
+forked: 7,344
+stars today: 37
+
+menloresearch/jan
+https://github.com/menloresearch/jan
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+language: TypeScript
+stars: 36,774
+forked: 2,148
+stars today: 244
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+language: TypeScript
+stars: 16,082
+forked: 1,432
+stars today: 207
+
+microsoft/poml
+https://github.com/microsoft/poml
+Prompt Orchestration Markup Language
+language: TypeScript
+stars: 1,669
+forked: 53
+stars today: 755
+
+fastapi/full-stack-fastapi-template
+https://github.com/fastapi/full-stack-fastapi-template
+Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+language: TypeScript
+stars: 36,560
+forked: 6,931
+stars today: 339
+
+huggingface/aisheets
+https://github.com/huggingface/aisheets
+Build, enrich, and transform datasets using AI models with no code
+language: TypeScript
+stars: 417
+forked: 29
+stars today: 67
+
+idosal/git-mcp
+https://github.com/idosal/git-mcp
+Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+language: TypeScript
+stars: 5,069
+forked: 373
+stars today: 149
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 26,407
+forked: 19,042
+stars today: 11
+
+RocketChat/Rocket.Chat
+https://github.com/RocketChat/Rocket.Chat
+The communications platform that puts data protection first.
+language: TypeScript
+stars: 43,190
+forked: 12,059
+stars today: 9
+
+midday-ai/midday
+https://github.com/midday-ai/midday
+Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+language: TypeScript
+stars: 10,405
+forked: 949
+stars today: 262
+
+actions/checkout
+https://github.com/actions/checkout
+Action for checking out a repo
+language: TypeScript
+stars: 6,882
+forked: 2,104
+stars today: 75
+
+novuhq/novu
+https://github.com/novuhq/novu
+The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+language: TypeScript
+stars: 37,531
+forked: 4,098
+stars today: 91
+
+nocobase/nocobase
+https://github.com/nocobase/nocobase
+NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+language: TypeScript
+stars: 16,374
+forked: 1,854
+stars today: 17
+
+microsoft/data-formulator
+https://github.com/microsoft/data-formulator
+🪄 Create rich visualizations with AI
+language: TypeScript
+stars: 12,969
+forked: 1,076
+stars today: 151
+
+modelcontextprotocol/inspector
+https://github.com/modelcontextprotocol/inspector
+Visual testing tool for MCP servers
+language: TypeScript
+stars: 5,667
+forked: 716
+stars today: 32
+
+mendableai/firecrawl
+https://github.com/mendableai/firecrawl
+🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+language: TypeScript
+stars: 47,551
+forked: 4,282
+stars today: 379

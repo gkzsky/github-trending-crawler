@@ -1,0 +1,191 @@
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,388
+forked: 989
+stars today: 2
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 18,651
+forked: 1,593
+stars today: 58
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing.
+language: Rust
+stars: 2,551
+forked: 167
+stars today: 36
+
+BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+language: Rust
+stars: 54,363
+forked: 2,212
+stars today: 13
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 18,299
+forked: 600
+stars today: 24
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,419
+forked: 242
+stars today: 5
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 21,662
+forked: 2,001
+stars today: 19
+
+rathole-org/rathole
+https://github.com/rathole-org/rathole
+A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+language: Rust
+stars: 11,383
+forked: 599
+stars today: 55
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,264
+forked: 11,579
+stars today: 1
+
+succinctlabs/sp1
+https://github.com/succinctlabs/sp1
+SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
+language: Rust
+stars: 1,454
+forked: 564
+stars today: 6
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 27,460
+forked: 582
+stars today: 30
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,207
+forked: 432
+stars today: 8
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 34,877
+forked: 2,347
+stars today: 20
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,312
+forked: 5,086
+stars today: 4
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 41,014
+forked: 4,056
+stars today: 23
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,330
+forked: 3,803
+stars today: 2
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,618
+forked: 1,595
+stars today: 2
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 9,315
+forked: 478
+stars today: 10
+
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 384
+forked: 23
+stars today: 65
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 5,246
+forked: 225
+stars today: 45
+
+robbert-vdh/nih-plug
+https://github.com/robbert-vdh/nih-plug
+Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
+language: Rust
+stars: 2,283
+forked: 189
+stars today: 16
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 29,973
+forked: 1,249
+stars today: 18
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 53,880
+forked: 1,322
+stars today: 21
+
+GreptimeTeam/greptimedb
+https://github.com/GreptimeTeam/greptimedb
+Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+language: Rust
+stars: 5,452
+forked: 397
+stars today: 4

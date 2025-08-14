@@ -1,0 +1,183 @@
+FiloSottile/mkcert
+https://github.com/FiloSottile/mkcert
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+language: Go
+stars: 55,768
+forked: 2,915
+stars today: 327
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,637
+forked: 1,707
+stars today: 86
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,819
+forked: 2,937
+stars today: 9
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 74,729
+forked: 4,691
+stars today: 311
+
+cloudnative-pg/cloudnative-pg
+https://github.com/cloudnative-pg/cloudnative-pg
+CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+language: Go
+stars: 6,570
+forked: 489
+stars today: 16
+
+php/frankenphp
+https://github.com/php/frankenphp
+🧟 The modern PHP app server
+language: Go
+stars: 10,021
+forked: 372
+stars today: 19
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,272
+forked: 2,477
+stars today: 67
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,513
+forked: 21,079
+stars today: 15
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 10,660
+forked: 963
+stars today: 13
+
+kubernetes-sigs/gateway-api
+https://github.com/kubernetes-sigs/gateway-api
+Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+language: Go
+stars: 2,216
+forked: 581
+stars today: 3
+
+mudler/LocalAGI
+https://github.com/mudler/LocalAGI
+LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
+language: Go
+stars: 1,048
+forked: 147
+stars today: 28
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end realtime stack for connecting humans and AI
+language: Go
+stars: 13,760
+forked: 1,299
+stars today: 21
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 15,976
+forked: 1,913
+stars today: 12
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 40,223
+forked: 6,913
+stars today: 17
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 32,925
+forked: 4,418
+stars today: 13
+
+vitessio/vitess
+https://github.com/vitessio/vitess
+Vitess is a database clustering system for horizontal scaling of MySQL.
+language: Go
+stars: 19,995
+forked: 2,232
+stars today: 10
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 59,904
+forked: 9,717
+stars today: 21
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 97,389
+forked: 14,326
+stars today: 90
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open device management
+language: Go
+stars: 5,382
+forked: 642
+stars today: 6
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,198
+forked: 1,320
+stars today: 8
+
+google/pprof
+https://github.com/google/pprof
+pprof is a tool for visualization and analysis of profiling data
+language: Go
+stars: 8,667
+forked: 632
+stars today: 8
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 26,163
+forked: 4,934
+stars today: 7
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,103
+forked: 4,548
+stars today: 5
