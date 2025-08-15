@@ -1,0 +1,111 @@
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 31,266
+forked: 864
+stars today: 287
+
+ostris/ai-toolkit
+https://github.com/ostris/ai-toolkit
+The ultimate training toolkit for finetuning diffusion models
+language: Python
+stars: 5,827
+forked: 676
+stars today: 41
+
+oop7/YTSage
+https://github.com/oop7/YTSage
+Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.
+language: Python
+stars: 1,574
+forked: 102
+stars today: 205
+
+LeCAR-Lab/ASAP
+https://github.com/LeCAR-Lab/ASAP
+Official implementation of [RSS 2025] "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
+language: Python
+stars: 1,427
+forked: 137
+stars today: 25
+
+paperless-ngx/paperless-ngx
+https://github.com/paperless-ngx/paperless-ngx
+A community-supported supercharged document management system: scan, index and archive all your documents
+language: Python
+stars: 30,519
+forked: 1,842
+stars today: 85
+
+datalab-to/marker
+https://github.com/datalab-to/marker
+Convert PDF to markdown + JSON quickly with high accuracy
+language: Python
+stars: 27,505
+forked: 1,804
+stars today: 126
+
+PacktPublishing/LLM-Engineers-Handbook
+https://github.com/PacktPublishing/LLM-Engineers-Handbook
+The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+language: Python
+stars: 3,889
+forked: 880
+stars today: 28
+
+microsoft/magentic-ui
+https://github.com/microsoft/magentic-ui
+A research prototype of a human-centered web agent
+language: Python
+stars: 7,073
+forked: 730
+stars today: 47
+
+dagster-io/dagster
+https://github.com/dagster-io/dagster
+An orchestration platform for the development, production, and observation of data assets.
+language: Python
+stars: 13,788
+forked: 1,783
+stars today: 14
+
+tadata-org/fastapi_mcp
+https://github.com/tadata-org/fastapi_mcp
+Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+language: Python
+stars: 8,467
+forked: 665
+stars today: 423
+
+modelcontextprotocol/python-sdk
+https://github.com/modelcontextprotocol/python-sdk
+The official Python SDK for Model Context Protocol servers and clients
+language: Python
+stars: 17,496
+forked: 2,306
+stars today: 47
+
+browser-use/browser-use
+https://github.com/browser-use/browser-use
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+language: Python
+stars: 67,630
+forked: 7,824
+stars today: 82
+
+hiyouga/LLaMA-Factory
+https://github.com/hiyouga/LLaMA-Factory
+Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+language: Python
+stars: 56,204
+forked: 6,892
+stars today: 68
+
+martinvigo/email2phonenumber
+https://github.com/martinvigo/email2phonenumber
+A OSINT tool to obtain a target's phone number just by having his email address
+language: Python
+stars: 2,446
+forked: 288
+stars today: 20
