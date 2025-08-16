@@ -1,0 +1,199 @@
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,376
+forked: 2,484
+stars today: 70
+
+google/wire
+https://github.com/google/wire
+Compile-time Dependency Injection for Go
+language: Go
+stars: 14,125
+forked: 669
+stars today: 30
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 74,942
+forked: 4,694
+stars today: 121
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,842
+forked: 2,948
+stars today: 4
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 59,940
+forked: 9,722
+stars today: 18
+
+uber-go/zap
+https://github.com/uber-go/zap
+Blazing fast, structured, leveled logging in Go.
+language: Go
+stars: 23,498
+forked: 1,481
+stars today: 4
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+language: Go
+stars: 5,524
+forked: 1,041
+stars today: 126
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,777
+forked: 2,645
+stars today: 2
+
+FiloSottile/mkcert
+https://github.com/FiloSottile/mkcert
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+language: Go
+stars: 55,993
+forked: 2,927
+stars today: 81
+
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,547
+forked: 1,287
+stars today: 5
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 15,293
+forked: 1,061
+stars today: 11
+
+prometheus/node_exporter
+https://github.com/prometheus/node_exporter
+Exporter for machine metrics
+language: Go
+stars: 12,425
+forked: 2,516
+stars today: 10
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,161
+forked: 9,975
+stars today: 110
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 72,875
+forked: 2,569
+stars today: 53
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,204
+forked: 1,320
+stars today: 0
+
+google/pprof
+https://github.com/google/pprof
+pprof is a tool for visualization and analysis of profiling data
+language: Go
+stars: 8,676
+forked: 632
+stars today: 3
+
+grafana/tempo
+https://github.com/grafana/tempo
+Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+language: Go
+stars: 4,683
+forked: 602
+stars today: 9
+
+grafana/mimir
+https://github.com/grafana/mimir
+Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+language: Go
+stars: 4,617
+forked: 627
+stars today: 4
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,670
+forked: 1,709
+stars today: 13
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 26,187
+forked: 4,934
+stars today: 12
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+language: Go
+stars: 50,151
+forked: 5,976
+stars today: 33
+
+kubernetes-sigs/karpenter
+https://github.com/kubernetes-sigs/karpenter
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 1,252
+forked: 321
+stars today: 8
+
+docker/cli
+https://github.com/docker/cli
+The Docker CLI
+language: Go
+stars: 5,396
+forked: 2,038
+stars today: 1
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
+language: Go
+stars: 116,903
+forked: 41,165
+stars today: 29
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,624
+forked: 253
+stars today: 2
