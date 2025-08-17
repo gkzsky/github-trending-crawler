@@ -1,0 +1,111 @@
+coleam00/Archon
+https://github.com/coleam00/Archon
+Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+language: Python
+stars: 6,682
+forked: 1,351
+stars today: 273
+
+LMCache/LMCache
+https://github.com/LMCache/LMCache
+Supercharge Your LLM with the Fastest KV Cache Layer
+language: Python
+stars: 4,356
+forked: 490
+stars today: 25
+
+IBM/mcp-context-forge
+https://github.com/IBM/mcp-context-forge
+A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
+language: Python
+stars: 1,250
+forked: 192
+stars today: 63
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 4,165
+forked: 414
+stars today: 411
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 58,343
+forked: 6,979
+stars today: 479
+
+srbhr/Resume-Matcher
+https://github.com/srbhr/Resume-Matcher
+Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+language: Python
+stars: 22,250
+forked: 4,316
+stars today: 92
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 31,625
+forked: 884
+stars today: 138
+
+langchain-ai/open_deep_research
+https://github.com/langchain-ai/open_deep_research
+-
+language: Python
+stars: 7,881
+forked: 1,037
+stars today: 85
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 28,340
+forked: 4,384
+stars today: 55
+
+microsoft/magentic-ui
+https://github.com/microsoft/magentic-ui
+A research prototype of a human-centered web agent
+language: Python
+stars: 7,370
+forked: 745
+stars today: 196
+
+budtmo/docker-android
+https://github.com/budtmo/docker-android
+Android in docker solution with noVNC supported and video recording
+language: Python
+stars: 12,245
+forked: 1,453
+stars today: 274
+
+aliasrobotics/cai
+https://github.com/aliasrobotics/cai
+Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+language: Python
+stars: 2,430
+forked: 381
+stars today: 205
+
+python-telegram-bot/python-telegram-bot
+https://github.com/python-telegram-bot/python-telegram-bot
+We have made you a wrapper you can't refuse
+language: Python
+stars: 27,997
+forked: 5,803
+stars today: 10
+
+oop7/YTSage
+https://github.com/oop7/YTSage
+Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.
+language: Python
+stars: 2,011
+forked: 122
+stars today: 136
