@@ -1,0 +1,95 @@
+coleam00/Archon
+https://github.com/coleam00/Archon
+Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+language: Python
+stars: 9,073
+forked: 1,608
+stars today: 1,353
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 5,690
+forked: 511
+stars today: 1,129
+
+DataExpert-io/data-engineer-handbook
+https://github.com/DataExpert-io/data-engineer-handbook
+This is a repo with links to everything you'd ever want to learn about data engineering
+language: Jupyter Notebook
+stars: 36,786
+forked: 7,060
+stars today: 258
+
+rasbt/LLMs-from-scratch
+https://github.com/rasbt/LLMs-from-scratch
+Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+language: Jupyter Notebook
+stars: 65,040
+forked: 9,133
+stars today: 468
+
+enescingoz/awesome-n8n-templates
+https://github.com/enescingoz/awesome-n8n-templates
+Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+language: -
+stars: 9,258
+forked: 2,706
+stars today: 130
+
+PixiEditor/PixiEditor
+https://github.com/PixiEditor/PixiEditor
+PixiEditor is a Universal Editor for all your 2D needs
+language: C#
+stars: 4,527
+forked: 181
+stars today: 500
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 73,330
+forked: 3,867
+stars today: 114
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 59,656
+forked: 7,154
+stars today: 804
+
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+language: TypeScript
+stars: 6,513
+forked: 503
+stars today: 310
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Financial data aggregator for humans and AI agents.
+language: Python
+stars: 50,256
+forked: 4,691
+stars today: 508
+
+bytebot-ai/bytebot
+https://github.com/bytebot-ai/bytebot
+Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+language: TypeScript
+stars: 1,713
+forked: 132
+stars today: 196
+
+mfts/papermark
+https://github.com/mfts/papermark
+Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+language: TypeScript
+stars: 7,227
+forked: 989
+stars today: 77
