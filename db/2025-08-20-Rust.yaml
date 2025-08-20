@@ -1,0 +1,167 @@
+antinomyhq/forge
+https://github.com/antinomyhq/forge
+AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+language: Rust
+stars: 4,477
+forked: 1,212
+stars today: 82
+
+paradedb/paradedb
+https://github.com/paradedb/paradedb
+ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+language: Rust
+stars: 7,653
+forked: 269
+stars today: 16
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+language: Rust
+stars: 9,731
+forked: 652
+stars today: 68
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 95,723
+forked: 3,027
+stars today: 46
+
+moghtech/komodo
+https://github.com/moghtech/komodo
+🦎 a tool to build and deploy software on many servers 🦎
+language: Rust
+stars: 6,882
+forked: 166
+stars today: 34
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 44,971
+forked: 1,199
+stars today: 34
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 24,516
+forked: 3,930
+stars today: 41
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 21,810
+forked: 1,722
+stars today: 39
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 16,257
+forked: 637
+stars today: 42
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 15,908
+forked: 649
+stars today: 15
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 18,865
+forked: 646
+stars today: 35
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 39,487
+forked: 3,003
+stars today: 27
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 64,026
+forked: 4,950
+stars today: 56
+
+bahdotsh/wrkflw
+https://github.com/bahdotsh/wrkflw
+Validate and Run GitHub Actions locally.
+language: Rust
+stars: 1,710
+forked: 26
+stars today: 82
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,231
+forked: 438
+stars today: 3
+
+sharkdp/fd
+https://github.com/sharkdp/fd
+A simple, fast and user-friendly alternative to 'find'
+language: Rust
+stars: 39,181
+forked: 916
+stars today: 33
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 24,895
+forked: 1,462
+stars today: 11
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 25,490
+forked: 792
+stars today: 62
+
+visioncortex/vtracer
+https://github.com/visioncortex/vtracer
+Raster to Vector Graphics Converter
+language: Rust
+stars: 4,638
+forked: 314
+stars today: 5
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 50,626
+forked: 2,195
+stars today: 43
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 30,085
+forked: 1,261
+stars today: 15

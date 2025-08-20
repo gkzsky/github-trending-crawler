@@ -1,0 +1,175 @@
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 9,211
+forked: 787
+stars today: 276
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 27,961
+forked: 2,677
+stars today: 14
+
+sqshq/sampler
+https://github.com/sqshq/sampler
+Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+language: Go
+stars: 13,859
+forked: 635
+stars today: 67
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 17,795
+forked: 1,618
+stars today: 11
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 50,094
+forked: 10,143
+stars today: 17
+
+charmbracelet/glow
+https://github.com/charmbracelet/glow
+Render markdown on the CLI, with pizzazz! 💅🏻
+language: Go
+stars: 18,857
+forked: 438
+stars today: 33
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 36,659
+forked: 3,349
+stars today: 20
+
+aws/aws-sdk-go-v2
+https://github.com/aws/aws-sdk-go-v2
+AWS SDK for the Go programming language.
+language: Go
+stars: 3,208
+forked: 708
+stars today: 4
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+language: Go
+stars: 7,642
+forked: 451
+stars today: 5
+
+GoogleCloudPlatform/microservices-demo
+https://github.com/GoogleCloudPlatform/microservices-demo
+Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+language: Go
+stars: 18,747
+forked: 8,623
+stars today: 14
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,495
+forked: 18,797
+stars today: 7
+
+pdfcpu/pdfcpu
+https://github.com/pdfcpu/pdfcpu
+A PDF processor written in Go.
+language: Go
+stars: 7,912
+forked: 555
+stars today: 11
+
+wagoodman/dive
+https://github.com/wagoodman/dive
+A tool for exploring each layer in a docker image
+language: Go
+stars: 51,755
+forked: 1,902
+stars today: 15
+
+bettercap/bettercap
+https://github.com/bettercap/bettercap
+The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+language: Go
+stars: 18,006
+forked: 1,559
+stars today: 18
+
+swaggo/swag
+https://github.com/swaggo/swag
+Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+language: Go
+stars: 12,095
+forked: 1,293
+stars today: 7
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 28,369
+forked: 2,751
+stars today: 12
+
+kubernetes-sigs/kueue
+https://github.com/kubernetes-sigs/kueue
+Kubernetes-native Job Queueing
+language: Go
+stars: 1,949
+forked: 392
+stars today: 5
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 24,413
+forked: 2,859
+stars today: 17
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 3,556
+forked: 155
+stars today: 19
+
+grafana/k6
+https://github.com/grafana/k6
+A modern load testing tool, using Go and JavaScript
+language: Go
+stars: 28,546
+forked: 1,406
+stars today: 13
+
+RezaSi/go-interview-practice
+https://github.com/RezaSi/go-interview-practice
+Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.
+language: Go
+stars: 1,017
+forked: 410
+stars today: 31
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,110
+forked: 4,551
+stars today: 1
