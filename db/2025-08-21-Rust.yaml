@@ -1,0 +1,167 @@
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 16,347
+forked: 644
+stars today: 72
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 4,207
+forked: 451
+stars today: 31
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+language: Rust
+stars: 9,773
+forked: 653
+stars today: 41
+
+shshemi/tabiew
+https://github.com/shshemi/tabiew
+A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
+language: Rust
+stars: 2,173
+forked: 59
+stars today: 15
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,462
+forked: 254
+stars today: 13
+
+a2x/cs2-dumper
+https://github.com/a2x/cs2-dumper
+Counter-Strike: 2 Offset Dumper
+language: Rust
+stars: 1,439
+forked: 203
+stars today: 2
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 16,272
+forked: 636
+stars today: 14
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 95,754
+forked: 3,028
+stars today: 47
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 96,049
+forked: 14,093
+stars today: 70
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 64,108
+forked: 4,971
+stars today: 76
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 18,900
+forked: 651
+stars today: 37
+
+zellij-org/zellij
+https://github.com/zellij-org/zellij
+A terminal workspace with batteries included
+language: Rust
+stars: 25,862
+forked: 791
+stars today: 30
+
+paradedb/paradedb
+https://github.com/paradedb/paradedb
+ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+language: Rust
+stars: 7,673
+forked: 271
+stars today: 20
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 35,724
+forked: 4,094
+stars today: 134
+
+hyperium/hyper
+https://github.com/hyperium/hyper
+An HTTP library for Rust
+language: Rust
+stars: 15,479
+forked: 1,672
+stars today: 4
+
+sharkdp/fd
+https://github.com/sharkdp/fd
+A simple, fast and user-friendly alternative to 'find'
+language: Rust
+stars: 39,217
+forked: 916
+stars today: 38
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,457
+forked: 851
+stars today: 5
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 4,774
+forked: 542
+stars today: 9
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 10,261
+forked: 315
+stars today: 20
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 23,225
+forked: 2,454
+stars today: 15
+
+emmett-framework/granian
+https://github.com/emmett-framework/granian
+A Rust HTTP server for Python applications
+language: Rust
+stars: 4,029
+forked: 112
+stars today: 10

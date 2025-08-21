@@ -1,0 +1,103 @@
+laude-institute/terminal-bench
+https://github.com/laude-institute/terminal-bench
+A benchmark for LLMs on complicated tasks in the terminal
+language: Python
+stars: 506
+forked: 138
+stars today: 17
+
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: Python
+stars: 20,888
+forked: 1,579
+stars today: 48
+
+bytedance/UI-TARS
+https://github.com/bytedance/UI-TARS
+-
+language: Python
+stars: 7,272
+forked: 504
+stars today: 175
+
+microsoft/autogen
+https://github.com/microsoft/autogen
+A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+language: Python
+stars: 48,921
+forked: 7,469
+stars today: 45
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 60,679
+forked: 7,294
+stars today: 556
+
+prowler-cloud/prowler
+https://github.com/prowler-cloud/prowler
+Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, ENS and more
+language: Python
+stars: 12,001
+forked: 1,776
+stars today: 7
+
+JaidedAI/EasyOCR
+https://github.com/JaidedAI/EasyOCR
+Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+language: Python
+stars: 27,616
+forked: 3,442
+stars today: 22
+
+PaddlePaddle/PaddleDetection
+https://github.com/PaddlePaddle/PaddleDetection
+Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
+language: Python
+stars: 13,704
+forked: 2,984
+stars today: 9
+
+huggingface/diffusers
+https://github.com/huggingface/diffusers
+🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+language: Python
+stars: 30,397
+forked: 6,243
+stars today: 30
+
+HKUDS/AI-Researcher
+https://github.com/HKUDS/AI-Researcher
+"AI-Researcher: Autonomous Scientific Innovation"
+language: Python
+stars: 1,995
+forked: 251
+stars today: 15
+
+NVIDIA/NeMo
+https://github.com/NVIDIA/NeMo
+A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+language: Python
+stars: 15,446
+forked: 3,055
+stars today: 10
+
+HunxByts/GhostTrack
+https://github.com/HunxByts/GhostTrack
+Useful tool to track location or mobile number
+language: Python
+stars: 2,347
+forked: 345
+stars today: 469
+
+livekit/agents
+https://github.com/livekit/agents
+A powerful framework for building realtime voice AI agents 🤖🎙️📹
+language: Python
+stars: 7,125
+forked: 1,182
+stars today: 17

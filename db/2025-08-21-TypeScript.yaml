@@ -1,0 +1,127 @@
+simstudioai/sim
+https://github.com/simstudioai/sim
+Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+language: TypeScript
+stars: 8,736
+forked: 1,114
+stars today: 422
+
+puppeteer/puppeteer
+https://github.com/puppeteer/puppeteer
+JavaScript API for Chrome and Firefox
+language: TypeScript
+stars: 91,877
+forked: 9,273
+stars today: 25
+
+bitwarden/clients
+https://github.com/bitwarden/clients
+Bitwarden client apps (web, browser extension, desktop, and cli).
+language: TypeScript
+stars: 10,761
+forked: 1,453
+stars today: 28
+
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+language: TypeScript
+stars: 6,884
+forked: 529
+stars today: 177
+
+epicenter-so/epicenter
+https://github.com/epicenter-so/epicenter
+Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+language: TypeScript
+stars: 2,443
+forked: 147
+stars today: 309
+
+mermaid-js/mermaid
+https://github.com/mermaid-js/mermaid
+Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+language: TypeScript
+stars: 82,278
+forked: 7,935
+stars today: 39
+
+react-hook-form/react-hook-form
+https://github.com/react-hook-form/react-hook-form
+📋 React Hooks for form state management and validation (Web + React Native)
+language: TypeScript
+stars: 43,702
+forked: 2,271
+stars today: 17
+
+web-infra-dev/midscene
+https://github.com/web-infra-dev/midscene
+Your AI Operator for Web, Android, Automation & Testing.
+language: TypeScript
+stars: 10,054
+forked: 708
+stars today: 30
+
+microsoft/data-formulator
+https://github.com/microsoft/data-formulator
+🪄 Create rich visualizations with AI
+language: TypeScript
+stars: 13,419
+forked: 1,154
+stars today: 75
+
+mfts/papermark
+https://github.com/mfts/papermark
+Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+language: TypeScript
+stars: 7,386
+forked: 1,006
+stars today: 51
+
+langgenius/dify
+https://github.com/langgenius/dify
+Production-ready platform for agentic workflow development.
+language: TypeScript
+stars: 111,584
+forked: 17,044
+stars today: 139
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 73,809
+forked: 3,895
+stars today: 305
+
+CapSoftware/Cap
+https://github.com/CapSoftware/Cap
+Open source Loom alternative. Beautiful, shareable screen recordings.
+language: TypeScript
+stars: 11,225
+forked: 713
+stars today: 92
+
+David-patrick-chuks/Riona-AI-Agent
+https://github.com/David-patrick-chuks/Riona-AI-Agent
+Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+language: TypeScript
+stars: 3,753
+forked: 722
+stars today: 24
+
+makeplane/plane
+https://github.com/makeplane/plane
+🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+language: TypeScript
+stars: 38,182
+forked: 2,596
+stars today: 35
+
+strapi/strapi
+https://github.com/strapi/strapi
+🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+language: TypeScript
+stars: 69,205
+forked: 8,879
+stars today: 46
