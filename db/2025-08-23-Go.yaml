@@ -1,0 +1,183 @@
+SpecterOps/BloodHound
+https://github.com/SpecterOps/BloodHound
+Six Degrees of Domain Admin
+language: Go
+stars: 2,145
+forked: 224
+stars today: 32
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 28,019
+forked: 2,681
+stars today: 21
+
+edoardottt/cariddi
+https://github.com/edoardottt/cariddi
+Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+language: Go
+stars: 2,631
+forked: 232
+stars today: 262
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,656
+forked: 260
+stars today: 3
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 50,126
+forked: 10,152
+stars today: 13
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 37,175
+forked: 8,049
+stars today: 11
+
+alireza0/s-ui
+https://github.com/alireza0/s-ui
+An advanced Web Panel • Built for SagerNet/Sing-Box
+language: Go
+stars: 4,662
+forked: 759
+stars today: 23
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 20,021
+forked: 894
+stars today: 18
+
+GoogleCloudPlatform/microservices-demo
+https://github.com/GoogleCloudPlatform/microservices-demo
+Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+language: Go
+stars: 18,815
+forked: 8,647
+stars today: 33
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,488
+forked: 2,341
+stars today: 3
+
+onsi/ginkgo
+https://github.com/onsi/ginkgo
+A Modern Testing Framework for Go
+language: Go
+stars: 8,780
+forked: 677
+stars today: 1
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,703
+forked: 1,711
+stars today: 8
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,712
+forked: 1,468
+stars today: 4
+
+labstack/echo
+https://github.com/labstack/echo
+High performance, minimalist Go web framework
+language: Go
+stars: 31,435
+forked: 2,281
+stars today: 6
+
+kubernetes-sigs/kubebuilder
+https://github.com/kubernetes-sigs/kubebuilder
+Kubebuilder - SDK for building Kubernetes APIs using CRDs
+language: Go
+stars: 8,656
+forked: 1,584
+stars today: 2
+
+OpenCSGs/csghub-server
+https://github.com/OpenCSGs/csghub-server
+csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
+language: Go
+stars: 783
+forked: 115
+stars today: 22
+
+opencontainers/runc
+https://github.com/opencontainers/runc
+CLI tool for spawning and running containers according to the OCI specification
+language: Go
+stars: 12,592
+forked: 2,210
+stars today: 1
+
+anchore/grype
+https://github.com/anchore/grype
+A vulnerability scanner for container images and filesystems
+language: Go
+stars: 10,481
+forked: 678
+stars today: 8
+
+charmbracelet/bubbletea
+https://github.com/charmbracelet/bubbletea
+A powerful little TUI framework 🏗
+language: Go
+stars: 34,586
+forked: 977
+stars today: 62
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,517
+forked: 18,798
+stars today: 11
+
+korotovsky/slack-mcp-server
+https://github.com/korotovsky/slack-mcp-server
+The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
+language: Go
+stars: 540
+forked: 69
+stars today: 11
+
+publicsuffix/list
+https://github.com/publicsuffix/list
+The Public Suffix List
+language: Go
+stars: 2,460
+forked: 1,378
+stars today: 2
+
+obot-platform/obot
+https://github.com/obot-platform/obot
+Open-source MCP Gateway and AI Platform
+language: Go
+stars: 266
+forked: 49
+stars today: 26
