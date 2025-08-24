@@ -1,0 +1,175 @@
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 41,896
+forked: 1,499
+stars today: 31
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,288
+forked: 11,597
+stars today: 2
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 4,802
+forked: 550
+stars today: 11
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 65,650
+forked: 1,921
+stars today: 92
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
+language: Rust
+stars: 18,826
+forked: 1,879
+stars today: 5
+
+Priler/jarvis
+https://github.com/Priler/jarvis
+Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
+language: Rust
+stars: 2,465
+forked: 526
+stars today: 7
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 19,178
+forked: 666
+stars today: 115
+
+matter-labs/zksync-era
+https://github.com/matter-labs/zksync-era
+zkSync era
+language: Rust
+stars: 3,197
+forked: 2,141
+stars today: 2
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 28,484
+forked: 2,075
+stars today: 9
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 105,986
+forked: 13,675
+stars today: 24
+
+intentee/paddler
+https://github.com/intentee/paddler
+Open-source LLMOps platform for hosting and scaling AI in your own infrastructure 🏓🦙
+language: Rust
+stars: 1,217
+forked: 58
+stars today: 23
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 16,312
+forked: 637
+stars today: 7
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 17,680
+forked: 909
+stars today: 31
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,524
+forked: 3,634
+stars today: 7
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 29,136
+forked: 2,023
+stars today: 8
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 29,904
+forked: 1,039
+stars today: 7
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+language: Rust
+stars: 35,023
+forked: 2,363
+stars today: 20
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 64,292
+forked: 5,002
+stars today: 51
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,266
+forked: 443
+stars today: 3
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,464
+forked: 853
+stars today: 0
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,398
+forked: 1,821
+stars today: 3
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 25,488
+forked: 1,770
+stars today: 21
