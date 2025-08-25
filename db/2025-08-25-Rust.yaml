@@ -1,0 +1,151 @@
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,407
+forked: 1,350
+stars today: 14
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 17,691
+forked: 909
+stars today: 21
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 36,226
+forked: 4,166
+stars today: 148
+
+gleam-lang/gleam
+https://github.com/gleam-lang/gleam
+⭐️ A friendly language for building type-safe, scalable systems!
+language: Rust
+stars: 20,101
+forked: 854
+stars today: 9
+
+Priler/jarvis
+https://github.com/Priler/jarvis
+Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
+language: Rust
+stars: 2,469
+forked: 527
+stars today: 7
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,110
+forked: 534
+stars today: 17
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 60,075
+forked: 3,169
+stars today: 20
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 27,745
+forked: 588
+stars today: 11
+
+ofek/pyapp
+https://github.com/ofek/pyapp
+Runtime installer for Python applications
+language: Rust
+stars: 1,596
+forked: 43
+stars today: 25
+
+linebender/vello
+https://github.com/linebender/vello
+A GPU compute-centric 2D renderer.
+language: Rust
+stars: 3,084
+forked: 171
+stars today: 4
+
+rust-unofficial/awesome-rust
+https://github.com/rust-unofficial/awesome-rust
+A curated list of Rust code and resources.
+language: Rust
+stars: 52,234
+forked: 3,005
+stars today: 25
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 10,542
+forked: 394
+stars today: 25
+
+moghtech/komodo
+https://github.com/moghtech/komodo
+🦎 a tool to build and deploy software on many servers 🦎
+language: Rust
+stars: 7,019
+forked: 171
+stars today: 39
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 10,334
+forked: 316
+stars today: 21
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 30,729
+forked: 2,111
+stars today: 8
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 30,207
+forked: 1,264
+stars today: 28
+
+a2x/cs2-dumper
+https://github.com/a2x/cs2-dumper
+Counter-Strike: 2 Offset Dumper
+language: Rust
+stars: 1,447
+forked: 207
+stars today: 2
+
+google/comprehensive-rust
+https://github.com/google/comprehensive-rust
+This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+language: Rust
+stars: 30,622
+forked: 1,836
+stars today: 6
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 59,734
+forked: 10,864
+stars today: 17
