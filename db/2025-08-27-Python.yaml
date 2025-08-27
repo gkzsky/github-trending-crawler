@@ -1,0 +1,127 @@
+willccbb/verifiers
+https://github.com/willccbb/verifiers
+Verifiers for LLM Reinforcement Learning
+language: Python
+stars: 2,485
+forked: 281
+stars today: 280
+
+HKUDS/DeepCode
+https://github.com/HKUDS/DeepCode
+"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+language: Python
+stars: 4,114
+forked: 417
+stars today: 1,140
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+language: Python
+stars: 6,857
+forked: 514
+stars today: 148
+
+IBM/mcp-context-forge
+https://github.com/IBM/mcp-context-forge
+A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
+language: Python
+stars: 1,857
+forked: 224
+stars today: 109
+
+google/adk-python
+https://github.com/google/adk-python
+An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+language: Python
+stars: 12,484
+forked: 1,762
+stars today: 103
+
+spotDL/spotify-downloader
+https://github.com/spotDL/spotify-downloader
+Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+language: Python
+stars: 21,661
+forked: 1,899
+stars today: 317
+
+QuentinFuxa/WhisperLiveKit
+https://github.com/QuentinFuxa/WhisperLiveKit
+Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
+language: Python
+stars: 1,027
+forked: 181
+stars today: 224
+
+google-research/timesfm
+https://github.com/google-research/timesfm
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+language: Python
+stars: 5,269
+forked: 499
+stars today: 58
+
+HunxByts/GhostTrack
+https://github.com/HunxByts/GhostTrack
+Useful tool to track location or mobile number
+language: Python
+stars: 4,985
+forked: 575
+stars today: 479
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 69,479
+forked: 15,849
+stars today: 41
+
+tubearchivist/tubearchivist
+https://github.com/tubearchivist/tubearchivist
+Your self hosted YouTube media server
+language: Python
+stars: 6,817
+forked: 317
+stars today: 40
+
+bytedance/deer-flow
+https://github.com/bytedance/deer-flow
+DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+language: Python
+stars: 16,556
+forked: 2,127
+stars today: 44
+
+xai-org/grok-1
+https://github.com/xai-org/grok-1
+Grok open release
+language: Python
+stars: 50,444
+forked: 8,360
+stars today: 15
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 366,446
+forked: 63,978
+stars today: 139
+
+Alvin9999/new-pac
+https://github.com/Alvin9999/new-pac
+翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+language: Python
+stars: 67,507
+forked: 10,286
+stars today: 60
+
+i-am-bee/acp
+https://github.com/i-am-bee/acp
+Open protocol for communication between AI agents, applications, and humans.
+language: Python
+stars: 822
+forked: 101
+stars today: 32

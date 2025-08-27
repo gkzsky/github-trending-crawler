@@ -1,0 +1,175 @@
+0xJacky/nginx-ui
+https://github.com/0xJacky/nginx-ui
+Yet another WebUI for Nginx
+language: Go
+stars: 9,361
+forked: 676
+stars today: 27
+
+kedacore/keda
+https://github.com/kedacore/keda
+KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+language: Go
+stars: 9,392
+forked: 1,213
+stars today: 12
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 25,072
+forked: 1,667
+stars today: 11
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,719
+forked: 1,712
+stars today: 5
+
+ibnaleem/gosearch
+https://github.com/ibnaleem/gosearch
+🔍 Search anyone's digital footprint across 300+ websites
+language: Go
+stars: 2,842
+forked: 280
+stars today: 34
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,461
+forked: 6,323
+stars today: 19
+
+google/pprof
+https://github.com/google/pprof
+pprof is a tool for visualization and analysis of profiling data
+language: Go
+stars: 8,694
+forked: 634
+stars today: 1
+
+open-policy-agent/opa
+https://github.com/open-policy-agent/opa
+Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+language: Go
+stars: 10,601
+forked: 1,456
+stars today: 7
+
+vitessio/vitess
+https://github.com/vitessio/vitess
+Vitess is a database clustering system for horizontal scaling of MySQL.
+language: Go
+stars: 20,038
+forked: 2,239
+stars today: 8
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 18,909
+forked: 1,379
+stars today: 6
+
+testcontainers/testcontainers-go
+https://github.com/testcontainers/testcontainers-go
+Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+language: Go
+stars: 4,294
+forked: 567
+stars today: 5
+
+kopia/kopia
+https://github.com/kopia/kopia
+Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+language: Go
+stars: 10,972
+forked: 532
+stars today: 10
+
+gdy666/lucky
+https://github.com/gdy666/lucky
+软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+language: Go
+stars: 6,297
+forked: 588
+stars today: 20
+
+openbao/openbao
+https://github.com/openbao/openbao
+OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+language: Go
+stars: 4,389
+forked: 247
+stars today: 11
+
+grafana/mimir
+https://github.com/grafana/mimir
+Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+language: Go
+stars: 4,639
+forked: 634
+stars today: 5
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 26,269
+forked: 4,942
+stars today: 16
+
+karmada-io/karmada
+https://github.com/karmada-io/karmada
+Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+language: Go
+stars: 5,009
+forked: 994
+stars today: 7
+
+k3s-io/k3s
+https://github.com/k3s-io/k3s
+Lightweight Kubernetes
+language: Go
+stars: 30,605
+forked: 2,499
+stars today: 11
+
+bytedance/sonic
+https://github.com/bytedance/sonic
+A blazingly fast JSON serializing & deserializing library
+language: Go
+stars: 8,532
+forked: 412
+stars today: 5
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 12,354
+forked: 939
+stars today: 7
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,134
+forked: 4,551
+stars today: 6
+
+juicedata/juicefs
+https://github.com/juicedata/juicefs
+JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+language: Go
+stars: 12,076
+forked: 1,070
+stars today: 8
