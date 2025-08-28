@@ -1,0 +1,183 @@
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 9,941
+forked: 763
+stars today: 121
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 41,626
+forked: 2,985
+stars today: 27
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,473
+forked: 6,326
+stars today: 11
+
+beam-cloud/beta9
+https://github.com/beam-cloud/beta9
+Secure, high-performance AI infrastructure in Python.
+language: Go
+stars: 1,251
+forked: 111
+stars today: 34
+
+nucleuscloud/neosync
+https://github.com/nucleuscloud/neosync
+Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
+language: Go
+stars: 4,114
+forked: 191
+stars today: 11
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+language: Go
+stars: 83,744
+forked: 8,306
+stars today: 17
+
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+language: Go
+stars: 30,975
+forked: 2,709
+stars today: 24
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 25,075
+forked: 1,668
+stars today: 6
+
+0xJacky/nginx-ui
+https://github.com/0xJacky/nginx-ui
+Yet another WebUI for Nginx
+language: Go
+stars: 9,394
+forked: 678
+stars today: 39
+
+kedacore/keda
+https://github.com/kedacore/keda
+KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+language: Go
+stars: 9,399
+forked: 1,215
+stars today: 8
+
+grafana/alloy
+https://github.com/grafana/alloy
+OpenTelemetry Collector distribution with programmable pipelines
+language: Go
+stars: 2,404
+forked: 400
+stars today: 5
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,217
+forked: 1,322
+stars today: 1
+
+google/osv-scalibr
+https://github.com/google/osv-scalibr
+OSV-SCALIBR: A library for Software Composition Analysis
+language: Go
+stars: 470
+forked: 73
+stars today: 10
+
+tidwall/gjson
+https://github.com/tidwall/gjson
+Get JSON values quickly - JSON parser for Go
+language: Go
+stars: 15,158
+forked: 886
+stars today: 6
+
+spf13/viper
+https://github.com/spf13/viper
+Go configuration with fangs
+language: Go
+stars: 29,149
+forked: 2,061
+stars today: 8
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 12,363
+forked: 939
+stars today: 5
+
+golang-jwt/jwt
+https://github.com/golang-jwt/jwt
+Go implementation of JSON Web Tokens (JWT).
+language: Go
+stars: 8,424
+forked: 404
+stars today: 7
+
+sirupsen/logrus
+https://github.com/sirupsen/logrus
+Structured, pluggable logging for Go.
+language: Go
+stars: 25,455
+forked: 2,278
+stars today: 5
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,873
+forked: 2,971
+stars today: 3
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 11,591
+forked: 800
+stars today: 16
+
+snail007/goproxy
+https://github.com/snail007/goproxy
+🔥 Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+language: Go
+stars: 16,574
+forked: 3,075
+stars today: 20
+
+kubernetes/autoscaler
+https://github.com/kubernetes/autoscaler
+Autoscaling components for Kubernetes
+language: Go
+stars: 8,537
+forked: 4,189
+stars today: 4
+
+kgretzky/evilginx2
+https://github.com/kgretzky/evilginx2
+Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+language: Go
+stars: 13,673
+forked: 2,383
+stars today: 13

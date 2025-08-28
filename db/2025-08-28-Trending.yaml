@@ -1,0 +1,103 @@
+asgeirtj/system_prompts_leaks
+https://github.com/asgeirtj/system_prompts_leaks
+Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+language: JavaScript
+stars: 13,893
+forked: 2,517
+stars today: 2,634
+
+plait-board/drawnix
+https://github.com/plait-board/drawnix
+开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+language: TypeScript
+stars: 9,494
+forked: 674
+stars today: 510
+
+QuentinFuxa/WhisperLiveKit
+https://github.com/QuentinFuxa/WhisperLiveKit
+Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
+language: Python
+stars: 1,506
+forked: 211
+stars today: 160
+
+microsoft/terminal
+https://github.com/microsoft/terminal
+The new Windows Terminal and the original Windows console host, all in the same place!
+language: C++
+stars: 99,436
+forked: 8,705
+stars today: 44
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 29,436
+forked: 2,035
+stars today: 104
+
+karpathy/nn-zero-to-hero
+https://github.com/karpathy/nn-zero-to-hero
+Neural Networks: Zero to Hero
+language: Jupyter Notebook
+stars: 16,586
+forked: 2,277
+stars today: 399
+
+santinic/audiblez
+https://github.com/santinic/audiblez
+Generate audiobooks from e-books
+language: Python
+stars: 4,693
+forked: 315
+stars today: 55
+
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 9,941
+forked: 763
+stars today: 121
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+language: Python
+stars: 6,207
+forked: 387
+stars today: 74
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 11,516
+forked: 350
+stars today: 526
+
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: MDX
+stars: 173,012
+forked: 79,128
+stars today: 25
+
+willccbb/verifiers
+https://github.com/willccbb/verifiers
+Verifiers for LLM Reinforcement Learning
+language: Python
+stars: 2,642
+forked: 295
+stars today: 180
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 41,626
+forked: 2,985
+stars today: 27

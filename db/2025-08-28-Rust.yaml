@@ -1,0 +1,175 @@
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 29,436
+forked: 2,035
+stars today: 104
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 11,516
+forked: 350
+stars today: 526
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 16,040
+forked: 658
+stars today: 38
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 36,852
+forked: 4,231
+stars today: 231
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,409
+forked: 995
+stars today: 5
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 27,838
+forked: 592
+stars today: 39
+
+idootop/open-xiaoai
+https://github.com/idootop/open-xiaoai
+让小爱音箱「听见你的声音」，解锁无限可能。
+language: Rust
+stars: 939
+forked: 95
+stars today: 9
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,442
+forked: 1,356
+stars today: 20
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 36,215
+forked: 1,914
+stars today: 16
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 5,445
+forked: 242
+stars today: 35
+
+aome510/spotify-player
+https://github.com/aome510/spotify-player
+A Spotify player in the terminal with full feature parity
+language: Rust
+stars: 5,252
+forked: 249
+stars today: 6
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Program Framework
+language: Rust
+stars: 4,558
+forked: 1,663
+stars today: 4
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,148
+forked: 537
+stars today: 14
+
+vosen/ZLUDA
+https://github.com/vosen/ZLUDA
+CUDA on non-NVIDIA GPUs
+language: Rust
+stars: 12,960
+forked: 816
+stars today: 6
+
+kitao/pyxel
+https://github.com/kitao/pyxel
+A retro game engine for Python
+language: Rust
+stars: 16,602
+forked: 895
+stars today: 7
+
+warp-tech/warpgate
+https://github.com/warp-tech/warpgate
+Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+language: Rust
+stars: 5,390
+forked: 178
+stars today: 24
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,543
+forked: 3,640
+stars today: 10
+
+gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+A cross-platform, safe, pure-Rust graphics API.
+language: Rust
+stars: 14,985
+forked: 1,121
+stars today: 12
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 6,805
+forked: 363
+stars today: 62
+
+noir-lang/noir
+https://github.com/noir-lang/noir
+Noir is a domain specific language for zero knowledge proofs
+language: Rust
+stars: 1,154
+forked: 320
+stars today: 3
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+language: Rust
+stars: 7,682
+forked: 556
+stars today: 71
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 3,948
+forked: 299
+stars today: 11
