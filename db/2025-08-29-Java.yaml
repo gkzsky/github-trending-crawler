@@ -1,0 +1,183 @@
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 63,141
+forked: 20,215
+stars today: 31
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 59,762
+forked: 6,654
+stars today: 37
+
+vvb2060/KeyAttestation
+https://github.com/vvb2060/KeyAttestation
+-
+language: Java
+stars: 1,393
+forked: 152
+stars today: 3
+
+LaurieWired/Malimite
+https://github.com/LaurieWired/Malimite
+iOS and macOS Decompiler
+language: Java
+stars: 2,184
+forked: 69
+stars today: 75
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 64,736
+forked: 5,523
+stars today: 42
+
+mapstruct/mapstruct
+https://github.com/mapstruct/mapstruct
+An annotation processor for generating type-safe bean mappers
+language: Java
+stars: 7,465
+forked: 997
+stars today: 2
+
+Snailclimb/JavaGuide
+https://github.com/Snailclimb/JavaGuide
+「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+language: Java
+stars: 151,453
+forked: 45,979
+stars today: 23
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 29,265
+forked: 7,563
+stars today: 20
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 5,589
+forked: 1,155
+stars today: 23
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,230
+forked: 9,103
+stars today: 8
+
+Graylog2/graylog2-server
+https://github.com/Graylog2/graylog2-server
+Free and open log management
+language: Java
+stars: 7,780
+forked: 1,088
+stars today: 2
+
+elastic/logstash
+https://github.com/elastic/logstash
+Logstash - transport and process your logs, events, or other data
+language: Java
+stars: 14,619
+forked: 3,518
+stars today: 3
+
+material-components/material-components-android
+https://github.com/material-components/material-components-android
+Modular and customizable Material Design UI components for Android
+language: Java
+stars: 16,924
+forked: 3,175
+stars today: 4
+
+liquibase/liquibase
+https://github.com/liquibase/liquibase
+Main Liquibase Source
+language: Java
+stars: 5,198
+forked: 1,925
+stars today: 3
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 30,774
+forked: 14,592
+stars today: 7
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,799
+forked: 3,311
+stars today: 6
+
+LaurieWired/GhidraMCP
+https://github.com/LaurieWired/GhidraMCP
+MCP Server for Ghidra
+language: Java
+stars: 5,739
+forked: 418
+stars today: 12
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,870
+forked: 2,938
+stars today: 11
+
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,658
+forked: 3,849
+stars today: 1
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 6,939
+forked: 476
+stars today: 30
+
+mc1arke/sonarqube-community-branch-plugin
+https://github.com/mc1arke/sonarqube-community-branch-plugin
+A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+language: Java
+stars: 2,515
+forked: 564
+stars today: 3
+
+hneemann/Digital
+https://github.com/hneemann/Digital
+A digital logic designer and circuit simulator.
+language: Java
+stars: 5,069
+forked: 507
+stars today: 9
+
+testcontainers/testcontainers-java
+https://github.com/testcontainers/testcontainers-java
+Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+language: Java
+stars: 8,305
+forked: 1,729
+stars today: 3

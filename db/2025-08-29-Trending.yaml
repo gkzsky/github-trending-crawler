@@ -1,0 +1,87 @@
+asgeirtj/system_prompts_leaks
+https://github.com/asgeirtj/system_prompts_leaks
+Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+language: JavaScript
+stars: 15,980
+forked: 2,697
+stars today: 2,084
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+language: TypeScript
+stars: 10,354
+forked: 1,057
+stars today: 120
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 29,695
+forked: 2,047
+stars today: 267
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 22,454
+forked: 1,765
+stars today: 150
+
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: MDX
+stars: 173,132
+forked: 79,142
+stars today: 157
+
+santinic/audiblez
+https://github.com/santinic/audiblez
+Generate audiobooks from e-books
+language: Python
+stars: 5,102
+forked: 330
+stars today: 474
+
+karpathy/nn-zero-to-hero
+https://github.com/karpathy/nn-zero-to-hero
+Neural Networks: Zero to Hero
+language: Jupyter Notebook
+stars: 16,945
+forked: 2,303
+stars today: 413
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,308
+forked: 9,999
+stars today: 18
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+language: Python
+stars: 7,196
+forked: 532
+stars today: 101
+
+microsoft/terminal
+https://github.com/microsoft/terminal
+The new Windows Terminal and the original Windows console host, all in the same place!
+language: C++
+stars: 99,575
+forked: 8,716
+stars today: 168
+
+opf/openproject
+https://github.com/opf/openproject
+OpenProject is the leading open source project management software.
+language: Ruby
+stars: 12,270
+forked: 2,766
+stars today: 39
