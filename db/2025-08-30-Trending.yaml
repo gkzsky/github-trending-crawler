@@ -1,0 +1,135 @@
+QuentinFuxa/WhisperLiveKit
+https://github.com/QuentinFuxa/WhisperLiveKit
+Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+language: Python
+stars: 2,951
+forked: 298
+stars today: 272
+
+microsoft/mcp
+https://github.com/microsoft/mcp
+Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+language: C#
+stars: 1,127
+forked: 108
+stars today: 74
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+language: TypeScript
+stars: 10,778
+forked: 1,092
+stars today: 547
+
+OpenBMB/MiniCPM-V
+https://github.com/OpenBMB/MiniCPM-V
+MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
+language: Python
+stars: 20,477
+forked: 1,497
+stars today: 73
+
+twbs/bootstrap
+https://github.com/twbs/bootstrap
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+language: MDX
+stars: 173,225
+forked: 79,148
+stars today: 126
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 205,144
+forked: 47,554
+stars today: 195
+
+humanlayer/humanlayer
+https://github.com/humanlayer/humanlayer
+HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+language: TypeScript
+stars: 1,489
+forked: 144
+stars today: 57
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 17,995
+forked: 1,626
+stars today: 26
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 41,703
+forked: 2,985
+stars today: 9
+
+microsoft/terminal
+https://github.com/microsoft/terminal
+The new Windows Terminal and the original Windows console host, all in the same place!
+language: C++
+stars: 99,707
+forked: 8,720
+stars today: 151
+
+asgeirtj/system_prompts_leaks
+https://github.com/asgeirtj/system_prompts_leaks
+Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+language: JavaScript
+stars: 17,123
+forked: 2,811
+stars today: 2,081
+
+mercurjs/mercur
+https://github.com/mercurjs/mercur
+Open-source multi-vendor marketplace platform for B2B & B2C. Built on top of MedusaJS. Create your own custom marketplace. 🛍️
+language: TypeScript
+stars: 818
+forked: 160
+stars today: 60
+
+transformerlab/transformerlab-app
+https://github.com/transformerlab/transformerlab-app
+Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+language: TypeScript
+stars: 4,070
+forked: 372
+stars today: 54
+
+opf/openproject
+https://github.com/opf/openproject
+OpenProject is the leading open source project management software.
+language: Ruby
+stars: 12,439
+forked: 2,781
+stars today: 235
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 25,173
+forked: 3,932
+stars today: 533
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 96,686
+forked: 14,190
+stars today: 87
+
+mlabonne/llm-course
+https://github.com/mlabonne/llm-course
+Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+language: -
+stars: 60,864
+forked: 6,631
+stars today: 188

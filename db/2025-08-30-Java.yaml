@@ -1,0 +1,151 @@
+bazelbuild/bazel
+https://github.com/bazelbuild/bazel
+a fast, scalable, multi-language and extensible build system
+language: Java
+stars: 24,496
+forked: 4,280
+stars today: 4
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 59,795
+forked: 6,656
+stars today: 49
+
+microg/GmsCore
+https://github.com/microg/GmsCore
+Free implementation of Play Services
+language: Java
+stars: 10,768
+forked: 2,126
+stars today: 15
+
+eclipse/openvsx
+https://github.com/eclipse/openvsx
+An open-source registry for VS Code extensions
+language: Java
+stars: 1,598
+forked: 214
+stars today: 1
+
+Snailclimb/JavaGuide
+https://github.com/Snailclimb/JavaGuide
+「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+language: Java
+stars: 151,474
+forked: 45,981
+stars today: 25
+
+redis/lettuce
+https://github.com/redis/lettuce
+Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+language: Java
+stars: 5,629
+forked: 1,044
+stars today: 0
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 6,949
+forked: 476
+stars today: 13
+
+ReVanced/revanced-patches
+https://github.com/ReVanced/revanced-patches
+🧩 Patches for ReVanced
+language: Java
+stars: 4,107
+forked: 512
+stars today: 11
+
+dependency-check/DependencyCheck
+https://github.com/dependency-check/DependencyCheck
+OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+language: Java
+stars: 7,149
+forked: 1,371
+stars today: 4
+
+apache/lucene
+https://github.com/apache/lucene
+Apache Lucene open-source search software
+language: Java
+stars: 3,117
+forked: 1,247
+stars today: 4
+
+kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+language: Java
+stars: 20,442
+forked: 12,492
+stars today: 9
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,871
+forked: 2,939
+stars today: 2
+
+liquibase/liquibase
+https://github.com/liquibase/liquibase
+Main Liquibase Source
+language: Java
+stars: 5,201
+forked: 1,925
+stars today: 3
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 11,448
+forked: 2,354
+stars today: 7
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 16,424
+forked: 3,673
+stars today: 7
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 5,602
+forked: 1,161
+stars today: 17
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 2,355
+forked: 619
+stars today: 7
+
+debezium/debezium
+https://github.com/debezium/debezium
+Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+language: Java
+stars: 11,777
+forked: 2,737
+stars today: 4
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 64,779
+forked: 5,524
+stars today: 46
