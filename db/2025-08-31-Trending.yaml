@@ -1,0 +1,135 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 25,718
+forked: 3,958
+stars today: 293
+
+inventree/InvenTree
+https://github.com/inventree/InvenTree
+Open Source Inventory Management System
+language: Python
+stars: 5,604
+forked: 1,048
+stars today: 55
+
+microsoft/mcp
+https://github.com/microsoft/mcp
+Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+language: C#
+stars: 1,509
+forked: 127
+stars today: 755
+
+QuentinFuxa/WhisperLiveKit
+https://github.com/QuentinFuxa/WhisperLiveKit
+Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+language: Python
+stars: 3,696
+forked: 356
+stars today: 1,349
+
+activepieces/activepieces
+https://github.com/activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+language: TypeScript
+stars: 16,658
+forked: 2,427
+stars today: 34
+
+elixir-lang/expert
+https://github.com/elixir-lang/expert
+Official Elixir Language Server Protocol implementation
+language: Elixir
+stars: 1,087
+forked: 22
+stars today: 246
+
+laramies/theHarvester
+https://github.com/laramies/theHarvester
+E-mails, subdomains and names Harvester - OSINT
+language: Python
+stars: 13,545
+forked: 2,258
+stars today: 71
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,431
+forked: 10,011
+stars today: 16
+
+dockur/windows
+https://github.com/dockur/windows
+Windows inside a Docker container.
+language: Shell
+stars: 38,189
+forked: 2,863
+stars today: 624
+
+DevCaress/guia-entrevistas-de-programacion
+https://github.com/DevCaress/guia-entrevistas-de-programacion
+-
+language: -
+stars: 5,491
+forked: 751
+stars today: 177
+
+bin456789/reinstall
+https://github.com/bin456789/reinstall
+一键DD/重装脚本 (One-click reinstall OS on VPS)
+language: Shell
+stars: 6,975
+forked: 1,167
+stars today: 70
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 29,963
+forked: 2,057
+stars today: 52
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+language: TypeScript
+stars: 11,004
+forked: 1,104
+stars today: 271
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 22,761
+forked: 1,781
+stars today: 73
+
+awesomedata/awesome-public-datasets
+https://github.com/awesomedata/awesome-public-datasets
+A topic-centric list of HQ open datasets.
+language: -
+stars: 64,799
+forked: 10,266
+stars today: 125
+
+PathOfBuildingCommunity/PathOfBuilding-PoE2
+https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2
+-
+language: Lua
+stars: 1,206
+forked: 178
+stars today: 25
+
+JetBrains/koog
+https://github.com/JetBrains/koog
+Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+language: Kotlin
+stars: 1,759
+forked: 120
+stars today: 32
