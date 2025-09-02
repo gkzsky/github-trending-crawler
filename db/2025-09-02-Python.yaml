@@ -1,0 +1,135 @@
+QuentinFuxa/WhisperLiveKit
+https://github.com/QuentinFuxa/WhisperLiveKit
+Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+language: Python
+stars: 5,622
+forked: 484
+stars today: 1,415
+
+lllyasviel/Fooocus
+https://github.com/lllyasviel/Fooocus
+Focus on prompting and generating
+language: Python
+stars: 46,228
+forked: 7,421
+stars today: 21
+
+laramies/theHarvester
+https://github.com/laramies/theHarvester
+E-mails, subdomains and names Harvester - OSINT
+language: Python
+stars: 14,003
+forked: 2,279
+stars today: 278
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 11,143
+forked: 1,414
+stars today: 401
+
+OpenBMB/MiniCPM-V
+https://github.com/OpenBMB/MiniCPM-V
+MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+language: Python
+stars: 20,985
+forked: 1,545
+stars today: 214
+
+denizsafak/abogen
+https://github.com/denizsafak/abogen
+Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+language: Python
+stars: 3,273
+forked: 165
+stars today: 95
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 206,295
+forked: 47,691
+stars today: 494
+
+VectifyAI/PageIndex
+https://github.com/VectifyAI/PageIndex
+📄🧠 PageIndex: Document Index for Reasoning-based RAG
+language: Python
+stars: 2,062
+forked: 161
+stars today: 164
+
+RasaHQ/rasa
+https://github.com/RasaHQ/rasa
+💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+language: Python
+stars: 20,620
+forked: 4,842
+stars today: 27
+
+microsoft/graphrag
+https://github.com/microsoft/graphrag
+A modular graph-based Retrieval-Augmented Generation (RAG) system
+language: Python
+stars: 27,738
+forked: 2,874
+stars today: 62
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 367,069
+forked: 64,032
+stars today: 122
+
+freqtrade/freqtrade
+https://github.com/freqtrade/freqtrade
+Free, open source crypto trading bot
+language: Python
+stars: 41,802
+forked: 8,507
+stars today: 61
+
+Johnserf-Seed/f2
+https://github.com/Johnserf-Seed/f2
+High-speed downloader for multiple platforms
+language: Python
+stars: 1,502
+forked: 245
+stars today: 61
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 29,633
+forked: 4,583
+stars today: 150
+
+paperless-ngx/paperless-ngx
+https://github.com/paperless-ngx/paperless-ngx
+A community-supported supercharged document management system: scan, index and archive all your documents
+language: Python
+stars: 31,493
+forked: 1,921
+stars today: 250
+
+pydantic/pydantic-ai
+https://github.com/pydantic/pydantic-ai
+Agent Framework / shim to use Pydantic with LLMs
+language: Python
+stars: 12,065
+forked: 1,189
+stars today: 42
+
+HKUDS/AutoAgent
+https://github.com/HKUDS/AutoAgent
+"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+language: Python
+stars: 5,924
+forked: 808
+stars today: 64

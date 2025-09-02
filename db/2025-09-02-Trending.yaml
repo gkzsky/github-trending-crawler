@@ -1,0 +1,111 @@
+dockur/windows
+https://github.com/dockur/windows
+Windows inside a Docker container.
+language: Shell
+stars: 41,280
+forked: 3,043
+stars today: 1,792
+
+JetBrains/koog
+https://github.com/JetBrains/koog
+Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+language: Kotlin
+stars: 2,358
+forked: 149
+stars today: 240
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 26,210
+forked: 3,985
+stars today: 188
+
+QuentinFuxa/WhisperLiveKit
+https://github.com/QuentinFuxa/WhisperLiveKit
+Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+language: Python
+stars: 5,622
+forked: 484
+stars today: 1,415
+
+activepieces/activepieces
+https://github.com/activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+language: TypeScript
+stars: 17,031
+forked: 2,454
+stars today: 192
+
+lllyasviel/Fooocus
+https://github.com/lllyasviel/Fooocus
+Focus on prompting and generating
+language: Python
+stars: 46,228
+forked: 7,421
+stars today: 21
+
+laramies/theHarvester
+https://github.com/laramies/theHarvester
+E-mails, subdomains and names Harvester - OSINT
+language: Python
+stars: 14,003
+forked: 2,279
+stars today: 278
+
+humanlayer/humanlayer
+https://github.com/humanlayer/humanlayer
+HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+language: TypeScript
+stars: 1,967
+forked: 180
+stars today: 220
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 11,143
+forked: 1,414
+stars today: 401
+
+OpenBMB/MiniCPM-V
+https://github.com/OpenBMB/MiniCPM-V
+MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+language: Python
+stars: 20,985
+forked: 1,545
+stars today: 214
+
+ashishpatel26/500-AI-Agents-Projects
+https://github.com/ashishpatel26/500-AI-Agents-Projects
+The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+language: -
+stars: 7,629
+forked: 1,420
+stars today: 632
+
+zakirullin/cognitive-load
+https://github.com/zakirullin/cognitive-load
+🧠 Cognitive Load is what matters
+language: -
+stars: 9,814
+forked: 207
+stars today: 592
+
+denizsafak/abogen
+https://github.com/denizsafak/abogen
+Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+language: Python
+stars: 3,273
+forked: 165
+stars today: 95
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 41,637
+forked: 4,086
+stars today: 235

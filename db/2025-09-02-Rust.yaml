@@ -1,0 +1,159 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 26,210
+forked: 3,985
+stars today: 188
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 41,637
+forked: 4,086
+stars today: 235
+
+google/comprehensive-rust
+https://github.com/google/comprehensive-rust
+This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+language: Rust
+stars: 31,204
+forked: 1,856
+stars today: 314
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 10,803
+forked: 405
+stars today: 50
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,511
+forked: 272
+stars today: 6
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 37,862
+forked: 4,375
+stars today: 182
+
+zama-ai/tfhe-rs
+https://github.com/zama-ai/tfhe-rs
+TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
+language: Rust
+stars: 1,378
+forked: 245
+stars today: 8
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 25,850
+forked: 809
+stars today: 40
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 16,925
+forked: 672
+stars today: 114
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 30,230
+forked: 1,046
+stars today: 25
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 5,596
+forked: 254
+stars today: 26
+
+gleam-lang/gleam
+https://github.com/gleam-lang/gleam
+⭐️ A friendly language for building type-safe, scalable systems!
+language: Rust
+stars: 20,176
+forked: 859
+stars today: 15
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 5,572
+forked: 729
+stars today: 2
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 6,995
+forked: 370
+stars today: 41
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 48,595
+forked: 2,281
+stars today: 30
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 19,727
+forked: 698
+stars today: 119
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 4,336
+forked: 470
+stars today: 9
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 2,524
+forked: 202
+stars today: 4
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,358
+forked: 5,136
+stars today: 3
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 29,454
+forked: 2,740
+stars today: 12
