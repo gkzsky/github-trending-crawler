@@ -1,0 +1,175 @@
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 97,165
+forked: 14,265
+stars today: 115
+
+google/comprehensive-rust
+https://github.com/google/comprehensive-rust
+This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+language: Rust
+stars: 31,388
+forked: 1,862
+stars today: 67
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 16,604
+forked: 674
+stars today: 93
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 41,725
+forked: 4,090
+stars today: 154
+
+carthage-software/mago
+https://github.com/carthage-software/mago
+Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+language: Rust
+stars: 764
+forked: 41
+stars today: 91
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 10,841
+forked: 405
+stars today: 32
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,362
+forked: 5,135
+stars today: 7
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 25,889
+forked: 813
+stars today: 44
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 26,428
+forked: 3,994
+stars today: 250
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 45,251
+forked: 1,209
+stars today: 28
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,569
+forked: 3,640
+stars today: 6
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,351
+forked: 1,158
+stars today: 5
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 6,797
+forked: 605
+stars today: 33
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 23,452
+forked: 2,467
+stars today: 21
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 30,380
+forked: 1,272
+stars today: 30
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 19,771
+forked: 698
+stars today: 46
+
+kanidm/kanidm
+https://github.com/kanidm/kanidm
+Kanidm: A simple, secure, and fast identity management platform
+language: Rust
+stars: 3,954
+forked: 260
+stars today: 26
+
+aome510/spotify-player
+https://github.com/aome510/spotify-player
+A Spotify player in the terminal with full feature parity
+language: Rust
+stars: 5,307
+forked: 252
+stars today: 7
+
+AppFlowy-IO/AppFlowy-Cloud
+https://github.com/AppFlowy-IO/AppFlowy-Cloud
+Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+language: Rust
+stars: 1,630
+forked: 433
+stars today: 1
+
+akenshaw/flowsurface
+https://github.com/akenshaw/flowsurface
+A native desktop charting platform for crypto markets with intuitive orderflow visualizations
+language: Rust
+stars: 133
+forked: 35
+stars today: 8
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 29,463
+forked: 2,741
+stars today: 18
+
+sunface/rust-by-practice
+https://github.com/sunface/rust-by-practice
+Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+language: Rust
+stars: 13,214
+forked: 1,081
+stars today: 8

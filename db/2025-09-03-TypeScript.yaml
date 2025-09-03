@@ -1,0 +1,143 @@
+LukeGus/Termix
+https://github.com/LukeGus/Termix
+Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+language: TypeScript
+stars: 2,114
+forked: 78
+stars today: 153
+
+bytebot-ai/bytebot
+https://github.com/bytebot-ai/bytebot
+Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+language: TypeScript
+stars: 3,598
+forked: 298
+stars today: 147
+
+actions/checkout
+https://github.com/actions/checkout
+Action for checking out a repo
+language: TypeScript
+stars: 6,985
+forked: 2,140
+stars today: 12
+
+gristlabs/grist-core
+https://github.com/gristlabs/grist-core
+Grist is the evolution of spreadsheets.
+language: TypeScript
+stars: 9,130
+forked: 440
+stars today: 52
+
+NangoHQ/nango
+https://github.com/NangoHQ/nango
+A single API for all your integrations.
+language: TypeScript
+stars: 5,747
+forked: 538
+stars today: 20
+
+codexu/note-gen
+https://github.com/codexu/note-gen
+A cross-platform Markdown AI note-taking software.
+language: TypeScript
+stars: 8,844
+forked: 577
+stars today: 210
+
+clash-verge-rev/clash-verge-rev
+https://github.com/clash-verge-rev/clash-verge-rev
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+language: TypeScript
+stars: 72,995
+forked: 5,494
+stars today: 165
+
+Vanilagy/mediabunny
+https://github.com/Vanilagy/mediabunny
+Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
+language: TypeScript
+stars: 1,486
+forked: 51
+stars today: 165
+
+activepieces/activepieces
+https://github.com/activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+language: TypeScript
+stars: 17,257
+forked: 2,479
+stars today: 252
+
+a16z-infra/ai-town
+https://github.com/a16z-infra/ai-town
+A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+language: TypeScript
+stars: 8,789
+forked: 893
+stars today: 17
+
+directus/directus
+https://github.com/directus/directus
+The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+language: TypeScript
+stars: 32,224
+forked: 4,361
+stars today: 14
+
+humanlayer/humanlayer
+https://github.com/humanlayer/humanlayer
+HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+language: TypeScript
+stars: 2,063
+forked: 187
+stars today: 151
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 21,449
+forked: 2,329
+stars today: 45
+
+TibixDev/winboat
+https://github.com/TibixDev/winboat
+Run Windows apps on 🐧 Linux with ✨ seamless integration
+language: TypeScript
+stars: 1,117
+forked: 13
+stars today: 435
+
+teableio/teable
+https://github.com/teableio/teable
+✨ The Next Gen Airtable Alternative: No-Code Postgres
+language: TypeScript
+stars: 19,397
+forked: 1,005
+stars today: 21
+
+fastapi/full-stack-fastapi-template
+https://github.com/fastapi/full-stack-fastapi-template
+Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+language: TypeScript
+stars: 37,387
+forked: 7,110
+stars today: 38
+
+pixijs/pixijs
+https://github.com/pixijs/pixijs
+The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+language: TypeScript
+stars: 45,668
+forked: 4,889
+stars today: 9
+
+expo/expo
+https://github.com/expo/expo
+An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+language: TypeScript
+stars: 42,848
+forked: 8,325
+stars today: 33

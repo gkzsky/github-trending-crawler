@@ -1,0 +1,95 @@
+dockur/windows
+https://github.com/dockur/windows
+Windows inside a Docker container.
+language: Shell
+stars: 43,102
+forked: 3,130
+stars today: 1,979
+
+crewAIInc/crewAI
+https://github.com/crewAIInc/crewAI
+Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+language: Python
+stars: 36,976
+forked: 4,917
+stars today: 189
+
+JetBrains/koog
+https://github.com/JetBrains/koog
+Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+language: Kotlin
+stars: 2,684
+forked: 176
+stars today: 584
+
+ashishpatel26/500-AI-Agents-Projects
+https://github.com/ashishpatel26/500-AI-Agents-Projects
+The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+language: -
+stars: 8,597
+forked: 1,554
+stars today: 1,066
+
+google/mangle
+https://github.com/google/mangle
+-
+language: Go
+stars: 2,065
+forked: 102
+stars today: 138
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 11,505
+forked: 1,440
+stars today: 444
+
+pedroslopez/whatsapp-web.js
+https://github.com/pedroslopez/whatsapp-web.js
+A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+language: JavaScript
+stars: 18,249
+forked: 4,393
+stars today: 102
+
+LukeGus/Termix
+https://github.com/LukeGus/Termix
+Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+language: TypeScript
+stars: 2,114
+forked: 78
+stars today: 153
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 97,165
+forked: 14,265
+stars today: 115
+
+bytebot-ai/bytebot
+https://github.com/bytebot-ai/bytebot
+Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+language: TypeScript
+stars: 3,598
+forked: 298
+stars today: 147
+
+google/comprehensive-rust
+https://github.com/google/comprehensive-rust
+This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+language: Rust
+stars: 31,388
+forked: 1,862
+stars today: 67
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 10,797
+forked: 3,007
+stars today: 23
