@@ -1,0 +1,183 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 28,224
+forked: 2,703
+stars today: 42
+
+google/mangle
+https://github.com/google/mangle
+-
+language: Go
+stars: 2,156
+forked: 103
+stars today: 177
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 1,544
+forked: 159
+stars today: 59
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 29,914
+forked: 1,462
+stars today: 35
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 14,906
+forked: 1,451
+stars today: 18
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 24,631
+forked: 2,872
+stars today: 34
+
+vllm-project/aibrix
+https://github.com/vllm-project/aibrix
+Cost-efficient and pluggable Infrastructure components for GenAI inference
+language: Go
+stars: 4,181
+forked: 449
+stars today: 34
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 75,856
+forked: 4,748
+stars today: 48
+
+amitshekhariitbhu/go-backend-clean-architecture
+https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+language: Go
+stars: 5,506
+forked: 585
+stars today: 32
+
+tmc/langchaingo
+https://github.com/tmc/langchaingo
+LangChain for Go, the easiest way to write LLM-based programs in Go
+language: Go
+stars: 7,538
+forked: 936
+stars today: 11
+
+yorukot/superfile
+https://github.com/yorukot/superfile
+Pretty fancy and modern terminal file manager
+language: Go
+stars: 14,919
+forked: 376
+stars today: 52
+
+drakkan/sftpgo
+https://github.com/drakkan/sftpgo
+Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+language: Go
+stars: 10,964
+forked: 853
+stars today: 15
+
+coredns/coredns
+https://github.com/coredns/coredns
+CoreDNS is a DNS server that chains plugins
+language: Go
+stars: 13,320
+forked: 2,298
+stars today: 5
+
+google/pprof
+https://github.com/google/pprof
+pprof is a tool for visualization and analysis of profiling data
+language: Go
+stars: 8,721
+forked: 635
+stars today: 6
+
+quii/learn-go-with-tests
+https://github.com/quii/learn-go-with-tests
+Learn Go with test-driven development
+language: Go
+stars: 23,129
+forked: 2,902
+stars today: 12
+
+gravitational/teleport
+https://github.com/gravitational/teleport
+The easiest, and most secure way to access and protect all of your infrastructure.
+language: Go
+stars: 19,097
+forked: 1,915
+stars today: 6
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 11,933
+forked: 1,783
+stars today: 18
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,600
+forked: 18,800
+stars today: 6
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 16,253
+forked: 1,938
+stars today: 23
+
+ccfos/nightingale
+https://github.com/ccfos/nightingale
+Nightingale for monitoring and alerting, just as Grafana for visualization.
+language: Go
+stars: 11,368
+forked: 1,568
+stars today: 18
+
+anchore/grype
+https://github.com/anchore/grype
+A vulnerability scanner for container images and filesystems
+language: Go
+stars: 10,564
+forked: 682
+stars today: 10
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,889
+forked: 2,985
+stars today: 5
+
+oapi-codegen/oapi-codegen
+https://github.com/oapi-codegen/oapi-codegen
+Generate Go client and server boilerplate from OpenAPI 3 specifications
+language: Go
+stars: 7,552
+forked: 970
+stars today: 6

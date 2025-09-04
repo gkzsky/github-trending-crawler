@@ -1,0 +1,119 @@
+oraios/serena
+https://github.com/oraios/serena
+A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+language: Python
+stars: 11,220
+forked: 788
+stars today: 229
+
+HKUDS/DeepCode
+https://github.com/HKUDS/DeepCode
+"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+language: Python
+stars: 5,383
+forked: 663
+stars today: 160
+
+crewAIInc/crewAI
+https://github.com/crewAIInc/crewAI
+Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+language: Python
+stars: 37,424
+forked: 4,943
+stars today: 804
+
+murtaza-nasir/maestro
+https://github.com/murtaza-nasir/maestro
+MAESTRO is an AI-powered research application designed to streamline complex research tasks.
+language: Python
+stars: 1,141
+forked: 99
+stars today: 68
+
+QwenLM/Qwen3
+https://github.com/QwenLM/Qwen3
+Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+language: Python
+stars: 24,360
+forked: 1,686
+stars today: 26
+
+NVIDIA/Megatron-LM
+https://github.com/NVIDIA/Megatron-LM
+Ongoing research training transformer models at scale
+language: Python
+stars: 13,445
+forked: 3,054
+stars today: 21
+
+livekit/agents
+https://github.com/livekit/agents
+A powerful framework for building realtime voice AI agents 🤖🎙️📹
+language: Python
+stars: 7,397
+forked: 1,233
+stars today: 16
+
+lllyasviel/Fooocus
+https://github.com/lllyasviel/Fooocus
+Focus on prompting and generating
+language: Python
+stars: 46,346
+forked: 7,429
+stars today: 24
+
+microsoft/rStar
+https://github.com/microsoft/rStar
+-
+language: Python
+stars: 954
+forked: 87
+stars today: 48
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 11,664
+forked: 1,449
+stars today: 283
+
+denizsafak/abogen
+https://github.com/denizsafak/abogen
+Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+language: Python
+stars: 3,444
+forked: 176
+stars today: 36
+
+huggingface/diffusers
+https://github.com/huggingface/diffusers
+🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+language: Python
+stars: 30,591
+forked: 6,285
+stars today: 26
+
+JefferyHcool/BiliNote
+https://github.com/JefferyHcool/BiliNote
+AI 视频笔记生成工具 让 AI 为你的视频做笔记
+language: Python
+stars: 3,477
+forked: 392
+stars today: 30
+
+PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR
+Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+language: Python
+stars: 53,316
+forked: 8,575
+stars today: 26
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: Python
+stars: 4,040
+forked: 415
+stars today: 32

@@ -1,0 +1,143 @@
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+language: Java
+stars: 20,621
+forked: 1,753
+stars today: 45
+
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 6,620
+forked: 1,846
+stars today: 8
+
+dataease/dataease
+https://github.com/dataease/dataease
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+language: Java
+stars: 21,693
+forked: 3,754
+stars today: 15
+
+metersphere/metersphere
+https://github.com/metersphere/metersphere
+MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+language: Java
+stars: 12,431
+forked: 2,702
+stars today: 11
+
+apache/rocketmq
+https://github.com/apache/rocketmq
+Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+language: Java
+stars: 22,066
+forked: 11,935
+stars today: 1
+
+spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework
+Spring Framework
+language: Java
+stars: 58,777
+forked: 38,680
+stars today: 10
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 45,141
+forked: 3,824
+stars today: 14
+
+exadel-inc/CompreFace
+https://github.com/exadel-inc/CompreFace
+Leading free and open-source face recognition system
+language: Java
+stars: 6,825
+forked: 934
+stars today: 16
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 5,658
+forked: 1,182
+stars today: 9
+
+eugenp/tutorials
+https://github.com/eugenp/tutorials
+Getting Started with Spring Boot 3:
+language: Java
+stars: 37,247
+forked: 54,142
+stars today: 3
+
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 28,732
+forked: 8,470
+stars today: 2
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 24,381
+forked: 9,123
+stars today: 3
+
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 11,001
+forked: 3,206
+stars today: 5
+
+binarywang/WxJava
+https://github.com/binarywang/WxJava
+微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+language: Java
+stars: 31,850
+forked: 8,969
+stars today: 8
+
+zxing/zxing
+https://github.com/zxing/zxing
+ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+language: Java
+stars: 33,566
+forked: 9,420
+stars today: 6
+
+nayuki/QR-Code-generator
+https://github.com/nayuki/QR-Code-generator
+High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+language: Java
+stars: 6,079
+forked: 1,200
+stars today: 3
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 16,444
+forked: 3,675
+stars today: 11
+
+mapstruct/mapstruct
+https://github.com/mapstruct/mapstruct
+An annotation processor for generating type-safe bean mappers
+language: Java
+stars: 7,483
+forked: 998
+stars today: 3
