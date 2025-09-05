@@ -1,0 +1,167 @@
+bytebot-ai/bytebot
+https://github.com/bytebot-ai/bytebot
+Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+language: TypeScript
+stars: 4,717
+forked: 474
+stars today: 394
+
+LukeGus/Termix
+https://github.com/LukeGus/Termix
+Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+language: TypeScript
+stars: 2,925
+forked: 108
+stars today: 422
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 135,158
+forked: 42,398
+stars today: 290
+
+TibixDev/winboat
+https://github.com/TibixDev/winboat
+Run Windows apps on 🐧 Linux with ✨ seamless integration
+language: TypeScript
+stars: 1,590
+forked: 19
+stars today: 247
+
+nuxt/nuxt
+https://github.com/nuxt/nuxt
+The Intuitive Vue Framework.
+language: TypeScript
+stars: 58,100
+forked: 5,352
+stars today: 20
+
+Lissy93/web-check
+https://github.com/Lissy93/web-check
+🕵️‍♂️ All-in-one OSINT tool for analysing any website
+language: TypeScript
+stars: 26,378
+forked: 2,107
+stars today: 24
+
+gristlabs/grist-core
+https://github.com/gristlabs/grist-core
+Grist is the evolution of spreadsheets.
+language: TypeScript
+stars: 9,288
+forked: 450
+stars today: 86
+
+microsoft/TypeScript
+https://github.com/microsoft/TypeScript
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+language: TypeScript
+stars: 105,831
+forked: 12,976
+stars today: 29
+
+EvolutionAPI/evolution-api
+https://github.com/EvolutionAPI/evolution-api
+Evolution API is an open-source WhatsApp integration API
+language: TypeScript
+stars: 5,054
+forked: 4,089
+stars today: 25
+
+grafana/grafana
+https://github.com/grafana/grafana
+The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+language: TypeScript
+stars: 69,756
+forked: 12,907
+stars today: 18
+
+lit/lit
+https://github.com/lit/lit
+Lit is a simple library for building fast, lightweight web components.
+language: TypeScript
+stars: 20,236
+forked: 996
+stars today: 25
+
+11cafe/jaaz
+https://github.com/11cafe/jaaz
+The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+language: TypeScript
+stars: 2,477
+forked: 249
+stars today: 46
+
+langgenius/dify
+https://github.com/langgenius/dify
+Production-ready platform for agentic workflow development.
+language: TypeScript
+stars: 113,108
+forked: 17,315
+stars today: 126
+
+expo/expo
+https://github.com/expo/expo
+An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+language: TypeScript
+stars: 42,908
+forked: 8,370
+stars today: 31
+
+backstage/backstage
+https://github.com/backstage/backstage
+Backstage is an open framework for building developer portals
+language: TypeScript
+stars: 31,314
+forked: 6,762
+stars today: 22
+
+shadcn-ui/ui
+https://github.com/shadcn-ui/ui
+A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+language: TypeScript
+stars: 94,256
+forked: 6,644
+stars today: 139
+
+browserbase/stagehand
+https://github.com/browserbase/stagehand
+The AI Browser Automation Framework
+language: TypeScript
+stars: 16,796
+forked: 1,018
+stars today: 29
+
+open-telemetry/opentelemetry-demo
+https://github.com/open-telemetry/opentelemetry-demo
+This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+language: TypeScript
+stars: 2,551
+forked: 4,524
+stars today: 2
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 18,265
+forked: 1,731
+stars today: 27
+
+langchain-ai/open-swe
+https://github.com/langchain-ai/open-swe
+An Open-Source Asynchronous Coding Agent
+language: TypeScript
+stars: 4,588
+forked: 583
+stars today: 27
+
+galaxy-s10/billd-desk
+https://github.com/galaxy-s10/billd-desk
+基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+language: TypeScript
+stars: 4,081
+forked: 497
+stars today: 63
