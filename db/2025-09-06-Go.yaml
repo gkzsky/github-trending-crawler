@@ -1,0 +1,167 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 28,509
+forked: 2,724
+stars today: 148
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+Find, verify, and analyze leaked credentials
+language: Go
+stars: 20,789
+forked: 1,984
+stars today: 216
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 14,930
+forked: 1,454
+stars today: 8
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 50,568
+forked: 2,619
+stars today: 228
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,908
+forked: 2,996
+stars today: 9
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 23,147
+forked: 1,770
+stars today: 16
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 18,398
+forked: 861
+stars today: 15
+
+opencontainers/image-spec
+https://github.com/opencontainers/image-spec
+OCI Image Format
+language: Go
+stars: 3,871
+forked: 741
+stars today: 5
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,614
+forked: 18,802
+stars today: 12
+
+asdf-vm/asdf
+https://github.com/asdf-vm/asdf
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+language: Go
+stars: 24,210
+forked: 890
+stars today: 8
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,429
+forked: 7,319
+stars today: 4
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,491
+forked: 9,696
+stars today: 3
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 9,975
+forked: 1,185
+stars today: 11
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 60,238
+forked: 9,756
+stars today: 17
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 24,668
+forked: 2,876
+stars today: 16
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 50,231
+forked: 10,169
+stars today: 12
+
+semaphoreui/semaphore
+https://github.com/semaphoreui/semaphore
+Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+language: Go
+stars: 12,455
+forked: 1,165
+stars today: 20
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+Go library for the WhatsApp web multidevice API
+language: Go
+stars: 4,231
+forked: 671
+stars today: 18
+
+flipped-aurora/gin-vue-admin
+https://github.com/flipped-aurora/gin-vue-admin
+🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+language: Go
+stars: 23,471
+forked: 6,819
+stars today: 13
+
+fsnotify/fsnotify
+https://github.com/fsnotify/fsnotify
+Cross-platform filesystem notifications for Go.
+language: Go
+stars: 10,301
+forked: 953
+stars today: 3
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 33,071
+forked: 4,430
+stars today: 12

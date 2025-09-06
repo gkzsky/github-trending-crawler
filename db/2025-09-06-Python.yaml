@@ -1,0 +1,119 @@
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: Python
+stars: 21,475
+forked: 1,631
+stars today: 144
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 8,970
+forked: 749
+stars today: 297
+
+coleam00/ottomator-agents
+https://github.com/coleam00/ottomator-agents
+All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+language: Python
+stars: 3,840
+forked: 1,416
+stars today: 34
+
+apache/airflow
+https://github.com/apache/airflow
+Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+language: Python
+stars: 42,011
+forked: 15,529
+stars today: 40
+
+TobikoData/sqlmesh
+https://github.com/TobikoData/sqlmesh
+Scalable and efficient data transformation framework - backwards compatible with dbt.
+language: Python
+stars: 2,599
+forked: 254
+stars today: 6
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 28,120
+forked: 9,240
+stars today: 19
+
+qwersyk/Newelle
+https://github.com/qwersyk/Newelle
+Newelle - Your Ultimate Virtual Assistant
+language: Python
+stars: 777
+forked: 58
+stars today: 12
+
+eriklindernoren/ML-From-Scratch
+https://github.com/eriklindernoren/ML-From-Scratch
+Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+language: Python
+stars: 28,183
+forked: 4,873
+stars today: 321
+
+microsoft/autogen
+https://github.com/microsoft/autogen
+A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+language: Python
+stars: 49,449
+forked: 7,551
+stars today: 36
+
+OpenPipe/ART
+https://github.com/OpenPipe/ART
+Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+language: Python
+stars: 6,668
+forked: 449
+stars today: 51
+
+NVIDIA/Megatron-LM
+https://github.com/NVIDIA/Megatron-LM
+Ongoing research training transformer models at scale
+language: Python
+stars: 13,487
+forked: 3,065
+stars today: 22
+
+HKUDS/DeepCode
+https://github.com/HKUDS/DeepCode
+"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+language: Python
+stars: 5,614
+forked: 729
+stars today: 84
+
+pytorch/ao
+https://github.com/pytorch/ao
+PyTorch native quantization and sparsity for training and inference
+language: Python
+stars: 2,313
+forked: 331
+stars today: 7
+
+oraios/serena
+https://github.com/oraios/serena
+A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+language: Python
+stars: 11,566
+forked: 804
+stars today: 154
+
+philz1337x/clarity-upscaler
+https://github.com/philz1337x/clarity-upscaler
+Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
+language: Python
+stars: 4,716
+forked: 491
+stars today: 45
