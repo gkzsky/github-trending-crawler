@@ -1,0 +1,103 @@
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 17,187
+forked: 713
+stars today: 146
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 28,614
+forked: 2,731
+stars today: 111
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+Find, verify, and analyze leaked credentials
+language: Go
+stars: 21,013
+forked: 1,998
+stars today: 212
+
+rails/rails
+https://github.com/rails/rails
+Ruby on Rails
+language: Ruby
+stars: 57,488
+forked: 21,955
+stars today: 27
+
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: Python
+stars: 21,601
+forked: 1,640
+stars today: 167
+
+coleam00/ottomator-agents
+https://github.com/coleam00/ottomator-agents
+All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+language: Python
+stars: 3,931
+forked: 1,427
+stars today: 71
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 9,219
+forked: 765
+stars today: 299
+
+mack-a/v2ray-agent
+https://github.com/mack-a/v2ray-agent
+Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+language: Shell
+stars: 17,103
+forked: 5,102
+stars today: 176
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,919
+forked: 2,949
+stars today: 9
+
+apache/airflow
+https://github.com/apache/airflow
+Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+language: Python
+stars: 42,152
+forked: 15,543
+stars today: 198
+
+apple/embedding-atlas
+https://github.com/apple/embedding-atlas
+Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+language: TypeScript
+stars: 3,592
+forked: 174
+stars today: 67
+
+Eventual-Inc/Daft
+https://github.com/Eventual-Inc/Daft
+Distributed query engine providing simple and reliable data processing for any modality and scale
+language: Rust
+stars: 3,685
+forked: 276
+stars today: 61
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 65,270
+forked: 5,567
+stars today: 89
