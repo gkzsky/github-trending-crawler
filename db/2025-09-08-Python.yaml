@@ -1,0 +1,119 @@
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 9,945
+forked: 808
+stars today: 264
+
+coleam00/ottomator-agents
+https://github.com/coleam00/ottomator-agents
+All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+language: Python
+stars: 4,036
+forked: 1,441
+stars today: 99
+
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: Python
+stars: 21,727
+forked: 1,654
+stars today: 119
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 37,970
+forked: 1,115
+stars today: 2,214
+
+Vector-Wangel/XLeRobot
+https://github.com/Vector-Wangel/XLeRobot
+XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
+language: Python
+stars: 2,010
+forked: 193
+stars today: 225
+
+Cinnamon/kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+language: Python
+stars: 23,196
+forked: 1,894
+stars today: 138
+
+NVIDIA/TensorRT-Model-Optimizer
+https://github.com/NVIDIA/TensorRT-Model-Optimizer
+A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
+language: Python
+stars: 1,281
+forked: 139
+stars today: 25
+
+wasi-master/13ft
+https://github.com/wasi-master/13ft
+My own custom 12ft.io replacement
+language: Python
+stars: 3,744
+forked: 203
+stars today: 32
+
+lllyasviel/stable-diffusion-webui-forge
+https://github.com/lllyasviel/stable-diffusion-webui-forge
+-
+language: Python
+stars: 11,551
+forked: 1,276
+stars today: 7
+
+infinition/Bjorn
+https://github.com/infinition/Bjorn
+Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
+language: Python
+stars: 4,773
+forked: 265
+stars today: 9
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 318,873
+forked: 52,154
+stars today: 105
+
+awslabs/agent-squad
+https://github.com/awslabs/agent-squad
+Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+language: Python
+stars: 6,683
+forked: 596
+stars today: 109
+
+PacktPublishing/LLM-Engineers-Handbook
+https://github.com/PacktPublishing/LLM-Engineers-Handbook
+The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+language: Python
+stars: 4,084
+forked: 925
+stars today: 18
+
+Alvin9999/new-pac
+https://github.com/Alvin9999/new-pac
+翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+language: Python
+stars: 68,050
+forked: 10,319
+stars today: 49
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 73,011
+forked: 10,565
+stars today: 30
