@@ -1,0 +1,127 @@
+henrygd/beszel
+https://github.com/henrygd/beszel
+Lightweight server monitoring hub with historical data, docker stats, and alerts.
+language: Go
+stars: 14,912
+forked: 455
+stars today: 311
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+Find, verify, and analyze leaked credentials
+language: Go
+stars: 21,272
+forked: 2,009
+stars today: 114
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 28,756
+forked: 2,744
+stars today: 61
+
+charmbracelet/glow
+https://github.com/charmbracelet/glow
+Render markdown on the CLI, with pizzazz! 💅🏻
+language: Go
+stars: 19,136
+forked: 449
+stars today: 35
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 26,466
+forked: 3,107
+stars today: 58
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 10,885
+forked: 996
+stars today: 18
+
+aldinokemal/go-whatsapp-web-multidevice
+https://github.com/aldinokemal/go-whatsapp-web-multidevice
+GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
+language: Go
+stars: 2,369
+forked: 592
+stars today: 19
+
+charmbracelet/huh
+https://github.com/charmbracelet/huh
+Build terminal forms and prompts 🤷🏻‍♀️
+language: Go
+stars: 6,008
+forked: 196
+stars today: 9
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 31,118
+forked: 4,561
+stars today: 51
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 24,647
+forked: 1,977
+stars today: 21
+
+k1LoW/deck
+https://github.com/k1LoW/deck
+deck is a tool for creating deck using Markdown and Google Slides.
+language: Go
+stars: 814
+forked: 27
+stars today: 9
+
+gokcehan/lf
+https://github.com/gokcehan/lf
+Terminal file manager
+language: Go
+stars: 8,561
+forked: 347
+stars today: 15
+
+ipfs/kubo
+https://github.com/ipfs/kubo
+An IPFS implementation in Go
+language: Go
+stars: 16,706
+forked: 3,104
+stars today: 4
+
+v2fly/v2ray-core
+https://github.com/v2fly/v2ray-core
+A platform for building proxies to bypass network restrictions.
+language: Go
+stars: 31,971
+forked: 4,877
+stars today: 10
+
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,604
+forked: 1,292
+stars today: 5
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 30,021
+forked: 2,116
+stars today: 15

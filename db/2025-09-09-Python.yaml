@@ -1,0 +1,111 @@
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 10,800
+forked: 865
+stars today: 1,178
+
+Cinnamon/kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+language: Python
+stars: 23,426
+forked: 1,916
+stars today: 116
+
+Vector-Wangel/XLeRobot
+https://github.com/Vector-Wangel/XLeRobot
+XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
+language: Python
+stars: 2,462
+forked: 234
+stars today: 522
+
+megadose/toutatis
+https://github.com/megadose/toutatis
+Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+language: Python
+stars: 3,158
+forked: 657
+stars today: 13
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 39,857
+forked: 1,205
+stars today: 1,513
+
+coderamp-labs/gitingest
+https://github.com/coderamp-labs/gitingest
+Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
+language: Python
+stars: 12,299
+forked: 908
+stars today: 141
+
+mealie-recipes/mealie
+https://github.com/mealie-recipes/mealie
+Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+language: Python
+stars: 10,011
+forked: 973
+stars today: 17
+
+ungoogled-software/ungoogled-chromium
+https://github.com/ungoogled-software/ungoogled-chromium
+Google Chromium, sans integration with Google
+language: Python
+stars: 23,905
+forked: 984
+stars today: 29
+
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: Python
+stars: 21,876
+forked: 1,675
+stars today: 191
+
+scipy/scipy
+https://github.com/scipy/scipy
+SciPy library main repository
+language: Python
+stars: 13,995
+forked: 5,469
+stars today: 3
+
+coleam00/ottomator-agents
+https://github.com/coleam00/ottomator-agents
+All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+language: Python
+stars: 4,103
+forked: 1,450
+stars today: 117
+
+NVIDIA/TensorRT-Model-Optimizer
+https://github.com/NVIDIA/TensorRT-Model-Optimizer
+A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
+language: Python
+stars: 1,310
+forked: 145
+stars today: 52
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 73,041
+forked: 10,569
+stars today: 40
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 39,914
+forked: 7,045
+stars today: 78

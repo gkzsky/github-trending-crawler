@@ -1,0 +1,111 @@
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 10,800
+forked: 865
+stars today: 1,178
+
+microsoft/ai-agents-for-beginners
+https://github.com/microsoft/ai-agents-for-beginners
+12 Lessons to Get Started Building AI Agents
+language: Jupyter Notebook
+stars: 36,929
+forked: 11,940
+stars today: 183
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 17,809
+forked: 749
+stars today: 301
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 18,448
+forked: 1,755
+stars today: 39
+
+openwrt/openwrt
+https://github.com/openwrt/openwrt
+This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+language: C
+stars: 23,766
+forked: 11,524
+stars today: 135
+
+Kilo-Org/kilocode
+https://github.com/Kilo-Org/kilocode
+Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
+language: TypeScript
+stars: 9,277
+forked: 887
+stars today: 558
+
+11cafe/jaaz
+https://github.com/11cafe/jaaz
+The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+language: TypeScript
+stars: 3,016
+forked: 277
+stars today: 103
+
+x1xhlol/system-prompts-and-models-of-ai-tools
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+language: -
+stars: 81,983
+forked: 22,831
+stars today: 459
+
+microsoft/generative-ai-for-beginners
+https://github.com/microsoft/generative-ai-for-beginners
+21 Lessons, Get Started Building with Generative AI
+language: Jupyter Notebook
+stars: 97,298
+forked: 50,899
+stars today: 130
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 66,003
+forked: 5,606
+stars today: 382
+
+Cinnamon/kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+language: Python
+stars: 23,426
+forked: 1,916
+stars today: 116
+
+Zie619/n8n-workflows
+https://github.com/Zie619/n8n-workflows
+all of the workflows of n8n i could find (also from the site itself)
+language: HTML
+stars: 27,073
+forked: 783
+stars today: 204
+
+Vector-Wangel/XLeRobot
+https://github.com/Vector-Wangel/XLeRobot
+XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
+language: Python
+stars: 2,462
+forked: 234
+stars today: 522
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 21,303
+forked: 1,538
+stars today: 115
