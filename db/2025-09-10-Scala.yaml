@@ -1,0 +1,183 @@
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,612
+forked: 354
+stars today: 0
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 64,708
+forked: 12,312
+stars today: 748
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,263
+forked: 1,906
+stars today: 3
+
+playframework/playframework
+https://github.com/playframework/playframework
+The Community Maintained High Velocity Web Framework For Java and Scala.
+language: Scala
+stars: 12,583
+forked: 4,081
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 39
+forked: 34
+stars today: 0
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,613
+forked: 808
+stars today: 1
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,071
+forked: 2,469
+stars today: 4
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 1,958
+forked: 752
+stars today: 3
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,434
+forked: 575
+stars today: 3
+
+awslabs/deequ
+https://github.com/awslabs/deequ
+Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+language: Scala
+stars: 3,501
+forked: 566
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,813
+forked: 668
+stars today: 2
+
+sbt/sbt
+https://github.com/sbt/sbt
+sbt, the interactive build tool
+language: Scala
+stars: 4,862
+forked: 950
+stars today: 1
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,546
+forked: 1,182
+stars today: 2
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,387
+forked: 639
+stars today: 1
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 868
+forked: 204
+stars today: 0
+
+akka/akka
+https://github.com/akka/akka
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,210
+forked: 3,587
+stars today: 1
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 2,239
+forked: 389
+stars today: 1
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 41,848
+forked: 28,794
+stars today: 5
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 4,271
+forked: 1,370
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,102
+forked: 1,116
+stars today: 1
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,732
+forked: 568
+stars today: 2
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 341
+forked: 96
+stars today: 0
+
+guardian/grid
+https://github.com/guardian/grid
+The Guardian’s image management system
+language: Scala
+stars: 1,448
+forked: 120
+stars today: 0

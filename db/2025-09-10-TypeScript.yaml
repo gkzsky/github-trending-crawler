@@ -1,0 +1,135 @@
+vercel/examples
+https://github.com/vercel/examples
+Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+language: TypeScript
+stars: 4,244
+forked: 1,412
+stars today: 73
+
+11cafe/jaaz
+https://github.com/11cafe/jaaz
+The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+language: TypeScript
+stars: 3,560
+forked: 314
+stars today: 675
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 76,181
+forked: 4,031
+stars today: 510
+
+Kilo-Org/kilocode
+https://github.com/Kilo-Org/kilocode
+Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
+language: TypeScript
+stars: 9,524
+forked: 908
+stars today: 351
+
+lightdash/lightdash
+https://github.com/lightdash/lightdash
+Self-serve BI to 10x your data team ⚡️
+language: TypeScript
+stars: 5,064
+forked: 608
+stars today: 8
+
+EcoPasteHub/EcoPaste
+https://github.com/EcoPasteHub/EcoPaste
+🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+language: TypeScript
+stars: 6,116
+forked: 284
+stars today: 16
+
+open-metadata/OpenMetadata
+https://github.com/open-metadata/OpenMetadata
+OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+language: TypeScript
+stars: 7,481
+forked: 1,412
+stars today: 8
+
+JOYCEQL/magic-resume
+https://github.com/JOYCEQL/magic-resume
+free online AI resume editor
+language: TypeScript
+stars: 2,230
+forked: 264
+stars today: 190
+
+humanlayer/12-factor-agents
+https://github.com/humanlayer/12-factor-agents
+What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+language: TypeScript
+stars: 14,103
+forked: 1,024
+stars today: 145
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 335,737
+forked: 42,714
+stars today: 117
+
+jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet
+Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+language: TypeScript
+stars: 27,094
+forked: 7,416
+stars today: 25
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 18,588
+forked: 1,771
+stars today: 201
+
+Dokploy/dokploy
+https://github.com/Dokploy/dokploy
+Open Source Alternative to Vercel, Netlify and Heroku.
+language: TypeScript
+stars: 24,225
+forked: 1,368
+stars today: 27
+
+microsoft/azure-devops-mcp
+https://github.com/microsoft/azure-devops-mcp
+The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+language: TypeScript
+stars: 736
+forked: 227
+stars today: 9
+
+supabase/supabase
+https://github.com/supabase/supabase
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 88,190
+forked: 9,759
+stars today: 45
+
+apecloud/ApeRAG
+https://github.com/apecloud/ApeRAG
+ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
+language: Python
+stars: 322
+forked: 25
+stars today: 18
+
+ruvnet/claude-flow
+https://github.com/ruvnet/claude-flow
+🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
+language: TypeScript
+stars: 7,399
+forked: 1,015
+stars today: 53

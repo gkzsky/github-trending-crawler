@@ -1,0 +1,151 @@
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 Locally hosted web application that allows you to perform various operations on PDF files
+language: Java
+stars: 66,371
+forked: 5,634
+stars today: 441
+
+spring-projects/spring-ai
+https://github.com/spring-projects/spring-ai
+An Application Framework for AI Engineering
+language: Java
+stars: 6,675
+forked: 1,869
+stars today: 10
+
+FIRST-Tech-Challenge/FtcRobotController
+https://github.com/FIRST-Tech-Challenge/FtcRobotController
+FTC Android Studio Workspace for robot programming in Android Studio
+language: Java
+stars: 1,043
+forked: 6,813
+stars today: 7
+
+LawnchairLauncher/lawnchair
+https://github.com/LawnchairLauncher/lawnchair
+No clever tagline needed.
+language: Java
+stars: 11,023
+forked: 1,354
+stars today: 32
+
+krahets/hello-algo
+https://github.com/krahets/hello-algo
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+language: Java
+stars: 116,383
+forked: 14,372
+stars today: 79
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 5,743
+forked: 1,208
+stars today: 21
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 2,407
+forked: 639
+stars today: 6
+
+OpenEMS/openems
+https://github.com/OpenEMS/openems
+OpenEMS - Open Source Energy Management System
+language: Java
+stars: 1,127
+forked: 494
+stars today: 3
+
+kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+language: Java
+stars: 20,591
+forked: 12,549
+stars today: 15
+
+logisim-evolution/logisim-evolution
+https://github.com/logisim-evolution/logisim-evolution
+Digital logic design tool and simulator
+language: Java
+stars: 6,137
+forked: 773
+stars today: 6
+
+ReactiveX/RxJava
+https://github.com/ReactiveX/RxJava
+RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+language: Java
+stars: 48,308
+forked: 7,610
+stars today: 7
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 29,498
+forked: 7,599
+stars today: 23
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 10,621
+forked: 2,125
+stars today: 9
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 16,488
+forked: 3,683
+stars today: 8
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 24,783
+forked: 7,156
+stars today: 10
+
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 44,920
+forked: 5,057
+stars today: 29
+
+tencentmusic/supersonic
+https://github.com/tencentmusic/supersonic
+SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+language: Java
+stars: 4,163
+forked: 829
+stars today: 10
+
+neo4j/neo4j
+https://github.com/neo4j/neo4j
+Graphs for Everyone
+language: Java
+stars: 15,036
+forked: 2,507
+stars today: 11
+
+conductor-oss/conductor
+https://github.com/conductor-oss/conductor
+Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
+language: Java
+stars: 28,976
+forked: 709
+stars today: 373
