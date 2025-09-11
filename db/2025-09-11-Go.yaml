@@ -1,0 +1,183 @@
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 3,204
+forked: 261
+stars today: 361
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 9,963
+forked: 887
+stars today: 209
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 22,051
+forked: 697
+stars today: 22
+
+aldinokemal/go-whatsapp-web-multidevice
+https://github.com/aldinokemal/go-whatsapp-web-multidevice
+GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
+language: Go
+stars: 2,398
+forked: 602
+stars today: 14
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+Open device management
+language: Go
+stars: 5,518
+forked: 660
+stars today: 7
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 15,650
+forked: 1,090
+stars today: 20
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,771
+forked: 1,728
+stars today: 4
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 64,676
+forked: 2,233
+stars today: 64
+
+databus23/helm-diff
+https://github.com/databus23/helm-diff
+A helm plugin that shows a diff explaining what a helm upgrade would change
+language: Go
+stars: 3,141
+forked: 305
+stars today: 17
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 18,915
+forked: 8,440
+stars today: 3
+
+spf13/viper
+https://github.com/spf13/viper
+Go configuration with fangs
+language: Go
+stars: 29,228
+forked: 2,067
+stars today: 2
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,205
+forked: 5,701
+stars today: 10
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 10,935
+forked: 1,000
+stars today: 32
+
+sst/opencode
+https://github.com/sst/opencode
+AI coding agent, built for the terminal.
+language: Go
+stars: 22,671
+forked: 1,567
+stars today: 129
+
+dexidp/dex
+https://github.com/dexidp/dex
+OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+language: Go
+stars: 10,171
+forked: 1,837
+stars today: 12
+
+JanDeDobbeleer/oh-my-posh
+https://github.com/JanDeDobbeleer/oh-my-posh
+The most customisable and low-latency cross platform/shell prompt renderer
+language: Go
+stars: 20,013
+forked: 2,581
+stars today: 23
+
+golang-migrate/migrate
+https://github.com/golang-migrate/migrate
+Database migrations. CLI and Golang library.
+language: Go
+stars: 17,355
+forked: 1,508
+stars today: 6
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,594
+forked: 6,356
+stars today: 13
+
+kubernetes/autoscaler
+https://github.com/kubernetes/autoscaler
+Autoscaling components for Kubernetes
+language: Go
+stars: 8,569
+forked: 4,209
+stars today: 6
+
+99designs/gqlgen
+https://github.com/99designs/gqlgen
+go generate based graphql server library
+language: Go
+stars: 10,473
+forked: 1,225
+stars today: 1
+
+sjzar/chatlog
+https://github.com/sjzar/chatlog
+chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+language: Go
+stars: 8,186
+forked: 1,195
+stars today: 26
+
+muesli/duf
+https://github.com/muesli/duf
+Disk Usage/Free Utility - a better 'df' alternative
+language: Go
+stars: 13,900
+forked: 422
+stars today: 43
+
+sigstore/cosign
+https://github.com/sigstore/cosign
+Code signing and transparency for containers and binaries
+language: Go
+stars: 5,230
+forked: 623
+stars today: 8

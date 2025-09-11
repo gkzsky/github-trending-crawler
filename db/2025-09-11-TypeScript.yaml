@@ -1,0 +1,135 @@
+vercel/examples
+https://github.com/vercel/examples
+Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+language: TypeScript
+stars: 4,434
+forked: 1,420
+stars today: 196
+
+11cafe/jaaz
+https://github.com/11cafe/jaaz
+The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+language: TypeScript
+stars: 4,006
+forked: 336
+stars today: 412
+
+ZuodaoTech/everyone-can-use-english
+https://github.com/ZuodaoTech/everyone-can-use-english
+人人都能用英语
+language: TypeScript
+stars: 27,216
+forked: 3,998
+stars today: 118
+
+huggingface/aisheets
+https://github.com/huggingface/aisheets
+Build, enrich, and transform datasets using AI models with no code
+language: TypeScript
+stars: 1,250
+forked: 110
+stars today: 91
+
+heroui-inc/heroui
+https://github.com/heroui-inc/heroui
+🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+language: TypeScript
+stars: 25,752
+forked: 1,911
+stars today: 107
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 76,408
+forked: 4,041
+stars today: 381
+
+czlonkowski/n8n-mcp
+https://github.com/czlonkowski/n8n-mcp
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+language: TypeScript
+stars: 6,647
+forked: 1,267
+stars today: 46
+
+jackyzha0/quartz
+https://github.com/jackyzha0/quartz
+🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+language: TypeScript
+stars: 10,022
+forked: 3,124
+stars today: 27
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 18,616
+forked: 1,778
+stars today: 35
+
+TriliumNext/Trilium
+https://github.com/TriliumNext/Trilium
+Build your personal knowledge base with Trilium Notes
+language: TypeScript
+stars: 31,076
+forked: 2,059
+stars today: 77
+
+cypress-io/cypress
+https://github.com/cypress-io/cypress
+Fast, easy and reliable testing for anything that runs in a browser.
+language: TypeScript
+stars: 48,865
+forked: 3,322
+stars today: 4
+
+supabase/supabase
+https://github.com/supabase/supabase
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 88,257
+forked: 9,776
+stars today: 76
+
+JOYCEQL/magic-resume
+https://github.com/JOYCEQL/magic-resume
+free online AI resume editor
+language: TypeScript
+stars: 2,286
+forked: 265
+stars today: 76
+
+humanlayer/12-factor-agents
+https://github.com/humanlayer/12-factor-agents
+What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+language: TypeScript
+stars: 14,190
+forked: 1,036
+stars today: 98
+
+nrwl/nx
+https://github.com/nrwl/nx
+Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+language: TypeScript
+stars: 26,960
+forked: 2,592
+stars today: 10
+
+Kilo-Org/kilocode
+https://github.com/Kilo-Org/kilocode
+Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
+language: TypeScript
+stars: 9,611
+forked: 916
+stars today: 123
+
+idosal/git-mcp
+https://github.com/idosal/git-mcp
+Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+language: TypeScript
+stars: 6,163
+forked: 487
+stars today: 32
