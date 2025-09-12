@@ -1,0 +1,135 @@
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+language: TypeScript
+stars: 8,082
+forked: 608
+stars today: 148
+
+heroui-inc/heroui
+https://github.com/heroui-inc/heroui
+🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+language: TypeScript
+stars: 26,051
+forked: 1,926
+stars today: 373
+
+supabase/supabase
+https://github.com/supabase/supabase
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 88,450
+forked: 9,787
+stars today: 76
+
+prisma/prisma
+https://github.com/prisma/prisma
+Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+language: TypeScript
+stars: 43,755
+forked: 1,859
+stars today: 26
+
+ZuodaoTech/everyone-can-use-english
+https://github.com/ZuodaoTech/everyone-can-use-english
+人人都能用英语
+language: TypeScript
+stars: 27,599
+forked: 4,038
+stars today: 509
+
+angular/components
+https://github.com/angular/components
+Component infrastructure and Material Design components for Angular
+language: TypeScript
+stars: 24,896
+forked: 6,813
+stars today: 8
+
+vercel/examples
+https://github.com/vercel/examples
+Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+language: TypeScript
+stars: 4,533
+forked: 1,427
+stars today: 152
+
+CodebuffAI/codebuff
+https://github.com/CodebuffAI/codebuff
+Generate code from the terminal!
+language: TypeScript
+stars: 897
+forked: 124
+stars today: 212
+
+11cafe/jaaz
+https://github.com/11cafe/jaaz
+The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+language: TypeScript
+stars: 4,268
+forked: 351
+stars today: 404
+
+google-gemini/gemini-cli
+https://github.com/google-gemini/gemini-cli
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+language: TypeScript
+stars: 74,781
+forked: 7,891
+stars today: 173
+
+medusajs/medusa
+https://github.com/medusajs/medusa
+The world's most flexible commerce platform.
+language: TypeScript
+stars: 30,562
+forked: 3,656
+stars today: 14
+
+huggingface/aisheets
+https://github.com/huggingface/aisheets
+Build, enrich, and transform datasets using AI models with no code
+language: TypeScript
+stars: 1,364
+forked: 115
+stars today: 234
+
+vitejs/vite
+https://github.com/vitejs/vite
+Next generation frontend tooling. It's fast!
+language: TypeScript
+stars: 75,210
+forked: 7,208
+stars today: 36
+
+ruvnet/claude-flow
+https://github.com/ruvnet/claude-flow
+🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
+language: TypeScript
+stars: 7,505
+forked: 1,022
+stars today: 53
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+language: TypeScript
+stars: 64,092
+forked: 6,666
+stars today: 82
+
+mantinedev/mantine
+https://github.com/mantinedev/mantine
+A fully featured React components library
+language: TypeScript
+stars: 29,616
+forked: 2,149
+stars today: 14
+
+modelcontextprotocol/inspector
+https://github.com/modelcontextprotocol/inspector
+Visual testing tool for MCP servers
+language: TypeScript
+stars: 6,280
+forked: 796
+stars today: 27
