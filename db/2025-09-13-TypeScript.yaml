@@ -1,0 +1,143 @@
+CodebuffAI/codebuff
+https://github.com/CodebuffAI/codebuff
+Generate code from the terminal!
+language: TypeScript
+stars: 1,180
+forked: 154
+stars today: 250
+
+firebase/genkit
+https://github.com/firebase/genkit
+An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+language: TypeScript
+stars: 3,161
+forked: 390
+stars today: 107
+
+expo/expo
+https://github.com/expo/expo
+An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+language: TypeScript
+stars: 43,212
+forked: 8,517
+stars today: 63
+
+ZuodaoTech/everyone-can-use-english
+https://github.com/ZuodaoTech/everyone-can-use-english
+人人都能用英语
+language: TypeScript
+stars: 27,825
+forked: 4,062
+stars today: 203
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 336,155
+forked: 42,743
+stars today: 145
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 137,302
+forked: 43,279
+stars today: 303
+
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+language: TypeScript
+stars: 8,181
+forked: 613
+stars today: 183
+
+heroui-inc/heroui
+https://github.com/heroui-inc/heroui
+🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+language: TypeScript
+stars: 26,199
+forked: 1,929
+stars today: 233
+
+PostHog/posthog.com
+https://github.com/PostHog/posthog.com
+Official docs, website, and handbook for PostHog.
+language: TypeScript
+stars: 656
+forked: 617
+stars today: 43
+
+tldraw/tldraw
+https://github.com/tldraw/tldraw
+very good whiteboard SDK / infinite canvas SDK
+language: TypeScript
+stars: 41,708
+forked: 2,686
+stars today: 18
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 26,540
+forked: 19,227
+stars today: 8
+
+dyad-sh/dyad
+https://github.com/dyad-sh/dyad
+Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+language: TypeScript
+stars: 14,708
+forked: 1,483
+stars today: 27
+
+huggingface/aisheets
+https://github.com/huggingface/aisheets
+Build, enrich, and transform datasets using AI models with no code
+language: TypeScript
+stars: 1,388
+forked: 117
+stars today: 31
+
+MetaMask/metamask-mobile
+https://github.com/MetaMask/metamask-mobile
+Mobile web browser providing access to websites that use the Ethereum blockchain
+language: TypeScript
+stars: 2,575
+forked: 1,387
+stars today: 2
+
+coder/code-server
+https://github.com/coder/code-server
+VS Code in the browser
+language: TypeScript
+stars: 73,827
+forked: 6,214
+stars today: 14
+
+11cafe/jaaz
+https://github.com/11cafe/jaaz
+The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+language: TypeScript
+stars: 4,370
+forked: 353
+stars today: 136
+
+taskforcesh/bullmq
+https://github.com/taskforcesh/bullmq
+BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+language: TypeScript
+stars: 7,531
+forked: 504
+stars today: 15
+
+GLips/Figma-Context-MCP
+https://github.com/GLips/Figma-Context-MCP
+MCP server to provide Figma layout information to AI coding agents like Cursor
+language: TypeScript
+stars: 10,674
+forked: 848
+stars today: 27
