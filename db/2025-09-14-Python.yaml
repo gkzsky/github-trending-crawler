@@ -1,0 +1,135 @@
+sentient-agi/ROMA
+https://github.com/sentient-agi/ROMA
+Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+language: Python
+stars: 1,889
+forked: 181
+stars today: 290
+
+Azure/azure-sdk-for-python
+https://github.com/Azure/azure-sdk-for-python
+This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+language: Python
+stars: 5,297
+forked: 3,115
+stars today: 80
+
+huggingface/transformers
+https://github.com/huggingface/transformers
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+language: Python
+stars: 149,658
+forked: 30,379
+stars today: 61
+
+fla-org/flash-linear-attention
+https://github.com/fla-org/flash-linear-attention
+🚀 Efficient implementations of state-of-the-art linear attention models
+language: Python
+stars: 3,231
+forked: 251
+stars today: 9
+
+NVIDIA/garak
+https://github.com/NVIDIA/garak
+the LLM vulnerability scanner
+language: Python
+stars: 5,648
+forked: 590
+stars today: 215
+
+Physical-Intelligence/openpi
+https://github.com/Physical-Intelligence/openpi
+-
+language: Python
+stars: 7,332
+forked: 813
+stars today: 396
+
+mxrch/GHunt
+https://github.com/mxrch/GHunt
+🕵️‍♂️ Offensive Google framework.
+language: Python
+stars: 17,790
+forked: 1,499
+stars today: 40
+
+hiyouga/LLaMA-Factory
+https://github.com/hiyouga/LLaMA-Factory
+Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+language: Python
+stars: 58,118
+forked: 7,141
+stars today: 103
+
+apecloud/ApeRAG
+https://github.com/apecloud/ApeRAG
+ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
+language: Python
+stars: 503
+forked: 38
+stars today: 43
+
+X-PLUG/MobileAgent
+https://github.com/X-PLUG/MobileAgent
+Mobile-Agent: The Powerful GUI Agent Family
+language: Python
+stars: 5,604
+forked: 544
+stars today: 6
+
+getzep/graphiti
+https://github.com/getzep/graphiti
+Build Real-Time Knowledge Graphs for AI Agents
+language: Python
+stars: 18,081
+forked: 1,632
+stars today: 41
+
+DepthAnything/Depth-Anything-V2
+https://github.com/DepthAnything/Depth-Anything-V2
+[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
+language: Python
+stars: 6,465
+forked: 635
+stars today: 12
+
+HKUDS/AutoAgent
+https://github.com/HKUDS/AutoAgent
+"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+language: Python
+stars: 6,881
+forked: 904
+stars today: 95
+
+PromtEngineer/localGPT
+https://github.com/PromtEngineer/localGPT
+Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+language: Python
+stars: 21,888
+forked: 2,435
+stars today: 18
+
+Arindam200/awesome-ai-apps
+https://github.com/Arindam200/awesome-ai-apps
+A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+language: Python
+stars: 5,292
+forked: 661
+stars today: 79
+
+Dao-AILab/quack
+https://github.com/Dao-AILab/quack
+A Quirky Assortment of CuTe Kernels
+language: Python
+stars: 517
+forked: 45
+stars today: 16
+
+skyzh/tiny-llm
+https://github.com/skyzh/tiny-llm
+A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+language: Python
+stars: 3,135
+forked: 198
+stars today: 17
