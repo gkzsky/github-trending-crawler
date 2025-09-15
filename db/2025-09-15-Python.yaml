@@ -1,0 +1,151 @@
+ccxt/ccxt
+https://github.com/ccxt/ccxt
+A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+language: Python
+stars: 38,206
+forked: 8,168
+stars today: 46
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 68,437
+forked: 8,620
+stars today: 354
+
+deepset-ai/haystack
+https://github.com/deepset-ai/haystack
+AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+language: Python
+stars: 22,394
+forked: 2,357
+stars today: 44
+
+unclecode/crawl4ai
+https://github.com/unclecode/crawl4ai
+🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+language: Python
+stars: 52,993
+forked: 5,282
+stars today: 157
+
+Arindam200/awesome-ai-apps
+https://github.com/Arindam200/awesome-ai-apps
+A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+language: Python
+stars: 5,598
+forked: 682
+stars today: 113
+
+donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+language: Python
+stars: 319,611
+forked: 52,243
+stars today: 112
+
+ml-explore/mlx-lm
+https://github.com/ml-explore/mlx-lm
+Run LLMs with MLX
+language: Python
+stars: 1,977
+forked: 229
+stars today: 18
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 207,020
+forked: 47,779
+stars today: 54
+
+tinygrad/tinygrad
+https://github.com/tinygrad/tinygrad
+You like pytorch? You like micrograd? You love tinygrad! ❤️
+language: Python
+stars: 30,109
+forked: 3,617
+stars today: 16
+
+AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Stable Diffusion web UI
+language: Python
+stars: 156,418
+forked: 29,036
+stars today: 22
+
+spesmilo/electrum
+https://github.com/spesmilo/electrum
+Electrum Bitcoin Wallet
+language: Python
+stars: 8,110
+forked: 3,294
+stars today: 3
+
+home-assistant/core
+https://github.com/home-assistant/core
+🏡 Open source home automation that puts local control and privacy first.
+language: Python
+stars: 81,313
+forked: 35,123
+stars today: 22
+
+NVIDIA/garak
+https://github.com/NVIDIA/garak
+the LLM vulnerability scanner
+language: Python
+stars: 5,756
+forked: 602
+stars today: 180
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 69,921
+forked: 15,933
+stars today: 25
+
+opengeos/geoai
+https://github.com/opengeos/geoai
+GeoAI: Artificial Intelligence for Geospatial Data
+language: Python
+stars: 1,439
+forked: 177
+stars today: 18
+
+CorentinJ/Real-Time-Voice-Cloning
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
+Clone a voice in 5 seconds to generate arbitrary speech in real-time
+language: Python
+stars: 55,399
+forked: 9,122
+stars today: 201
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Python
+stars: 7,536
+forked: 596
+stars today: 7
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 126,386
+forked: 10,126
+stars today: 121
+
+sentient-agi/ROMA
+https://github.com/sentient-agi/ROMA
+Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+language: Python
+stars: 2,178
+forked: 223
+stars today: 233
