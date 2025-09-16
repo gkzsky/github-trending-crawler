@@ -1,0 +1,143 @@
+sst/opencode
+https://github.com/sst/opencode
+AI coding agent, built for the terminal.
+language: TypeScript
+stars: 23,472
+forked: 1,627
+stars today: 189
+
+lharries/whatsapp-mcp
+https://github.com/lharries/whatsapp-mcp
+WhatsApp MCP server
+language: Go
+stars: 4,847
+forked: 723
+stars today: 24
+
+tbphp/gpt-load
+https://github.com/tbphp/gpt-load
+Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+language: Go
+stars: 4,899
+forked: 420
+stars today: 69
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 37,374
+forked: 3,416
+stars today: 61
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 10,142
+forked: 1,204
+stars today: 32
+
+keploy/keploy
+https://github.com/keploy/keploy
+Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
+language: Go
+stars: 10,731
+forked: 1,582
+stars today: 188
+
+docker/mcp-gateway
+https://github.com/docker/mcp-gateway
+docker mcp CLI plugin / MCP Gateway
+language: Go
+stars: 556
+forked: 66
+stars today: 151
+
+docker/mcp-registry
+https://github.com/docker/mcp-registry
+Official Docker MCP registry
+language: Go
+stars: 211
+forked: 278
+stars today: 11
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,317
+forked: 4,573
+stars today: 19
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 24,767
+forked: 1,987
+stars today: 31
+
+opentofu/opentofu
+https://github.com/opentofu/opentofu
+OpenTofu lets you declaratively manage your cloud infrastructure.
+language: Go
+stars: 26,518
+forked: 1,083
+stars today: 12
+
+ccfos/nightingale
+https://github.com/ccfos/nightingale
+Nightingale for monitoring and alerting, just as Grafana for visualization.
+language: Go
+stars: 12,166
+forked: 1,606
+stars today: 62
+
+FiloSottile/age
+https://github.com/FiloSottile/age
+A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+language: Go
+stars: 19,696
+forked: 574
+stars today: 14
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end realtime stack for connecting humans and AI
+language: Go
+stars: 14,795
+forked: 1,394
+stars today: 34
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+language: Go
+stars: 5,844
+forked: 1,074
+stars today: 4
+
+alireza0/s-ui
+https://github.com/alireza0/s-ui
+An advanced Web Panel • Built for SagerNet/Sing-Box
+language: Go
+stars: 5,097
+forked: 845
+stars today: 14
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+language: Go
+stars: 22,963
+forked: 4,528
+stars today: 11
+
+iam-veeramalla/observability-zero-to-hero
+https://github.com/iam-veeramalla/observability-zero-to-hero
+Repo for learning observability
+language: Go
+stars: 2,366
+forked: 3,701
+stars today: 6

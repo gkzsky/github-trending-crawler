@@ -1,0 +1,183 @@
+carthage-software/mago
+https://github.com/carthage-software/mago
+Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+language: Rust
+stars: 1,613
+forked: 60
+stars today: 80
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 22,037
+forked: 2,059
+stars today: 13
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 16,464
+forked: 683
+stars today: 72
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 28,264
+forked: 607
+stars today: 27
+
+InfinitiBit/graphbit
+https://github.com/InfinitiBit/graphbit
+GraphBit is the world’s first enterprise-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability. It enables reliable multi-agent workflows with minimal CPU and memory usage, making it production-ready for real-world enterprise environments.
+language: Rust
+stars: 230
+forked: 62
+stars today: 62
+
+H-M-H/Weylus
+https://github.com/H-M-H/Weylus
+Use your tablet as graphic tablet/touch screen on your computer.
+language: Rust
+stars: 8,328
+forked: 324
+stars today: 73
+
+mainmatter/100-exercises-to-learn-rust
+https://github.com/mainmatter/100-exercises-to-learn-rust
+A self-paced course to learn Rust, one exercise at a time.
+language: Rust
+stars: 8,319
+forked: 1,707
+stars today: 16
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 23,706
+forked: 2,493
+stars today: 25
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 106,492
+forked: 13,737
+stars today: 35
+
+erebe/wstunnel
+https://github.com/erebe/wstunnel
+Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+language: Rust
+stars: 5,440
+forked: 447
+stars today: 125
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+language: Rust
+stars: 7,842
+forked: 620
+stars today: 7
+
+Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist
+Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+language: Rust
+stars: 2,072
+forked: 89
+stars today: 5
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 17,830
+forked: 923
+stars today: 10
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,361
+forked: 3,833
+stars today: 0
+
+btjawa/BiliTools
+https://github.com/btjawa/BiliTools
+A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+language: Rust
+stars: 3,601
+forked: 242
+stars today: 13
+
+cloud-hypervisor/cloud-hypervisor
+https://github.com/cloud-hypervisor/cloud-hypervisor
+A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+language: Rust
+stars: 4,786
+forked: 517
+stars today: 15
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 30,478
+forked: 1,060
+stars today: 48
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,623
+forked: 3,642
+stars today: 8
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 30,052
+forked: 1,048
+stars today: 12
+
+feschber/lan-mouse
+https://github.com/feschber/lan-mouse
+mouse & keyboard sharing via LAN
+language: Rust
+stars: 3,752
+forked: 135
+stars today: 111
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 2,244
+forked: 106
+stars today: 28
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 19,002
+forked: 800
+stars today: 171
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 16,367
+forked: 653
+stars today: 24
