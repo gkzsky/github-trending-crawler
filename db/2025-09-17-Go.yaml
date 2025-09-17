@@ -1,0 +1,183 @@
+mudler/LocalAGI
+https://github.com/mudler/LocalAGI
+LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
+language: Go
+stars: 1,177
+forked: 167
+stars today: 8
+
+keploy/keploy
+https://github.com/keploy/keploy
+API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+language: Go
+stars: 10,849
+forked: 1,591
+stars today: 137
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+language: Go
+stars: 2,560
+forked: 422
+stars today: 11
+
+lharries/whatsapp-mcp
+https://github.com/lharries/whatsapp-mcp
+WhatsApp MCP server
+language: Go
+stars: 4,861
+forked: 725
+stars today: 16
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+language: Go
+stars: 35,334
+forked: 2,771
+stars today: 27
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 55,227
+forked: 6,169
+stars today: 26
+
+docker/mcp-gateway
+https://github.com/docker/mcp-gateway
+docker mcp CLI plugin / MCP Gateway
+language: Go
+stars: 583
+forked: 71
+stars today: 25
+
+gocolly/colly
+https://github.com/gocolly/colly
+Elegant Scraper and Crawler Framework for Golang
+language: Go
+stars: 24,644
+forked: 1,826
+stars today: 10
+
+flexprice/flexprice
+https://github.com/flexprice/flexprice
+Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access
+language: Go
+stars: 2,601
+forked: 52
+stars today: 221
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 7,293
+forked: 572
+stars today: 22
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 3,979
+forked: 3,015
+stars today: 2
+
+docker/mcp-registry
+https://github.com/docker/mcp-registry
+Official Docker MCP registry
+language: Go
+stars: 216
+forked: 281
+stars today: 7
+
+derailed/k9s
+https://github.com/derailed/k9s
+🐶 Kubernetes CLI To Manage Your Clusters In Style!
+language: Go
+stars: 31,160
+forked: 1,960
+stars today: 38
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,706
+forked: 18,810
+stars today: 16
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,868
+forked: 2,654
+stars today: 3
+
+vmware-tanzu/velero
+https://github.com/vmware-tanzu/velero
+Backup and migrate Kubernetes applications and their persistent volumes
+language: Go
+stars: 9,463
+forked: 1,472
+stars today: 9
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 18,930
+forked: 8,444
+stars today: 5
+
+projectdiscovery/subfinder
+https://github.com/projectdiscovery/subfinder
+Fast passive subdomain enumeration tool.
+language: Go
+stars: 12,279
+forked: 1,438
+stars today: 5
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 24,798
+forked: 1,990
+stars today: 32
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,781
+forked: 1,485
+stars today: 5
+
+go-gorm/gorm
+https://github.com/go-gorm/gorm
+The fantastic ORM library for Golang, aims to be developer friendly
+language: Go
+stars: 38,861
+forked: 4,102
+stars today: 6
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 10,187
+forked: 1,208
+stars today: 44
+
+opencontainers/image-spec
+https://github.com/opencontainers/image-spec
+OCI Image Format
+language: Go
+stars: 3,886
+forked: 747
+stars today: 2
