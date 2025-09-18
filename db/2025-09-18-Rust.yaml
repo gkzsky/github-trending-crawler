@@ -1,0 +1,167 @@
+category-labs/monad-bft
+https://github.com/category-labs/monad-bft
+-
+language: Rust
+stars: 365
+forked: 105
+stars today: 13
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 42,133
+forked: 4,902
+stars today: 487
+
+erebe/wstunnel
+https://github.com/erebe/wstunnel
+Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+language: Rust
+stars: 5,503
+forked: 453
+stars today: 23
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 65,880
+forked: 5,305
+stars today: 104
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 2,563
+forked: 113
+stars today: 224
+
+swc-project/swc
+https://github.com/swc-project/swc
+Rust-based platform for the Web
+language: Rust
+stars: 32,720
+forked: 1,346
+stars today: 11
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 53,235
+forked: 2,168
+stars today: 33
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 67,775
+forked: 2,019
+stars today: 89
+
+cloud-hypervisor/cloud-hypervisor
+https://github.com/cloud-hypervisor/cloud-hypervisor
+A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+language: Rust
+stars: 4,802
+forked: 520
+stars today: 5
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 30,464
+forked: 2,078
+stars today: 24
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 5,852
+forked: 274
+stars today: 15
+
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 28,554
+forked: 1,920
+stars today: 15
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 6,728
+forked: 1,169
+stars today: 7
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,636
+forked: 3,642
+stars today: 10
+
+restatedev/restate
+https://github.com/restatedev/restate
+Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+language: Rust
+stars: 2,919
+forked: 103
+stars today: 7
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 28,682
+forked: 2,093
+stars today: 7
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,001
+forked: 599
+stars today: 10
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 104,235
+forked: 5,710
+stars today: 16
+
+mtkennerly/ludusavi
+https://github.com/mtkennerly/ludusavi
+Backup tool for PC game saves
+language: Rust
+stars: 4,240
+forked: 93
+stars today: 116
+
+asciinema/asciinema
+https://github.com/asciinema/asciinema
+Terminal session recorder, streamer and player 📹
+language: Rust
+stars: 15,916
+forked: 970
+stars today: 30
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 42,497
+forked: 1,536
+stars today: 15

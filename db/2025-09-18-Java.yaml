@@ -1,0 +1,159 @@
+ashishps1/awesome-leetcode-resources
+https://github.com/ashishps1/awesome-leetcode-resources
+Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
+language: Java
+stars: 13,194
+forked: 3,003
+stars today: 66
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 34,438
+forked: 16,171
+stars today: 4
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 51,119
+forked: 11,071
+stars today: 6
+
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 11,044
+forked: 3,212
+stars today: 9
+
+ashishps1/awesome-low-level-design
+https://github.com/ashishps1/awesome-low-level-design
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+language: Java
+stars: 18,026
+forked: 4,457
+stars today: 50
+
+openjdk/jdk
+https://github.com/openjdk/jdk
+JDK main-line development https://openjdk.org/projects/jdk
+language: Java
+stars: 21,716
+forked: 6,234
+stars today: 8
+
+apache/iotdb
+https://github.com/apache/iotdb
+Apache IoTDB
+language: Java
+stars: 6,085
+forked: 1,086
+stars today: 157
+
+jeecgboot/JeecgBoot
+https://github.com/jeecgboot/JeecgBoot
+🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
+language: Java
+stars: 43,890
+forked: 15,555
+stars today: 18
+
+SeleniumHQ/selenium
+https://github.com/SeleniumHQ/selenium
+A browser automation framework and ecosystem.
+language: Java
+stars: 33,229
+forked: 8,588
+stars today: 19
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 73,815
+forked: 25,454
+stars today: 19
+
+apache/cassandra
+https://github.com/apache/cassandra
+Apache Cassandra®
+language: Java
+stars: 9,370
+forked: 3,746
+stars today: 0
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 10,672
+forked: 2,138
+stars today: 6
+
+spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework
+Spring Framework
+language: Java
+stars: 58,847
+forked: 38,711
+stars today: 9
+
+iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns
+Design patterns implemented in Java
+language: Java
+stars: 92,695
+forked: 27,176
+stars today: 18
+
+spring-projects/spring-ai-examples
+https://github.com/spring-projects/spring-ai-examples
+-
+language: Java
+stars: 850
+forked: 355
+stars today: 2
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 5,860
+forked: 1,241
+stars today: 25
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 14,973
+forked: 2,954
+stars today: 5
+
+antlr/antlr4
+https://github.com/antlr/antlr4
+ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+language: Java
+stars: 18,348
+forked: 3,395
+stars today: 6
+
+apache/dubbo
+https://github.com/apache/dubbo
+The java implementation of Apache Dubbo. An RPC and microservice framework.
+language: Java
+stars: 41,368
+forked: 26,540
+stars today: 9
+
+YunaiV/ruoyi-vue-pro
+https://github.com/YunaiV/ruoyi-vue-pro
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+language: Java
+stars: 33,265
+forked: 7,165
+stars today: 19

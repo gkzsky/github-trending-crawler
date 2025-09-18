@@ -1,0 +1,191 @@
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 77,474
+forked: 4,270
+stars today: 1,903
+
+dataease/SQLBot
+https://github.com/dataease/SQLBot
+基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+language: Python
+stars: 2,214
+forked: 246
+stars today: 378
+
+google-research/timesfm
+https://github.com/google-research/timesfm
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+language: Python
+stars: 5,742
+forked: 523
+stars today: 38
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 40,833
+forked: 7,186
+stars today: 260
+
+Alibaba-NLP/DeepResearch
+https://github.com/Alibaba-NLP/DeepResearch
+Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+language: Python
+stars: 7,767
+forked: 576
+stars today: 662
+
+facebookresearch/detectron2
+https://github.com/facebookresearch/detectron2
+Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
+language: Python
+stars: 32,989
+forked: 7,796
+stars today: 63
+
+ccxt/ccxt
+https://github.com/ccxt/ccxt
+A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+language: Python
+stars: 38,786
+forked: 8,211
+stars today: 213
+
+apache/airflow
+https://github.com/apache/airflow
+Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+language: Python
+stars: 42,427
+forked: 15,612
+stars today: 31
+
+sansan0/TrendRadar
+https://github.com/sansan0/TrendRadar
+🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+language: Python
+stars: 3,245
+forked: 2,143
+stars today: 245
+
+unslothai/unsloth
+https://github.com/unslothai/unsloth
+Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+language: Python
+stars: 45,610
+forked: 3,722
+stars today: 75
+
+cheahjs/free-llm-api-resources
+https://github.com/cheahjs/free-llm-api-resources
+A list of free LLM inference resources accessible via API.
+language: Python
+stars: 5,603
+forked: 499
+stars today: 38
+
+dortania/OpenCore-Legacy-Patcher
+https://github.com/dortania/OpenCore-Legacy-Patcher
+Experience macOS just like before
+language: Python
+stars: 15,411
+forked: 1,558
+stars today: 23
+
+ROCm/TheRock
+https://github.com/ROCm/TheRock
+The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+language: Python
+stars: 384
+forked: 83
+stars today: 6
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+language: Python
+stars: 7,860
+forked: 593
+stars today: 62
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 8,015
+forked: 706
+stars today: 78
+
+GoogleCloudPlatform/agent-starter-pack
+https://github.com/GoogleCloudPlatform/agent-starter-pack
+A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
+language: Python
+stars: 2,509
+forked: 772
+stars today: 5
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 207,419
+forked: 47,820
+stars today: 295
+
+HKUDS/DeepCode
+https://github.com/HKUDS/DeepCode
+"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+language: Python
+stars: 6,753
+forked: 916
+stars today: 287
+
+PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+language: Python
+stars: 54,453
+forked: 8,651
+stars today: 465
+
+ultralytics/ultralytics
+https://github.com/ultralytics/ultralytics
+Ultralytics YOLO 🚀
+language: Python
+stars: 45,697
+forked: 8,913
+stars today: 65
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 70,010
+forked: 15,943
+stars today: 32
+
+openai/openai-agents-python
+https://github.com/openai/openai-agents-python
+A lightweight, powerful framework for multi-agent workflows
+language: Python
+stars: 14,742
+forked: 2,436
+stars today: 38
+
+ml-explore/mlx-lm
+https://github.com/ml-explore/mlx-lm
+Run LLMs with MLX
+language: Python
+stars: 2,320
+forked: 252
+stars today: 157
+
+mem0ai/mem0
+https://github.com/mem0ai/mem0
+Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+language: Python
+stars: 40,033
+forked: 4,221
+stars today: 72
