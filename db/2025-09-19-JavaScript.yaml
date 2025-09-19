@@ -1,0 +1,167 @@
+HumanSignal/label-studio
+https://github.com/HumanSignal/label-studio
+Label Studio is a multi-type data labeling and annotation tool with standardized output format
+language: JavaScript
+stars: 24,770
+forked: 3,058
+stars today: 17
+
+WebKit/WebKit
+https://github.com/WebKit/WebKit
+Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+language: JavaScript
+stars: 9,146
+forked: 1,687
+stars today: 129
+
+Gar-b-age/CookLikeHOC
+https://github.com/Gar-b-age/CookLikeHOC
+🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+language: JavaScript
+stars: 5,022
+forked: 609
+stars today: 1,959
+
+anuraghazra/github-readme-stats
+https://github.com/anuraghazra/github-readme-stats
+⚡ Dynamically generated stats for your github readmes
+language: JavaScript
+stars: 76,012
+forked: 26,279
+stars today: 64
+
+SkyworkAI/DeepResearchAgent
+https://github.com/SkyworkAI/DeepResearchAgent
+DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
+language: JavaScript
+stars: 2,489
+forked: 340
+stars today: 31
+
+ToolJet/ToolJet
+https://github.com/ToolJet/ToolJet
+ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+language: JavaScript
+stars: 36,568
+forked: 4,755
+stars today: 14
+
+trekhleb/javascript-algorithms
+https://github.com/trekhleb/javascript-algorithms
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+language: JavaScript
+stars: 193,311
+forked: 30,886
+stars today: 30
+
+HabitRPG/habitica
+https://github.com/HabitRPG/habitica
+A habit tracker app which treats your goals like a Role Playing Game.
+language: JavaScript
+stars: 13,256
+forked: 4,303
+stars today: 5
+
+iamkun/dayjs
+https://github.com/iamkun/dayjs
+⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+language: JavaScript
+stars: 48,219
+forked: 2,375
+stars today: 10
+
+usebruno/bruno
+https://github.com/usebruno/bruno
+Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+language: JavaScript
+stars: 37,012
+forked: 1,843
+stars today: 30
+
+sudheerj/reactjs-interview-questions
+https://github.com/sudheerj/reactjs-interview-questions
+List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+language: JavaScript
+stars: 43,022
+forked: 10,077
+stars today: 8
+
+WebGoat/WebGoat
+https://github.com/WebGoat/WebGoat
+WebGoat is a deliberately insecure application
+language: JavaScript
+stars: 7,781
+forked: 6,712
+stars today: 20
+
+sveltejs/kit
+https://github.com/sveltejs/kit
+web development, streamlined
+language: JavaScript
+stars: 19,718
+forked: 2,110
+stars today: 9
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 10,912
+forked: 3,040
+stars today: 4
+
+songquanpeng/one-api
+https://github.com/songquanpeng/one-api
+LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+language: JavaScript
+stars: 27,222
+forked: 5,414
+stars today: 22
+
+CodeWithHarry/Sigma-Web-Dev-Course
+https://github.com/CodeWithHarry/Sigma-Web-Dev-Course
+Source Code for Sigma Web Development Course
+language: JavaScript
+stars: 10,129
+forked: 2,884
+stars today: 19
+
+jgraph/drawio-desktop
+https://github.com/jgraph/drawio-desktop
+Official electron build of draw.io
+language: JavaScript
+stars: 56,837
+forked: 5,420
+stars today: 18
+
+facebook/create-react-app
+https://github.com/facebook/create-react-app
+Set up a modern web app by running one command.
+language: JavaScript
+stars: 103,608
+forked: 27,095
+stars today: 8
+
+cv-cat/Spider_XHS
+https://github.com/cv-cat/Spider_XHS
+小红书爬虫数据采集，小红书全域运营解决方案
+language: JavaScript
+stars: 2,700
+forked: 456
+stars today: 7
+
+angular/angular.js
+https://github.com/angular/angular.js
+AngularJS - HTML enhanced for web apps!
+language: JavaScript
+stars: 58,828
+forked: 27,334
+stars today: 10
+
+eKoopmans/html2pdf.js
+https://github.com/eKoopmans/html2pdf.js
+Client-side HTML-to-PDF rendering using pure JS.
+language: JavaScript
+stars: 4,625
+forked: 1,446
+stars today: 6
