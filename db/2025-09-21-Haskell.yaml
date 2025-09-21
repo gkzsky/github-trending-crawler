@@ -1,0 +1,47 @@
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,129
+forked: 1,858
+stars today: 5
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 39,313
+forked: 3,633
+stars today: 8
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,146
+forked: 735
+stars today: 0
+
+well-typed/haskell-debugger
+https://github.com/well-typed/haskell-debugger
+A modern step-through debugger for GHC Haskell
+language: Haskell
+stars: 65
+forked: 6
+stars today: 2
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,757
+forked: 1,117
+stars today: 4
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,574
+forked: 496
+stars today: 1
