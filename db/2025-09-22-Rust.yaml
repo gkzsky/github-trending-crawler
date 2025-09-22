@@ -1,0 +1,159 @@
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 106,619
+forked: 13,763
+stars today: 40
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 20,158
+forked: 853
+stars today: 179
+
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 30,204
+forked: 2,033
+stars today: 256
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 12,865
+forked: 393
+stars today: 111
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 42,024
+forked: 4,115
+stars today: 26
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 20,412
+forked: 720
+stars today: 32
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 17,871
+forked: 927
+stars today: 15
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,354
+forked: 1,697
+stars today: 45
+
+mullvad/mullvadvpn-app
+https://github.com/mullvad/mullvadvpn-app
+The Mullvad VPN client app for desktop and mobile
+language: Rust
+stars: 6,264
+forked: 429
+stars today: 4
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,627
+forked: 1,364
+stars today: 10
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 29,633
+forked: 2,768
+stars today: 10
+
+HelixDB/helix-db
+https://github.com/HelixDB/helix-db
+HelixDB is a database built from scratch to be the backend for any AI application.
+language: Rust
+stars: 2,582
+forked: 117
+stars today: 37
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 54,556
+forked: 1,354
+stars today: 36
+
+Canop/broot
+https://github.com/Canop/broot
+A new way to see and navigate directory trees : https://dystroy.org/broot
+language: Rust
+stars: 11,884
+forked: 263
+stars today: 21
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 5,009
+forked: 462
+stars today: 16
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,493
+forked: 1,827
+stars today: 4
+
+GitoxideLabs/gitoxide
+https://github.com/GitoxideLabs/gitoxide
+An idiomatic, lean, fast & safe pure Rust implementation of Git
+language: Rust
+stars: 10,339
+forked: 386
+stars today: 16
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 98,597
+forked: 14,486
+stars today: 50
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 19,425
+forked: 641
+stars today: 27
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 30,520
+forked: 2,087
+stars today: 7
