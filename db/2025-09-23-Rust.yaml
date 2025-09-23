@@ -1,0 +1,167 @@
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 42,139
+forked: 4,118
+stars today: 21
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 106,643
+forked: 13,765
+stars today: 28
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso Database is a project to build the next evolution of SQLite.
+language: Rust
+stars: 13,623
+forked: 548
+stars today: 64
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 21,454
+forked: 900
+stars today: 91
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,487
+forked: 2,158
+stars today: 17
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 12,950
+forked: 395
+stars today: 114
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,653
+forked: 1,365
+stars today: 21
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,391
+forked: 1,702
+stars today: 35
+
+bahdotsh/wrkflw
+https://github.com/bahdotsh/wrkflw
+Validate and Run GitHub Actions locally.
+language: Rust
+stars: 2,417
+forked: 35
+stars today: 50
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 30,611
+forked: 1,287
+stars today: 23
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 60,397
+forked: 3,188
+stars today: 25
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Program Framework
+language: Rust
+stars: 4,631
+forked: 1,695
+stars today: 10
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 30,958
+forked: 2,124
+stars today: 9
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 21,630
+forked: 1,571
+stars today: 17
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 28,421
+forked: 611
+stars today: 26
+
+HelixDB/helix-db
+https://github.com/HelixDB/helix-db
+HelixDB is a database built from scratch to be the backend for any AI application.
+language: Rust
+stars: 2,616
+forked: 118
+stars today: 34
+
+matrix-construct/tuwunel
+https://github.com/matrix-construct/tuwunel
+Official successor to conduwuit
+language: Rust
+stars: 671
+forked: 36
+stars today: 11
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 55,962
+forked: 15,331
+stars today: 18
+
+aome510/spotify-player
+https://github.com/aome510/spotify-player
+A Spotify player in the terminal with full feature parity
+language: Rust
+stars: 5,406
+forked: 258
+stars today: 10
+
+LemmyNet/lemmy
+https://github.com/LemmyNet/lemmy
+🐀 A link aggregator and forum for the fediverse
+language: Rust
+stars: 14,043
+forked: 933
+stars today: 5
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,773
+forked: 1,651
+stars today: 8

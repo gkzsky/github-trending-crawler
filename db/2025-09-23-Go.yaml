@@ -1,0 +1,159 @@
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 10,608
+forked: 855
+stars today: 54
+
+IceWhaleTech/CasaOS
+https://github.com/IceWhaleTech/CasaOS
+CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+language: Go
+stars: 31,723
+forked: 1,738
+stars today: 22
+
+ava-labs/avalanchego
+https://github.com/ava-labs/avalanchego
+Go implementation of an Avalanche node.
+language: Go
+stars: 2,286
+forked: 794
+stars today: 7
+
+smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink
+node of the decentralized oracle network, bridging on and off-chain computation
+language: Go
+stars: 7,556
+forked: 1,840
+stars today: 8
+
+everywall/ladder
+https://github.com/everywall/ladder
+Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+language: Go
+stars: 5,776
+forked: 260
+stars today: 87
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,827
+forked: 21,271
+stars today: 20
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 76,369
+forked: 4,772
+stars today: 35
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+Network-wide ads & trackers blocking DNS server
+language: Go
+stars: 30,187
+forked: 2,128
+stars today: 16
+
+cosmos/cosmos-sdk
+https://github.com/cosmos/cosmos-sdk
+⛓️ A Framework for Building High Value Public Blockchains ✨
+language: Go
+stars: 6,759
+forked: 4,028
+stars today: 7
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 84,146
+forked: 8,331
+stars today: 26
+
+cloudreve/cloudreve
+https://github.com/cloudreve/cloudreve
+🌩 Self-hosted file management and sharing system, supports multiple storage providers
+language: Go
+stars: 24,994
+forked: 3,680
+stars today: 29
+
+ethereum-optimism/optimism
+https://github.com/ethereum-optimism/optimism
+Optimism is Ethereum, scaled.
+language: Go
+stars: 6,208
+forked: 3,715
+stars today: 3
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 5,302
+forked: 1,022
+stars today: 7
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 31,354
+forked: 4,587
+stars today: 20
+
+Jguer/yay
+https://github.com/Jguer/yay
+Yet another Yogurt - An AUR Helper written in Go
+language: Go
+stars: 12,439
+forked: 381
+stars today: 5
+
+gofiber/fiber
+https://github.com/gofiber/fiber
+⚡️ Express inspired web framework written in Go
+language: Go
+stars: 37,752
+forked: 1,866
+stars today: 25
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,633
+forked: 10,032
+stars today: 29
+
+gtsteffaniak/filebrowser
+https://github.com/gtsteffaniak/filebrowser
+📂 Web File Browser
+language: Go
+stars: 3,468
+forked: 129
+stars today: 8
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 37,281
+forked: 8,067
+stars today: 10
+
+kubevela/kubevela
+https://github.com/kubevela/kubevela
+The Modern Application Platform.
+language: Go
+stars: 7,535
+forked: 948
+stars today: 13
