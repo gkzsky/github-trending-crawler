@@ -1,0 +1,143 @@
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 84,275
+forked: 8,337
+stars today: 37
+
+LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird
+Truly independent web browser
+language: C++
+stars: 48,359
+forked: 2,092
+stars today: 300
+
+gofiber/fiber
+https://github.com/gofiber/fiber
+⚡️ Express inspired web framework written in Go
+language: Go
+stars: 37,797
+forked: 1,871
+stars today: 29
+
+eslint/eslint
+https://github.com/eslint/eslint
+Find and fix problems in your JavaScript code.
+language: JavaScript
+stars: 26,454
+forked: 4,807
+stars today: 103
+
+fmtlib/fmt
+https://github.com/fmtlib/fmt
+A modern formatting library
+language: C++
+stars: 22,543
+forked: 2,721
+stars today: 6
+
+mtdvio/every-programmer-should-know
+https://github.com/mtdvio/every-programmer-should-know
+A collection of (mostly) technical things every software developer should know about
+language: -
+stars: 90,780
+forked: 8,204
+stars today: 797
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 87,065
+forked: 9,320
+stars today: 26
+
+OpenZeppelin/openzeppelin-contracts
+https://github.com/OpenZeppelin/openzeppelin-contracts
+OpenZeppelin Contracts is a library for secure smart contract development.
+language: Solidity
+stars: 26,392
+forked: 12,192
+stars today: 7
+
+Gar-b-age/CookLikeHOC
+https://github.com/Gar-b-age/CookLikeHOC
+🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+language: JavaScript
+stars: 17,438
+forked: 1,706
+stars today: 3,634
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 370,089
+forked: 64,287
+stars today: 441
+
+WECENG/ticket-purchase
+https://github.com/WECENG/ticket-purchase
+大麦自动抢票，支持人员、城市、日期场次、价格选择
+language: Python
+stars: 3,176
+forked: 433
+stars today: 84
+
+HKUDS/AI-Researcher
+https://github.com/HKUDS/AI-Researcher
+[NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
+language: Python
+stars: 2,901
+forked: 335
+stars today: 41
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,509
+forked: 2,159
+stars today: 8
+
+microsoft/TypeScript
+https://github.com/microsoft/TypeScript
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+language: TypeScript
+stars: 106,083
+forked: 13,009
+stars today: 19
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,531
+forked: 7,333
+stars today: 8
+
+tldraw/tldraw
+https://github.com/tldraw/tldraw
+very good whiteboard SDK / infinite canvas SDK
+language: TypeScript
+stars: 42,715
+forked: 2,747
+stars today: 236
+
+smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink
+node of the decentralized oracle network, bridging on and off-chain computation
+language: Go
+stars: 7,582
+forked: 1,842
+stars today: 8
+
+Kludex/uvicorn
+https://github.com/Kludex/uvicorn
+An ASGI web server, for Python. 🦄
+language: Python
+stars: 9,747
+forked: 850
+stars today: 2

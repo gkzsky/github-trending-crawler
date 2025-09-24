@@ -1,0 +1,151 @@
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 84,275
+forked: 8,337
+stars today: 37
+
+gofiber/fiber
+https://github.com/gofiber/fiber
+⚡️ Express inspired web framework written in Go
+language: Go
+stars: 37,797
+forked: 1,871
+stars today: 29
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,531
+forked: 7,333
+stars today: 8
+
+smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink
+node of the decentralized oracle network, bridging on and off-chain computation
+language: Go
+stars: 7,582
+forked: 1,842
+stars today: 8
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,641
+forked: 10,032
+stars today: 7
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 16,461
+forked: 1,964
+stars today: 14
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,513
+forked: 9,722
+stars today: 0
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 37,314
+forked: 8,074
+stars today: 34
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+Go library for the WhatsApp web multidevice API
+language: Go
+stars: 4,363
+forked: 688
+stars today: 11
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,249
+forked: 1,334
+stars today: 1
+
+iam-veeramalla/observability-zero-to-hero
+https://github.com/iam-veeramalla/observability-zero-to-hero
+Repo for learning observability
+language: Go
+stars: 2,380
+forked: 3,745
+stars today: 2
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,810
+forked: 1,733
+stars today: 4
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 17,693
+forked: 1,499
+stars today: 6
+
+restic/restic
+https://github.com/restic/restic
+Fast, secure, efficient backup program
+language: Go
+stars: 30,115
+forked: 1,647
+stars today: 14
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 28,936
+forked: 2,803
+stars today: 22
+
+open-policy-agent/opa
+https://github.com/open-policy-agent/opa
+Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+language: Go
+stars: 10,680
+forked: 1,464
+stars today: 3
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 49,841
+forked: 21,277
+stars today: 10
+
+tidwall/gjson
+https://github.com/tidwall/gjson
+Get JSON values quickly - JSON parser for Go
+language: Go
+stars: 15,229
+forked: 888
+stars today: 4
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 18,267
+forked: 1,649
+stars today: 11
