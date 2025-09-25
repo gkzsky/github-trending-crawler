@@ -1,0 +1,159 @@
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 74,349
+forked: 25,489
+stars today: 64
+
+apache/hertzbeat
+https://github.com/apache/hertzbeat
+Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+language: Java
+stars: 6,664
+forked: 1,184
+stars today: 7
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 45,521
+forked: 3,853
+stars today: 14
+
+DrKLO/Telegram
+https://github.com/DrKLO/Telegram
+Telegram for Android source
+language: Java
+stars: 27,566
+forked: 8,951
+stars today: 6
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 78,514
+forked: 41,528
+stars today: 20
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 11,925
+forked: 3,341
+stars today: 2
+
+iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns
+Design patterns implemented in Java
+language: Java
+stars: 92,740
+forked: 27,176
+stars today: 8
+
+JabRef/jabref
+https://github.com/JabRef/jabref
+Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
+language: Java
+stars: 4,031
+forked: 2,948
+stars today: 2
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 30,972
+forked: 14,657
+stars today: 10
+
+apache/pulsar
+https://github.com/apache/pulsar
+Apache Pulsar - distributed pub-sub messaging system
+language: Java
+stars: 14,881
+forked: 3,667
+stars today: 6
+
+apache/cassandra
+https://github.com/apache/cassandra
+Apache Cassandra®
+language: Java
+stars: 9,402
+forked: 3,758
+stars today: 4
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 29,761
+forked: 7,644
+stars today: 26
+
+jeecgboot/jimureport
+https://github.com/jeecgboot/jimureport
+「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+language: Java
+stars: 7,567
+forked: 1,797
+stars today: 7
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 19,758
+forked: 5,806
+stars today: 9
+
+apache/gravitino
+https://github.com/apache/gravitino
+World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+language: Java
+stars: 1,819
+forked: 610
+stars today: 2
+
+alibaba/canal
+https://github.com/alibaba/canal
+阿里巴巴 MySQL binlog 增量订阅&消费组件
+language: Java
+stars: 29,388
+forked: 7,676
+stars today: 3
+
+elastic/logstash
+https://github.com/elastic/logstash
+Logstash - transport and process your logs, events, or other data
+language: Java
+stars: 14,645
+forked: 3,520
+stars today: 1
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,287
+forked: 9,121
+stars today: 1
+
+CarGuo/GSYVideoPlayer
+https://github.com/CarGuo/GSYVideoPlayer
+视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+language: Java
+stars: 21,125
+forked: 4,298
+stars today: 0
+
+Anuken/Mindustry
+https://github.com/Anuken/Mindustry
+The automation tower defense RTS
+language: Java
+stars: 24,872
+forked: 3,179
+stars today: 11
