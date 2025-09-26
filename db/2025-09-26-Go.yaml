@@ -1,0 +1,199 @@
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 85,505
+forked: 8,403
+stars today: 458
+
+smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink
+node of the decentralized oracle network, bridging on and off-chain computation
+language: Go
+stars: 7,727
+forked: 1,855
+stars today: 50
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 7,684
+forked: 708
+stars today: 6
+
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,662
+forked: 1,314
+stars today: 9
+
+go-chi/chi
+https://github.com/go-chi/chi
+lightweight, idiomatic and composable router for building Go HTTP services
+language: Go
+stars: 20,562
+forked: 1,041
+stars today: 9
+
+gofiber/fiber
+https://github.com/gofiber/fiber
+⚡️ Express inspired web framework written in Go
+language: Go
+stars: 37,952
+forked: 1,875
+stars today: 50
+
+siderolabs/talos
+https://github.com/siderolabs/talos
+Talos Linux is a modern Linux distribution built for Kubernetes.
+language: Go
+stars: 8,789
+forked: 716
+stars today: 6
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,021
+forked: 3,029
+stars today: 5
+
+abiosoft/colima
+https://github.com/abiosoft/colima
+Container runtimes on macOS (and Linux) with minimal setup
+language: Go
+stars: 24,739
+forked: 487
+stars today: 19
+
+publicsuffix/list
+https://github.com/publicsuffix/list
+The Public Suffix List
+language: Go
+stars: 2,524
+forked: 1,400
+stars today: 7
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,255
+forked: 1,335
+stars today: 3
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 37,438
+forked: 8,080
+stars today: 117
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 51,231
+forked: 2,667
+stars today: 72
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,799
+forked: 18,820
+stars today: 16
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+GitHub's official MCP Server
+language: Go
+stars: 22,972
+forked: 2,599
+stars today: 39
+
+iam-veeramalla/observability-zero-to-hero
+https://github.com/iam-veeramalla/observability-zero-to-hero
+Repo for learning observability
+language: Go
+stars: 2,399
+forked: 3,756
+stars today: 2
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 41,996
+forked: 3,004
+stars today: 17
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 12,069
+forked: 1,809
+stars today: 7
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,719
+forked: 270
+stars today: 7
+
+0xJacky/nginx-ui
+https://github.com/0xJacky/nginx-ui
+Yet another WebUI for Nginx
+language: Go
+stars: 9,600
+forked: 691
+stars today: 6
+
+rancher/rancher
+https://github.com/rancher/rancher
+Complete container management platform
+language: Go
+stars: 24,711
+forked: 3,100
+stars today: 7
+
+kedacore/keda
+https://github.com/kedacore/keda
+KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+language: Go
+stars: 9,490
+forked: 1,229
+stars today: 6
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 39,076
+forked: 6,018
+stars today: 7
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 8,961
+forked: 1,092
+stars today: 4
+
+tidwall/gjson
+https://github.com/tidwall/gjson
+Get JSON values quickly - JSON parser for Go
+language: Go
+stars: 15,239
+forked: 889
+stars today: 3

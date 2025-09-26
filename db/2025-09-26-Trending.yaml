@@ -1,0 +1,127 @@
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 85,505
+forked: 8,403
+stars today: 458
+
+humanlayer/humanlayer
+https://github.com/humanlayer/humanlayer
+The best way to get AI to solve hard problems in complex codebases.
+language: TypeScript
+stars: 2,963
+forked: 265
+stars today: 96
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 127,895
+forked: 10,253
+stars today: 261
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 209,150
+forked: 48,145
+stars today: 643
+
+ZuodaoTech/everyone-can-use-english
+https://github.com/ZuodaoTech/everyone-can-use-english
+人人都能用英语
+language: TypeScript
+stars: 29,302
+forked: 4,242
+stars today: 466
+
+Olow304/memvid
+https://github.com/Olow304/memvid
+Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+language: Python
+stars: 8,985
+forked: 748
+stars today: 146
+
+TanStack/router
+https://github.com/TanStack/router
+🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+language: TypeScript
+stars: 11,282
+forked: 1,221
+stars today: 40
+
+LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird
+Truly independent web browser
+language: C++
+stars: 48,809
+forked: 2,116
+stars today: 231
+
+coinbase/x402
+https://github.com/coinbase/x402
+A payments protocol for the internet. Built on HTTP.
+language: TypeScript
+stars: 1,350
+forked: 245
+stars today: 50
+
+Asabeneh/30-Days-Of-Python
+https://github.com/Asabeneh/30-Days-Of-Python
+30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+language: Python
+stars: 50,108
+forked: 9,561
+stars today: 177
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 74,713
+forked: 25,503
+stars today: 558
+
+OpenZeppelin/openzeppelin-contracts
+https://github.com/OpenZeppelin/openzeppelin-contracts
+OpenZeppelin Contracts is a library for secure smart contract development.
+language: Solidity
+stars: 26,473
+forked: 12,200
+stars today: 22
+
+confident-ai/deepeval
+https://github.com/confident-ai/deepeval
+The LLM Evaluation Framework
+language: Python
+stars: 11,191
+forked: 966
+stars today: 109
+
+cloudflare/capnweb
+https://github.com/cloudflare/capnweb
+JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+language: TypeScript
+stars: 2,485
+forked: 74
+stars today: 938
+
+smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink
+node of the decentralized oracle network, bridging on and off-chain computation
+language: Go
+stars: 7,727
+forked: 1,855
+stars today: 50
+
+onyx-dot-app/onyx
+https://github.com/onyx-dot-app/onyx
+Open Source AI Platform - AI Chat with advanced features that works with every LLM
+language: Python
+stars: 13,813
+forked: 1,919
+stars today: 42

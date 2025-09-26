@@ -1,0 +1,183 @@
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 5,005
+forked: 1,884
+stars today: 6
+
+rathole-org/rathole
+https://github.com/rathole-org/rathole
+A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+language: Rust
+stars: 11,869
+forked: 628
+stars today: 34
+
+visioncortex/vtracer
+https://github.com/visioncortex/vtracer
+Raster to Vector Graphics Converter
+language: Rust
+stars: 4,817
+forked: 326
+stars today: 37
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 96,852
+forked: 3,075
+stars today: 39
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,580
+forked: 2,163
+stars today: 22
+
+FuelLabs/sway
+https://github.com/FuelLabs/sway
+🌴 Empowering everyone to build reliable and efficient smart contracts.
+language: Rust
+stars: 62,132
+forked: 5,408
+stars today: 3
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 9,671
+forked: 496
+stars today: 10
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 6,013
+forked: 279
+stars today: 30
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,060
+forked: 613
+stars today: 8
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 104,415
+forked: 5,717
+stars today: 56
+
+davidlattimore/wild
+https://github.com/davidlattimore/wild
+A very fast linker for Linux
+language: Rust
+stars: 2,567
+forked: 65
+stars today: 37
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 28,736
+forked: 2,093
+stars today: 9
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,476
+forked: 1,181
+stars today: 8
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 98,860
+forked: 14,537
+stars today: 82
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 26,181
+forked: 1,825
+stars today: 27
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,936
+forked: 1,512
+stars today: 4
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 17,489
+forked: 601
+stars today: 12
+
+Wilfred/difftastic
+https://github.com/Wilfred/difftastic
+a structural diff that understands syntax 🟥🟩
+language: Rust
+stars: 23,039
+forked: 400
+stars today: 27
+
+open-telemetry/opentelemetry-rust
+https://github.com/open-telemetry/opentelemetry-rust
+The Rust OpenTelemetry implementation
+language: Rust
+stars: 2,304
+forked: 577
+stars today: 1
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 106,700
+forked: 13,771
+stars today: 29
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Program Framework
+language: Rust
+stars: 4,638
+forked: 1,699
+stars today: 5
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 37,382
+forked: 1,186
+stars today: 17
+
+huggingface/xet-core
+https://github.com/huggingface/xet-core
+xet client tech, used in huggingface_hub
+language: Rust
+stars: 256
+forked: 28
+stars today: 6
