@@ -1,0 +1,135 @@
+ZuodaoTech/everyone-can-use-english
+https://github.com/ZuodaoTech/everyone-can-use-english
+人人都能用英语
+language: TypeScript
+stars: 30,014
+forked: 4,306
+stars today: 448
+
+humanlayer/humanlayer
+https://github.com/humanlayer/humanlayer
+The best way to get AI to solve hard problems in complex codebases.
+language: TypeScript
+stars: 3,255
+forked: 277
+stars today: 338
+
+ericciarla/trendFinder
+https://github.com/ericciarla/trendFinder
+Stay on top of trending topics on social media and the web with AI
+language: TypeScript
+stars: 3,664
+forked: 398
+stars today: 84
+
+google-gemini/gemini-cli
+https://github.com/google-gemini/gemini-cli
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+language: TypeScript
+stars: 76,957
+forked: 8,261
+stars today: 195
+
+langfuse/langfuse
+https://github.com/langfuse/langfuse
+🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+language: TypeScript
+stars: 16,568
+forked: 1,550
+stars today: 48
+
+n8n-io/n8n
+https://github.com/n8n-io/n8n
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+language: TypeScript
+stars: 141,037
+forked: 45,140
+stars today: 306
+
+langgenius/dify
+https://github.com/langgenius/dify
+Production-ready platform for agentic workflow development.
+language: TypeScript
+stars: 115,084
+forked: 17,728
+stars today: 114
+
+cloudflare/capnweb
+https://github.com/cloudflare/capnweb
+JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+language: TypeScript
+stars: 2,621
+forked: 77
+stars today: 218
+
+mediar-ai/screenpipe
+https://github.com/mediar-ai/screenpipe
+AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording
+language: TypeScript
+stars: 15,700
+forked: 1,217
+stars today: 19
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+language: TypeScript
+stars: 12,096
+forked: 1,224
+stars today: 30
+
+element-hq/element-web
+https://github.com/element-hq/element-web
+A glossy Matrix collaboration client for the web.
+language: TypeScript
+stars: 12,128
+forked: 2,297
+stars today: 11
+
+OpenCTI-Platform/opencti
+https://github.com/OpenCTI-Platform/opencti
+Open Cyber Threat Intelligence Platform
+language: TypeScript
+stars: 7,781
+forked: 1,132
+stars today: 3
+
+TanStack/router
+https://github.com/TanStack/router
+🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+language: TypeScript
+stars: 11,353
+forked: 1,228
+stars today: 133
+
+exa-labs/exa-mcp-server
+https://github.com/exa-labs/exa-mcp-server
+Exa MCP for web search and web crawling!
+language: TypeScript
+stars: 2,520
+forked: 208
+stars today: 206
+
+siyuan-note/siyuan
+https://github.com/siyuan-note/siyuan
+A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+language: TypeScript
+stars: 38,074
+forked: 2,335
+stars today: 83
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+language: TypeScript
+stars: 65,912
+forked: 13,672
+stars today: 43
+
+ccbikai/hacker-news
+https://github.com/ccbikai/hacker-news
+一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+language: TypeScript
+stars: 2,169
+forked: 180
+stars today: 67

@@ -1,0 +1,191 @@
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 85,883
+forked: 8,418
+stars today: 750
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 1,979
+forked: 201
+stars today: 25
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 51,266
+forked: 2,675
+stars today: 45
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,256
+forked: 1,335
+stars today: 1
+
+abiosoft/colima
+https://github.com/abiosoft/colima
+Container runtimes on macOS (and Linux) with minimal setup
+language: Go
+stars: 24,764
+forked: 488
+stars today: 36
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 65,228
+forked: 2,251
+stars today: 52
+
+avelino/awesome-go
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
+language: Go
+stars: 153,261
+forked: 12,588
+stars today: 84
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 12,083
+forked: 1,814
+stars today: 19
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 33,199
+forked: 4,443
+stars today: 15
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 24,937
+forked: 2,890
+stars today: 20
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 19,331
+forked: 3,664
+stars today: 7
+
+vitessio/vitess
+https://github.com/vitessio/vitess
+Vitess is a database clustering system for horizontal scaling of MySQL.
+language: Go
+stars: 20,205
+forked: 2,254
+stars today: 20
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 18,301
+forked: 1,652
+stars today: 11
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+language: Go
+stars: 7,273
+forked: 740
+stars today: 6
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 19,070
+forked: 1,382
+stars today: 11
+
+publicsuffix/list
+https://github.com/publicsuffix/list
+The Public Suffix List
+language: Go
+stars: 2,530
+forked: 1,401
+stars today: 3
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,582
+forked: 2,349
+stars today: 3
+
+crossplane/crossplane
+https://github.com/crossplane/crossplane
+The Cloud Native Control Plane
+language: Go
+stars: 10,890
+forked: 1,085
+stars today: 2
+
+julienschmidt/httprouter
+https://github.com/julienschmidt/httprouter
+A high performance HTTP request router that scales well
+language: Go
+stars: 17,009
+forked: 1,472
+stars today: 9
+
+kgateway-dev/kgateway
+https://github.com/kgateway-dev/kgateway
+The Cloud-Native API Gateway and AI Gateway
+language: Go
+stars: 4,888
+forked: 580
+stars today: 9
+
+go-git/go-git
+https://github.com/go-git/go-git
+A highly extensible Git implementation in pure Go.
+language: Go
+stars: 6,862
+forked: 830
+stars today: 3
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 30,222
+forked: 1,474
+stars today: 9
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 11,059
+forked: 1,012
+stars today: 5
+
+rs/zerolog
+https://github.com/rs/zerolog
+Zero Allocation JSON Logger
+language: Go
+stars: 11,836
+forked: 604
+stars today: 8
