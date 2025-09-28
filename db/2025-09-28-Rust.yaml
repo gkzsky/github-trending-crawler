@@ -1,0 +1,175 @@
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,143
+forked: 615
+stars today: 10
+
+nexus-xyz/nexus-cli
+https://github.com/nexus-xyz/nexus-cli
+Command line interface for supplying proofs to the Nexus network.
+language: Rust
+stars: 1,018
+forked: 570
+stars today: 6
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 31,609
+forked: 3,258
+stars today: 16
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 28,544
+forked: 613
+stars today: 25
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 19,929
+forked: 1,761
+stars today: 40
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,593
+forked: 863
+stars today: 12
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,521
+forked: 1,721
+stars today: 23
+
+Lissy93/AdGuardian-Term
+https://github.com/Lissy93/AdGuardian-Term
+🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+language: Rust
+stars: 1,314
+forked: 64
+stars today: 14
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 5,162
+forked: 488
+stars today: 25
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,631
+forked: 303
+stars today: 3
+
+FuelLabs/sway
+https://github.com/FuelLabs/sway
+🌴 Empowering everyone to build reliable and efficient smart contracts.
+language: Rust
+stars: 62,137
+forked: 5,411
+stars today: 2
+
+davidlattimore/wild
+https://github.com/davidlattimore/wild
+A very fast linker for Linux
+language: Rust
+stars: 2,681
+forked: 67
+stars today: 68
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 5,012
+forked: 1,891
+stars today: 3
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 17,518
+forked: 605
+stars today: 18
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,366
+forked: 3,836
+stars today: 0
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 20,876
+forked: 899
+stars today: 151
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 34,167
+forked: 4,210
+stars today: 10
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 26,322
+forked: 1,830
+stars today: 32
+
+matter-labs/zksync-era
+https://github.com/matter-labs/zksync-era
+zkSync era
+language: Rust
+stars: 3,203
+forked: 2,150
+stars today: 2
+
+bluealloy/revm
+https://github.com/bluealloy/revm
+Rust implementation of the Ethereum Virtual Machine.
+language: Rust
+stars: 1,999
+forked: 809
+stars today: 2
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 25,134
+forked: 1,472
+stars today: 13
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 15,706
+forked: 1,477
+stars today: 9
