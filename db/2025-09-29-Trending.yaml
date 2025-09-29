@@ -1,0 +1,135 @@
+commaai/openpilot
+https://github.com/commaai/openpilot
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+language: Python
+stars: 56,755
+forked: 10,188
+stars today: 68
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 338,257
+forked: 42,938
+stars today: 346
+
+rasbt/LLMs-from-scratch
+https://github.com/rasbt/LLMs-from-scratch
+Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+language: Jupyter Notebook
+stars: 73,372
+forked: 10,680
+stars today: 163
+
+humanlayer/humanlayer
+https://github.com/humanlayer/humanlayer
+The best way to get AI coding agents to solve hard problems in complex codebases.
+language: TypeScript
+stars: 4,608
+forked: 359
+stars today: 1,024
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 46,122
+forked: 1,240
+stars today: 152
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 70,557
+forked: 9,025
+stars today: 169
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 31,454
+forked: 4,844
+stars today: 75
+
+sst/opencode
+https://github.com/sst/opencode
+AI coding agent, built for the terminal.
+language: TypeScript
+stars: 25,373
+forked: 1,830
+stars today: 124
+
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 40,742
+forked: 5,921
+stars today: 368
+
+ZuodaoTech/everyone-can-use-english
+https://github.com/ZuodaoTech/everyone-can-use-english
+人人都能用英语
+language: TypeScript
+stars: 30,713
+forked: 4,374
+stars today: 238
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 28,998
+forked: 9,437
+stars today: 231
+
+basecamp/omarchy
+https://github.com/basecamp/omarchy
+Opinionated Arch/Hyprland Setup
+language: Shell
+stars: 11,640
+forked: 1,104
+stars today: 368
+
+jellyfin/jellyfin
+https://github.com/jellyfin/jellyfin
+The Free Software Media System - Server Backend & API
+language: C#
+stars: 44,015
+forked: 3,956
+stars today: 118
+
+rapid7/metasploit-framework
+https://github.com/rapid7/metasploit-framework
+Metasploit Framework
+language: Ruby
+stars: 36,567
+forked: 14,540
+stars today: 11
+
+onyx-dot-app/onyx
+https://github.com/onyx-dot-app/onyx
+Open Source AI Platform - AI Chat with advanced features that works with every LLM
+language: Python
+stars: 14,655
+forked: 1,981
+stars today: 288
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 128,702
+forked: 10,315
+stars today: 277
+
+microsoft/ai-agents-for-beginners
+https://github.com/microsoft/ai-agents-for-beginners
+12 Lessons to Get Started Building AI Agents
+language: Jupyter Notebook
+stars: 40,327
+forked: 13,132
+stars today: 272
