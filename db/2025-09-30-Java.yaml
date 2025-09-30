@@ -1,0 +1,151 @@
+apache/fesod
+https://github.com/apache/fesod
+Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
+language: Java
+stars: 5,161
+forked: 417
+stars today: 3
+
+apache/doris
+https://github.com/apache/doris
+Apache Doris is an easy-to-use, high performance and unified analytics database.
+language: Java
+stars: 14,338
+forked: 3,565
+stars today: 4
+
+Anuken/Mindustry
+https://github.com/Anuken/Mindustry
+The automation tower defense RTS
+language: Java
+stars: 24,903
+forked: 3,181
+stars today: 9
+
+ashishps1/awesome-low-level-design
+https://github.com/ashishps1/awesome-low-level-design
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+language: Java
+stars: 18,394
+forked: 4,535
+stars today: 55
+
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,687
+forked: 3,856
+stars today: 2
+
+PojavLauncherTeam/PojavLauncher
+https://github.com/PojavLauncherTeam/PojavLauncher
+A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
+language: Java
+stars: 8,414
+forked: 1,638
+stars today: 5
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 11,455
+forked: 2,702
+stars today: 3
+
+MeteorDevelopment/meteor-client
+https://github.com/MeteorDevelopment/meteor-client
+Based Minecraft utility mod.
+language: Java
+stars: 2,934
+forked: 1,195
+stars today: 4
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 26,290
+forked: 6,218
+stars today: 31
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 6,006
+forked: 1,293
+stars today: 15
+
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 45,496
+forked: 5,174
+stars today: 35
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 24,935
+forked: 7,190
+stars today: 11
+
+karma9874/AndroRAT
+https://github.com/karma9874/AndroRAT
+A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
+language: Java
+stars: 4,165
+forked: 1,316
+stars today: 4
+
+dromara/Sa-Token
+https://github.com/dromara/Sa-Token
+一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
+language: Java
+stars: 18,208
+forked: 2,834
+stars today: 3
+
+iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns
+Design patterns implemented in Java
+language: Java
+stars: 92,781
+forked: 27,186
+stars today: 15
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 10,720
+forked: 2,150
+stars today: 5
+
+debezium/debezium
+https://github.com/debezium/debezium
+Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+language: Java
+stars: 11,895
+forked: 2,748
+stars today: 8
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 2,499
+forked: 662
+stars today: 4
+
+00-Evan/shattered-pixel-dungeon
+https://github.com/00-Evan/shattered-pixel-dungeon
+Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
+language: Java
+stars: 5,521
+forked: 1,301
+stars today: 3

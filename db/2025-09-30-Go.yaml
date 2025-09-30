@@ -1,0 +1,159 @@
+Done-0/fuck-u-code
+https://github.com/Done-0/fuck-u-code
+Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+language: Go
+stars: 4,166
+forked: 209
+stars today: 86
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 12,552
+forked: 1,834
+stars today: 84
+
+francoismichel/ssh3
+https://github.com/francoismichel/ssh3
+SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
+language: Go
+stars: 4,530
+forked: 106
+stars today: 299
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+The glamourous AI coding agent for your favourite terminal 💘
+language: Go
+stars: 13,344
+forked: 686
+stars today: 73
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
+language: Go
+stars: 117,756
+forked: 41,455
+stars today: 21
+
+chaitin/SafeLine
+https://github.com/chaitin/SafeLine
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+language: Go
+stars: 18,103
+forked: 1,125
+stars today: 43
+
+bnb-chain/bsc
+https://github.com/bnb-chain/bsc
+A BNB Smart Chain client based on the go-ethereum fork
+language: Go
+stars: 3,114
+forked: 1,760
+stars today: 21
+
+slackhq/nebula
+https://github.com/slackhq/nebula
+A scalable overlay networking tool with a focus on performance, simplicity and security
+language: Go
+stars: 16,238
+forked: 1,064
+stars today: 13
+
+binwiederhier/ntfy
+https://github.com/binwiederhier/ntfy
+Send push notifications to your phone or desktop using PUT/POST
+language: Go
+stars: 26,398
+forked: 1,060
+stars today: 47
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 11,350
+forked: 1,025
+stars today: 51
+
+eduardolat/pgbackweb
+https://github.com/eduardolat/pgbackweb
+🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
+language: Go
+stars: 2,013
+forked: 102
+stars today: 52
+
+alireza0/s-ui
+https://github.com/alireza0/s-ui
+An advanced Web Panel • Built for SagerNet/Sing-Box
+language: Go
+stars: 5,299
+forked: 885
+stars today: 23
+
+kubernetes-sigs/kind
+https://github.com/kubernetes-sigs/kind
+Kubernetes IN Docker - local clusters for testing Kubernetes
+language: Go
+stars: 14,593
+forked: 1,666
+stars today: 5
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 10,460
+forked: 1,247
+stars today: 35
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 25,236
+forked: 1,677
+stars today: 9
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 6,493
+forked: 836
+stars today: 7
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 55,469
+forked: 6,187
+stars today: 22
+
+asdf-vm/asdf
+https://github.com/asdf-vm/asdf
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+language: Go
+stars: 24,350
+forked: 897
+stars today: 5
+
+pulumi/pulumi
+https://github.com/pulumi/pulumi
+Pulumi - Infrastructure as Code in any programming language 🚀
+language: Go
+stars: 23,851
+forked: 1,239
+stars today: 10
+
+rivo/tview
+https://github.com/rivo/tview
+Terminal UI library with rich, interactive widgets — written in Golang
+language: Go
+stars: 12,908
+forked: 642
+stars today: 14
