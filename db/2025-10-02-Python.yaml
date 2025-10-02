@@ -1,0 +1,127 @@
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 44,974
+forked: 6,309
+stars today: 1,355
+
+anthropics/claude-agent-sdk-python
+https://github.com/anthropics/claude-agent-sdk-python
+-
+language: Python
+stars: 1,823
+forked: 239
+stars today: 298
+
+lukas-blecher/LaTeX-OCR
+https://github.com/lukas-blecher/LaTeX-OCR
+pix2tex: Using a ViT to convert images of equations into LaTeX code.
+language: Python
+stars: 15,498
+forked: 1,243
+stars today: 34
+
+commaai/openpilot
+https://github.com/commaai/openpilot
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+language: Python
+stars: 58,103
+forked: 10,279
+stars today: 165
+
+YILING0013/AI_NovelGenerator
+https://github.com/YILING0013/AI_NovelGenerator
+使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+language: Python
+stars: 2,203
+forked: 446
+stars today: 131
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 73,673
+forked: 10,715
+stars today: 70
+
+Byaidu/PDFMathTranslate
+https://github.com/Byaidu/PDFMathTranslate
+PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+language: Python
+stars: 28,266
+forked: 2,489
+stars today: 191
+
+PostHog/posthog
+https://github.com/PostHog/posthog
+🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+language: Python
+stars: 29,490
+forked: 1,960
+stars today: 23
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 29,352
+forked: 9,486
+stars today: 15
+
+jsvine/pdfplumber
+https://github.com/jsvine/pdfplumber
+Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+language: Python
+stars: 8,764
+forked: 796
+stars today: 44
+
+volatilityfoundation/volatility3
+https://github.com/volatilityfoundation/volatility3
+Volatility 3.0 development
+language: Python
+stars: 3,538
+forked: 579
+stars today: 20
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Financial data platform for analysts, quants and AI agents.
+language: Python
+stars: 52,831
+forked: 5,044
+stars today: 156
+
+google-deepmind/mujoco_warp
+https://github.com/google-deepmind/mujoco_warp
+GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.
+language: Python
+stars: 784
+forked: 83
+stars today: 10
+
+isaac-sim/IsaacLab
+https://github.com/isaac-sim/IsaacLab
+Unified framework for robot learning built on NVIDIA Isaac Sim
+language: Python
+stars: 5,019
+forked: 2,428
+stars today: 17
+
+apify/crawlee-python
+https://github.com/apify/crawlee-python
+Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language: Python
+stars: 6,650
+forked: 472
+stars today: 231
+
+opendatalab/MinerU
+https://github.com/opendatalab/MinerU
+Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+language: Python
+stars: 45,145
+forked: 3,743
+stars today: 76
