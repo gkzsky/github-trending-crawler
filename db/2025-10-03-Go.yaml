@@ -1,0 +1,159 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 29,250
+forked: 2,762
+stars today: 105
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,416
+forked: 4,585
+stars today: 4
+
+envoyproxy/gateway
+https://github.com/envoyproxy/gateway
+Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+language: Go
+stars: 2,123
+forked: 556
+stars today: 3
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 5,838
+forked: 1,736
+stars today: 5
+
+ThreeDotsLabs/watermill
+https://github.com/ThreeDotsLabs/watermill
+Building event-driven applications the easy way in Go.
+language: Go
+stars: 9,043
+forked: 462
+stars today: 27
+
+derailed/k9s
+https://github.com/derailed/k9s
+🐶 Kubernetes CLI To Manage Your Clusters In Style!
+language: Go
+stars: 31,347
+forked: 1,972
+stars today: 12
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,527
+forked: 9,734
+stars today: 2
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 22,320
+forked: 708
+stars today: 16
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,811
+forked: 6,410
+stars today: 10
+
+prometheus-operator/prometheus-operator
+https://github.com/prometheus-operator/prometheus-operator
+Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+language: Go
+stars: 9,668
+forked: 3,801
+stars today: 2
+
+uber-go/mock
+https://github.com/uber-go/mock
+GoMock is a mocking framework for the Go programming language.
+language: Go
+stars: 3,076
+forked: 153
+stars today: 3
+
+fluxcd/flux2
+https://github.com/fluxcd/flux2
+Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+language: Go
+stars: 7,456
+forked: 679
+stars today: 6
+
+Done-0/fuck-u-code
+https://github.com/Done-0/fuck-u-code
+Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+language: Go
+stars: 4,788
+forked: 236
+stars today: 168
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 29,048
+forked: 2,812
+stars today: 10
+
+keploy/keploy
+https://github.com/keploy/keploy
+API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+language: Go
+stars: 11,149
+forked: 1,655
+stars today: 31
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+GitHub's official MCP Server
+language: Go
+stars: 23,231
+forked: 2,665
+stars today: 43
+
+kubernetes-sigs/external-dns
+https://github.com/kubernetes-sigs/external-dns
+Configure external DNS servers dynamically from Kubernetes resources
+language: Go
+stars: 8,508
+forked: 2,756
+stars today: 1
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 9,916
+forked: 2,659
+stars today: 10
+
+getsops/sops
+https://github.com/getsops/sops
+Simple and flexible tool for managing secrets
+language: Go
+stars: 19,594
+forked: 968
+stars today: 15
+
+openbao/openbao
+https://github.com/openbao/openbao
+OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+language: Go
+stars: 4,605
+forked: 260
+stars today: 10

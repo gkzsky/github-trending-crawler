@@ -1,0 +1,159 @@
+google/tunix
+https://github.com/google/tunix
+A JAX-native LLM Post-Training Library
+language: Python
+stars: 952
+forked: 84
+stars today: 131
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 43,989
+forked: 1,346
+stars today: 95
+
+anthropics/claude-agent-sdk-python
+https://github.com/anthropics/claude-agent-sdk-python
+-
+language: Python
+stars: 1,995
+forked: 252
+stars today: 267
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 8,197
+forked: 731
+stars today: 9
+
+harry0703/MoneyPrinterTurbo
+https://github.com/harry0703/MoneyPrinterTurbo
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+language: Python
+stars: 45,481
+forked: 6,359
+stars today: 1,178
+
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 7,805
+forked: 1,897
+stars today: 258
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 70,365
+forked: 16,006
+stars today: 38
+
+YILING0013/AI_NovelGenerator
+https://github.com/YILING0013/AI_NovelGenerator
+使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+language: Python
+stars: 2,315
+forked: 454
+stars today: 178
+
+Cinnamon/kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+language: Python
+stars: 24,462
+forked: 2,000
+stars today: 10
+
+bregman-arie/devops-exercises
+https://github.com/bregman-arie/devops-exercises
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+language: Python
+stars: 79,056
+forked: 17,855
+stars today: 75
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 371,309
+forked: 64,468
+stars today: 132
+
+getredash/redash
+https://github.com/getredash/redash
+Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+language: Python
+stars: 27,830
+forked: 4,519
+stars today: 7
+
+SigmaHQ/sigma
+https://github.com/SigmaHQ/sigma
+Main Sigma Rule Repository
+language: Python
+stars: 9,674
+forked: 2,428
+stars today: 4
+
+getsentry/sentry
+https://github.com/getsentry/sentry
+Developer-first error tracking and performance monitoring
+language: Python
+stars: 42,093
+forked: 4,452
+stars today: 17
+
+apify/crawlee-python
+https://github.com/apify/crawlee-python
+Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language: Python
+stars: 6,719
+forked: 477
+stars today: 74
+
+h2y/Shadowrocket-ADBlock-Rules
+https://github.com/h2y/Shadowrocket-ADBlock-Rules
+提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
+language: Python
+stars: 15,985
+forked: 2,329
+stars today: 39
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 13,103
+forked: 1,056
+stars today: 266
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Financial data platform for analysts, quants and AI agents.
+language: Python
+stars: 52,875
+forked: 5,051
+stars today: 66
+
+airweave-ai/airweave
+https://github.com/airweave-ai/airweave
+Airweave lets agents search any app
+language: Python
+stars: 3,333
+forked: 418
+stars today: 158
+
+Mr-Homeless/waldo
+https://github.com/Mr-Homeless/waldo
+Waldo Vision | Cheat detection
+language: Python
+stars: 386
+forked: 35
+stars today: 20
