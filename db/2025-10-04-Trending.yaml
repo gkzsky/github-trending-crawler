@@ -1,0 +1,143 @@
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 8,552
+forked: 1,981
+stars today: 332
+
+google/tunix
+https://github.com/google/tunix
+A JAX-native LLM Post-Training Library
+language: Python
+stars: 1,341
+forked: 118
+stars today: 822
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 35,065
+forked: 4,262
+stars today: 277
+
+airweave-ai/airweave
+https://github.com/airweave-ai/airweave
+Airweave lets agents search any app
+language: Python
+stars: 3,640
+forked: 446
+stars today: 313
+
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+language: Java
+stars: 21,683
+forked: 1,936
+stars today: 222
+
+nextcloud/server
+https://github.com/nextcloud/server
+☁️ Nextcloud server, a safe home for all your data
+language: PHP
+stars: 32,613
+forked: 4,542
+stars today: 810
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 13,311
+forked: 1,067
+stars today: 192
+
+Infisical/infisical
+https://github.com/Infisical/infisical
+Infisical is the open-source platform for secrets management, PKI, and SSH access.
+language: TypeScript
+stars: 20,299
+forked: 1,387
+stars today: 9
+
+SDWebImage/SDWebImage
+https://github.com/SDWebImage/SDWebImage
+Asynchronous image downloader with cache support as a UIImageView category
+language: Objective-C
+stars: 25,741
+forked: 6,001
+stars today: 46
+
+microsoft/agent-framework
+https://github.com/microsoft/agent-framework
+A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+language: Python
+stars: 1,805
+forked: 188
+stars today: 670
+
+amir1376/ab-download-manager
+https://github.com/amir1376/ab-download-manager
+A Download Manager that speeds up your downloads
+language: Kotlin
+stars: 9,848
+forked: 545
+stars today: 83
+
+meshery/meshery
+https://github.com/meshery/meshery
+Meshery, the cloud native manager
+language: JavaScript
+stars: 7,977
+forked: 2,640
+stars today: 11
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 44,328
+forked: 1,356
+stars today: 233
+
+ripienaar/free-for-dev
+https://github.com/ripienaar/free-for-dev
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+language: HTML
+stars: 113,253
+forked: 11,605
+stars today: 128
+
+symfony/symfony
+https://github.com/symfony/symfony
+The Symfony PHP framework
+language: PHP
+stars: 30,666
+forked: 9,715
+stars today: 9
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 79,476
+forked: 4,172
+stars today: 767
+
+lukas-blecher/LaTeX-OCR
+https://github.com/lukas-blecher/LaTeX-OCR
+pix2tex: Using a ViT to convert images of equations into LaTeX code.
+language: Python
+stars: 15,697
+forked: 1,253
+stars today: 34
+
+mhogomchungu/media-downloader
+https://github.com/mhogomchungu/media-downloader
+Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
+language: C++
+stars: 3,190
+forked: 223
+stars today: 108

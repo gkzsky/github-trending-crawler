@@ -1,0 +1,135 @@
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 8,552
+forked: 1,981
+stars today: 332
+
+google/tunix
+https://github.com/google/tunix
+A JAX-native LLM Post-Training Library
+language: Python
+stars: 1,341
+forked: 118
+stars today: 822
+
+airweave-ai/airweave
+https://github.com/airweave-ai/airweave
+Airweave lets agents search any app
+language: Python
+stars: 3,640
+forked: 446
+stars today: 313
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 13,311
+forked: 1,067
+stars today: 192
+
+microsoft/agent-framework
+https://github.com/microsoft/agent-framework
+A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+language: Python
+stars: 1,805
+forked: 188
+stars today: 670
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 44,328
+forked: 1,356
+stars today: 233
+
+lukas-blecher/LaTeX-OCR
+https://github.com/lukas-blecher/LaTeX-OCR
+pix2tex: Using a ViT to convert images of equations into LaTeX code.
+language: Python
+stars: 15,697
+forked: 1,253
+stars today: 34
+
+scikit-learn/scikit-learn
+https://github.com/scikit-learn/scikit-learn
+scikit-learn: machine learning in Python
+language: Python
+stars: 63,547
+forked: 26,285
+stars today: 15
+
+SigmaHQ/sigma
+https://github.com/SigmaHQ/sigma
+Main Sigma Rule Repository
+language: Python
+stars: 9,678
+forked: 2,429
+stars today: 8
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 8,224
+forked: 735
+stars today: 66
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 70,394
+forked: 16,010
+stars today: 36
+
+getsentry/sentry
+https://github.com/getsentry/sentry
+Developer-first error tracking and performance monitoring
+language: Python
+stars: 42,099
+forked: 4,456
+stars today: 16
+
+dlt-hub/dlt
+https://github.com/dlt-hub/dlt
+data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
+language: Python
+stars: 4,234
+forked: 337
+stars today: 11
+
+yichuan-w/LEANN
+https://github.com/yichuan-w/LEANN
+RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+language: Python
+stars: 2,935
+forked: 302
+stars today: 31
+
+unslothai/unsloth
+https://github.com/unslothai/unsloth
+Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
+language: Python
+stars: 46,538
+forked: 3,800
+stars today: 60
+
+coleam00/ottomator-agents
+https://github.com/coleam00/ottomator-agents
+All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+language: Python
+stars: 4,334
+forked: 1,524
+stars today: 15
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 371,395
+forked: 64,497
+stars today: 130
