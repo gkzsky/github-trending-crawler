@@ -1,0 +1,151 @@
+google/tunix
+https://github.com/google/tunix
+A JAX-native LLM Post-Training Library
+language: Python
+stars: 1,475
+forked: 128
+stars today: 165
+
+simular-ai/Agent-S
+https://github.com/simular-ai/Agent-S
+Agent S: an open agentic framework that uses computers like a human
+language: Python
+stars: 6,540
+forked: 713
+stars today: 82
+
+microsoft/BitNet
+https://github.com/microsoft/BitNet
+Official inference framework for 1-bit LLMs
+language: Python
+stars: 22,566
+forked: 1,763
+stars today: 288
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 44,679
+forked: 1,367
+stars today: 457
+
+dbt-labs/dbt-core
+https://github.com/dbt-labs/dbt-core
+dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+language: Python
+stars: 11,562
+forked: 1,979
+stars today: 19
+
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 9,067
+forked: 2,034
+stars today: 1,034
+
+airweave-ai/airweave
+https://github.com/airweave-ai/airweave
+Airweave lets agents search any app
+language: Python
+stars: 3,858
+forked: 472
+stars today: 329
+
+microsoft/agent-framework
+https://github.com/microsoft/agent-framework
+A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+language: Python
+stars: 2,200
+forked: 236
+stars today: 567
+
+dagster-io/dagster
+https://github.com/dagster-io/dagster
+An orchestration platform for the development, production, and observation of data assets.
+language: Python
+stars: 14,143
+forked: 1,833
+stars today: 14
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 41,595
+forked: 7,321
+stars today: 25
+
+Lightricks/LTX-Video
+https://github.com/Lightricks/LTX-Video
+Official repository for LTX-Video
+language: Python
+stars: 8,231
+forked: 735
+stars today: 10
+
+Netflix/metaflow
+https://github.com/Netflix/metaflow
+Build, Manage and Deploy AI/ML Systems
+language: Python
+stars: 9,548
+forked: 989
+stars today: 11
+
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 13,401
+forked: 1,079
+stars today: 183
+
+django/django
+https://github.com/django/django
+The Web framework for perfectionists with deadlines.
+language: Python
+stars: 85,314
+forked: 33,052
+stars today: 14
+
+coleam00/ottomator-agents
+https://github.com/coleam00/ottomator-agents
+All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+language: Python
+stars: 4,341
+forked: 1,529
+stars today: 11
+
+roboflow/rf-detr
+https://github.com/roboflow/rf-detr
+RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+language: Python
+stars: 3,226
+forked: 375
+stars today: 96
+
+bunkerity/bunkerweb
+https://github.com/bunkerity/bunkerweb
+🛡️ Open-source and next-generation Web Application Firewall (WAF)
+language: Python
+stars: 9,157
+forked: 522
+stars today: 20
+
+9001/copyparty
+https://github.com/9001/copyparty
+Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+language: Python
+stars: 31,721
+forked: 1,274
+stars today: 41
+
+sonic-net/sonic-utilities
+https://github.com/sonic-net/sonic-utilities
+Command line utilities for the SONiC project
+language: Python
+stars: 175
+forked: 744
+stars today: 0
