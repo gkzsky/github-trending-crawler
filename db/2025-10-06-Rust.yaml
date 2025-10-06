@@ -1,0 +1,183 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 35,994
+forked: 4,336
+stars today: 796
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 12,684
+forked: 444
+stars today: 135
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 30,742
+forked: 1,296
+stars today: 22
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 9,809
+forked: 506
+stars today: 57
+
+Stremio/stremio-core
+https://github.com/Stremio/stremio-core
+⚛️ The Stremio Core: types, addon system, UI models, core logic
+language: Rust
+stars: 1,502
+forked: 117
+stars today: 19
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,607
+forked: 1,742
+stars today: 12
+
+apache/arrow-rs
+https://github.com/apache/arrow-rs
+Official Rust implementation of Apache Arrow
+language: Rust
+stars: 3,158
+forked: 1,018
+stars today: 3
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 7,528
+forked: 407
+stars today: 21
+
+PyO3/maturin
+https://github.com/PyO3/maturin
+Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+language: Rust
+stars: 4,939
+forked: 345
+stars today: 4
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 4,934
+forked: 606
+stars today: 55
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 106,924
+forked: 13,814
+stars today: 38
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,834
+forked: 1,669
+stars today: 5
+
+mainmatter/100-exercises-to-learn-rust
+https://github.com/mainmatter/100-exercises-to-learn-rust
+A self-paced course to learn Rust, one exercise at a time.
+language: Rust
+stars: 8,407
+forked: 1,743
+stars today: 8
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 66,688
+forked: 5,459
+stars today: 47
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 5,741
+forked: 749
+stars today: 3
+
+TheAlgorithms/Rust
+https://github.com/TheAlgorithms/Rust
+All Algorithms implemented in Rust
+language: Rust
+stars: 24,786
+forked: 2,464
+stars today: 12
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 26,457
+forked: 838
+stars today: 19
+
+dandavison/delta
+https://github.com/dandavison/delta
+A syntax-highlighting pager for git, diff, grep, and blame output
+language: Rust
+stars: 27,678
+forked: 445
+stars today: 11
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,788
+forked: 1,378
+stars today: 16
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 42,530
+forked: 4,165
+stars today: 29
+
+lanyeeee/jmcomic-downloader
+https://github.com/lanyeeee/jmcomic-downloader
+禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
+language: Rust
+stars: 909
+forked: 56
+stars today: 8
+
+Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist
+Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+language: Rust
+stars: 2,170
+forked: 93
+stars today: 8
+
+eza-community/eza
+https://github.com/eza-community/eza
+A modern alternative to ls
+language: Rust
+stars: 17,709
+forked: 329
+stars today: 22

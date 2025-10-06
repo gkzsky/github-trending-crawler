@@ -1,0 +1,167 @@
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 5,460
+forked: 1,044
+stars today: 18
+
+photoprism/photoprism
+https://github.com/photoprism/photoprism
+AI-Powered Photos App for the Decentralized Web 🌈💎✨
+language: Go
+stars: 38,489
+forked: 2,156
+stars today: 6
+
+keploy/keploy
+https://github.com/keploy/keploy
+API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+language: Go
+stars: 11,522
+forked: 1,676
+stars today: 135
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+language: Go
+stars: 35,639
+forked: 2,814
+stars today: 25
+
+yorukot/superfile
+https://github.com/yorukot/superfile
+Pretty fancy and modern terminal file manager
+language: Go
+stars: 15,302
+forked: 398
+stars today: 12
+
+hajimehoshi/ebiten
+https://github.com/hajimehoshi/ebiten
+Ebitengine - A dead simple 2D game engine for Go
+language: Go
+stars: 12,500
+forked: 729
+stars today: 5
+
+sundowndev/phoneinfoga
+https://github.com/sundowndev/phoneinfoga
+Information gathering framework for phone numbers
+language: Go
+stars: 15,198
+forked: 4,449
+stars today: 6
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 3,847
+forked: 176
+stars today: 14
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 153,575
+forked: 13,331
+stars today: 56
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 18,754
+forked: 892
+stars today: 13
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 6,518
+forked: 838
+stars today: 3
+
+avelino/awesome-go
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
+language: Go
+stars: 153,979
+forked: 12,619
+stars today: 94
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 25,163
+forked: 2,019
+stars today: 28
+
+bnb-chain/bsc
+https://github.com/bnb-chain/bsc
+A BNB Smart Chain client based on the go-ethereum fork
+language: Go
+stars: 3,127
+forked: 1,765
+stars today: 1
+
+qichiyuhub/rule
+https://github.com/qichiyuhub/rule
+Clash、Sing-box、等分流规则
+language: Go
+stars: 872
+forked: 841
+stars today: 5
+
+drk1wi/Modlishka
+https://github.com/drk1wi/Modlishka
+Modlishka. Reverse Proxy.
+language: Go
+stars: 5,151
+forked: 926
+stars today: 16
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,703
+forked: 10,052
+stars today: 13
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 6,519
+forked: 1,102
+stars today: 4
+
+fyne-io/fyne
+https://github.com/fyne-io/fyne
+Cross platform GUI toolkit in Go inspired by Material Design
+language: Go
+stars: 27,233
+forked: 1,482
+stars today: 14
+
+gtsteffaniak/filebrowser
+https://github.com/gtsteffaniak/filebrowser
+📂 Web File Browser
+language: Go
+stars: 3,640
+forked: 139
+stars today: 10
+
+synctv-org/synctv
+https://github.com/synctv-org/synctv
+Synchronized viewing, theater, live streaming, video
+language: Go
+stars: 1,832
+forked: 183
+stars today: 9
