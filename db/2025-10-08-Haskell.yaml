@@ -1,0 +1,87 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,846
+forked: 1,119
+stars today: 8
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 39,503
+forked: 3,646
+stars today: 10
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,564
+forked: 475
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,194
+forked: 1,867
+stars today: 7
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,848
+forked: 407
+stars today: 1
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,166
+forked: 741
+stars today: 0
+
+digital-asset/cn-quickstart
+https://github.com/digital-asset/cn-quickstart
+Accelerate building apps on Canton Network using this quickstart to start quick!
+language: Haskell
+stars: 22
+forked: 13
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,719
+forked: 327
+stars today: 2
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 682
+forked: 83
+stars today: 1
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 311
+forked: 97
+stars today: 1
+
+GaloisInc/parameterized-utils
+https://github.com/GaloisInc/parameterized-utils
+A set of utilities for using indexed types including containers, equality, and comparison.
+language: Haskell
+stars: 60
+forked: 13
+stars today: 0

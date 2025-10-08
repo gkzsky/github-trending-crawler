@@ -1,0 +1,175 @@
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 5,530
+forked: 1,056
+stars today: 12
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 2,274
+forked: 231
+stars today: 41
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 19,108
+forked: 1,384
+stars today: 5
+
+gtsteffaniak/filebrowser
+https://github.com/gtsteffaniak/filebrowser
+📂 Web File Browser
+language: Go
+stars: 3,671
+forked: 144
+stars today: 12
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 130,175
+forked: 18,431
+stars today: 29
+
+keploy/keploy
+https://github.com/keploy/keploy
+API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+language: Go
+stars: 11,621
+forked: 1,685
+stars today: 9
+
+prometheus-operator/prometheus-operator
+https://github.com/prometheus-operator/prometheus-operator
+Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+language: Go
+stars: 9,676
+forked: 3,803
+stars today: 1
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 8,998
+forked: 1,098
+stars today: 11
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 50,522
+forked: 10,194
+stars today: 16
+
+yonahd/kor
+https://github.com/yonahd/kor
+A Golang Tool to discover unused Kubernetes Resources
+language: Go
+stars: 1,445
+forked: 126
+stars today: 30
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,053
+forked: 3,050
+stars today: 4
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 26,588
+forked: 4,978
+stars today: 11
+
+grafana/alloy
+https://github.com/grafana/alloy
+OpenTelemetry Collector distribution with programmable pipelines
+language: Go
+stars: 2,506
+forked: 432
+stars today: 1
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 27,045
+forked: 3,155
+stars today: 25
+
+charmbracelet/vhs
+https://github.com/charmbracelet/vhs
+Your CLI home video recorder 📼
+language: Go
+stars: 17,507
+forked: 320
+stars today: 15
+
+open-telemetry/opentelemetry-go-contrib
+https://github.com/open-telemetry/opentelemetry-go-contrib
+Collection of extensions for OpenTelemetry-Go.
+language: Go
+stars: 1,525
+forked: 690
+stars today: 1
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 3,875
+forked: 179
+stars today: 11
+
+charmbracelet/gum
+https://github.com/charmbracelet/gum
+A tool for glamorous shell scripts 🎀
+language: Go
+stars: 21,347
+forked: 425
+stars today: 18
+
+sirupsen/logrus
+https://github.com/sirupsen/logrus
+Structured, pluggable logging for Go.
+language: Go
+stars: 25,505
+forked: 2,279
+stars today: 2
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 153,697
+forked: 13,341
+stars today: 62
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,571
+forked: 2,503
+stars today: 1
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 42,093
+forked: 3,011
+stars today: 9
