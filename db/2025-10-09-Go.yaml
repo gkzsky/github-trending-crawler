@@ -1,0 +1,183 @@
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,057
+forked: 3,051
+stars today: 7
+
+hashicorp/consul
+https://github.com/hashicorp/consul
+Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+language: Go
+stars: 29,402
+forked: 4,527
+stars today: 28
+
+hashicorp/terraform-provider-aws
+https://github.com/hashicorp/terraform-provider-aws
+The AWS Provider enables Terraform to manage AWS resources.
+language: Go
+stars: 10,534
+forked: 9,748
+stars today: 2
+
+cilium/cilium
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+language: Go
+stars: 22,579
+forked: 3,426
+stars today: 7
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 130,200
+forked: 18,431
+stars today: 24
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 31,560
+forked: 1,692
+stars today: 20
+
+sjzar/chatlog
+https://github.com/sjzar/chatlog
+chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+language: Go
+stars: 8,698
+forked: 1,243
+stars today: 28
+
+prometheus-operator/prometheus-operator
+https://github.com/prometheus-operator/prometheus-operator
+Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+language: Go
+stars: 9,681
+forked: 3,803
+stars today: 6
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+language: Go
+stars: 7,865
+forked: 459
+stars today: 13
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,792
+forked: 277
+stars today: 9
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,862
+forked: 6,438
+stars today: 12
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 40,968
+forked: 7,211
+stars today: 10
+
+go-chi/chi
+https://github.com/go-chi/chi
+lightweight, idiomatic and composable router for building Go HTTP services
+language: Go
+stars: 20,625
+forked: 1,043
+stars today: 6
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 2,316
+forked: 235
+stars today: 39
+
+open-telemetry/opentelemetry-go-contrib
+https://github.com/open-telemetry/opentelemetry-go-contrib
+Collection of extensions for OpenTelemetry-Go.
+language: Go
+stars: 1,526
+forked: 690
+stars today: 2
+
+sqlc-dev/sqlc
+https://github.com/sqlc-dev/sqlc
+Generate type-safe code from SQL
+language: Go
+stars: 16,090
+forked: 949
+stars today: 9
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 3,897
+forked: 179
+stars today: 22
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 19,002
+forked: 8,451
+stars today: 2
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 55,611
+forked: 6,203
+stars today: 21
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 25,012
+forked: 2,907
+stars today: 13
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,607
+forked: 2,351
+stars today: 4
+
+gohugoio/hugo
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
+language: Go
+stars: 84,042
+forked: 8,049
+stars today: 14
+
+cosmos/cosmos-sdk
+https://github.com/cosmos/cosmos-sdk
+⛓️ A Framework for Building High Value Public Blockchains ✨
+language: Go
+stars: 6,789
+forked: 4,063
+stars today: 1

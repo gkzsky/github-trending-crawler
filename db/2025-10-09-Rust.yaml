@@ -1,0 +1,191 @@
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 20,215
+forked: 664
+stars today: 77
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 30,888
+forked: 1,304
+stars today: 37
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 46,527
+forked: 5,577
+stars today: 210
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,473
+forked: 1,024
+stars today: 2
+
+katanemo/archgw
+https://github.com/katanemo/archgw
+The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc. Natively designed to handle and process prompts, Arch helps you build agents faster.
+language: Rust
+stars: 3,821
+forked: 214
+stars today: 18
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 54,887
+forked: 1,364
+stars today: 97
+
+alloy-rs/alloy
+https://github.com/alloy-rs/alloy
+Transports, Middleware, and Networks for the Alloy project
+language: Rust
+stars: 1,031
+forked: 469
+stars today: 3
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso is an in-process SQL database, compatible with SQLite.
+language: Rust
+stars: 14,013
+forked: 569
+stars today: 70
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 3,053
+forked: 223
+stars today: 54
+
+PyO3/maturin
+https://github.com/PyO3/maturin
+Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+language: Rust
+stars: 4,956
+forked: 350
+stars today: 3
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 26,489
+forked: 1,843
+stars today: 16
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 16,983
+forked: 1,526
+stars today: 6
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 66,833
+forked: 5,487
+stars today: 62
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,258
+forked: 631
+stars today: 9
+
+n0-computer/iroh
+https://github.com/n0-computer/iroh
+peer-2-peer that just works
+language: Rust
+stars: 7,002
+forked: 302
+stars today: 16
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 2,858
+forked: 124
+stars today: 8
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 42,923
+forked: 1,570
+stars today: 40
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 104,667
+forked: 5,734
+stars today: 27
+
+hyperium/tonic
+https://github.com/hyperium/tonic
+A native gRPC client & server implementation with async/await support.
+language: Rust
+stars: 11,405
+forked: 1,141
+stars today: 6
+
+bootandy/dust
+https://github.com/bootandy/dust
+A more intuitive version of du in rust
+language: Rust
+stars: 10,585
+forked: 237
+stars today: 24
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 22,842
+forked: 1,085
+stars today: 141
+
+vosen/ZLUDA
+https://github.com/vosen/ZLUDA
+CUDA on non-NVIDIA GPUs
+language: Rust
+stars: 13,223
+forked: 838
+stars today: 18
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 21,456
+forked: 713
+stars today: 61
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 99,395
+forked: 14,624
+stars today: 53
