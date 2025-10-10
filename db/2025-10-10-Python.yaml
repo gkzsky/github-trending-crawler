@@ -1,0 +1,135 @@
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+language: Python
+stars: 8,898
+forked: 678
+stars today: 236
+
+google/computer-use-preview
+https://github.com/google/computer-use-preview
+-
+language: Python
+stars: 691
+forked: 76
+stars today: 203
+
+openai/openai-agents-python
+https://github.com/openai/openai-agents-python
+A lightweight, powerful framework for multi-agent workflows
+language: Python
+stars: 16,011
+forked: 2,650
+stars today: 116
+
+Zie619/n8n-workflows
+https://github.com/Zie619/n8n-workflows
+all of the workflows of n8n i could find (also from the site itself)
+language: Python
+stars: 35,692
+forked: 2,860
+stars today: 240
+
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 16,257
+forked: 1,124
+stars today: 52
+
+BerriAI/litellm
+https://github.com/BerriAI/litellm
+Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+language: Python
+stars: 29,706
+forked: 4,329
+stars today: 42
+
+BeehiveInnovations/zen-mcp-server
+https://github.com/BeehiveInnovations/zen-mcp-server
+The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+language: Python
+stars: 8,534
+forked: 717
+stars today: 273
+
+microsoft/magentic-ui
+https://github.com/microsoft/magentic-ui
+A research prototype of a human-centered web agent
+language: Python
+stars: 7,788
+forked: 801
+stars today: 27
+
+sapientinc/HRM
+https://github.com/sapientinc/HRM
+Hierarchical Reasoning Model Official Release
+language: Python
+stars: 10,867
+forked: 1,606
+stars today: 51
+
+WECENG/ticket-purchase
+https://github.com/WECENG/ticket-purchase
+大麦自动抢票，支持人员、城市、日期场次、价格选择
+language: Python
+stars: 4,350
+forked: 572
+stars today: 70
+
+aws/bedrock-agentcore-sdk-python
+https://github.com/aws/bedrock-agentcore-sdk-python
+Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.
+language: Python
+stars: 445
+forked: 45
+stars today: 26
+
+awslabs/mcp
+https://github.com/awslabs/mcp
+AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
+language: Python
+stars: 6,680
+forked: 970
+stars today: 26
+
+trycua/cua
+https://github.com/trycua/cua
+Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+language: Python
+stars: 10,537
+forked: 577
+stars today: 256
+
+modelcontextprotocol/python-sdk
+https://github.com/modelcontextprotocol/python-sdk
+The official Python SDK for Model Context Protocol servers and clients
+language: Python
+stars: 19,174
+forked: 2,582
+stars today: 47
+
+m-bain/whisperX
+https://github.com/m-bain/whisperX
+WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+language: Python
+stars: 18,084
+forked: 1,904
+stars today: 21
+
+StanfordVL/BEHAVIOR-1K
+https://github.com/StanfordVL/BEHAVIOR-1K
+BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
+language: Python
+stars: 958
+forked: 99
+stars today: 6
+
+frappe/hrms
+https://github.com/frappe/hrms
+Open Source HR and Payroll Software
+language: Python
+stars: 6,812
+forked: 1,708
+stars today: 10
