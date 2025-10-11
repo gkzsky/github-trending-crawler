@@ -1,0 +1,175 @@
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 46,875
+forked: 5,644
+stars today: 188
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 99,706
+forked: 14,657
+stars today: 231
+
+katanemo/archgw
+https://github.com/katanemo/archgw
+The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc. Natively designed to handle and process prompts, Arch helps you build agents faster.
+language: Rust
+stars: 3,928
+forked: 220
+stars today: 36
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 16,605
+forked: 675
+stars today: 27
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 31,009
+forked: 1,311
+stars today: 47
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 16,748
+forked: 700
+stars today: 24
+
+rust-lang/rustfmt
+https://github.com/rust-lang/rustfmt
+Format Rust code
+language: Rust
+stars: 6,583
+forked: 957
+stars today: 81
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,476
+forked: 1,028
+stars today: 0
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,384
+forked: 550
+stars today: 31
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀 High-performance distributed object storage for MinIO alternative.
+language: Rust
+stars: 8,878
+forked: 445
+stars today: 52
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,275
+forked: 636
+stars today: 10
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 69,617
+forked: 2,102
+stars today: 113
+
+tw93/Pake
+https://github.com/tw93/Pake
+🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+language: Rust
+stars: 42,662
+forked: 8,072
+stars today: 30
+
+raphamorim/rio
+https://github.com/raphamorim/rio
+A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+language: Rust
+stars: 5,870
+forked: 219
+stars today: 22
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 51,574
+forked: 2,256
+stars today: 23
+
+emmett-framework/granian
+https://github.com/emmett-framework/granian
+A Rust HTTP server for Python applications
+language: Rust
+stars: 4,355
+forked: 126
+stars today: 11
+
+alloy-rs/alloy
+https://github.com/alloy-rs/alloy
+Transports, Middleware, and Networks for the Alloy project
+language: Rust
+stars: 1,038
+forked: 471
+stars today: 3
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 21,548
+forked: 714
+stars today: 56
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 15,302
+forked: 478
+stars today: 28
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 7,460
+forked: 674
+stars today: 17
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 30,786
+forked: 1,078
+stars today: 20
+
+abenz1267/walker
+https://github.com/abenz1267/walker
+Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
+language: Rust
+stars: 1,674
+forked: 63
+stars today: 28

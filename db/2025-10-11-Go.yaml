@@ -1,0 +1,175 @@
+timelinize/timelinize
+https://github.com/timelinize/timelinize
+Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+language: Go
+stars: 2,387
+forked: 68
+stars today: 336
+
+sjzar/chatlog
+https://github.com/sjzar/chatlog
+chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+language: Go
+stars: 8,750
+forked: 1,250
+stars today: 21
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 7,637
+forked: 595
+stars today: 28
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 99,464
+forked: 14,521
+stars today: 36
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 11,613
+forked: 1,059
+stars today: 65
+
+flipped-aurora/gin-vue-admin
+https://github.com/flipped-aurora/gin-vue-admin
+🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+language: Go
+stars: 23,726
+forked: 6,869
+stars today: 13
+
+docker/mcp-gateway
+https://github.com/docker/mcp-gateway
+docker mcp CLI plugin / MCP Gateway
+language: Go
+stars: 782
+forked: 109
+stars today: 12
+
+envoyproxy/ai-gateway
+https://github.com/envoyproxy/ai-gateway
+Manages Unified Access to Generative AI Services built on Envoy Gateway
+language: Go
+stars: 1,110
+forked: 109
+stars today: 5
+
+zeromicro/go-zero
+https://github.com/zeromicro/go-zero
+A cloud-native Go microservices framework with cli tool for productivity.
+language: Go
+stars: 31,907
+forked: 4,213
+stars today: 12
+
+nezhahq/nezha
+https://github.com/nezhahq/nezha
+Self-hosted, lightweight server and website monitoring and O&M tool
+language: Go
+stars: 9,306
+forked: 1,529
+stars today: 15
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 27,096
+forked: 3,163
+stars today: 20
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 20,357
+forked: 900
+stars today: 32
+
+go-kratos/kratos
+https://github.com/go-kratos/kratos
+Your ultimate Go microservices framework for the cloud-native era.
+language: Go
+stars: 24,967
+forked: 4,115
+stars today: 4
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 28,657
+forked: 7,351
+stars today: 6
+
+docker/mcp-registry
+https://github.com/docker/mcp-registry
+Official Docker MCP registry
+language: Go
+stars: 271
+forked: 332
+stars today: 5
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,337
+forked: 5,723
+stars today: 7
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 18,949
+forked: 901
+stars today: 133
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 39,156
+forked: 6,028
+stars today: 6
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 29,378
+forked: 2,777
+stars today: 15
+
+aws/karpenter-provider-aws
+https://github.com/aws/karpenter-provider-aws
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 7,455
+forked: 1,178
+stars today: 3
+
+go-co-op/gocron
+https://github.com/go-co-op/gocron
+Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+language: Go
+stars: 6,606
+forked: 337
+stars today: 5
+
+knadh/listmonk
+https://github.com/knadh/listmonk
+High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+language: Go
+stars: 17,975
+forked: 1,789
+stars today: 10
