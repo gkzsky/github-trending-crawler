@@ -1,0 +1,199 @@
+OpenDevicePartnership/patina
+https://github.com/OpenDevicePartnership/patina
+Patina Firmware
+language: Rust
+stars: 120
+forked: 7
+stars today: 37
+
+slint-ui/slint
+https://github.com/slint-ui/slint
+Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+language: Rust
+stars: 20,580
+forked: 754
+stars today: 14
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,409
+forked: 552
+stars today: 21
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 99,755
+forked: 14,670
+stars today: 72
+
+spieglt/FlyingCarpet
+https://github.com/spieglt/FlyingCarpet
+Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.
+language: Rust
+stars: 4,401
+forked: 193
+stars today: 70
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 3,932
+forked: 189
+stars today: 49
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 40,317
+forked: 3,081
+stars today: 64
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 30,964
+forked: 1,082
+stars today: 96
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 67,045
+forked: 5,511
+stars today: 87
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀 High-performance distributed object storage for MinIO alternative.
+language: Rust
+stars: 8,907
+forked: 446
+stars today: 36
+
+zellij-org/zellij
+https://github.com/zellij-org/zellij
+A terminal workspace with batteries included
+language: Rust
+stars: 26,716
+forked: 829
+stars today: 26
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,279
+forked: 637
+stars today: 10
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 20,862
+forked: 734
+stars today: 34
+
+emilk/egui
+https://github.com/emilk/egui
+egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+language: Rust
+stars: 26,772
+forked: 1,848
+stars today: 15
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 16,623
+forked: 678
+stars today: 28
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 69,700
+forked: 2,105
+stars today: 91
+
+rust-lang/rustfmt
+https://github.com/rust-lang/rustfmt
+Format Rust code
+language: Rust
+stars: 6,590
+forked: 959
+stars today: 9
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 23,487
+forked: 1,128
+stars today: 239
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 16,761
+forked: 701
+stars today: 17
+
+katanemo/archgw
+https://github.com/katanemo/archgw
+The data plane for agents. Arch is a smart edge and LLM proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc. Natively designed to handle & process prompts, Arch helps you build agents faster!
+language: Rust
+stars: 3,949
+forked: 220
+stars today: 26
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,468
+forked: 1,875
+stars today: 6
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 23,373
+forked: 1,253
+stars today: 9
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 5,042
+forked: 1,920
+stars today: 6
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 47,008
+forked: 5,661
+stars today: 140
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 46,845
+forked: 1,275
+stars today: 39
