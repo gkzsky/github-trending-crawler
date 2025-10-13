@@ -1,0 +1,87 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 39,572
+forked: 3,654
+stars today: 8
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,725
+forked: 508
+stars today: 6
+
+GaloisInc/parameterized-utils
+https://github.com/GaloisInc/parameterized-utils
+A set of utilities for using indexed types including containers, equality, and comparison.
+language: Haskell
+stars: 60
+forked: 13
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,732
+forked: 327
+stars today: 2
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 221
+forked: 18
+stars today: 2
+
+IntersectMBO/ouroboros-consensus
+https://github.com/IntersectMBO/ouroboros-consensus
+Implementation of a Consensus Layer for the Ouroboros family of protocols
+language: Haskell
+stars: 55
+forked: 32
+stars today: 0
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,714
+forked: 334
+stars today: 0
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,216
+forked: 284
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,576
+forked: 475
+stars today: 1
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 682
+forked: 84
+stars today: 0
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,849
+forked: 407
+stars today: 0

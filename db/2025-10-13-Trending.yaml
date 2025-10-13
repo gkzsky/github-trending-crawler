@@ -1,0 +1,159 @@
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: TypeScript
+stars: 37,980
+forked: 2,377
+stars today: 997
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+CLI tool for configuring and monitoring Claude Code
+language: JavaScript
+stars: 7,544
+forked: 647
+stars today: 302
+
+evershopcommerce/evershop
+https://github.com/evershopcommerce/evershop
+🛍️ Typescript E-commerce Platform
+language: TypeScript
+stars: 7,178
+forked: 1,869
+stars today: 384
+
+78/xiaozhi-esp32
+https://github.com/78/xiaozhi-esp32
+An MCP-based chatbot | 一个基于MCP的聊天机器人
+language: C++
+stars: 19,863
+forked: 4,019
+stars today: 80
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 22,961
+forked: 2,377
+stars today: 231
+
+TapXWorld/ChinaTextbook
+https://github.com/TapXWorld/ChinaTextbook
+所有小初高、大学PDF教材。
+language: Roff
+stars: 53,093
+forked: 11,913
+stars today: 114
+
+WECENG/ticket-purchase
+https://github.com/WECENG/ticket-purchase
+大麦自动抢票，支持人员、城市、日期场次、价格选择
+language: Python
+stars: 4,852
+forked: 615
+stars today: 34
+
+DIYgod/RSSHub
+https://github.com/DIYgod/RSSHub
+🧡 Everything is RSSible
+language: TypeScript
+stars: 39,166
+forked: 8,596
+stars today: 19
+
+DearVa/Everywhere
+https://github.com/DearVa/Everywhere
+A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+language: C#
+stars: 577
+forked: 30
+stars today: 83
+
+Anduin2017/HowToCook
+https://github.com/Anduin2017/HowToCook
+程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+language: Dockerfile
+stars: 94,853
+forked: 10,617
+stars today: 39
+
+coze-dev/coze-studio
+https://github.com/coze-dev/coze-studio
+An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+language: TypeScript
+stars: 17,760
+forked: 2,452
+stars today: 20
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+language: TypeScript
+stars: 66,722
+forked: 13,809
+stars today: 37
+
+PixelGuys/Cubyz
+https://github.com/PixelGuys/Cubyz
+Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+language: Zig
+stars: 2,132
+forked: 131
+stars today: 274
+
+basecamp/omarchy
+https://github.com/basecamp/omarchy
+Opinionated Arch/Hyprland Setup
+language: Shell
+stars: 13,671
+forked: 1,274
+stars today: 236
+
+TibixDev/winboat
+https://github.com/TibixDev/winboat
+Run Windows apps on 🐧 Linux with ✨ seamless integration
+language: TypeScript
+stars: 10,605
+forked: 269
+stars today: 616
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 6,137
+forked: 1,312
+stars today: 13
+
+oven-sh/bun
+https://github.com/oven-sh/bun
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+language: Zig
+stars: 81,103
+forked: 3,384
+stars today: 91
+
+huggingface/diffusers
+https://github.com/huggingface/diffusers
+🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+language: Python
+stars: 31,152
+forked: 6,406
+stars today: 11
+
+Klavis-AI/klavis
+https://github.com/Klavis-AI/klavis
+Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+language: Python
+stars: 4,836
+forked: 452
+stars today: 47
+
+opendatalab/MinerU
+https://github.com/opendatalab/MinerU
+Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+language: Python
+stars: 45,928
+forked: 3,806
+stars today: 99
