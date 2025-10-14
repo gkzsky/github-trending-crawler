@@ -1,0 +1,183 @@
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 20,981
+forked: 735
+stars today: 54
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 7,650
+forked: 420
+stars today: 11
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 31,125
+forked: 1,092
+stars today: 70
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 22,330
+forked: 2,120
+stars today: 14
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 40,399
+forked: 3,083
+stars today: 54
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 4,024
+forked: 193
+stars today: 55
+
+RustPython/RustPython
+https://github.com/RustPython/RustPython
+A Python Interpreter written in Rust
+language: Rust
+stars: 20,619
+forked: 1,351
+stars today: 8
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,573
+forked: 1,199
+stars today: 7
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 23,849
+forked: 1,868
+stars today: 26
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,448
+forked: 553
+stars today: 20
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 56,345
+forked: 15,600
+stars today: 22
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 107,138
+forked: 13,843
+stars today: 32
+
+solana-foundation/anchor
+https://github.com/solana-foundation/anchor
+⚓ Solana Program Framework
+language: Rust
+stars: 4,700
+forked: 1,720
+stars today: 4
+
+abenz1267/walker
+https://github.com/abenz1267/walker
+Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
+language: Rust
+stars: 1,733
+forked: 63
+stars today: 24
+
+mullvad/mullvadvpn-app
+https://github.com/mullvad/mullvadvpn-app
+The Mullvad VPN client app for desktop and mobile
+language: Rust
+stars: 6,338
+forked: 431
+stars today: 9
+
+epi052/feroxbuster
+https://github.com/epi052/feroxbuster
+A fast, simple, recursive content discovery tool written in Rust.
+language: Rust
+stars: 7,037
+forked: 557
+stars today: 4
+
+ast-grep/ast-grep
+https://github.com/ast-grep/ast-grep
+⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+language: Rust
+stars: 10,770
+forked: 276
+stars today: 24
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 97,362
+forked: 3,100
+stars today: 72
+
+Jondolf/avian
+https://github.com/Jondolf/avian
+ECS-driven 2D and 3D physics engine for the Bevy game engine.
+language: Rust
+stars: 2,459
+forked: 186
+stars today: 11
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 37,142
+forked: 4,436
+stars today: 148
+
+quinn-rs/quinn
+https://github.com/quinn-rs/quinn
+Async-friendly QUIC implementation in Rust
+language: Rust
+stars: 4,615
+forked: 480
+stars today: 10
+
+robertpsoane/ducker
+https://github.com/robertpsoane/ducker
+A slightly quackers Docker TUI based on k9s 🦆
+language: Rust
+stars: 735
+forked: 20
+stars today: 25
+
+CyberTimon/RapidRAW
+https://github.com/CyberTimon/RapidRAW
+A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+language: Rust
+stars: 3,163
+forked: 88
+stars today: 13

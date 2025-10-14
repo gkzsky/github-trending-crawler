@@ -1,0 +1,143 @@
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: TypeScript
+stars: 38,613
+forked: 2,430
+stars today: 1,149
+
+clash-verge-rev/clash-verge-rev
+https://github.com/clash-verge-rev/clash-verge-rev
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+language: TypeScript
+stars: 77,800
+forked: 5,808
+stars today: 112
+
+nitrojs/nitro
+https://github.com/nitrojs/nitro
+Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+language: TypeScript
+stars: 8,183
+forked: 674
+stars today: 51
+
+steel-dev/steel-browser
+https://github.com/steel-dev/steel-browser
+🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
+language: TypeScript
+stars: 5,420
+forked: 537
+stars today: 102
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+language: TypeScript
+stars: 66,821
+forked: 13,815
+stars today: 188
+
+evershopcommerce/evershop
+https://github.com/evershopcommerce/evershop
+🛍️ Typescript E-commerce Platform
+language: TypeScript
+stars: 7,392
+forked: 1,890
+stars today: 431
+
+remix-run/remix
+https://github.com/remix-run/remix
+Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+language: TypeScript
+stars: 31,766
+forked: 2,699
+stars today: 19
+
+CapSoftware/Cap
+https://github.com/CapSoftware/Cap
+Open source Loom alternative. Beautiful, shareable screen recordings.
+language: TypeScript
+stars: 12,904
+forked: 876
+stars today: 86
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 23,148
+forked: 2,382
+stars today: 298
+
+Effect-TS/effect
+https://github.com/Effect-TS/effect
+Build production-ready applications in TypeScript
+language: TypeScript
+stars: 11,583
+forked: 404
+stars today: 25
+
+coder/code-server
+https://github.com/coder/code-server
+VS Code in the browser
+language: TypeScript
+stars: 74,230
+forked: 6,272
+stars today: 19
+
+maotoumao/MusicFree
+https://github.com/maotoumao/MusicFree
+插件化、定制化、无广告的免费音乐播放器
+language: TypeScript
+stars: 20,822
+forked: 1,400
+stars today: 24
+
+kozakdenys/qr-code-styling
+https://github.com/kozakdenys/qr-code-styling
+Automaticly generate your styled QR code in your web app.
+language: TypeScript
+stars: 2,490
+forked: 609
+stars today: 73
+
+Koenkk/zigbee2mqtt
+https://github.com/Koenkk/zigbee2mqtt
+Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+language: TypeScript
+stars: 14,058
+forked: 1,834
+stars today: 9
+
+DIYgod/RSSHub
+https://github.com/DIYgod/RSSHub
+🧡 Everything is RSSible
+language: TypeScript
+stars: 39,255
+forked: 8,607
+stars today: 161
+
+hydralauncher/hydra
+https://github.com/hydralauncher/hydra
+Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+language: TypeScript
+stars: 14,335
+forked: 3,794
+stars today: 14
+
+AmruthPillai/Reactive-Resume
+https://github.com/AmruthPillai/Reactive-Resume
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+language: TypeScript
+stars: 33,312
+forked: 3,596
+stars today: 20
+
+mountain-loop/yaak
+https://github.com/mountain-loop/yaak
+The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+language: TypeScript
+stars: 7,960
+forked: 279
+stars today: 20

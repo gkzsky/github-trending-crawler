@@ -1,0 +1,119 @@
+anthropics/prompt-eng-interactive-tutorial
+https://github.com/anthropics/prompt-eng-interactive-tutorial
+Anthropic's Interactive Prompt Engineering Tutorial
+language: Jupyter Notebook
+stars: 21,106
+forked: 2,017
+stars today: 643
+
+coleam00/Archon
+https://github.com/coleam00/Archon
+Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+language: Python
+stars: 12,696
+forked: 2,193
+stars today: 42
+
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: TypeScript
+stars: 38,613
+forked: 2,430
+stars today: 1,149
+
+asgeirtj/system_prompts_leaks
+https://github.com/asgeirtj/system_prompts_leaks
+Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+language: JavaScript
+stars: 22,328
+forked: 3,442
+stars today: 138
+
+Klavis-AI/klavis
+https://github.com/Klavis-AI/klavis
+Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+language: Python
+stars: 5,022
+forked: 466
+stars today: 217
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 369,077
+forked: 38,852
+stars today: 366
+
+clash-verge-rev/clash-verge-rev
+https://github.com/clash-verge-rev/clash-verge-rev
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+language: TypeScript
+stars: 77,800
+forked: 5,808
+stars today: 112
+
+oven-sh/bun
+https://github.com/oven-sh/bun
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+language: Zig
+stars: 81,299
+forked: 3,396
+stars today: 199
+
+ggml-org/llama.cpp
+https://github.com/ggml-org/llama.cpp
+LLM inference in C/C++
+language: C++
+stars: 87,698
+forked: 13,325
+stars today: 93
+
+PixelGuys/Cubyz
+https://github.com/PixelGuys/Cubyz
+Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+language: Zig
+stars: 2,383
+forked: 139
+stars today: 324
+
+basecamp/omarchy
+https://github.com/basecamp/omarchy
+Opinionated Arch/Hyprland Setup
+language: Shell
+stars: 13,911
+forked: 1,295
+stars today: 262
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+CLI tool for configuring and monitoring Claude Code
+language: JavaScript
+stars: 7,856
+forked: 662
+stars today: 394
+
+Raphire/Win11Debloat
+https://github.com/Raphire/Win11Debloat
+A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+language: PowerShell
+stars: 28,884
+forked: 1,171
+stars today: 262
+
+dair-ai/Prompt-Engineering-Guide
+https://github.com/dair-ai/Prompt-Engineering-Guide
+🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+language: MDX
+stars: 63,293
+forked: 6,621
+stars today: 244
+
+nitrojs/nitro
+https://github.com/nitrojs/nitro
+Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+language: TypeScript
+stars: 8,183
+forked: 674
+stars today: 51
