@@ -1,0 +1,183 @@
+category-labs/monad-bft
+https://github.com/category-labs/monad-bft
+-
+language: Rust
+stars: 597
+forked: 267
+stars today: 3
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 97,416
+forked: 3,102
+stars today: 70
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 16,708
+forked: 684
+stars today: 44
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 23,921
+forked: 1,176
+stars today: 184
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 7,740
+forked: 615
+stars today: 10
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 15,421
+forked: 480
+stars today: 38
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 31,169
+forked: 1,097
+stars today: 49
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 23,879
+forked: 1,869
+stars today: 32
+
+PyO3/pyo3
+https://github.com/PyO3/pyo3
+Rust bindings for the Python interpreter
+language: Rust
+stars: 14,585
+forked: 884
+stars today: 23
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 28,858
+forked: 2,110
+stars today: 9
+
+ast-grep/ast-grep
+https://github.com/ast-grep/ast-grep
+⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+language: Rust
+stars: 10,795
+forked: 276
+stars today: 20
+
+ajeetdsouza/zoxide
+https://github.com/ajeetdsouza/zoxide
+A smarter cd command. Supports all major shells.
+language: Rust
+stars: 30,518
+forked: 680
+stars today: 41
+
+bee-san/RustScan
+https://github.com/bee-san/RustScan
+🤖 The Modern Port Scanner 🤖
+language: Rust
+stars: 18,209
+forked: 1,213
+stars today: 12
+
+CyberTimon/RapidRAW
+https://github.com/CyberTimon/RapidRAW
+A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+language: Rust
+stars: 3,197
+forked: 88
+stars today: 38
+
+facebook/pyrefly
+https://github.com/facebook/pyrefly
+A fast type checker and language server for Python
+language: Rust
+stars: 3,940
+forked: 158
+stars today: 20
+
+mullvad/mullvadvpn-app
+https://github.com/mullvad/mullvadvpn-app
+The Mullvad VPN client app for desktop and mobile
+language: Rust
+stars: 6,344
+forked: 431
+stars today: 14
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,746
+forked: 1,779
+stars today: 17
+
+rgwood/systemctl-tui
+https://github.com/rgwood/systemctl-tui
+A fast, simple TUI for interacting with systemd services and their logs
+language: Rust
+stars: 1,463
+forked: 35
+stars today: 112
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,496
+forked: 449
+stars today: 11
+
+ClementTsang/bottom
+https://github.com/ClementTsang/bottom
+Yet another cross-platform graphical process/system monitor.
+language: Rust
+stars: 12,018
+forked: 302
+stars today: 13
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 21,028
+forked: 737
+stars today: 66
+
+Jondolf/avian
+https://github.com/Jondolf/avian
+ECS-driven 2D and 3D physics engine for the Bevy game engine.
+language: Rust
+stars: 2,482
+forked: 185
+stars today: 45
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 107,167
+forked: 13,843
+stars today: 42
