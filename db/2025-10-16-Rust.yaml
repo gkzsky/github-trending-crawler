@@ -1,0 +1,159 @@
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,399
+forked: 11,645
+stars today: 4
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,504
+forked: 1,877
+stars today: 11
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,504
+forked: 449
+stars today: 7
+
+rgwood/systemctl-tui
+https://github.com/rgwood/systemctl-tui
+A fast, simple TUI for interacting with systemd services and their logs
+language: Rust
+stars: 1,509
+forked: 35
+stars today: 62
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+language: Rust
+stars: 16,846
+forked: 672
+stars today: 11
+
+InfinitiBit/graphbit
+https://github.com/InfinitiBit/graphbit
+GraphBit is the world’s first enterprise-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability. It enables reliable multi-agent workflows with minimal CPU and memory usage, making it production-ready for real-world enterprise environments.
+language: Rust
+stars: 392
+forked: 77
+stars today: 10
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 7,750
+forked: 617
+stars today: 16
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,766
+forked: 1,784
+stars today: 19
+
+eza-community/eza
+https://github.com/eza-community/eza
+A modern alternative to ls
+language: Rust
+stars: 17,933
+forked: 332
+stars today: 28
+
+vortex-data/vortex
+https://github.com/vortex-data/vortex
+An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
+language: Rust
+stars: 1,836
+forked: 75
+stars today: 15
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 47,680
+forked: 5,756
+stars today: 207
+
+facebook/pyrefly
+https://github.com/facebook/pyrefly
+A fast type checker and language server for Python
+language: Rust
+stars: 3,971
+forked: 160
+stars today: 64
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 21,063
+forked: 737
+stars today: 38
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 97,465
+forked: 3,104
+stars today: 57
+
+apache/opendal
+https://github.com/apache/opendal
+Apache OpenDAL: One Layer, All Storage.
+language: Rust
+stars: 4,487
+forked: 646
+stars today: 5
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 23,900
+forked: 1,870
+stars today: 24
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 16,737
+forked: 684
+stars today: 37
+
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 1,925
+forked: 62
+stars today: 75
+
+Jondolf/avian
+https://github.com/Jondolf/avian
+ECS-driven 2D and 3D physics engine for the Bevy game engine.
+language: Rust
+stars: 2,499
+forked: 185
+stars today: 17
+
+dbt-labs/dbt-fusion
+https://github.com/dbt-labs/dbt-fusion
+The next-generation engine for dbt
+language: Rust
+stars: 516
+forked: 67
+stars today: 8

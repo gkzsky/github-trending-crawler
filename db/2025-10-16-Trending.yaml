@@ -1,0 +1,135 @@
+anthropics/prompt-eng-interactive-tutorial
+https://github.com/anthropics/prompt-eng-interactive-tutorial
+Anthropic's Interactive Prompt Engineering Tutorial
+language: Jupyter Notebook
+stars: 23,908
+forked: 2,201
+stars today: 1,649
+
+jingyaogong/minimind
+https://github.com/jingyaogong/minimind
+🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+language: Python
+stars: 27,741
+forked: 3,273
+stars today: 104
+
+nitrojs/nitro
+https://github.com/nitrojs/nitro
+Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+language: TypeScript
+stars: 8,847
+forked: 713
+stars today: 310
+
+langchain-ai/langchainjs
+https://github.com/langchain-ai/langchainjs
+🦜🔗 Build context-aware reasoning applications 🦜🔗
+language: TypeScript
+stars: 15,957
+forked: 2,799
+stars today: 25
+
+karpathy/nanoGPT
+https://github.com/karpathy/nanoGPT
+The simplest, fastest repository for training/finetuning medium-sized GPTs.
+language: Python
+stars: 45,861
+forked: 7,783
+stars today: 299
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 87,618
+forked: 9,421
+stars today: 119
+
+envoyproxy/envoy
+https://github.com/envoyproxy/envoy
+Cloud-native high-performance edge/middle/service proxy
+language: C++
+stars: 26,744
+forked: 5,106
+stars today: 7
+
+EvolutionAPI/evolution-api
+https://github.com/EvolutionAPI/evolution-api
+Evolution API is an open-source WhatsApp integration API
+language: TypeScript
+stars: 5,817
+forked: 4,506
+stars today: 36
+
+devlikeapro/waha
+https://github.com/devlikeapro/waha
+WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+language: TypeScript
+stars: 4,685
+forked: 937
+stars today: 385
+
+enactic/openarm
+https://github.com/enactic/openarm
+A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
+language: MDX
+stars: 1,216
+forked: 132
+stars today: 141
+
+DigitalPlatDev/FreeDomain
+https://github.com/DigitalPlatDev/FreeDomain
+DigitalPlat FreeDomain: Free Domain For Everyone
+language: HTML
+stars: 107,048
+forked: 2,014
+stars today: 601
+
+ChristianLempa/boilerplates
+https://github.com/ChristianLempa/boilerplates
+This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+language: Python
+stars: 6,420
+forked: 1,770
+stars today: 54
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 6,378
+forked: 1,353
+stars today: 110
+
+dair-ai/Prompt-Engineering-Guide
+https://github.com/dair-ai/Prompt-Engineering-Guide
+🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+language: MDX
+stars: 63,990
+forked: 6,671
+stars today: 330
+
+nanobrowser/nanobrowser
+https://github.com/nanobrowser/nanobrowser
+Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+language: TypeScript
+stars: 10,213
+forked: 1,027
+stars today: 57
+
+czlonkowski/n8n-mcp
+https://github.com/czlonkowski/n8n-mcp
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+language: TypeScript
+stars: 8,565
+forked: 1,611
+stars today: 105
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+Go library for the WhatsApp web multidevice API
+language: Go
+stars: 4,530
+forked: 710
+stars today: 12

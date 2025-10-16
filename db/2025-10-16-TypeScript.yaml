@@ -1,0 +1,135 @@
+nitrojs/nitro
+https://github.com/nitrojs/nitro
+Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+language: TypeScript
+stars: 8,847
+forked: 713
+stars today: 310
+
+langchain-ai/langchainjs
+https://github.com/langchain-ai/langchainjs
+🦜🔗 Build context-aware reasoning applications 🦜🔗
+language: TypeScript
+stars: 15,957
+forked: 2,799
+stars today: 25
+
+EvolutionAPI/evolution-api
+https://github.com/EvolutionAPI/evolution-api
+Evolution API is an open-source WhatsApp integration API
+language: TypeScript
+stars: 5,817
+forked: 4,506
+stars today: 36
+
+devlikeapro/waha
+https://github.com/devlikeapro/waha
+WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+language: TypeScript
+stars: 4,685
+forked: 937
+stars today: 385
+
+nanobrowser/nanobrowser
+https://github.com/nanobrowser/nanobrowser
+Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+language: TypeScript
+stars: 10,213
+forked: 1,027
+stars today: 57
+
+czlonkowski/n8n-mcp
+https://github.com/czlonkowski/n8n-mcp
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+language: TypeScript
+stars: 8,565
+forked: 1,611
+stars today: 105
+
+backstage/backstage
+https://github.com/backstage/backstage
+Backstage is an open framework for building developer portals
+language: TypeScript
+stars: 31,563
+forked: 6,851
+stars today: 11
+
+OHIF/Viewers
+https://github.com/OHIF/Viewers
+OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+language: TypeScript
+stars: 3,865
+forked: 3,953
+stars today: 3
+
+software-mansion/react-native-screens
+https://github.com/software-mansion/react-native-screens
+Native navigation primitives for your React Native app.
+language: TypeScript
+stars: 3,456
+forked: 587
+stars today: 8
+
+type-challenges/type-challenges
+https://github.com/type-challenges/type-challenges
+Collection of TypeScript type challenges with online judge
+language: TypeScript
+stars: 46,718
+forked: 5,106
+stars today: 34
+
+ueberdosis/tiptap
+https://github.com/ueberdosis/tiptap
+The headless rich text editor framework for web artisans.
+language: TypeScript
+stars: 33,030
+forked: 2,707
+stars today: 52
+
+react-native-maps/react-native-maps
+https://github.com/react-native-maps/react-native-maps
+React Native Mapview component for iOS + Android
+language: TypeScript
+stars: 15,741
+forked: 4,958
+stars today: 6
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 23,753
+forked: 2,401
+stars today: 217
+
+ThinkInAIXYZ/deepchat
+https://github.com/ThinkInAIXYZ/deepchat
+🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+language: TypeScript
+stars: 4,153
+forked: 522
+stars today: 16
+
+ourongxing/newsnow
+https://github.com/ourongxing/newsnow
+Elegant reading of real-time and hottest news
+language: TypeScript
+stars: 13,290
+forked: 4,027
+stars today: 12
+
+PostHog/posthog.com
+https://github.com/PostHog/posthog.com
+Official docs, website, and handbook for PostHog.
+language: TypeScript
+stars: 788
+forked: 643
+stars today: 6
+
+TanStack/query
+https://github.com/TanStack/query
+🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+language: TypeScript
+stars: 46,992
+forked: 3,506
+stars today: 17
