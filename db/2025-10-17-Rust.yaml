@@ -1,0 +1,191 @@
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 15,801
+forked: 1,486
+stars today: 6
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 47,857
+forked: 5,775
+stars today: 191
+
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 2,008
+forked: 64
+stars today: 132
+
+squidowl/halloy
+https://github.com/squidowl/halloy
+IRC application written in Rust
+language: Rust
+stars: 3,236
+forked: 127
+stars today: 405
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,696
+forked: 326
+stars today: 3
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 27,961
+forked: 1,386
+stars today: 60
+
+vortex-data/vortex
+https://github.com/vortex-data/vortex
+An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
+language: Rust
+stars: 1,846
+forked: 76
+stars today: 13
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 36,830
+forked: 1,951
+stars today: 27
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,401
+forked: 11,646
+stars today: 6
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,882
+forked: 1,687
+stars today: 8
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 67,499
+forked: 5,556
+stars today: 181
+
+rust-lang/cargo
+https://github.com/rust-lang/cargo
+The Rust package manager
+language: Rust
+stars: 14,121
+forked: 2,691
+stars today: 6
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 28,975
+forked: 622
+stars today: 34
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 7,750
+forked: 619
+stars today: 4
+
+greenbone/openvas-scanner
+https://github.com/greenbone/openvas-scanner
+This repository contains the scanner component for Greenbone Community Edition.
+language: Rust
+stars: 4,106
+forked: 720
+stars today: 3
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Extremely fast Query Engine for DataFrames, written in Rust
+language: Rust
+stars: 35,707
+forked: 2,429
+stars today: 23
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 20,344
+forked: 1,849
+stars today: 25
+
+PyO3/maturin
+https://github.com/PyO3/maturin
+Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+language: Rust
+stars: 4,997
+forked: 353
+stars today: 5
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 100,832
+forked: 14,728
+stars today: 664
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 2,419
+forked: 378
+stars today: 8
+
+facebook/pyrefly
+https://github.com/facebook/pyrefly
+A fast type checker and language server for Python
+language: Rust
+stars: 4,006
+forked: 160
+stars today: 29
+
+huggingface/tokenizers
+https://github.com/huggingface/tokenizers
+💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+language: Rust
+stars: 10,144
+forked: 977
+stars today: 5
+
+apache/opendal
+https://github.com/apache/opendal
+Apache OpenDAL: One Layer, All Storage.
+language: Rust
+stars: 4,498
+forked: 646
+stars today: 13
+
+lakekeeper/lakekeeper
+https://github.com/lakekeeper/lakekeeper
+Lakekeeper is an Apache-Licensed, secure, fast and easy to use Apache Iceberg REST Catalog written in Rust.
+language: Rust
+stars: 968
+forked: 90
+stars today: 8

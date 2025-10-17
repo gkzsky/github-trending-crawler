@@ -1,0 +1,183 @@
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,328
+forked: 1,346
+stars today: 5
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+Go library for the WhatsApp web multidevice API
+language: Go
+stars: 4,554
+forked: 711
+stars today: 58
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 17,813
+forked: 1,510
+stars today: 7
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+language: Go
+stars: 719
+forked: 119
+stars today: 29
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 27,204
+forked: 3,172
+stars today: 29
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 55,786
+forked: 6,228
+stars today: 29
+
+cloudnative-pg/cloudnative-pg
+https://github.com/cloudnative-pg/cloudnative-pg
+CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+language: Go
+stars: 7,041
+forked: 526
+stars today: 5
+
+opentofu/opentofu
+https://github.com/opentofu/opentofu
+OpenTofu lets you declaratively manage your cloud infrastructure.
+language: Go
+stars: 26,760
+forked: 1,102
+stars today: 17
+
+majd/ipatool
+https://github.com/majd/ipatool
+Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+language: Go
+stars: 7,666
+forked: 623
+stars today: 5
+
+prometheus-operator/prometheus-operator
+https://github.com/prometheus-operator/prometheus-operator
+Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+language: Go
+stars: 9,691
+forked: 3,809
+stars today: 2
+
+NexaAI/nexa-sdk
+https://github.com/NexaAI/nexa-sdk
+Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
+language: Go
+stars: 5,359
+forked: 705
+stars today: 28
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 16,104
+forked: 3,389
+stars today: 6
+
+kubeflow/trainer
+https://github.com/kubeflow/trainer
+Distributed AI Model Training and Fine-Tuning on Kubernetes
+language: Go
+stars: 1,939
+forked: 834
+stars today: 1
+
+sjzar/chatlog
+https://github.com/sjzar/chatlog
+chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+language: Go
+stars: 8,993
+forked: 1,281
+stars today: 38
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 31,787
+forked: 4,623
+stars today: 27
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 65,972
+forked: 2,285
+stars today: 57
+
+rancher/rancher
+https://github.com/rancher/rancher
+Complete container management platform
+language: Go
+stars: 24,773
+forked: 3,106
+stars today: 8
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 42,168
+forked: 3,013
+stars today: 3
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 154,224
+forked: 13,400
+stars today: 83
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,361
+forked: 5,729
+stars today: 7
+
+stefanprodan/podinfo
+https://github.com/stefanprodan/podinfo
+Go microservice template for Kubernetes
+language: Go
+stars: 5,731
+forked: 1,824
+stars today: 5
+
+zalando/postgres-operator
+https://github.com/zalando/postgres-operator
+Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+language: Go
+stars: 4,917
+forked: 1,047
+stars today: 5
+
+charmbracelet/huh
+https://github.com/charmbracelet/huh
+Build terminal forms and prompts 🤷🏻‍♀️
+language: Go
+stars: 6,146
+forked: 206
+stars today: 18

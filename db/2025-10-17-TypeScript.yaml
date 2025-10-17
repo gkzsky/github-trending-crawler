@@ -1,0 +1,159 @@
+devlikeapro/waha
+https://github.com/devlikeapro/waha
+WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+language: TypeScript
+stars: 4,935
+forked: 965
+stars today: 328
+
+nitrojs/nitro
+https://github.com/nitrojs/nitro
+Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+language: TypeScript
+stars: 9,000
+forked: 719
+stars today: 318
+
+stan-smith/FossFLOW
+https://github.com/stan-smith/FossFLOW
+Make beautiful isometric infrastructure diagrams
+language: TypeScript
+stars: 12,183
+forked: 751
+stars today: 160
+
+hydralauncher/hydra
+https://github.com/hydralauncher/hydra
+Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+language: TypeScript
+stars: 14,434
+forked: 3,797
+stars today: 42
+
+nanobrowser/nanobrowser
+https://github.com/nanobrowser/nanobrowser
+Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+language: TypeScript
+stars: 10,371
+forked: 1,033
+stars today: 278
+
+langchain-ai/langchainjs
+https://github.com/langchain-ai/langchainjs
+🦜🔗 Build context-aware reasoning applications 🦜🔗
+language: TypeScript
+stars: 16,018
+forked: 2,807
+stars today: 119
+
+modelcontextprotocol/servers
+https://github.com/modelcontextprotocol/servers
+Model Context Protocol Servers
+language: TypeScript
+stars: 70,560
+forked: 8,398
+stars today: 106
+
+microsoft/azure-devops-mcp
+https://github.com/microsoft/azure-devops-mcp
+The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+language: TypeScript
+stars: 908
+forked: 273
+stars today: 13
+
+apify/crawlee
+https://github.com/apify/crawlee
+Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+language: TypeScript
+stars: 19,939
+forked: 1,031
+stars today: 37
+
+puppeteer/puppeteer
+https://github.com/puppeteer/puppeteer
+JavaScript API for Chrome and Firefox
+language: TypeScript
+stars: 92,636
+forked: 9,312
+stars today: 7
+
+mattermost/mattermost
+https://github.com/mattermost/mattermost
+Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+language: TypeScript
+stars: 34,167
+forked: 8,071
+stars today: 12
+
+CodebuffAI/codebuff
+https://github.com/CodebuffAI/codebuff
+Generate code from the terminal!
+language: TypeScript
+stars: 2,371
+forked: 308
+stars today: 14
+
+langchain-ai/agent-chat-ui
+https://github.com/langchain-ai/agent-chat-ui
+🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
+language: TypeScript
+stars: 1,680
+forked: 368
+stars today: 11
+
+EvolutionAPI/evolution-api
+https://github.com/EvolutionAPI/evolution-api
+Evolution API is an open-source WhatsApp integration API
+language: TypeScript
+stars: 5,877
+forked: 4,525
+stars today: 109
+
+mui/base-ui
+https://github.com/mui/base-ui
+Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+language: TypeScript
+stars: 6,025
+forked: 250
+stars today: 25
+
+czlonkowski/n8n-mcp
+https://github.com/czlonkowski/n8n-mcp
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+language: TypeScript
+stars: 8,744
+forked: 1,622
+stars today: 287
+
+modelcontextprotocol/typescript-sdk
+https://github.com/modelcontextprotocol/typescript-sdk
+The official TypeScript SDK for Model Context Protocol servers and clients
+language: TypeScript
+stars: 10,326
+forked: 1,344
+stars today: 28
+
+mongodb-js/mongodb-mcp-server
+https://github.com/mongodb-js/mongodb-mcp-server
+A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters.
+language: TypeScript
+stars: 688
+forked: 138
+stars today: 7
+
+modelcontextprotocol/modelcontextprotocol
+https://github.com/modelcontextprotocol/modelcontextprotocol
+Specification and documentation for the Model Context Protocol
+language: TypeScript
+stars: 5,939
+forked: 1,041
+stars today: 16
+
+Dokploy/dokploy
+https://github.com/Dokploy/dokploy
+Open Source Alternative to Vercel, Netlify and Heroku.
+language: TypeScript
+stars: 25,721
+forked: 1,676
+stars today: 42
