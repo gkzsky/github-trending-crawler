@@ -1,0 +1,95 @@
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,266
+forked: 1,873
+stars today: 23
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 39,657
+forked: 3,656
+stars today: 14
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,850
+forked: 408
+stars today: 0
+
+facebook/Haxl
+https://github.com/facebook/Haxl
+A Haskell library that simplifies access to remote data, such as databases or web-based services.
+language: Haskell
+stars: 4,333
+forked: 313
+stars today: 3
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,744
+forked: 509
+stars today: 7
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,886
+forked: 1,121
+stars today: 1
+
+sdiehl/write-you-a-haskell
+https://github.com/sdiehl/write-you-a-haskell
+Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
+language: Haskell
+stars: 3,421
+forked: 259
+stars today: 0
+
+mikeizbicki/HLearn
+https://github.com/mikeizbicki/HLearn
+Homomorphic machine learning
+language: Haskell
+stars: 1,638
+forked: 134
+stars today: 1
+
+jaspervdj/hakyll
+https://github.com/jaspervdj/hakyll
+A static website compiler library in Haskell
+language: Haskell
+stars: 2,796
+forked: 417
+stars today: 3
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,586
+forked: 474
+stars today: 4
+
+zachjs/sv2v
+https://github.com/zachjs/sv2v
+SystemVerilog to Verilog conversion
+language: Haskell
+stars: 670
+forked: 60
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,169
+forked: 738
+stars today: 1
