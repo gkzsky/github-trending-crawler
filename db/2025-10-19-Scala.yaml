@@ -1,0 +1,167 @@
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,340
+forked: 1,940
+stars today: 0
+
+metarank/metarank
+https://github.com/metarank/metarank
+A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
+language: Scala
+stars: 2,201
+forked: 102
+stars today: 1
+
+microsoft/SynapseML
+https://github.com/microsoft/SynapseML
+Simple and Distributed Machine Learning
+language: Scala
+stars: 5,169
+forked: 851
+stars today: 0
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 4,284
+forked: 1,371
+stars today: 0
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,673
+forked: 363
+stars today: 1
+
+scalameta/metals
+https://github.com/scalameta/metals
+Scala language server with rich IDE features 🚀
+language: Scala
+stars: 2,248
+forked: 394
+stars today: 0
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,579
+forked: 1,194
+stars today: 0
+
+apache/kyuubi
+https://github.com/apache/kyuubi
+Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+language: Scala
+stars: 2,256
+forked: 965
+stars today: 0
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 929
+forked: 615
+stars today: 0
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,307
+forked: 1,260
+stars today: 0
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 1,998
+forked: 769
+stars today: 1
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,127
+forked: 1,118
+stars today: 0
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,114
+forked: 28,878
+stars today: 3
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,798
+forked: 1,218
+stars today: 0
+
+playframework/playframework
+https://github.com/playframework/playframework
+The Community Maintained High Velocity Web Framework For Java and Scala.
+language: Scala
+stars: 12,594
+forked: 4,076
+stars today: 0
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,446
+forked: 642
+stars today: 5
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 531
+forked: 38
+stars today: 0
+
+camunda/feel-scala
+https://github.com/camunda/feel-scala
+FEEL parser and interpreter written in Scala
+language: Scala
+stars: 130
+forked: 54
+stars today: 0
+
+apache/datafusion-comet
+https://github.com/apache/datafusion-comet
+Apache DataFusion Comet Spark Accelerator
+language: Scala
+stars: 1,055
+forked: 246
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 50
+forked: 41
+stars today: 0
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+language: Scala
+stars: 3,835
+forked: 675
+stars today: 0

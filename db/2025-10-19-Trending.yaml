@@ -1,0 +1,143 @@
+anthropics/claude-cookbooks
+https://github.com/anthropics/claude-cookbooks
+A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+language: Jupyter Notebook
+stars: 21,380
+forked: 2,296
+stars today: 105
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 88,401
+forked: 9,468
+stars today: 314
+
+jingyaogong/minimind
+https://github.com/jingyaogong/minimind
+🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+language: Python
+stars: 29,954
+forked: 3,469
+stars today: 1,563
+
+microsoft/vcpkg
+https://github.com/microsoft/vcpkg
+C++ Library Manager for Windows, Linux, and MacOS
+language: CMake
+stars: 25,825
+forked: 7,126
+stars today: 10
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 11,858
+forked: 478
+stars today: 213
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 48,831
+forked: 1,420
+stars today: 667
+
+ThinkInAIXYZ/deepchat
+https://github.com/ThinkInAIXYZ/deepchat
+🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+language: TypeScript
+stars: 4,368
+forked: 533
+stars today: 21
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 2,721
+forked: 697
+stars today: 113
+
+PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+language: Python
+stars: 58,461
+forked: 8,927
+stars today: 577
+
+microsoft/PowerToys
+https://github.com/microsoft/PowerToys
+Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+language: C#
+stars: 124,802
+forked: 7,427
+stars today: 263
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1107+ languages!
+language: Python
+stars: 11,876
+forked: 909
+stars today: 85
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 46,870
+forked: 10,067
+stars today: 23
+
+fastfire/deepdarkCTI
+https://github.com/fastfire/deepdarkCTI
+Collection of Cyber Threat Intelligence sources from the deep and dark web
+language: -
+stars: 5,863
+forked: 1,018
+stars today: 17
+
+HandsOnLLM/Hands-On-Large-Language-Models
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+language: Jupyter Notebook
+stars: 16,635
+forked: 3,917
+stars today: 57
+
+kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+language: TypeScript
+stars: 341,267
+forked: 43,155
+stars today: 270
+
+storybookjs/storybook
+https://github.com/storybookjs/storybook
+Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+language: TypeScript
+stars: 88,089
+forked: 9,725
+stars today: 12
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 211,201
+forked: 48,779
+stars today: 111
+
+gtsteffaniak/filebrowser
+https://github.com/gtsteffaniak/filebrowser
+📂 Web File Browser
+language: Go
+stars: 4,022
+forked: 161
+stars today: 104
