@@ -1,0 +1,167 @@
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,113
+forked: 28,881
+stars today: 2
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,341
+forked: 1,940
+stars today: 2
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,448
+forked: 641
+stars today: 3
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 67,608
+forked: 12,601
+stars today: 7
+
+ucb-bar/gemmini
+https://github.com/ucb-bar/gemmini
+Berkeley's Spatial Array Generator
+language: Scala
+stars: 1,078
+forked: 221
+stars today: 1
+
+microsoft/azure-maven-archetypes
+https://github.com/microsoft/azure-maven-archetypes
+Maven Archetypes for Microsoft Azure Services
+language: Scala
+stars: 23
+forked: 33
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 50
+forked: 41
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Scala
+stars: 841
+forked: 227
+stars today: 0
+
+apache/incubator-livy
+https://github.com/apache/incubator-livy
+Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+language: Scala
+stars: 929
+forked: 615
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,233
+forked: 2,480
+stars today: 4
+
+microsoft/SynapseML
+https://github.com/microsoft/SynapseML
+Simple and Distributed Machine Learning
+language: Scala
+stars: 5,169
+forked: 851
+stars today: 0
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 1,999
+forked: 770
+stars today: 1
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 532
+forked: 38
+stars today: 1
+
+camunda/feel-scala
+https://github.com/camunda/feel-scala
+FEEL parser and interpreter written in Scala
+language: Scala
+stars: 130
+forked: 54
+stars today: 0
+
+PrestaShop/docs
+https://github.com/PrestaShop/docs
+PrestaShop technical documentation
+language: Scala
+stars: 127
+forked: 524
+stars today: 0
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,462
+forked: 536
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,128
+forked: 1,118
+stars today: 1
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,693
+forked: 822
+stars today: 3
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,579
+forked: 1,194
+stars today: 0
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,307
+forked: 1,260
+stars today: 0
+
+akka/akka
+https://github.com/akka/akka
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,223
+forked: 3,582
+stars today: 0

@@ -1,0 +1,103 @@
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,754
+forked: 510
+stars today: 5
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,282
+forked: 1,874
+stars today: 4
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,547
+forked: 341
+stars today: 1
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,752
+forked: 328
+stars today: 3
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,716
+forked: 334
+stars today: 1
+
+cardano-scaling/hydra
+https://github.com/cardano-scaling/hydra
+Implementation of the Hydra Head protocol
+language: Haskell
+stars: 318
+forked: 96
+stars today: 0
+
+valderman/haste-compiler
+https://github.com/valderman/haste-compiler
+A GHC-based Haskell to JavaScript compiler
+language: Haskell
+stars: 1,460
+forked: 107
+stars today: 1
+
+IntersectMBO/ouroboros-consensus
+https://github.com/IntersectMBO/ouroboros-consensus
+Implementation of a Consensus Layer for the Ouroboros family of protocols
+language: Haskell
+stars: 57
+forked: 32
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 221
+forked: 18
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,895
+forked: 1,121
+stars today: 6
+
+jaspervdj/hakyll
+https://github.com/jaspervdj/hakyll
+A static website compiler library in Haskell
+language: Haskell
+stars: 2,800
+forked: 417
+stars today: 2
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,588
+forked: 474
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 685
+forked: 85
+stars today: 0
