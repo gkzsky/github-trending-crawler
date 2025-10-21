@@ -1,0 +1,159 @@
+anthropics/claude-cookbooks
+https://github.com/anthropics/claude-cookbooks
+A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+language: Jupyter Notebook
+stars: 23,605
+forked: 2,416
+stars today: 1,305
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 27,375
+forked: 3,193
+stars today: 28
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1107+ languages!
+language: Python
+stars: 12,524
+forked: 952
+stars today: 324
+
+x1xhlol/system-prompts-and-models-of-ai-tools
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+language: -
+stars: 92,273
+forked: 25,011
+stars today: 233
+
+huggingface/lerobot
+https://github.com/huggingface/lerobot
+🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+language: Python
+stars: 18,315
+forked: 2,801
+stars today: 89
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 12,218
+forked: 489
+stars today: 201
+
+karpathy/micrograd
+https://github.com/karpathy/micrograd
+A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+language: Jupyter Notebook
+stars: 13,187
+forked: 1,954
+stars today: 114
+
+huggingface/chat-ui
+https://github.com/huggingface/chat-ui
+Open source codebase powering the HuggingChat app
+language: TypeScript
+stars: 9,620
+forked: 1,465
+stars today: 223
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 211,644
+forked: 48,847
+stars today: 234
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: TypeScript
+stars: 6,229
+forked: 625
+stars today: 527
+
+Anuken/Mindustry
+https://github.com/Anuken/Mindustry
+The automation tower defense RTS
+language: Java
+stars: 25,153
+forked: 3,239
+stars today: 12
+
+Skyvern-AI/skyvern
+https://github.com/Skyvern-AI/skyvern
+Automate browser-based workflows with LLMs and Computer Vision
+language: Python
+stars: 14,982
+forked: 1,272
+stars today: 218
+
+PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+language: Python
+stars: 59,590
+forked: 9,018
+stars today: 713
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 17,948
+forked: 626
+stars today: 159
+
+basecamp/omarchy
+https://github.com/basecamp/omarchy
+Opinionated Arch/Hyprland Setup
+language: Shell
+stars: 15,061
+forked: 1,374
+stars today: 191
+
+BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+language: Rust
+stars: 56,493
+forked: 2,270
+stars today: 65
+
+mountain-loop/yaak
+https://github.com/mountain-loop/yaak
+The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+language: TypeScript
+stars: 8,981
+forked: 319
+stars today: 431
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 29,923
+forked: 2,802
+stars today: 9
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 373,947
+forked: 64,965
+stars today: 507
+
+Atlas-OS/Atlas
+https://github.com/Atlas-OS/Atlas
+🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+language: PowerShell
+stars: 17,422
+forked: 623
+stars today: 64
