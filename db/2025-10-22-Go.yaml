@@ -1,0 +1,183 @@
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,592
+forked: 2,507
+stars today: 4
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 51,856
+forked: 2,740
+stars today: 142
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 27,486
+forked: 3,199
+stars today: 162
+
+tbphp/gpt-load
+https://github.com/tbphp/gpt-load
+Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+language: Go
+stars: 5,374
+forked: 482
+stars today: 10
+
+rook/rook
+https://github.com/rook/rook
+Storage Orchestration for Kubernetes
+language: Go
+stars: 13,124
+forked: 2,784
+stars today: 3
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 12,322
+forked: 493
+stars today: 171
+
+seaweedfs/seaweedfs
+https://github.com/seaweedfs/seaweedfs
+SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+language: Go
+stars: 26,137
+forked: 2,488
+stars today: 20
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 25,487
+forked: 2,048
+stars today: 28
+
+hyperledger/fabric
+https://github.com/hyperledger/fabric
+Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+language: Go
+stars: 16,337
+forked: 9,076
+stars today: 3
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 12,673
+forked: 952
+stars today: 7
+
+grafana/tempo
+https://github.com/grafana/tempo
+Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+language: Go
+stars: 4,802
+forked: 625
+stars today: 5
+
+usememos/memos
+https://github.com/usememos/memos
+A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+language: Go
+stars: 45,147
+forked: 3,241
+stars today: 29
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 7,813
+forked: 721
+stars today: 8
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 50,605
+forked: 10,194
+stars today: 7
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 20,989
+forked: 6,472
+stars today: 10
+
+go-chi/chi
+https://github.com/go-chi/chi
+lightweight, idiomatic and composable router for building Go HTTP services
+language: Go
+stars: 20,697
+forked: 1,054
+stars today: 6
+
+hashicorp/terraform-provider-azurerm
+https://github.com/hashicorp/terraform-provider-azurerm
+Terraform provider for Azure Resource Manager
+language: Go
+stars: 4,836
+forked: 4,883
+stars today: 6
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,089
+forked: 3,074
+stars today: 3
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 70,930
+forked: 18,819
+stars today: 6
+
+openimsdk/open-im-server
+https://github.com/openimsdk/open-im-server
+IM Chat ChatGPT
+language: Go
+stars: 15,322
+forked: 2,713
+stars today: 8
+
+erigontech/erigon
+https://github.com/erigontech/erigon
+Ethereum implementation on the efficiency frontier
+language: Go
+stars: 3,454
+forked: 1,401
+stars today: 2
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 9,030
+forked: 1,103
+stars today: 4
+
+AlexxIT/go2rtc
+https://github.com/AlexxIT/go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+language: Go
+stars: 10,377
+forked: 765
+stars today: 81

@@ -1,0 +1,151 @@
+mountain-loop/yaak
+https://github.com/mountain-loop/yaak
+The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+language: TypeScript
+stars: 10,434
+forked: 360
+stars today: 640
+
+louislam/uptime-kuma
+https://github.com/louislam/uptime-kuma
+A fancy self-hosted monitoring tool
+language: JavaScript
+stars: 76,507
+forked: 6,779
+stars today: 128
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: TypeScript
+stars: 6,803
+forked: 685
+stars today: 480
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1107+ languages!
+language: Python
+stars: 12,949
+forked: 978
+stars today: 474
+
+anthropics/claude-cookbooks
+https://github.com/anthropics/claude-cookbooks
+A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+language: Jupyter Notebook
+stars: 24,363
+forked: 2,457
+stars today: 1,413
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 55,341
+forked: 1,382
+stars today: 75
+
+Skyvern-AI/skyvern
+https://github.com/Skyvern-AI/skyvern
+Automate browser-based workflows with LLMs and Computer Vision
+language: Python
+stars: 15,147
+forked: 1,285
+stars today: 189
+
+oceanbase/miniob
+https://github.com/oceanbase/miniob
+MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
+language: C++
+stars: 4,128
+forked: 1,478
+stars today: 15
+
+k2-fsa/sherpa-onnx
+https://github.com/k2-fsa/sherpa-onnx
+Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
+language: C++
+stars: 7,951
+forked: 913
+stars today: 17
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 32,528
+forked: 3,291
+stars today: 509
+
+dyad-sh/dyad
+https://github.com/dyad-sh/dyad
+Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+language: TypeScript
+stars: 16,536
+forked: 1,795
+stars today: 80
+
+Anuken/Mindustry
+https://github.com/Anuken/Mindustry
+The automation tower defense RTS
+language: Java
+stars: 25,305
+forked: 3,245
+stars today: 185
+
+PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+language: Python
+stars: 60,116
+forked: 9,054
+stars today: 573
+
+huggingface/chat-ui
+https://github.com/huggingface/chat-ui
+Open source codebase powering the HuggingChat app
+language: TypeScript
+stars: 9,795
+forked: 1,477
+stars today: 189
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 374,383
+forked: 65,027
+stars today: 429
+
+is-a-dev/register
+https://github.com/is-a-dev/register
+Grab your own sweet-looking '.is-a.dev' subdomain.
+language: JavaScript
+stars: 8,762
+forked: 15,677
+stars today: 53
+
+jaywcjlove/awesome-mac
+https://github.com/jaywcjlove/awesome-mac
+ Now we have become very big, Different from the original idea. Collect premium software in various categories.
+language: JavaScript
+stars: 90,636
+forked: 6,869
+stars today: 372
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 18,088
+forked: 631
+stars today: 168
+
+harvard-edge/cs249r_book
+https://github.com/harvard-edge/cs249r_book
+Introduction to Machine Learning Systems
+language: Python
+stars: 4,006
+forked: 438
+stars today: 250

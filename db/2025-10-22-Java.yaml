@@ -1,0 +1,167 @@
+Anuken/Mindustry
+https://github.com/Anuken/Mindustry
+The automation tower defense RTS
+language: Java
+stars: 25,305
+forked: 3,245
+stars today: 185
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 31,130
+forked: 14,737
+stars today: 13
+
+jd-opensource/joyagent-jdgenie
+https://github.com/jd-opensource/joyagent-jdgenie
+开源的端到端产品级通用智能体
+language: Java
+stars: 10,782
+forked: 1,208
+stars today: 37
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 9,333
+forked: 6,143
+stars today: 2
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 78,753
+forked: 41,588
+stars today: 19
+
+redisson/redisson
+https://github.com/redisson/redisson
+Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+language: Java
+stars: 24,073
+forked: 5,483
+stars today: 3
+
+metersphere/metersphere
+https://github.com/metersphere/metersphere
+MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+language: Java
+stars: 12,574
+forked: 2,730
+stars today: 4
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 7,233
+forked: 500
+stars today: 31
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 16,665
+forked: 3,690
+stars today: 7
+
+apache/lucene
+https://github.com/apache/lucene
+Apache Lucene open-source search software
+language: Java
+stars: 3,199
+forked: 1,230
+stars today: 1
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 45,868
+forked: 3,876
+stars today: 23
+
+YunaiV/yudao-cloud
+https://github.com/YunaiV/yudao-cloud
+ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+language: Java
+stars: 17,986
+forked: 4,510
+stars today: 3
+
+dependency-check/DependencyCheck
+https://github.com/dependency-check/DependencyCheck
+OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+language: Java
+stars: 7,255
+forked: 1,378
+stars today: 6
+
+apache/cloudstack
+https://github.com/apache/cloudstack
+Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+language: Java
+stars: 2,656
+forked: 1,229
+stars today: 2
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 25,078
+forked: 7,244
+stars today: 6
+
+awsdocs/aws-doc-sdk-examples
+https://github.com/awsdocs/aws-doc-sdk-examples
+Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
+language: Java
+stars: 10,241
+forked: 5,822
+stars today: 2
+
+kafbat/kafka-ui
+https://github.com/kafbat/kafka-ui
+Open-Source Web UI for managing Apache Kafka clusters
+language: Java
+stars: 1,588
+forked: 190
+stars today: 2
+
+brettwooldridge/HikariCP
+https://github.com/brettwooldridge/HikariCP
+光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+language: Java
+stars: 20,781
+forked: 3,000
+stars today: 3
+
+apache/beam
+https://github.com/apache/beam
+Apache Beam is a unified programming model for Batch and Streaming data processing.
+language: Java
+stars: 8,338
+forked: 4,428
+stars today: 2
+
+traccar/traccar
+https://github.com/traccar/traccar
+Traccar GPS Tracking System
+language: Java
+stars: 6,554
+forked: 2,983
+stars today: 3
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+language: Java
+stars: 32,170
+forked: 13,158
+stars today: 4
