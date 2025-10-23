@@ -1,0 +1,111 @@
+emcie-co/parlant
+https://github.com/emcie-co/parlant
+LLM agents built for control. Designed for real-world use. Deployed in minutes.
+language: Python
+stars: 14,259
+forked: 1,149
+stars today: 151
+
+guofei9987/blind_watermark
+https://github.com/guofei9987/blind_watermark
+Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+language: Python
+stars: 7,916
+forked: 878
+stars today: 342
+
+fishaudio/fish-speech
+https://github.com/fishaudio/fish-speech
+SOTA Open Source TTS
+language: Python
+stars: 23,522
+forked: 1,935
+stars today: 62
+
+rossant/awesome-math
+https://github.com/rossant/awesome-math
+A curated list of awesome mathematics resources
+language: Python
+stars: 10,508
+forked: 1,068
+stars today: 64
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1107+ languages!
+language: Python
+stars: 13,305
+forked: 1,000
+stars today: 386
+
+harvard-edge/cs249r_book
+https://github.com/harvard-edge/cs249r_book
+Introduction to Machine Learning Systems
+language: Python
+stars: 4,365
+forked: 463
+stars today: 417
+
+hiroi-sora/Umi-OCR
+https://github.com/hiroi-sora/Umi-OCR
+OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+language: Python
+stars: 38,947
+forked: 3,852
+stars today: 112
+
+EbookFoundation/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
+📚 Freely available programming books
+language: Python
+stars: 374,599
+forked: 65,053
+stars today: 355
+
+pollen-robotics/reachy_mini
+https://github.com/pollen-robotics/reachy_mini
+Reachy Mini's SDK
+language: Python
+stars: 137
+forked: 22
+stars today: 88
+
+m-bain/whisperX
+https://github.com/m-bain/whisperX
+WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+language: Python
+stars: 18,316
+forked: 1,935
+stars today: 28
+
+Skyvern-AI/skyvern
+https://github.com/Skyvern-AI/skyvern
+Automate browser-based workflows with LLMs and Computer Vision
+language: Python
+stars: 15,233
+forked: 1,289
+stars today: 156
+
+huggingface/lerobot
+https://github.com/huggingface/lerobot
+🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+language: Python
+stars: 18,532
+forked: 2,836
+stars today: 76
+
+deepseek-ai/DeepSeek-V3
+https://github.com/deepseek-ai/DeepSeek-V3
+-
+language: Python
+stars: 99,845
+forked: 16,288
+stars today: 65
+
+PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+language: Python
+stars: 60,497
+forked: 9,076
+stars today: 439
