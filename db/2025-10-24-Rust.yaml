@@ -1,0 +1,159 @@
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 18,329
+forked: 639
+stars today: 133
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 98,092
+forked: 3,133
+stars today: 365
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀 High-performance distributed object storage for MinIO alternative.
+language: Rust
+stars: 9,855
+forked: 475
+stars today: 447
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 38,208
+forked: 4,479
+stars today: 233
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 54,039
+forked: 2,229
+stars today: 188
+
+abenz1267/walker
+https://github.com/abenz1267/walker
+Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
+language: Rust
+stars: 1,904
+forked: 70
+stars today: 32
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 10,134
+forked: 527
+stars today: 113
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 104,872
+forked: 5,751
+stars today: 39
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 31,292
+forked: 1,331
+stars today: 20
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,497
+forked: 1,036
+stars today: 2
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,347
+forked: 651
+stars today: 9
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 29,158
+forked: 627
+stars today: 42
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 21,781
+forked: 728
+stars today: 27
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 33,010
+forked: 3,308
+stars today: 299
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 70,794
+forked: 2,145
+stars today: 116
+
+huggingface/text-embeddings-inference
+https://github.com/huggingface/text-embeddings-inference
+A blazing fast inference solution for text embeddings models
+language: Rust
+stars: 4,124
+forked: 319
+stars today: 4
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,755
+forked: 3,660
+stars today: 7
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 13,158
+forked: 722
+stars today: 8
+
+deuxfleurs-org/garage
+https://github.com/deuxfleurs-org/garage
+(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
+language: Rust
+stars: 1,454
+forked: 67
+stars today: 169
+
+apache/opendal
+https://github.com/apache/opendal
+Apache OpenDAL: One Layer, All Storage.
+language: Rust
+stars: 4,517
+forked: 649
+stars today: 2
