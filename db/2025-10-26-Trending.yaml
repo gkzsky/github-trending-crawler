@@ -1,0 +1,127 @@
+LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird
+Truly independent web browser
+language: C++
+stars: 52,589
+forked: 2,316
+stars today: 1,387
+
+TheRobotStudio/SO-ARM100
+https://github.com/TheRobotStudio/SO-ARM100
+Standard Open Arm 100
+language: -
+stars: 3,820
+forked: 321
+stars today: 154
+
+coinbase/x402
+https://github.com/coinbase/x402
+A payments protocol for the internet. Built on HTTP.
+language: TypeScript
+stars: 2,564
+forked: 398
+stars today: 91
+
+guofei9987/blind_watermark
+https://github.com/guofei9987/blind_watermark
+Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+language: Python
+stars: 10,075
+forked: 1,021
+stars today: 839
+
+paperless-ngx/paperless-ngx
+https://github.com/paperless-ngx/paperless-ngx
+A community-supported supercharged document management system: scan, index and archive all your documents
+language: Python
+stars: 33,533
+forked: 2,096
+stars today: 151
+
+zephyrproject-rtos/zephyr
+https://github.com/zephyrproject-rtos/zephyr
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+language: C
+stars: 13,484
+forked: 8,116
+stars today: 80
+
+hoppscotch/hoppscotch
+https://github.com/hoppscotch/hoppscotch
+Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+language: TypeScript
+stars: 75,930
+forked: 5,344
+stars today: 274
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 372,602
+forked: 39,315
+stars today: 332
+
+ubicloud/ubicloud
+https://github.com/ubicloud/ubicloud
+Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+language: Ruby
+stars: 11,068
+forked: 498
+stars today: 73
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 132,559
+forked: 10,644
+stars today: 342
+
+OpenMind/OM1
+https://github.com/OpenMind/OM1
+Modular AI runtime for robots
+language: Python
+stars: 1,190
+forked: 390
+stars today: 132
+
+jaywcjlove/awesome-mac
+https://github.com/jaywcjlove/awesome-mac
+ Now we have become very big, Different from the original idea. Collect premium software in various categories.
+language: JavaScript
+stars: 91,636
+forked: 6,936
+stars today: 148
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 27,028
+forked: 6,332
+stars today: 37
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 57,314
+forked: 6,370
+stars today: 167
+
+k2-fsa/sherpa-onnx
+https://github.com/k2-fsa/sherpa-onnx
+Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
+language: C++
+stars: 8,399
+forked: 944
+stars today: 32
+
+cjpais/Handy
+https://github.com/cjpais/Handy
+A free, open source, and extensible speech-to-text application that works completely offline.
+language: TypeScript
+stars: 3,189
+forked: 205
+stars today: 55

@@ -1,0 +1,191 @@
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 21,977
+forked: 1,614
+stars today: 19
+
+meta-pytorch/monarch
+https://github.com/meta-pytorch/monarch
+PyTorch Single Controller
+language: Rust
+stars: 724
+forked: 91
+stars today: 43
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 21,552
+forked: 758
+stars today: 41
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 10,297
+forked: 489
+stars today: 256
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 21,837
+forked: 732
+stars today: 42
+
+boa-dev/boa
+https://github.com/boa-dev/boa
+Boa is an embeddable Javascript engine written in Rust.
+language: Rust
+stars: 6,073
+forked: 465
+stars today: 22
+
+typst/typst
+https://github.com/typst/typst
+A new markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 47,323
+forked: 1,284
+stars today: 144
+
+FyroxEngine/Fyrox
+https://github.com/FyroxEngine/Fyrox
+3D and 2D game engine written in Rust
+language: Rust
+stars: 8,620
+forked: 404
+stars today: 10
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 13,190
+forked: 725
+stars today: 21
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 4,239
+forked: 207
+stars today: 18
+
+OpenDevicePartnership/patina
+https://github.com/OpenDevicePartnership/patina
+Patina Firmware
+language: Rust
+stars: 404
+forked: 24
+stars today: 56
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 5,658
+forked: 557
+stars today: 8
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 43,314
+forked: 1,586
+stars today: 23
+
+apache/opendal
+https://github.com/apache/opendal
+Apache OpenDAL: One Layer, All Storage.
+language: Rust
+stars: 4,525
+forked: 650
+stars today: 1
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,929
+forked: 1,708
+stars today: 5
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,722
+forked: 339
+stars today: 1
+
+deuxfleurs-org/garage
+https://github.com/deuxfleurs-org/garage
+(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
+language: Rust
+stars: 1,554
+forked: 71
+stars today: 56
+
+ironcalc/IronCalc
+https://github.com/ironcalc/IronCalc
+Main engine of the IronCalc ecosystem
+language: Rust
+stars: 2,778
+forked: 95
+stars today: 66
+
+Automattic/harper
+https://github.com/Automattic/harper
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+language: Rust
+stars: 8,421
+forked: 219
+stars today: 14
+
+Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist
+Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+language: Rust
+stars: 2,288
+forked: 97
+stars today: 33
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,630
+forked: 1,214
+stars today: 6
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 48,873
+forked: 5,948
+stars today: 100
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 54,143
+forked: 2,233
+stars today: 50
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 23,547
+forked: 1,259
+stars today: 16

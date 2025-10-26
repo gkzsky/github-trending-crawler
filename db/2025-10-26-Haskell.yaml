@@ -1,0 +1,95 @@
+Concordium/concordium-node
+https://github.com/Concordium/concordium-node
+The main concordium node implementation.
+language: Haskell
+stars: 113
+forked: 25
+stars today: 10
+
+facebook/Haxl
+https://github.com/facebook/Haxl
+A Haskell library that simplifies access to remote data, such as databases or web-based services.
+language: Haskell
+stars: 4,350
+forked: 313
+stars today: 5
+
+Gabriella439/grace
+https://github.com/Gabriella439/grace
+A prompt engineering functional programming language
+language: Haskell
+stars: 459
+forked: 36
+stars today: 2
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 39,783
+forked: 3,663
+stars today: 14
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,154
+forked: 210
+stars today: 2
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,325
+forked: 1,877
+stars today: 7
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,923
+forked: 1,123
+stars today: 2
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,790
+forked: 510
+stars today: 5
+
+HigherOrderCO/Bend2
+https://github.com/HigherOrderCO/Bend2
+Bend2 - WIP
+language: Haskell
+stars: 205
+forked: 13
+stars today: 0
+
+argotorg/solcore
+https://github.com/argotorg/solcore
+experimental solidity compiler
+language: Haskell
+stars: 50
+forked: 3
+stars today: 1
+
+krispo/awesome-haskell
+https://github.com/krispo/awesome-haskell
+A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
+language: Haskell
+stars: 3,205
+forked: 176
+stars today: 3
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,606
+forked: 473
+stars today: 0
