@@ -1,0 +1,119 @@
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,851
+forked: 408
+stars today: 0
+
+krispo/awesome-haskell
+https://github.com/krispo/awesome-haskell
+A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
+language: Haskell
+stars: 3,207
+forked: 176
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,927
+forked: 1,124
+stars today: 1
+
+jaspervdj/hakyll
+https://github.com/jaspervdj/hakyll
+A static website compiler library in Haskell
+language: Haskell
+stars: 2,811
+forked: 416
+stars today: 2
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,227
+forked: 284
+stars today: 1
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,612
+forked: 473
+stars today: 4
+
+Concordium/concordium-node
+https://github.com/Concordium/concordium-node
+The main concordium node implementation.
+language: Haskell
+stars: 119
+forked: 25
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,331
+forked: 1,879
+stars today: 3
+
+digitallyinduced/ihp
+https://github.com/digitallyinduced/ihp
+🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+language: Haskell
+stars: 5,157
+forked: 211
+stars today: 1
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 221
+forked: 18
+stars today: 0
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 9,800
+forked: 510
+stars today: 5
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 223
+forked: 44
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,769
+forked: 328
+stars today: 2
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 690
+forked: 85
+stars today: 0
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,696
+forked: 722
+stars today: 1
