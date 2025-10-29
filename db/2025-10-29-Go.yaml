@@ -1,0 +1,167 @@
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 32,168
+forked: 1,712
+stars today: 53
+
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 11,172
+forked: 953
+stars today: 24
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 29,570
+forked: 2,797
+stars today: 11
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+language: Go
+stars: 51,670
+forked: 6,177
+stars today: 29
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 11,146
+forked: 1,336
+stars today: 50
+
+thomaspoignant/go-feature-flag
+https://github.com/thomaspoignant/go-feature-flag
+GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+language: Go
+stars: 1,831
+forked: 178
+stars today: 6
+
+sigstore/cosign
+https://github.com/sigstore/cosign
+Code signing and transparency for containers and binaries
+language: Go
+stars: 5,353
+forked: 646
+stars today: 8
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 6,697
+forked: 858
+stars today: 11
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 33,371
+forked: 4,463
+stars today: 6
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 6,142
+forked: 1,226
+stars today: 4
+
+aws/aws-sdk-go-v2
+https://github.com/aws/aws-sdk-go-v2
+AWS SDK for the Go programming language.
+language: Go
+stars: 3,321
+forked: 727
+stars today: 1
+
+krillinai/KrillinAI
+https://github.com/krillinai/KrillinAI
+Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok. AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
+language: Go
+stars: 8,767
+forked: 717
+stars today: 18
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+Find, verify, and analyze leaked credentials
+language: Go
+stars: 22,957
+forked: 2,110
+stars today: 22
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 154,924
+forked: 13,487
+stars today: 76
+
+v2fly/v2ray-core
+https://github.com/v2fly/v2ray-core
+A platform for building proxies to bypass network restrictions.
+language: Go
+stars: 32,334
+forked: 4,905
+stars today: 5
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 12,047
+forked: 847
+stars today: 3
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 20,520
+forked: 909
+stars today: 7
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 28,945
+forked: 1,085
+stars today: 38
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,618
+forked: 2,514
+stars today: 3
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 38,147
+forked: 3,484
+stars today: 29
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 23,751
+forked: 1,817
+stars today: 9
