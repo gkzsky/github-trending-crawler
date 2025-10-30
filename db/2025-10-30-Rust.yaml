@@ -1,0 +1,175 @@
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 21,090
+forked: 1,914
+stars today: 90
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 6,390
+forked: 250
+stars today: 533
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 9,730
+forked: 2,213
+stars today: 6
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 26,820
+forked: 1,870
+stars today: 18
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 4,786
+forked: 542
+stars today: 14
+
+vrmiguel/pgpad
+https://github.com/vrmiguel/pgpad
+[Work in progress] A small, fast cross-platform database client
+language: Rust
+stars: 556
+forked: 23
+stars today: 24
+
+gabotechs/MusicGPT
+https://github.com/gabotechs/MusicGPT
+Generate music based on natural language prompts using LLMs running locally
+language: Rust
+stars: 1,248
+forked: 135
+stars today: 17
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,950
+forked: 1,823
+stars today: 28
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 24,939
+forked: 1,331
+stars today: 48
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 68,710
+forked: 5,748
+stars today: 94
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,668
+forked: 1,224
+stars today: 11
+
+superfly/corrosion
+https://github.com/superfly/corrosion
+Gossip-based service discovery (and more) for large distributed systems.
+language: Rust
+stars: 1,366
+forked: 59
+stars today: 9
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 6,900
+forked: 1,187
+stars today: 17
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 28,092
+forked: 1,397
+stars today: 14
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
+language: Rust
+stars: 7,886
+forked: 625
+stars today: 16
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 49,268
+forked: 6,023
+stars today: 124
+
+op-rs/kona
+https://github.com/op-rs/kona
+Monorepo for OP Stack Types, Components, and Services built in Rust.
+language: Rust
+stars: 264
+forked: 183
+stars today: 0
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 42,887
+forked: 4,203
+stars today: 21
+
+warp-tech/warpgate
+https://github.com/warp-tech/warpgate
+Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+language: Rust
+stars: 5,824
+forked: 200
+stars today: 17
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 71,290
+forked: 2,170
+stars today: 90
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 20,977
+forked: 703
+stars today: 50
+
+n0-computer/iroh
+https://github.com/n0-computer/iroh
+peer-2-peer that just works
+language: Rust
+stars: 7,161
+forked: 306
+stars today: 18
