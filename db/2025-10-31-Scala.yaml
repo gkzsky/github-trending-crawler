@@ -1,0 +1,175 @@
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,019
+forked: 777
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,365
+forked: 1,943
+stars today: 3
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,455
+forked: 641
+stars today: 1
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,710
+forked: 828
+stars today: 1
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,266
+forked: 2,484
+stars today: 4
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 52
+forked: 44
+stars today: 1
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,194
+forked: 28,904
+stars today: 9
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,590
+forked: 1,196
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,141
+forked: 1,118
+stars today: 2
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 884
+forked: 209
+stars today: 0
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,469
+forked: 539
+stars today: 1
+
+apache/pekko
+https://github.com/apache/pekko
+Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+language: Scala
+stars: 1,480
+forked: 185
+stars today: 3
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 67,669
+forked: 12,608
+stars today: 17
+
+apache/datafusion-comet
+https://github.com/apache/datafusion-comet
+Apache DataFusion Comet Spark Accelerator
+language: Scala
+stars: 1,060
+forked: 247
+stars today: 3
+
+apache/texera
+https://github.com/apache/texera
+Collaborative Machine-Learning-Centric Data Analytics Using Workflows
+language: Scala
+stars: 208
+forked: 109
+stars today: 1
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,692
+forked: 365
+stars today: 4
+
+scala/scala
+https://github.com/scala/scala
+Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+language: Scala
+stars: 14,416
+forked: 3,106
+stars today: 0
+
+riscv-boom/riscv-boom
+https://github.com/riscv-boom/riscv-boom
+SonicBOOM: The Berkeley Out-of-Order Machine
+language: Scala
+stars: 1,997
+forked: 467
+stars today: 1
+
+SpinalHDL/SpinalHDL
+https://github.com/SpinalHDL/SpinalHDL
+Scala based HDL
+language: Scala
+stars: 1,866
+forked: 362
+stars today: 0
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,810
+forked: 1,217
+stars today: 0
+
+typelevel/cats-effect
+https://github.com/typelevel/cats-effect
+The pure asynchronous runtime for Scala
+language: Scala
+stars: 2,174
+forked: 560
+stars today: 0
+
+hyperledger-identus/cloud-agent
+https://github.com/hyperledger-identus/cloud-agent
+Identus Cloud Agent
+language: Scala
+stars: 89
+forked: 26
+stars today: 0

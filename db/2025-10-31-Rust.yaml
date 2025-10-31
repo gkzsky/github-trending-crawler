@@ -1,0 +1,183 @@
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 40,812
+forked: 3,127
+stars today: 94
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 15,987
+forked: 1,829
+stars today: 43
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 5,093
+forked: 2,113
+stars today: 7
+
+Fredolx/open-tv
+https://github.com/Fredolx/open-tv
+Ultra-fast, simple and powerful cross-platform IPTV app
+language: Rust
+stars: 2,210
+forked: 95
+stars today: 49
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso is an in-process SQL database, compatible with SQLite.
+language: Rust
+stars: 14,434
+forked: 584
+stars today: 13
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 21,247
+forked: 1,925
+stars today: 273
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 37,094
+forked: 1,956
+stars today: 35
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 101,642
+forked: 14,893
+stars today: 58
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,435
+forked: 11,666
+stars today: 3
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Extremely fast Query Engine for DataFrames, written in Rust
+language: Rust
+stars: 35,888
+forked: 2,443
+stars today: 14
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,692
+forked: 884
+stars today: 6
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 7,853
+forked: 632
+stars today: 7
+
+bootandy/dust
+https://github.com/bootandy/dust
+A more intuitive version of du in rust
+language: Rust
+stars: 10,736
+forked: 241
+stars today: 12
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 30,093
+forked: 2,818
+stars today: 14
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 49,358
+forked: 6,040
+stars today: 107
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 28,395
+forked: 600
+stars today: 22
+
+tikv/tikv
+https://github.com/tikv/tikv
+Distributed transactional key-value database, originally created to complement TiDB
+language: Rust
+stars: 16,239
+forked: 2,216
+stars today: 5
+
+typst/packages
+https://github.com/typst/packages
+Packages for Typst.
+language: Rust
+stars: 798
+forked: 743
+stars today: 3
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+language: Rust
+stars: 18,984
+forked: 1,911
+stars today: 7
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 15,661
+forked: 488
+stars today: 15
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 6,907
+forked: 1,188
+stars today: 8
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 18,439
+forked: 1,280
+stars today: 11
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 37,534
+forked: 1,189
+stars today: 9
