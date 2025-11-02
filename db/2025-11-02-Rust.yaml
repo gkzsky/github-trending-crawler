@@ -1,0 +1,183 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 38,929
+forked: 4,514
+stars today: 242
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 22,452
+forked: 971
+stars today: 33
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 24,948
+forked: 1,356
+stars today: 8
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,720
+forked: 569
+stars today: 21
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 31,486
+forked: 1,338
+stars today: 55
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 43,503
+forked: 1,596
+stars today: 33
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 40,883
+forked: 3,133
+stars today: 35
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 25,339
+forked: 1,497
+stars today: 8
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
+language: Rust
+stars: 8,035
+forked: 633
+stars today: 82
+
+rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy
+A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+language: Rust
+stars: 12,571
+forked: 1,798
+stars today: 4
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 16,024
+forked: 1,840
+stars today: 19
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 7,871
+forked: 634
+stars today: 8
+
+RustPython/RustPython
+https://github.com/RustPython/RustPython
+A Python Interpreter written in Rust
+language: Rust
+stars: 20,743
+forked: 1,357
+stars today: 10
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 21,575
+forked: 1,947
+stars today: 238
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 22,569
+forked: 2,165
+stars today: 13
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,512
+forked: 1,046
+stars today: 0
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,594
+forked: 1,895
+stars today: 6
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 71,663
+forked: 2,186
+stars today: 99
+
+lancedb/lance
+https://github.com/lancedb/lance
+Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,629
+forked: 461
+stars today: 6
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+language: Rust
+stars: 18,996
+forked: 1,913
+stars today: 2
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,777
+forked: 3,663
+stars today: 4
+
+PyO3/maturin
+https://github.com/PyO3/maturin
+Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+language: Rust
+stars: 5,057
+forked: 358
+stars today: 6
+
+paradedb/paradedb
+https://github.com/paradedb/paradedb
+The transactional Elasticsearch alternative built on Postgres
+language: Rust
+stars: 7,898
+forked: 288
+stars today: 3
