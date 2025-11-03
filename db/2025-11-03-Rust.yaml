@@ -1,0 +1,191 @@
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 31,523
+forked: 1,340
+stars today: 53
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 39,023
+forked: 4,515
+stars today: 183
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
+language: Rust
+stars: 8,059
+forked: 633
+stars today: 34
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 107,578
+forked: 13,919
+stars today: 25
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 56,713
+forked: 15,793
+stars today: 25
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 14,370
+forked: 509
+stars today: 33
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 22,492
+forked: 972
+stars today: 35
+
+0x192/universal-android-debloater
+https://github.com/0x192/universal-android-debloater
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 18,125
+forked: 945
+stars today: 10
+
+linebender/vello
+https://github.com/linebender/vello
+A GPU compute-centric 2D renderer.
+language: Rust
+stars: 3,348
+forked: 185
+stars today: 4
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 15,911
+forked: 1,499
+stars today: 4
+
+lldap/lldap
+https://github.com/lldap/lldap
+Light LDAP implementation
+language: Rust
+stars: 5,662
+forked: 299
+stars today: 9
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 21,657
+forked: 1,949
+stars today: 110
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 68,994
+forked: 5,802
+stars today: 74
+
+cross-rs/cross
+https://github.com/cross-rs/cross
+“Zero setup” cross compilation and “cross testing” of Rust crates
+language: Rust
+stars: 7,790
+forked: 429
+stars today: 3
+
+gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+A cross-platform, safe, pure-Rust graphics API.
+language: Rust
+stars: 15,445
+forked: 1,140
+stars today: 9
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 40,937
+forked: 3,136
+stars today: 40
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 5,751
+forked: 567
+stars today: 13
+
+rust-windowing/winit
+https://github.com/rust-windowing/winit
+Window handling library in pure Rust
+language: Rust
+stars: 5,632
+forked: 1,119
+stars today: 2
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,630
+forked: 1,855
+stars today: 6
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,079
+forked: 1,622
+stars today: 19
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 98,482
+forked: 3,147
+stars today: 38
+
+valadaptive/ntsc-rs
+https://github.com/valadaptive/ntsc-rs
+Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
+language: Rust
+stars: 1,043
+forked: 18
+stars today: 24
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 37,567
+forked: 1,192
+stars today: 11
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 105,004
+forked: 5,758
+stars today: 6
