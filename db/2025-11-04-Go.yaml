@@ -1,0 +1,175 @@
+charmbracelet/glow
+https://github.com/charmbracelet/glow
+Render markdown on the CLI, with pizzazz! 💅🏻
+language: Go
+stars: 20,497
+forked: 493
+stars today: 424
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+language: Go
+stars: 36,625
+forked: 2,896
+stars today: 229
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 155,314
+forked: 13,531
+stars today: 88
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 32,241
+forked: 4,664
+stars today: 31
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 19,473
+forked: 923
+stars today: 59
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 29,112
+forked: 1,090
+stars today: 45
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 7,348
+forked: 831
+stars today: 63
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 27,805
+forked: 3,234
+stars today: 34
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,872
+forked: 1,495
+stars today: 1
+
+raghavyuva/nixopus
+https://github.com/raghavyuva/nixopus
+Open Source Alternative to vercel, heroku, netlify with simplified workflows
+language: Go
+stars: 501
+forked: 69
+stars today: 34
+
+hajimehoshi/ebiten
+https://github.com/hajimehoshi/ebiten
+A dead simple 2D game engine for Go
+language: Go
+stars: 12,613
+forked: 740
+stars today: 7
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 29,682
+forked: 2,807
+stars today: 24
+
+qualifire-dev/rogue
+https://github.com/qualifire-dev/rogue
+Agents testing framework made easy
+language: Go
+stars: 400
+forked: 47
+stars today: 20
+
+weaviate/weaviate
+https://github.com/weaviate/weaviate
+Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+language: Go
+stars: 14,925
+forked: 1,124
+stars today: 12
+
+aaPanel/BillionMail
+https://github.com/aaPanel/BillionMail
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+language: Go
+stars: 12,017
+forked: 1,117
+stars today: 29
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 22,679
+forked: 729
+stars today: 11
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 47,021
+forked: 10,101
+stars today: 11
+
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+language: Go
+stars: 31,868
+forked: 2,815
+stars today: 17
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 17,214
+forked: 1,225
+stars today: 21
+
+trustwallet/assets
+https://github.com/trustwallet/assets
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+language: Go
+stars: 5,104
+forked: 25,841
+stars today: 3
+
+kubevirt/kubevirt
+https://github.com/kubevirt/kubevirt
+Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+language: Go
+stars: 6,427
+forked: 1,521
+stars today: 1
+
+fyne-io/fyne
+https://github.com/fyne-io/fyne
+Cross platform GUI toolkit in Go inspired by Material Design
+language: Go
+stars: 27,395
+forked: 1,491
+stars today: 6
