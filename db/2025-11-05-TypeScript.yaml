@@ -1,0 +1,175 @@
+sst/opentui
+https://github.com/sst/opentui
+OpenTUI is a library for building terminal user interfaces (TUIs)
+language: TypeScript
+stars: 4,085
+forked: 150
+stars today: 249
+
+nocobase/nocobase
+https://github.com/nocobase/nocobase
+NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+language: TypeScript
+stars: 17,609
+forked: 2,021
+stars today: 370
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+language: TypeScript
+stars: 67,434
+forked: 13,932
+stars today: 53
+
+galacean/engine
+https://github.com/galacean/engine
+A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
+language: TypeScript
+stars: 5,607
+forked: 382
+stars today: 25
+
+ayangweb/BongoCat
+https://github.com/ayangweb/BongoCat
+🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
+language: TypeScript
+stars: 12,432
+forked: 576
+stars today: 74
+
+remix-run/remix
+https://github.com/remix-run/remix
+Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+language: TypeScript
+stars: 31,939
+forked: 2,711
+stars today: 15
+
+sst/opencode
+https://github.com/sst/opencode
+The AI coding agent built for the terminal.
+language: TypeScript
+stars: 31,398
+forked: 2,430
+stars today: 527
+
+mg-chao/snow-shot
+https://github.com/mg-chao/snow-shot
+超好用的截图工具
+language: TypeScript
+stars: 1,923
+forked: 98
+stars today: 220
+
+CapSoftware/Cap
+https://github.com/CapSoftware/Cap
+Open source Loom alternative. Beautiful, shareable screen recordings.
+language: TypeScript
+stars: 14,356
+forked: 981
+stars today: 238
+
+bitwarden/clients
+https://github.com/bitwarden/clients
+Bitwarden client apps (web, browser extension, desktop, and cli).
+language: TypeScript
+stars: 11,448
+forked: 1,529
+stars today: 5
+
+open-telemetry/opentelemetry-demo
+https://github.com/open-telemetry/opentelemetry-demo
+This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+language: TypeScript
+stars: 2,696
+forked: 5,037
+stars today: 13
+
+supabase/supabase
+https://github.com/supabase/supabase
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 91,873
+forked: 10,475
+stars today: 152
+
+google/adk-web
+https://github.com/google/adk-web
+Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
+language: TypeScript
+stars: 373
+forked: 129
+stars today: 4
+
+medusajs/medusa
+https://github.com/medusajs/medusa
+The world's most flexible commerce platform.
+language: TypeScript
+stars: 31,066
+forked: 3,803
+stars today: 16
+
+nanobrowser/nanobrowser
+https://github.com/nanobrowser/nanobrowser
+Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+language: TypeScript
+stars: 11,157
+forked: 1,116
+stars today: 57
+
+typeorm/typeorm
+https://github.com/typeorm/typeorm
+ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+language: TypeScript
+stars: 35,972
+forked: 6,453
+stars today: 6
+
+get-convex/chef
+https://github.com/get-convex/chef
+The only AI app builder that knows backend
+language: TypeScript
+stars: 3,225
+forked: 585
+stars today: 231
+
+onlook-dev/onlook
+https://github.com/onlook-dev/onlook
+The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+language: TypeScript
+stars: 23,190
+forked: 1,666
+stars today: 44
+
+ChatGPTNextWeb/NextChat
+https://github.com/ChatGPTNextWeb/NextChat
+✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+language: TypeScript
+stars: 86,333
+forked: 60,871
+stars today: 16
+
+katspaugh/wavesurfer.js
+https://github.com/katspaugh/wavesurfer.js
+Audio waveform player
+language: TypeScript
+stars: 9,871
+forked: 1,739
+stars today: 34
+
+elie222/inbox-zero
+https://github.com/elie222/inbox-zero
+The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+language: TypeScript
+stars: 9,281
+forked: 1,073
+stars today: 28
+
+TriliumNext/Trilium
+https://github.com/TriliumNext/Trilium
+Build your personal knowledge base with Trilium Notes
+language: TypeScript
+stars: 32,682
+forked: 2,169
+stars today: 73

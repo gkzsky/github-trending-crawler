@@ -1,0 +1,167 @@
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 25,374
+forked: 1,503
+stars today: 9
+
+asterinas/asterinas
+https://github.com/asterinas/asterinas
+Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
+language: Rust
+stars: 3,772
+forked: 242
+stars today: 19
+
+facebook/pyrefly
+https://github.com/facebook/pyrefly
+A fast type checker and language server for Python
+language: Rust
+stars: 4,199
+forked: 174
+stars today: 22
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 31,621
+forked: 1,347
+stars today: 34
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 101,907
+forked: 14,930
+stars today: 76
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 43,550
+forked: 1,600
+stars today: 11
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 41,043
+forked: 3,143
+stars today: 49
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 54,358
+forked: 2,246
+stars today: 27
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,622
+forked: 1,897
+stars today: 9
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 29,009
+forked: 2,126
+stars today: 10
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,421
+forked: 671
+stars today: 7
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 22,599
+forked: 2,173
+stars today: 20
+
+gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+A cross-platform, safe, pure-Rust graphics API.
+language: Rust
+stars: 15,470
+forked: 1,139
+stars today: 9
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 23,676
+forked: 1,264
+stars today: 12
+
+gopher64/gopher64
+https://github.com/gopher64/gopher64
+Highly compatible N64 emulator
+language: Rust
+stars: 595
+forked: 10
+stars today: 97
+
+ilya-zlobintsev/LACT
+https://github.com/ilya-zlobintsev/LACT
+Linux GPU Configuration And Monitoring Tool
+language: Rust
+stars: 3,305
+forked: 84
+stars today: 5
+
+crate-ci/typos
+https://github.com/crate-ci/typos
+Source code spell checker
+language: Rust
+stars: 3,560
+forked: 147
+stars today: 8
+
+PyO3/pyo3
+https://github.com/PyO3/pyo3
+Rust bindings for the Python interpreter
+language: Rust
+stars: 14,740
+forked: 893
+stars today: 5
+
+openobserve/openobserve
+https://github.com/openobserve/openobserve
+Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+language: Rust
+stars: 17,073
+forked: 687
+stars today: 22
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 71,941
+forked: 2,194
+stars today: 118
+
+bootandy/dust
+https://github.com/bootandy/dust
+A more intuitive version of du in rust
+language: Rust
+stars: 10,782
+forked: 242
+stars today: 14
