@@ -1,0 +1,167 @@
+nocobase/nocobase
+https://github.com/nocobase/nocobase
+NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+language: TypeScript
+stars: 17,918
+forked: 2,040
+stars today: 223
+
+sst/opentui
+https://github.com/sst/opentui
+OpenTUI is a library for building terminal user interfaces (TUIs)
+language: TypeScript
+stars: 4,483
+forked: 162
+stars today: 790
+
+sst/opencode
+https://github.com/sst/opencode
+The AI coding agent built for the terminal.
+language: TypeScript
+stars: 31,726
+forked: 2,456
+stars today: 186
+
+CapSoftware/Cap
+https://github.com/CapSoftware/Cap
+Open source Loom alternative. Beautiful, shareable screen recordings.
+language: TypeScript
+stars: 14,412
+forked: 984
+stars today: 89
+
+bitwarden/clients
+https://github.com/bitwarden/clients
+Bitwarden client apps (web, browser extension, desktop, and cli).
+language: TypeScript
+stars: 11,459
+forked: 1,531
+stars today: 14
+
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+language: TypeScript
+stars: 9,996
+forked: 787
+stars today: 51
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+language: Python
+stars: 67,147
+forked: 7,153
+stars today: 79
+
+apache/superset
+https://github.com/apache/superset
+Apache Superset is a Data Visualization and Data Exploration Platform
+language: TypeScript
+stars: 68,814
+forked: 16,109
+stars today: 28
+
+RSSNext/Folo
+https://github.com/RSSNext/Folo
+🧡 Folo is the AI Reader
+language: TypeScript
+stars: 35,639
+forked: 1,747
+stars today: 48
+
+superdesigndev/superdesign
+https://github.com/superdesigndev/superdesign
+AI Product Design Agent - Open Source
+language: TypeScript
+stars: 5,203
+forked: 576
+stars today: 32
+
+modelcontextprotocol/quickstart-resources
+https://github.com/modelcontextprotocol/quickstart-resources
+A repository of servers and clients from the Model Context Protocol tutorials
+language: TypeScript
+stars: 848
+forked: 459
+stars today: 6
+
+mg-chao/snow-shot
+https://github.com/mg-chao/snow-shot
+超好用的截图工具
+language: TypeScript
+stars: 2,080
+forked: 106
+stars today: 145
+
+assistant-ui/assistant-ui
+https://github.com/assistant-ui/assistant-ui
+Typescript/React Library for AI Chat💬🚀
+language: TypeScript
+stars: 7,112
+forked: 779
+stars today: 113
+
+web-infra-dev/midscene
+https://github.com/web-infra-dev/midscene
+Your AI Operator for Web, Android, Automation & Testing.
+language: TypeScript
+stars: 10,613
+forked: 722
+stars today: 8
+
+actualbudget/actual
+https://github.com/actualbudget/actual
+A local-first personal finance app
+language: TypeScript
+stars: 23,031
+forked: 1,911
+stars today: 24
+
+element-plus/element-plus
+https://github.com/element-plus/element-plus
+🎉 A Vue.js 3 UI Library made by Element team
+language: TypeScript
+stars: 26,755
+forked: 19,477
+stars today: 9
+
+executeautomation/mcp-playwright
+https://github.com/executeautomation/mcp-playwright
+Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+language: TypeScript
+stars: 4,971
+forked: 452
+stars today: 6
+
+lobehub/lobe-chat
+https://github.com/lobehub/lobe-chat
+🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+language: TypeScript
+stars: 67,459
+forked: 13,934
+stars today: 35
+
+radix-ui/primitives
+https://github.com/radix-ui/primitives
+Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+language: TypeScript
+stars: 18,106
+forked: 1,052
+stars today: 10
+
+primer/react
+https://github.com/primer/react
+An implementation of GitHub's Primer Design System using React
+language: TypeScript
+stars: 3,719
+forked: 642
+stars today: 4
+
+mui/material-ui
+https://github.com/mui/material-ui
+Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+language: JavaScript
+stars: 96,942
+forked: 32,691
+stars today: 16
