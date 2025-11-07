@@ -1,0 +1,71 @@
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,389
+forked: 1,883
+stars today: 10
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 25,967
+forked: 1,127
+stars today: 8
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 40,069
+forked: 3,676
+stars today: 20
+
+nasa/ogma
+https://github.com/nasa/ogma
+Generator of runtime monitors for flight and robotics applications.
+language: Haskell
+stars: 497
+forked: 41
+stars today: 4
+
+augustss/MicroHs
+https://github.com/augustss/MicroHs
+Haskell implemented with combinators
+language: Haskell
+stars: 630
+forked: 56
+stars today: 0
+
+HigherOrderCO/Bend2
+https://github.com/HigherOrderCO/Bend2
+Bend2 - WIP
+language: Haskell
+stars: 223
+forked: 14
+stars today: 0
+
+dmjio/miso
+https://github.com/dmjio/miso
+🍜 A tasty Haskell web framework
+language: Haskell
+stars: 2,333
+forked: 154
+stars today: 1
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,633
+forked: 473
+stars today: 4
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,861
+forked: 410
+stars today: 2
