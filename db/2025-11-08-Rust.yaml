@@ -1,0 +1,167 @@
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,769
+forked: 351
+stars today: 8
+
+ClementTsang/bottom
+https://github.com/ClementTsang/bottom
+Yet another cross-platform graphical process/system monitor.
+language: Rust
+stars: 12,187
+forked: 308
+stars today: 28
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 15,905
+forked: 494
+stars today: 58
+
+HelixDB/helix-db
+https://github.com/HelixDB/helix-db
+HelixDB is an open-source graph-vector database built from scratch in Rust.
+language: Rust
+stars: 3,051
+forked: 148
+stars today: 20
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 50,633
+forked: 2,369
+stars today: 42
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,820
+forked: 888
+stars today: 73
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 26,677
+forked: 721
+stars today: 30
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 31,000
+forked: 2,133
+stars today: 13
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 25,012
+forked: 1,443
+stars today: 23
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 29,040
+forked: 2,127
+stars today: 10
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 7,919
+forked: 639
+stars today: 11
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,648
+forked: 1,901
+stars today: 7
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 31,647
+forked: 1,126
+stars today: 24
+
+slint-ui/slint
+https://github.com/slint-ui/slint
+Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+language: Rust
+stars: 20,912
+forked: 770
+stars today: 19
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 7,991
+forked: 1,741
+stars today: 12
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 55,723
+forked: 1,404
+stars today: 19
+
+bootc-dev/bootc
+https://github.com/bootc-dev/bootc
+Boot and upgrade via container images
+language: Rust
+stars: 1,624
+forked: 146
+stars today: 6
+
+nkaz001/hftbacktest
+https://github.com/nkaz001/hftbacktest
+Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit
+language: Rust
+stars: 3,230
+forked: 637
+stars today: 6
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Extremely fast Query Engine for DataFrames, written in Rust
+language: Rust
+stars: 35,986
+forked: 2,460
+stars today: 19
+
+hatoo/oha
+https://github.com/hatoo/oha
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+language: Rust
+stars: 9,642
+forked: 278
+stars today: 34
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 28,196
+forked: 1,400
+stars today: 9
