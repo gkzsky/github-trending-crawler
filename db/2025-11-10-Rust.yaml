@@ -1,0 +1,191 @@
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 5,951
+forked: 767
+stars today: 10
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 26,885
+forked: 728
+stars today: 170
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 30,204
+forked: 2,827
+stars today: 6
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 107,738
+forked: 13,960
+stars today: 20
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,846
+forked: 891
+stars today: 19
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 42,996
+forked: 4,220
+stars today: 19
+
+zensical/zensical
+https://github.com/zensical/zensical
+A modern static site generator by the creators of Material for MkDocs
+language: Rust
+stars: 699
+forked: 8
+stars today: 76
+
+ClementTsang/bottom
+https://github.com/ClementTsang/bottom
+Yet another cross-platform graphical process/system monitor.
+language: Rust
+stars: 12,232
+forked: 307
+stars today: 33
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 24,317
+forked: 1,909
+stars today: 25
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 56,856
+forked: 15,852
+stars today: 24
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 54,438
+forked: 2,254
+stars today: 15
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 105,076
+forked: 5,768
+stars today: 6
+
+alvr-org/ALVR
+https://github.com/alvr-org/ALVR
+Stream VR games from your PC to your headset via Wi-Fi
+language: Rust
+stars: 6,908
+forked: 586
+stars today: 4
+
+tokio-rs/tracing
+https://github.com/tokio-rs/tracing
+Application level tracing for Rust.
+language: Rust
+stars: 6,324
+forked: 842
+stars today: 1
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 14,648
+forked: 520
+stars today: 49
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 12,800
+forked: 578
+stars today: 9
+
+Morganamilo/paru
+https://github.com/Morganamilo/paru
+Feature packed AUR helper
+language: Rust
+stars: 7,582
+forked: 271
+stars today: 2
+
+rolldown/rolldown
+https://github.com/rolldown/rolldown
+Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+language: Rust
+stars: 12,329
+forked: 664
+stars today: 7
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,525
+forked: 1,058
+stars today: 4
+
+nexus-xyz/nexus-cli
+https://github.com/nexus-xyz/nexus-cli
+Command line interface for supplying proofs to the Nexus network.
+language: Rust
+stars: 1,080
+forked: 665
+stars today: 1
+
+rust-lang/mdBook
+https://github.com/rust-lang/mdBook
+Create book from markdown files. Like Gitbook but implemented in Rust
+language: Rust
+stars: 20,560
+forked: 1,780
+stars today: 5
+
+commonwarexyz/monorepo
+https://github.com/commonwarexyz/monorepo
+Commonware Library Primitives and Examples
+language: Rust
+stars: 358
+forked: 126
+stars today: 4
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 60,568
+forked: 10,978
+stars today: 18
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 55,754
+forked: 1,409
+stars today: 15
