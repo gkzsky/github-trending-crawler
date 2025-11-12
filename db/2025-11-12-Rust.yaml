@@ -1,0 +1,159 @@
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 31,488
+forked: 2,158
+stars today: 29
+
+supabase/etl
+https://github.com/supabase/etl
+Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
+language: Rust
+stars: 1,677
+forked: 95
+stars today: 147
+
+zensical/zensical
+https://github.com/zensical/zensical
+A modern static site generator by the creators of Material for MkDocs
+language: Rust
+stars: 959
+forked: 14
+stars today: 90
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 6,162
+forked: 775
+stars today: 136
+
+aws/amazon-q-developer-cli
+https://github.com/aws/amazon-q-developer-cli
+✨ Agentic chat experience in your terminal. Build applications using natural language.
+language: Rust
+stars: 1,786
+forked: 355
+stars today: 6
+
+Eventual-Inc/Daft
+https://github.com/Eventual-Inc/Daft
+Distributed query engine providing simple and reliable data processing for any modality and scale
+language: Rust
+stars: 4,699
+forked: 337
+stars today: 10
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 50,274
+forked: 6,249
+stars today: 88
+
+erebe/wstunnel
+https://github.com/erebe/wstunnel
+Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+language: Rust
+stars: 5,899
+forked: 473
+stars today: 16
+
+ironcalc/IronCalc
+https://github.com/ironcalc/IronCalc
+Main engine of the IronCalc ecosystem
+language: Rust
+stars: 2,932
+forked: 98
+stars today: 9
+
+regolith-labs/ore
+https://github.com/regolith-labs/ore
+It's time to mine.
+language: Rust
+stars: 743
+forked: 263
+stars today: 4
+
+PyO3/maturin
+https://github.com/PyO3/maturin
+Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+language: Rust
+stars: 5,090
+forked: 365
+stars today: 8
+
+rerun-io/rerun
+https://github.com/rerun-io/rerun
+Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+language: Rust
+stars: 9,537
+forked: 567
+stars today: 10
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 15,948
+forked: 1,501
+stars today: 5
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 14,870
+forked: 525
+stars today: 173
+
+idootop/open-xiaoai
+https://github.com/idootop/open-xiaoai
+让小爱音箱「听见你的声音」，解锁无限可能。
+language: Rust
+stars: 1,513
+forked: 151
+stars today: 6
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 2,555
+forked: 400
+stars today: 5
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,646
+forked: 5,347
+stars today: 3
+
+TabbyML/tabby
+https://github.com/TabbyML/tabby
+Self-hosted AI coding assistant
+language: Rust
+stars: 32,394
+forked: 1,636
+stars today: 8
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,154
+forked: 1,637
+stars today: 15
+
+vosen/ZLUDA
+https://github.com/vosen/ZLUDA
+CUDA on non-NVIDIA GPUs
+language: Rust
+stars: 13,433
+forked: 849
+stars today: 16
