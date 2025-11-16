@@ -1,0 +1,143 @@
+sansan0/TrendRadar
+https://github.com/sansan0/TrendRadar
+🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+language: Python
+stars: 14,104
+forked: 8,199
+stars today: 1,230
+
+google/adk-go
+https://github.com/google/adk-go
+An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+language: Go
+stars: 3,487
+forked: 190
+stars today: 173
+
+TapXWorld/ChinaTextbook
+https://github.com/TapXWorld/ChinaTextbook
+所有小初高、大学PDF教材。
+language: Roff
+stars: 56,495
+forked: 12,621
+stars today: 179
+
+yeongpin/cursor-free-vip
+https://github.com/yeongpin/cursor-free-vip
+[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+language: Python
+stars: 41,965
+forked: 5,069
+stars today: 206
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 89,290
+forked: 9,557
+stars today: 58
+
+traefik/traefik
+https://github.com/traefik/traefik
+The Cloud Native Application Proxy
+language: Go
+stars: 58,240
+forked: 5,576
+stars today: 137
+
+HKUDS/LightRAG
+https://github.com/HKUDS/LightRAG
+[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+language: Python
+stars: 23,175
+forked: 3,445
+stars today: 115
+
+bobeff/open-source-games
+https://github.com/bobeff/open-source-games
+A list of open source games.
+language: -
+stars: 5,605
+forked: 431
+stars today: 369
+
+volcengine/verl
+https://github.com/volcengine/verl
+verl: Volcano Engine Reinforcement Learning for LLMs
+language: Python
+stars: 15,745
+forked: 2,534
+stars today: 73
+
+GibsonAI/Memori
+https://github.com/GibsonAI/Memori
+Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+language: Python
+stars: 3,810
+forked: 313
+stars today: 330
+
+yangshun/tech-interview-handbook
+https://github.com/yangshun/tech-interview-handbook
+Curated coding interview preparation materials for busy software engineers
+language: TypeScript
+stars: 132,922
+forked: 16,071
+stars today: 152
+
+microsoft/call-center-ai
+https://github.com/microsoft/call-center-ai
+Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+language: Python
+stars: 2,952
+forked: 402
+stars today: 180
+
+MustardChef/WSABuilds
+https://github.com/MustardChef/WSABuilds
+Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+language: Python
+stars: 13,229
+forked: 2,010
+stars today: 143
+
+playcanvas/engine
+https://github.com/playcanvas/engine
+Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+language: JavaScript
+stars: 11,829
+forked: 1,558
+stars today: 154
+
+iptv-org/iptv
+https://github.com/iptv-org/iptv
+Collection of publicly available IPTV channels from all over the world
+language: TypeScript
+stars: 100,599
+forked: 4,394
+stars today: 227
+
+Zie619/n8n-workflows
+https://github.com/Zie619/n8n-workflows
+all of the workflows of n8n i could find (also from the site itself)
+language: Python
+stars: 40,798
+forked: 4,037
+stars today: 215
+
+milvus-io/milvus
+https://github.com/milvus-io/milvus
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+language: Go
+stars: 39,001
+forked: 3,547
+stars today: 135
+
+wolfpld/tracy
+https://github.com/wolfpld/tracy
+Frame profiler
+language: C++
+stars: 13,420
+forked: 907
+stars today: 67
