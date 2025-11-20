@@ -1,0 +1,167 @@
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 22,414
+forked: 792
+stars today: 36
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 6,253
+forked: 778
+stars today: 8
+
+greenbone/openvas-scanner
+https://github.com/greenbone/openvas-scanner
+This repository contains the scanner component for Greenbone Community Edition.
+language: Rust
+stars: 4,196
+forked: 731
+stars today: 7
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 15,202
+forked: 542
+stars today: 37
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,507
+forked: 694
+stars today: 11
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 8,215
+forked: 315
+stars today: 41
+
+Eventual-Inc/Daft
+https://github.com/Eventual-Inc/Daft
+Distributed query engine providing simple and reliable data processing for any modality and scale
+language: Rust
+stars: 4,792
+forked: 346
+stars today: 5
+
+linebender/vello
+https://github.com/linebender/vello
+A GPU compute-centric 2D renderer.
+language: Rust
+stars: 3,469
+forked: 194
+stars today: 11
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 5,974
+forked: 597
+stars today: 13
+
+supabase/etl
+https://github.com/supabase/etl
+Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
+language: Rust
+stars: 1,915
+forked: 113
+stars today: 12
+
+erebe/wstunnel
+https://github.com/erebe/wstunnel
+Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+language: Rust
+stars: 6,004
+forked: 482
+stars today: 10
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 37,309
+forked: 1,969
+stars today: 16
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 31,622
+forked: 2,172
+stars today: 19
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,474
+forked: 11,679
+stars today: 1
+
+Schniz/fnm
+https://github.com/Schniz/fnm
+🚀 Fast and simple Node.js version manager, built in Rust
+language: Rust
+stars: 22,715
+forked: 591
+stars today: 11
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,834
+forked: 3,673
+stars today: 6
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 102,761
+forked: 15,101
+stars today: 69
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 73,191
+forked: 2,238
+stars today: 102
+
+SeaQL/sea-orm
+https://github.com/SeaQL/sea-orm
+🐚 An async & dynamic ORM for Rust
+language: Rust
+stars: 8,982
+forked: 626
+stars today: 10
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 24,794
+forked: 2,602
+stars today: 10
+
+regolith-labs/ore
+https://github.com/regolith-labs/ore
+It's time to mine.
+language: Rust
+stars: 759
+forked: 268
+stars today: 1
