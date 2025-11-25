@@ -1,0 +1,119 @@
+playcanvas/engine
+https://github.com/playcanvas/engine
+Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+language: JavaScript
+stars: 13,004
+forked: 1,620
+stars today: 114
+
+serverless-dns/serverless-dns
+https://github.com/serverless-dns/serverless-dns
+The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+language: JavaScript
+stars: 3,163
+forked: 2,142
+stars today: 7
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+CLI tool for configuring and monitoring Claude Code
+language: JavaScript
+stars: 11,611
+forked: 1,015
+stars today: 39
+
+WordPress/gutenberg
+https://github.com/WordPress/gutenberg
+The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+language: JavaScript
+stars: 11,452
+forked: 4,614
+stars today: 2
+
+jaywcjlove/awesome-mac
+https://github.com/jaywcjlove/awesome-mac
+ Now we have become very big, Different from the original idea. Collect premium software in various categories.
+language: JavaScript
+stars: 93,929
+forked: 7,087
+stars today: 63
+
+open-webui/open-webui
+https://github.com/open-webui/open-webui
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+language: JavaScript
+stars: 116,162
+forked: 16,289
+stars today: 109
+
+github/awesome-copilot
+https://github.com/github/awesome-copilot
+Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+language: JavaScript
+stars: 12,653
+forked: 1,496
+stars today: 56
+
+projectdiscovery/nuclei-templates
+https://github.com/projectdiscovery/nuclei-templates
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+language: JavaScript
+stars: 11,388
+forked: 3,170
+stars today: 7
+
+jgraph/drawio-desktop
+https://github.com/jgraph/drawio-desktop
+Official electron build of draw.io
+language: JavaScript
+stars: 58,028
+forked: 5,506
+stars today: 15
+
+ryanmcdermott/clean-code-javascript
+https://github.com/ryanmcdermott/clean-code-javascript
+Clean Code concepts adapted for JavaScript
+language: JavaScript
+stars: 94,050
+forked: 12,500
+stars today: 8
+
+openwrt/luci
+https://github.com/openwrt/luci
+LuCI - OpenWrt Configuration Interface
+language: JavaScript
+stars: 7,253
+forked: 2,738
+stars today: 0
+
+academind/react-complete-guide-course-resources
+https://github.com/academind/react-complete-guide-course-resources
+React - The Complete Guide Course Resources (Code, Attachments, Slides)
+language: JavaScript
+stars: 3,620
+forked: 2,782
+stars today: 1
+
+airbnb/javascript
+https://github.com/airbnb/javascript
+JavaScript Style Guide
+language: JavaScript
+stars: 147,894
+forked: 26,800
+stars today: 8
+
+Wei-Shaw/claude-relay-service
+https://github.com/Wei-Shaw/claude-relay-service
+CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+language: JavaScript
+stars: 5,546
+forked: 914
+stars today: 39
+
+algorithm-visualizer/algorithm-visualizer
+https://github.com/algorithm-visualizer/algorithm-visualizer
+🎆Interactive Online Platform that Visualizes Algorithms from Code
+language: JavaScript
+stars: 48,192
+forked: 7,539
+stars today: 9
