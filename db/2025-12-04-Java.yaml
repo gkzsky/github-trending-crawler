@@ -1,0 +1,143 @@
+google/adk-java
+https://github.com/google/adk-java
+An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+language: Java
+stars: 1,047
+forked: 219
+stars today: 4
+
+ashishps1/awesome-low-level-design
+https://github.com/ashishps1/awesome-low-level-design
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+language: Java
+stars: 19,876
+forked: 4,911
+stars today: 18
+
+cabaletta/baritone
+https://github.com/cabaletta/baritone
+google maps for block game
+language: Java
+stars: 8,415
+forked: 1,728
+stars today: 2
+
+alibaba/spring-ai-alibaba
+https://github.com/alibaba/spring-ai-alibaba
+Agentic AI Framework for Java Developers
+language: Java
+stars: 7,309
+forked: 1,568
+stars today: 10
+
+jd-opensource/joyagent-jdgenie
+https://github.com/jd-opensource/joyagent-jdgenie
+开源的端到端产品级通用智能体
+language: Java
+stars: 11,254
+forked: 1,366
+stars today: 35
+
+kekingcn/kkFileView
+https://github.com/kekingcn/kkFileView
+Universal File Online Preview Project based on Spring-Boot
+language: Java
+stars: 13,687
+forked: 3,160
+stars today: 5
+
+testcontainers/testcontainers-java
+https://github.com/testcontainers/testcontainers-java
+Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+language: Java
+stars: 8,511
+forked: 1,765
+stars today: 0
+
+CodePhiliaX/Chat2DB
+https://github.com/CodePhiliaX/Chat2DB
+🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+language: Java
+stars: 24,760
+forked: 2,701
+stars today: 12
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 27,978
+forked: 6,472
+stars today: 13
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 2,944
+forked: 750
+stars today: 4
+
+spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework
+Spring Framework
+language: Java
+stars: 59,293
+forked: 38,861
+stars today: 6
+
+ageerle/ruoyi-ai
+https://github.com/ageerle/ruoyi-ai
+RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+language: Java
+stars: 4,475
+forked: 1,089
+stars today: 12
+
+flyway/flyway
+https://github.com/flyway/flyway
+Flyway by Redgate • Database Migrations Made Easy.
+language: Java
+stars: 9,342
+forked: 1,574
+stars today: 4
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 11,726
+forked: 3,135
+stars today: 2
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 25,364
+forked: 7,310
+stars today: 12
+
+Card-Forge/forge
+https://github.com/Card-Forge/forge
+An unofficial rules engine for the world's greatest card game.
+language: Java
+stars: 2,029
+forked: 792
+stars today: 6
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 79,229
+forked: 41,695
+stars today: 13
+
+spring-projects/spring-ai-examples
+https://github.com/spring-projects/spring-ai-examples
+-
+language: Java
+stars: 994
+forked: 414
+stars today: 6
