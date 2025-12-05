@@ -1,0 +1,191 @@
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 51,860
+forked: 6,576
+stars today: 103
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 13,281
+forked: 603
+stars today: 1,257
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 14,930
+forked: 453
+stars today: 76
+
+pamburus/hl
+https://github.com/pamburus/hl
+A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
+language: Rust
+stars: 1,670
+forked: 33
+stars today: 41
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of JavaScript tools written in Rust.
+language: Rust
+stars: 17,653
+forked: 734
+stars today: 26
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,855
+forked: 1,932
+stars today: 12
+
+witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+Building a community around a cheap ESP32 Display with a touch screen
+language: Rust
+stars: 3,299
+forked: 346
+stars today: 7
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 8,419
+forked: 480
+stars today: 18
+
+typst/typst
+https://github.com/typst/typst
+A markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 49,040
+forked: 1,342
+stars today: 125
+
+supabase/etl
+https://github.com/supabase/etl
+Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
+language: Rust
+stars: 2,050
+forked: 126
+stars today: 7
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+Open-source Rust based AI meeting assistant with Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.
+language: Rust
+stars: 8,546
+forked: 694
+stars today: 44
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,556
+forked: 1,085
+stars today: 3
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 103,482
+forked: 15,271
+stars today: 62
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 5,195
+forked: 2,165
+stars today: 8
+
+rust-lang/libc
+https://github.com/rust-lang/libc
+Raw bindings to platform APIs for Rust
+language: Rust
+stars: 2,395
+forked: 1,177
+stars today: 1
+
+cfal/shoes
+https://github.com/cfal/shoes
+A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
+language: Rust
+stars: 683
+forked: 58
+stars today: 16
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 22,686
+forked: 2,069
+stars today: 27
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 10,992
+forked: 902
+stars today: 10
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 105,414
+forked: 5,813
+stars today: 18
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 10,567
+forked: 556
+stars today: 11
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 31,268
+forked: 2,154
+stars today: 11
+
+greenbone/openvas-scanner
+https://github.com/greenbone/openvas-scanner
+This repository contains the scanner component for Greenbone Community Edition.
+language: Rust
+stars: 4,266
+forked: 741
+stars today: 6
+
+yuezk/GlobalProtect-openconnect
+https://github.com/yuezk/GlobalProtect-openconnect
+A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+language: Rust
+stars: 1,860
+forked: 205
+stars today: 1
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 6,934
+forked: 336
+stars today: 20
