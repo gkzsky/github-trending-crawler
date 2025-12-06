@@ -1,0 +1,183 @@
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 14,474
+forked: 631
+stars today: 657
+
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Text editor for your terminal: easy, powerful and fast
+language: Rust
+stars: 555
+forked: 15
+stars today: 167
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 52,009
+forked: 6,596
+stars today: 241
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 22,796
+forked: 828
+stars today: 31
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 6,197
+forked: 630
+stars today: 28
+
+facebook/pyrefly
+https://github.com/facebook/pyrefly
+A fast type checker and language server for Python
+language: Rust
+stars: 4,926
+forked: 213
+stars today: 26
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 31,282
+forked: 2,154
+stars today: 18
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,610
+forked: 725
+stars today: 9
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 37,692
+forked: 1,207
+stars today: 9
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,563
+forked: 1,088
+stars today: 6
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.
+language: Rust
+stars: 8,584
+forked: 694
+stars today: 45
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 16,560
+forked: 1,945
+stars today: 17
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 29,208
+forked: 2,181
+stars today: 13
+
+shadowsocks/shadowsocks-rust
+https://github.com/shadowsocks/shadowsocks-rust
+A Rust port of shadowsocks
+language: Rust
+stars: 10,065
+forked: 1,361
+stars today: 5
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+language: Rust
+stars: 3,531
+forked: 285
+stars today: 10
+
+sigp/lighthouse
+https://github.com/sigp/lighthouse
+Ethereum consensus client in Rust
+language: Rust
+stars: 3,355
+forked: 939
+stars today: 1
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 20,862
+forked: 1,933
+stars today: 6
+
+paradigmxyz/reth
+https://github.com/paradigmxyz/reth
+Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+language: Rust
+stars: 5,197
+forked: 2,171
+stars today: 6
+
+GreptimeTeam/greptimedb
+https://github.com/GreptimeTeam/greptimedb
+Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
+language: Rust
+stars: 5,761
+forked: 432
+stars today: 2
+
+esp-rs/esp-hal
+https://github.com/esp-rs/esp-hal
+no_std Hardware Abstraction Layers for ESP32 microcontrollers
+language: Rust
+stars: 1,600
+forked: 364
+stars today: 6
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 21,928
+forked: 757
+stars today: 40
+
+maplibre/martin
+https://github.com/maplibre/martin
+Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+language: Rust
+stars: 3,150
+forked: 306
+stars today: 7
+
+typst/typst
+https://github.com/typst/typst
+A markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 49,088
+forked: 1,345
+stars today: 59

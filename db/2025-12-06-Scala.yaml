@@ -1,0 +1,143 @@
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 67,907
+forked: 12,628
+stars today: 13
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,435
+forked: 28,956
+stars today: 7
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,769
+forked: 846
+stars today: 2
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,055
+forked: 787
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 56
+forked: 52
+stars today: 0
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,750
+forked: 372
+stars today: 3
+
+NVIDIA/spark-rapids
+https://github.com/NVIDIA/spark-rapids
+Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+language: Scala
+stars: 950
+forked: 264
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,431
+forked: 2,509
+stars today: 2
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,633
+forked: 1,203
+stars today: 1
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,157
+forked: 1,119
+stars today: 1
+
+akka/akka-core
+https://github.com/akka/akka-core
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,240
+forked: 3,579
+stars today: 0
+
+gatling/gatling
+https://github.com/gatling/gatling
+Modern Load Testing as Code
+language: Scala
+stars: 6,834
+forked: 1,215
+stars today: 0
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 359
+forked: 95
+stars today: 1
+
+Snapchat/GiGL
+https://github.com/Snapchat/GiGL
+Gigantic Graph Learning (GiGL) Framework: Large-scale training and inference for Graph Neural Networks
+language: Scala
+stars: 59
+forked: 12
+stars today: 0
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,494
+forked: 640
+stars today: 1
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 535
+forked: 37
+stars today: 0
+
+playframework/playframework
+https://github.com/playframework/playframework
+The Community Maintained High Velocity Web Framework For Java and Scala.
+language: Scala
+stars: 12,609
+forked: 4,070
+stars today: 1
+
+chipsalliance/diplomacy
+https://github.com/chipsalliance/diplomacy
+-
+language: Scala
+stars: 22
+forked: 16
+stars today: 0
