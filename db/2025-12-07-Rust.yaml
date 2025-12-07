@@ -1,0 +1,167 @@
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 15,171
+forked: 652
+stars today: 1,361
+
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Text editor for your terminal: easy, powerful and fast
+language: Rust
+stars: 836
+forked: 26
+stars today: 253
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,593
+forked: 1,088
+stars today: 5
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,504
+forked: 11,688
+stars today: 3
+
+vortex-data/vortex
+https://github.com/vortex-data/vortex
+An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
+language: Rust
+stars: 2,342
+forked: 101
+stars today: 7
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 6,241
+forked: 636
+stars today: 14
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 52,051
+forked: 6,608
+stars today: 57
+
+starship/starship
+https://github.com/starship/starship
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+language: Rust
+stars: 52,648
+forked: 2,315
+stars today: 14
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 30,940
+forked: 3,674
+stars today: 5
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 56,102
+forked: 1,421
+stars today: 17
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+language: Rust
+stars: 19,153
+forked: 1,926
+stars today: 5
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 24,768
+forked: 1,951
+stars today: 12
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 25,661
+forked: 1,534
+stars today: 16
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,858
+forked: 1,264
+stars today: 5
+
+deuxfleurs-org/garage
+https://github.com/deuxfleurs-org/garage
+(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
+language: Rust
+stars: 1,970
+forked: 81
+stars today: 43
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,612
+forked: 725
+stars today: 3
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,004
+forked: 902
+stars today: 3
+
+eclipse-zenoh/zenoh
+https://github.com/eclipse-zenoh/zenoh
+zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
+language: Rust
+stars: 2,296
+forked: 224
+stars today: 5
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 108,306
+forked: 14,089
+stars today: 30
+
+paradedb/paradedb
+https://github.com/paradedb/paradedb
+The transactional Elasticsearch alternative built on Postgres
+language: Rust
+stars: 7,998
+forked: 300
+stars today: 6
+
+tokio-rs/axum
+https://github.com/tokio-rs/axum
+Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+language: Rust
+stars: 24,034
+forked: 1,280
+stars today: 14

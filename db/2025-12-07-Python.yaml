@@ -1,0 +1,103 @@
+microsoft/VibeVoice
+https://github.com/microsoft/VibeVoice
+Open-Source Frontier Voice AI
+language: Python
+stars: 11,098
+forked: 1,398
+stars today: 452
+
+RosettaCommons/foundry
+https://github.com/RosettaCommons/foundry
+Central repository for biomolecular foundation models with shared trainers and pipeline components
+language: Python
+stars: 421
+forked: 58
+stars today: 16
+
+sapientinc/HRM
+https://github.com/sapientinc/HRM
+Hierarchical Reasoning Model Official Release
+language: Python
+stars: 12,066
+forked: 1,761
+stars today: 29
+
+anthropics/claude-quickstarts
+https://github.com/anthropics/claude-quickstarts
+A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+language: Python
+stars: 10,883
+forked: 1,973
+stars today: 77
+
+zhu-xlab/GlobalBuildingAtlas
+https://github.com/zhu-xlab/GlobalBuildingAtlas
+-
+language: Python
+stars: 745
+forked: 74
+stars today: 23
+
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 17,154
+forked: 1,214
+stars today: 33
+
+fastapi/fastapi
+https://github.com/fastapi/fastapi
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+language: Python
+stars: 92,786
+forked: 8,335
+stars today: 69
+
+hesreallyhim/awesome-claude-code
+https://github.com/hesreallyhim/awesome-claude-code
+A curated list of awesome commands, files, and workflows for Claude Code
+language: Python
+stars: 17,703
+forked: 999
+stars today: 41
+
+MODSetter/SurfSense
+https://github.com/MODSetter/SurfSense
+Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more. Join our Discord: https://discord.gg/ejRNvftDp9
+language: Python
+stars: 11,073
+forked: 907
+stars today: 22
+
+pytorch/executorch
+https://github.com/pytorch/executorch
+On-device AI across mobile, embedded and edge for PyTorch
+language: Python
+stars: 3,642
+forked: 747
+stars today: 3
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 6 lines of code
+language: Python
+stars: 10,013
+forked: 906
+stars today: 125
+
+qxresearch/qxresearch-event-1
+https://github.com/qxresearch/qxresearch-event-1
+Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
+language: Python
+stars: 2,295
+forked: 764
+stars today: 68
+
+trustedsec/social-engineer-toolkit
+https://github.com/trustedsec/social-engineer-toolkit
+The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+language: Python
+stars: 13,394
+forked: 3,148
+stars today: 180

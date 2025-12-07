@@ -1,0 +1,175 @@
+krahets/hello-algo
+https://github.com/krahets/hello-algo
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+language: Java
+stars: 119,708
+forked: 14,615
+stars today: 65
+
+karma9874/AndroRAT
+https://github.com/karma9874/AndroRAT
+A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
+language: Java
+stars: 4,335
+forked: 1,403
+stars today: 5
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 24,741
+forked: 9,227
+stars today: 10
+
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 47,497
+forked: 5,610
+stars today: 39
+
+apache/fluss
+https://github.com/apache/fluss
+Apache Fluss is a streaming storage built for real-time analytics.
+language: Java
+stars: 1,642
+forked: 437
+stars today: 3
+
+apache/hbase
+https://github.com/apache/hbase
+Apache HBase
+language: Java
+stars: 5,507
+forked: 3,382
+stars today: 3
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 51,326
+forked: 11,114
+stars today: 5
+
+1Panel-dev/CordysCRM
+https://github.com/1Panel-dev/CordysCRM
+🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
+language: Java
+stars: 1,306
+forked: 247
+stars today: 7
+
+LaurieWired/GhidraMCP
+https://github.com/LaurieWired/GhidraMCP
+MCP Server for Ghidra
+language: Java
+stars: 6,645
+forked: 519
+stars today: 7
+
+apache/paimon
+https://github.com/apache/paimon
+Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+language: Java
+stars: 3,107
+forked: 1,229
+stars today: 2
+
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 64,431
+forked: 20,844
+stars today: 14
+
+doocs/leetcode
+https://github.com/doocs/leetcode
+🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+language: Java
+stars: 35,225
+forked: 9,143
+stars today: 5
+
+antlr/antlr4
+https://github.com/antlr/antlr4
+ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+language: Java
+stars: 18,550
+forked: 3,415
+stars today: 0
+
+unitycatalog/unitycatalog
+https://github.com/unitycatalog/unitycatalog
+Open, Multi-modal Catalog for Data & AI
+language: Java
+stars: 3,203
+forked: 549
+stars today: 1
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 15,314
+forked: 3,031
+stars today: 6
+
+LawnchairLauncher/lawnchair
+https://github.com/LawnchairLauncher/lawnchair
+No clever tagline needed.
+language: Java
+stars: 11,568
+forked: 1,389
+stars today: 3
+
+alibaba/DataX
+https://github.com/alibaba/DataX
+DataX是阿里云DataWorks数据集成的开源版本。
+language: Java
+stars: 16,982
+forked: 5,647
+stars today: 4
+
+Suwayomi/Suwayomi-Server
+https://github.com/Suwayomi/Suwayomi-Server
+A rewrite of Tachiyomi for the Desktop
+language: Java
+stars: 6,102
+forked: 302
+stars today: 7
+
+yuliskov/SmartTube
+https://github.com/yuliskov/SmartTube
+Browse media content with your own rules on Android TV
+language: Java
+stars: 26,619
+forked: 1,431
+stars today: 68
+
+apache/dolphinscheduler
+https://github.com/apache/dolphinscheduler
+Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+language: Java
+stars: 13,995
+forked: 4,955
+stars today: 5
+
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 28,912
+forked: 8,509
+stars today: 2
+
+Azure/azure-sdk-for-java
+https://github.com/Azure/azure-sdk-for-java
+This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+language: Java
+stars: 2,544
+forked: 2,139
+stars today: 2
