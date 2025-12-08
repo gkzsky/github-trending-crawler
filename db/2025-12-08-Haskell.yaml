@@ -1,0 +1,111 @@
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,008
+forked: 522
+stars today: 8
+
+IntersectMBO/cardano-ledger
+https://github.com/IntersectMBO/cardano-ledger
+The ledger implementation and specifications of the Cardano blockchain.
+language: Haskell
+stars: 280
+forked: 170
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,212
+forked: 1,137
+stars today: 3
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 40,680
+forked: 3,700
+stars today: 13
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,621
+forked: 342
+stars today: 3
+
+xmonad/xmonad
+https://github.com/xmonad/xmonad
+The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+language: Haskell
+stars: 3,511
+forked: 292
+stars today: 0
+
+facebook/Haxl
+https://github.com/facebook/Haxl
+A Haskell library that simplifies access to remote data, such as databases or web-based services.
+language: Haskell
+stars: 4,389
+forked: 311
+stars today: 1
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,419
+forked: 291
+stars today: 2
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,166
+forked: 748
+stars today: 1
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 229
+forked: 18
+stars today: 0
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,831
+forked: 330
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 708
+forked: 88
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,603
+forked: 1,891
+stars today: 3
+
+IntersectMBO/ouroboros-network
+https://github.com/IntersectMBO/ouroboros-network
+Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+language: Haskell
+stars: 291
+forked: 93
+stars today: 0

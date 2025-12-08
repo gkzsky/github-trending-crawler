@@ -1,0 +1,111 @@
+microsoft/VibeVoice
+https://github.com/microsoft/VibeVoice
+Open-Source Frontier Voice AI
+language: Python
+stars: 12,340
+forked: 1,516
+stars today: 577
+
+NVIDIA/cutile-python
+https://github.com/NVIDIA/cutile-python
+cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+language: Python
+stars: 760
+forked: 32
+stars today: 148
+
+patchy631/ai-engineering-hub
+https://github.com/patchy631/ai-engineering-hub
+In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+language: Jupyter Notebook
+stars: 21,830
+forked: 3,599
+stars today: 268
+
+TelegramMessenger/Telegram-iOS
+https://github.com/TelegramMessenger/Telegram-iOS
+Telegram-iOS
+language: Swift
+stars: 7,645
+forked: 2,199
+stars today: 8
+
+anthropics/claude-quickstarts
+https://github.com/anthropics/claude-quickstarts
+A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+language: Python
+stars: 11,181
+forked: 2,000
+stars today: 278
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 15,589
+forked: 672
+stars today: 429
+
+sst/opencode
+https://github.com/sst/opencode
+The open source coding agent.
+language: TypeScript
+stars: 36,799
+forked: 3,070
+stars today: 153
+
+BeehiveInnovations/pal-mcp-server
+https://github.com/BeehiveInnovations/pal-mcp-server
+The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+language: Python
+stars: 10,166
+forked: 856
+stars today: 68
+
+microsoft/Foundry-Local
+https://github.com/microsoft/Foundry-Local
+-
+language: Svelte
+stars: 1,409
+forked: 175
+stars today: 189
+
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Text editor for your terminal: easy, powerful and fast
+language: Rust
+stars: 1,081
+forked: 35
+stars today: 302
+
+ashishpatel26/500-AI-Agents-Projects
+https://github.com/ashishpatel26/500-AI-Agents-Projects
+The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+language: -
+stars: 19,331
+forked: 3,497
+stars today: 423
+
+blakeblackshear/frigate
+https://github.com/blakeblackshear/frigate
+NVR with realtime local object detection for IP cameras
+language: TypeScript
+stars: 27,691
+forked: 2,580
+stars today: 25
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: TypeScript
+stars: 12,640
+forked: 1,278
+stars today: 201
+
+activepieces/activepieces
+https://github.com/activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+language: TypeScript
+stars: 19,507
+forked: 3,005
+stars today: 22
