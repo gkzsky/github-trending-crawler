@@ -1,0 +1,167 @@
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Text editor for your terminal: easy, powerful and fast
+language: Rust
+stars: 1,339
+forked: 41
+stars today: 230
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 6,399
+forked: 648
+stars today: 100
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 32,533
+forked: 1,407
+stars today: 44
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 28,526
+forked: 1,417
+stars today: 94
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,880
+forked: 1,268
+stars today: 8
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.
+language: Rust
+stars: 8,683
+forked: 713
+stars today: 47
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 25,111
+forked: 2,631
+stars today: 25
+
+witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+Building a community around a cheap ESP32 Display with a touch screen
+language: Rust
+stars: 3,320
+forked: 347
+stars today: 4
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft with a high level of detail.
+language: Rust
+stars: 8,048
+forked: 731
+stars today: 2
+
+rust-lang/libc
+https://github.com/rust-lang/libc
+Raw bindings to platform APIs for Rust
+language: Rust
+stars: 2,401
+forked: 1,177
+stars today: 0
+
+Universal-Debloater-Alliance/universal-android-debloater-next-generation
+https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+language: Rust
+stars: 5,199
+forked: 203
+stars today: 18
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 57,432
+forked: 16,107
+stars today: 27
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 18,766
+forked: 1,330
+stars today: 12
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 29,084
+forked: 624
+stars today: 37
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+language: Rust
+stars: 3,602
+forked: 289
+stars today: 21
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 8,121
+forked: 1,807
+stars today: 3
+
+Fredolx/open-tv
+https://github.com/Fredolx/open-tv
+Ultra-fast, simple and powerful cross-platform IPTV app
+language: Rust
+stars: 2,555
+forked: 113
+stars today: 4
+
+emilk/egui
+https://github.com/emilk/egui
+egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+language: Rust
+stars: 27,351
+forked: 1,892
+stars today: 8
+
+moghtech/komodo
+https://github.com/moghtech/komodo
+🦎 a tool to build and deploy software on many servers 🦎
+language: Rust
+stars: 8,852
+forked: 235
+stars today: 65
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 23,025
+forked: 996
+stars today: 32
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 30,501
+forked: 1,081
+stars today: 10

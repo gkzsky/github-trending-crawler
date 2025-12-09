@@ -1,0 +1,127 @@
+slidevjs/slidev
+https://github.com/slidevjs/slidev
+Presentation Slides for Developers
+language: TypeScript
+stars: 42,759
+forked: 1,830
+stars today: 223
+
+cloudflare/vibesdk
+https://github.com/cloudflare/vibesdk
+An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
+language: TypeScript
+stars: 3,761
+forked: 930
+stars today: 184
+
+lfnovo/open-notebook
+https://github.com/lfnovo/open-notebook
+An Open Source implementation of Notebook LM with more flexibility and features
+language: TypeScript
+stars: 13,261
+forked: 1,330
+stars today: 548
+
+sst/opencode
+https://github.com/sst/opencode
+The open source coding agent.
+language: TypeScript
+stars: 37,176
+forked: 3,113
+stars today: 654
+
+Koenkk/zigbee2mqtt
+https://github.com/Koenkk/zigbee2mqtt
+Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+language: TypeScript
+stars: 14,322
+forked: 1,873
+stars today: 9
+
+umami-software/umami
+https://github.com/umami-software/umami
+Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+language: TypeScript
+stars: 34,032
+forked: 6,027
+stars today: 28
+
+lucide-icons/lucide
+https://github.com/lucide-icons/lucide
+Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+language: TypeScript
+stars: 20,072
+forked: 1,086
+stars today: 20
+
+Infisical/infisical
+https://github.com/Infisical/infisical
+Infisical is the open-source platform for secrets, certificates, and privileged access management.
+language: TypeScript
+stars: 23,997
+forked: 1,607
+stars today: 88
+
+blakeblackshear/frigate
+https://github.com/blakeblackshear/frigate
+NVR with realtime local object detection for IP cameras
+language: TypeScript
+stars: 27,773
+forked: 2,588
+stars today: 164
+
+mckaywrigley/chatbot-ui
+https://github.com/mckaywrigley/chatbot-ui
+AI chat for any model.
+language: TypeScript
+stars: 32,765
+forked: 9,448
+stars today: 17
+
+PaperDebugger/paperdebugger
+https://github.com/PaperDebugger/paperdebugger
+Paper Debugger is the best overleaf companion
+language: TypeScript
+stars: 892
+forked: 45
+stars today: 216
+
+activepieces/activepieces
+https://github.com/activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+language: TypeScript
+stars: 19,612
+forked: 3,011
+stars today: 188
+
+jamubc/gemini-mcp-tool
+https://github.com/jamubc/gemini-mcp-tool
+MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
+language: TypeScript
+stars: 1,735
+forked: 139
+stars today: 15
+
+immich-app/immich
+https://github.com/immich-app/immich
+High performance self-hosted photo and video management solution.
+language: TypeScript
+stars: 86,042
+forked: 4,512
+stars today: 99
+
+nicotsx/zerobyte
+https://github.com/nicotsx/zerobyte
+Backup automation for self-hosters
+language: TypeScript
+stars: 1,692
+forked: 24
+stars today: 45
+
+calcom/cal.com
+https://github.com/calcom/cal.com
+Scheduling infrastructure for absolutely everyone.
+language: TypeScript
+stars: 39,094
+forked: 11,226
+stars today: 16
