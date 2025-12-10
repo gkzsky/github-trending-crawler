@@ -1,0 +1,103 @@
+KaijuEngine/kaiju
+https://github.com/KaijuEngine/kaiju
+General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+language: Go
+stars: 1,698
+forked: 61
+stars today: 260
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: JavaScript
+stars: 1,521
+forked: 114
+stars today: 209
+
+dyad-sh/dyad
+https://github.com/dyad-sh/dyad
+Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+language: TypeScript
+stars: 18,028
+forked: 1,997
+stars today: 76
+
+microsoft/VibeVoice
+https://github.com/microsoft/VibeVoice
+Open-Source Frontier Voice AI
+language: Python
+stars: 16,403
+forked: 1,797
+stars today: 2,638
+
+NVIDIA/cutile-python
+https://github.com/NVIDIA/cutile-python
+cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+language: Python
+stars: 1,230
+forked: 57
+stars today: 178
+
+google/adk-samples
+https://github.com/google/adk-samples
+A collection of sample agents built with Agent Development Kit (ADK)
+language: Python
+stars: 7,076
+forked: 2,011
+stars today: 76
+
+patchy631/ai-engineering-hub
+https://github.com/patchy631/ai-engineering-hub
+In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+language: Jupyter Notebook
+stars: 22,815
+forked: 3,679
+stars today: 550
+
+zhu-xlab/GlobalBuildingAtlas
+https://github.com/zhu-xlab/GlobalBuildingAtlas
+-
+language: Python
+stars: 1,143
+forked: 121
+stars today: 143
+
+666ghj/BettaFish
+https://github.com/666ghj/BettaFish
+微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+language: Python
+stars: 32,044
+forked: 6,160
+stars today: 464
+
+microsoft/generative-ai-for-beginners
+https://github.com/microsoft/generative-ai-for-beginners
+21 Lessons, Get Started Building with Generative AI
+language: Jupyter Notebook
+stars: 103,083
+forked: 54,794
+stars today: 75
+
+sst/opencode
+https://github.com/sst/opencode
+The open source coding agent.
+language: TypeScript
+stars: 37,560
+forked: 3,146
+stars today: 243
+
+srbhr/Resume-Matcher
+https://github.com/srbhr/Resume-Matcher
+Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+language: Python
+stars: 24,359
+forked: 4,534
+stars today: 45
+
+Johnshall/Shadowrocket-ADBlock-Rules-Forever
+https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
+提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+language: -
+stars: 20,168
+forked: 1,297
+stars today: 237

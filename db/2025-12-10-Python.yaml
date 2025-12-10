@@ -1,0 +1,119 @@
+microsoft/VibeVoice
+https://github.com/microsoft/VibeVoice
+Open-Source Frontier Voice AI
+language: Python
+stars: 16,403
+forked: 1,797
+stars today: 2,638
+
+NVIDIA/cutile-python
+https://github.com/NVIDIA/cutile-python
+cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+language: Python
+stars: 1,230
+forked: 57
+stars today: 178
+
+google/adk-samples
+https://github.com/google/adk-samples
+A collection of sample agents built with Agent Development Kit (ADK)
+language: Python
+stars: 7,076
+forked: 2,011
+stars today: 76
+
+zhu-xlab/GlobalBuildingAtlas
+https://github.com/zhu-xlab/GlobalBuildingAtlas
+-
+language: Python
+stars: 1,143
+forked: 121
+stars today: 143
+
+666ghj/BettaFish
+https://github.com/666ghj/BettaFish
+微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+language: Python
+stars: 32,044
+forked: 6,160
+stars today: 464
+
+srbhr/Resume-Matcher
+https://github.com/srbhr/Resume-Matcher
+Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+language: Python
+stars: 24,359
+forked: 4,534
+stars today: 45
+
+anthropics/claude-quickstarts
+https://github.com/anthropics/claude-quickstarts
+A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+language: Python
+stars: 11,745
+forked: 2,052
+stars today: 320
+
+commaai/openpilot
+https://github.com/commaai/openpilot
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+language: Python
+stars: 59,290
+forked: 10,494
+stars today: 39
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+language: Python
+stars: 69,200
+forked: 7,515
+stars today: 187
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 42,581
+forked: 7,571
+stars today: 14
+
+wasserth/TotalSegmentator
+https://github.com/wasserth/TotalSegmentator
+Tool for robust segmentation of >100 important anatomical structures in CT and MR images
+language: Python
+stars: 2,317
+forked: 381
+stars today: 1
+
+OpenHands/OpenHands
+https://github.com/OpenHands/OpenHands
+🙌 OpenHands: AI-Driven Development
+language: Python
+stars: 65,524
+forked: 8,032
+stars today: 28
+
+CVHub520/X-AnyLabeling
+https://github.com/CVHub520/X-AnyLabeling
+Effortless data labeling with AI support from Segment Anything and other awesome models.
+language: Python
+stars: 7,312
+forked: 817
+stars today: 23
+
+BeehiveInnovations/pal-mcp-server
+https://github.com/BeehiveInnovations/pal-mcp-server
+The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+language: Python
+stars: 10,371
+forked: 874
+stars today: 77
+
+modelscope/DiffSynth-Studio
+https://github.com/modelscope/DiffSynth-Studio
+Enjoy the magic of Diffusion models!
+language: Python
+stars: 10,951
+forked: 1,030
+stars today: 24

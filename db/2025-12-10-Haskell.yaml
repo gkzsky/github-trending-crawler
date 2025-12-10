@@ -1,0 +1,63 @@
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,762
+forked: 478
+stars today: 3
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 40,710
+forked: 3,705
+stars today: 22
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,614
+forked: 1,893
+stars today: 4
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,428
+forked: 291
+stars today: 4
+
+elm/compiler
+https://github.com/elm/compiler
+Compiler for Elm, a functional language for reliable webapps.
+language: Haskell
+stars: 7,715
+forked: 668
+stars today: 0
+
+purescript/purescript
+https://github.com/purescript/purescript
+A strongly-typed language that compiles to JavaScript
+language: Haskell
+stars: 8,806
+forked: 570
+stars today: 1
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 222
+forked: 42
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,218
+forked: 1,137
+stars today: 5
