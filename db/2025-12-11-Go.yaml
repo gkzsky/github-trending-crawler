@@ -1,0 +1,167 @@
+KaijuEngine/kaiju
+https://github.com/KaijuEngine/kaiju
+General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+language: Go
+stars: 2,866
+forked: 94
+stars today: 1,480
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 47,252
+forked: 10,140
+stars today: 9
+
+moby/buildkit
+https://github.com/moby/buildkit
+concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+language: Go
+stars: 9,583
+forked: 1,341
+stars today: 12
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,934
+forked: 302
+stars today: 7
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 7,947
+forked: 908
+stars today: 87
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 4,356
+forked: 216
+stars today: 20
+
+labstack/echo
+https://github.com/labstack/echo
+High performance, minimalist Go web framework
+language: Go
+stars: 31,902
+forked: 2,305
+stars today: 7
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,225
+forked: 3,185
+stars today: 5
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 6,399
+forked: 1,810
+stars today: 7
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 6,086
+forked: 524
+stars today: 75
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 23,262
+forked: 760
+stars today: 33
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+language: Go
+stars: 23,678
+forked: 4,692
+stars today: 30
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 30,393
+forked: 2,846
+stars today: 45
+
+containers/kubernetes-mcp-server
+https://github.com/containers/kubernetes-mcp-server
+Model Context Protocol (MCP) server for Kubernetes and OpenShift
+language: Go
+stars: 861
+forked: 194
+stars today: 3
+
+github/gh-ost
+https://github.com/github/gh-ost
+GitHub's Online Schema-migration Tool for MySQL
+language: Go
+stars: 13,089
+forked: 1,342
+stars today: 3
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 157,422
+forked: 13,887
+stars today: 67
+
+thanos-io/thanos
+https://github.com/thanos-io/thanos
+Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+language: Go
+stars: 13,851
+forked: 2,235
+stars today: 0
+
+anchore/grype
+https://github.com/anchore/grype
+A vulnerability scanner for container images and filesystems
+language: Go
+stars: 11,150
+forked: 716
+stars today: 7
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+The glamourous AI coding agent for your favourite terminal 💘
+language: Go
+stars: 15,811
+forked: 926
+stars today: 52
+
+cloudnative-pg/cloudnative-pg
+https://github.com/cloudnative-pg/cloudnative-pg
+CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+language: Go
+stars: 7,548
+forked: 567
+stars today: 7
+
+open-telemetry/opentelemetry-go
+https://github.com/open-telemetry/opentelemetry-go
+OpenTelemetry Go API and SDK
+language: Go
+stars: 6,196
+forked: 1,235
+stars today: 2

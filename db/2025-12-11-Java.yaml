@@ -1,0 +1,175 @@
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 31,495
+forked: 14,827
+stars today: 14
+
+flyway/flyway
+https://github.com/flyway/flyway
+Flyway by Redgate • Database Migrations Made Easy.
+language: Java
+stars: 9,359
+forked: 1,580
+stars today: 2
+
+awsdocs/aws-doc-sdk-examples
+https://github.com/awsdocs/aws-doc-sdk-examples
+Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
+language: Java
+stars: 10,305
+forked: 5,834
+stars today: 5
+
+JetBrains/intellij-community
+https://github.com/JetBrains/intellij-community
+IntelliJ IDEA & IntelliJ Platform
+language: Java
+stars: 19,287
+forked: 5,622
+stars today: 18
+
+apache/shardingsphere
+https://github.com/apache/shardingsphere
+Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+language: Java
+stars: 20,574
+forked: 6,885
+stars today: 5
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 8,310
+forked: 2,911
+stars today: 8
+
+GeyserMC/Geyser
+https://github.com/GeyserMC/Geyser
+A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+language: Java
+stars: 5,344
+forked: 785
+stars today: 10
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 62,669
+forked: 6,962
+stars today: 39
+
+apache/tika
+https://github.com/apache/tika
+The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
+language: Java
+stars: 3,454
+forked: 890
+stars today: 0
+
+apache/fluss
+https://github.com/apache/fluss
+Apache Fluss is a streaming storage built for real-time analytics.
+language: Java
+stars: 1,662
+forked: 442
+stars today: 8
+
+apache/nifi
+https://github.com/apache/nifi
+Apache NiFi
+language: Java
+stars: 5,863
+forked: 2,907
+stars today: 1
+
+apache/hive
+https://github.com/apache/hive
+Apache Hive
+language: Java
+stars: 5,937
+forked: 4,787
+stars today: 1
+
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 11,299
+forked: 3,302
+stars today: 6
+
+apache/commons-lang
+https://github.com/apache/commons-lang
+Apache Commons Lang
+language: Java
+stars: 2,890
+forked: 1,823
+stars today: 1
+
+apache/maven
+https://github.com/apache/maven
+Apache Maven core
+language: Java
+stars: 4,880
+forked: 2,802
+stars today: 8
+
+ReVanced/revanced-patches
+https://github.com/ReVanced/revanced-patches
+🧩 Patches for ReVanced
+language: Java
+stars: 5,024
+forked: 636
+stars today: 6
+
+testcontainers/testcontainers-java
+https://github.com/testcontainers/testcontainers-java
+Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+language: Java
+stars: 8,525
+forked: 1,771
+stars today: 3
+
+apache/fesod
+https://github.com/apache/fesod
+Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
+language: Java
+stars: 5,487
+forked: 454
+stars today: 17
+
+synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+Synthetic Patient Population Simulator
+language: Java
+stars: 2,858
+forked: 809
+stars today: 3
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 75,624
+forked: 25,659
+stars today: 10
+
+iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns
+Design patterns implemented in Java
+language: Java
+stars: 93,469
+forked: 27,350
+stars today: 10
+
+alibaba/DataX
+https://github.com/alibaba/DataX
+DataX是阿里云DataWorks数据集成的开源版本。
+language: Java
+stars: 16,989
+forked: 5,648
+stars today: 0
