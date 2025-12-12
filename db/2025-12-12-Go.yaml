@@ -1,0 +1,175 @@
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 8,165
+forked: 916
+stars today: 68
+
+KaijuEngine/kaiju
+https://github.com/KaijuEngine/kaiju
+General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+language: Go
+stars: 3,393
+forked: 108
+stars today: 999
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+The glamourous AI coding agent for your favourite terminal 💘
+language: Go
+stars: 15,845
+forked: 929
+stars today: 56
+
+beclab/Olares
+https://github.com/beclab/Olares
+Olares: An Open-Source Personal Cloud to Reclaim Your Data
+language: Go
+stars: 3,487
+forked: 169
+stars today: 85
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 6,103
+forked: 526
+stars today: 17
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 6,249
+forked: 194
+stars today: 56
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 4,368
+forked: 218
+stars today: 24
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 8,080
+forked: 746
+stars today: 8
+
+nektos/act
+https://github.com/nektos/act
+Run your GitHub Actions locally 🚀
+language: Go
+stars: 67,526
+forked: 1,802
+stars today: 32
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+GitHub's official MCP Server
+language: Go
+stars: 25,102
+forked: 3,182
+stars today: 32
+
+akuity/kargo
+https://github.com/akuity/kargo
+Application lifecycle orchestration
+language: Go
+stars: 2,942
+forked: 302
+stars today: 11
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,579
+forked: 4,623
+stars today: 12
+
+flipped-aurora/gin-vue-admin
+https://github.com/flipped-aurora/gin-vue-admin
+🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+language: Go
+stars: 24,053
+forked: 6,953
+stars today: 7
+
+prometheus-community/postgres_exporter
+https://github.com/prometheus-community/postgres_exporter
+A PostgreSQL metric exporter for Prometheus
+language: Go
+stars: 3,331
+forked: 807
+stars today: 4
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end realtime stack for connecting humans and AI
+language: Go
+stars: 16,033
+forked: 1,607
+stars today: 18
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+language: Go
+stars: 23,712
+forked: 4,692
+stars today: 38
+
+labstack/echo
+https://github.com/labstack/echo
+High performance, minimalist Go web framework
+language: Go
+stars: 31,909
+forked: 2,307
+stars today: 8
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 21,452
+forked: 6,626
+stars today: 10
+
+ory/kratos
+https://github.com/ory/kratos
+Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
+language: Go
+stars: 13,110
+forked: 1,086
+stars today: 9
+
+kedacore/keda
+https://github.com/kedacore/keda
+KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+language: Go
+stars: 9,736
+forked: 1,281
+stars today: 5
+
+gophish/gophish
+https://github.com/gophish/gophish
+Open-Source Phishing Toolkit
+language: Go
+stars: 13,373
+forked: 2,783
+stars today: 6
+
+prometheus/node_exporter
+https://github.com/prometheus/node_exporter
+Exporter for machine metrics
+language: Go
+stars: 12,919
+forked: 2,574
+stars today: 7
