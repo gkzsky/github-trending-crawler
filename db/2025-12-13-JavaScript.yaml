@@ -1,0 +1,103 @@
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 4,756
+forked: 268
+stars today: 658
+
+meshery/meshery
+https://github.com/meshery/meshery
+Meshery, the cloud native manager
+language: JavaScript
+stars: 9,512
+forked: 2,864
+stars today: 5
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+CLI tool for configuring and monitoring Claude Code
+language: JavaScript
+stars: 12,504
+forked: 1,092
+stars today: 43
+
+github/awesome-copilot
+https://github.com/github/awesome-copilot
+Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+language: JavaScript
+stars: 14,127
+forked: 1,683
+stars today: 93
+
+aandrew-me/ytDownloader
+https://github.com/aandrew-me/ytDownloader
+Desktop App for downloading Videos and Audios from hundreds of sites
+language: JavaScript
+stars: 6,671
+forked: 561
+stars today: 18
+
+chinese-poetry/chinese-poetry
+https://github.com/chinese-poetry/chinese-poetry
+The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+language: JavaScript
+stars: 50,454
+forked: 10,167
+stars today: 21
+
+quasarframework/quasar
+https://github.com/quasarframework/quasar
+Quasar Framework - Build high-performance VueJS user interfaces in record time
+language: JavaScript
+stars: 26,994
+forked: 3,681
+stars today: 1
+
+mrdoob/three.js
+https://github.com/mrdoob/three.js
+JavaScript 3D Library.
+language: JavaScript
+stars: 109,831
+forked: 36,157
+stars today: 34
+
+jgraph/drawio
+https://github.com/jgraph/drawio
+draw.io is a JavaScript, client-side editor for general diagramming.
+language: JavaScript
+stars: 3,075
+forked: 540
+stars today: 16
+
+pickle-com/glass
+https://github.com/pickle-com/glass
+Digital Mind Extension
+language: JavaScript
+stars: 7,073
+forked: 1,076
+stars today: 5
+
+jgraph/drawio-desktop
+https://github.com/jgraph/drawio-desktop
+Official electron build of draw.io
+language: JavaScript
+stars: 58,418
+forked: 5,527
+stars today: 24
+
+mozilla/pdf.js
+https://github.com/mozilla/pdf.js
+PDF Reader in JavaScript
+language: JavaScript
+stars: 52,434
+forked: 10,523
+stars today: 6
+
+zereight/gitlab-mcp
+https://github.com/zereight/gitlab-mcp
+First gitlab mcp for you
+language: JavaScript
+stars: 819
+forked: 198
+stars today: 0
