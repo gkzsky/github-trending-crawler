@@ -1,0 +1,183 @@
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 8,565
+forked: 940
+stars today: 117
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,641
+forked: 4,627
+stars today: 50
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,942
+forked: 1,518
+stars today: 6
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 8,100
+forked: 747
+stars today: 9
+
+safing/portmaster
+https://github.com/safing/portmaster
+🏔 Love Freedom - ❌ Block Mass Surveillance
+language: Go
+stars: 11,368
+forked: 406
+stars today: 33
+
+go-chi/chi
+https://github.com/go-chi/chi
+lightweight, idiomatic and composable router for building Go HTTP services
+language: Go
+stars: 21,120
+forked: 1,059
+stars today: 11
+
+tinygo-org/tinygo
+https://github.com/tinygo-org/tinygo
+Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+language: Go
+stars: 16,924
+forked: 999
+stars today: 6
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 102,078
+forked: 14,723
+stars today: 167
+
+alibaba/higress
+https://github.com/alibaba/higress
+🤖 AI Gateway | AI Native API Gateway
+language: Go
+stars: 7,052
+forked: 921
+stars today: 3
+
+trpc-group/trpc-agent-go
+https://github.com/trpc-group/trpc-agent-go
+trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
+language: Go
+stars: 753
+forked: 65
+stars today: 1
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 11,722
+forked: 1,107
+stars today: 22
+
+obot-platform/obot
+https://github.com/obot-platform/obot
+Enterprise MCP Platform
+language: Go
+stars: 503
+forked: 105
+stars today: 5
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+A Cloud Native Batch System (Project under CNCF)
+language: Go
+stars: 5,150
+forked: 1,229
+stars today: 2
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 30,342
+forked: 1,133
+stars today: 34
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 9,152
+forked: 1,123
+stars today: 2
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 31,680
+forked: 1,538
+stars today: 19
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+Open Source realtime backend in 1 file
+language: Go
+stars: 54,294
+forked: 2,952
+stars today: 48
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 6,317
+forked: 195
+stars today: 31
+
+gogs/gogs
+https://github.com/gogs/gogs
+Gogs is a painless self-hosted Git service
+language: Go
+stars: 47,326
+forked: 5,071
+stars today: 10
+
+grafana/mcp-grafana
+https://github.com/grafana/mcp-grafana
+MCP server for Grafana
+language: Go
+stars: 1,976
+forked: 205
+stars today: 3
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+language: Go
+stars: 3,409
+forked: 554
+stars today: 8
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 13,431
+forked: 1,951
+stars today: 8
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 28,860
+forked: 3,384
+stars today: 25
