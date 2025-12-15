@@ -1,0 +1,127 @@
+simstudioai/sim
+https://github.com/simstudioai/sim
+Open-source platform to build and deploy AI agent workflows.
+language: TypeScript
+stars: 20,403
+forked: 2,641
+stars today: 235
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 37,266
+forked: 2,786
+stars today: 482
+
+shadcn-ui/ui
+https://github.com/shadcn-ui/ui
+A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+language: TypeScript
+stars: 102,368
+forked: 7,445
+stars today: 388
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 5,886
+forked: 341
+stars today: 334
+
+winfunc/opcode
+https://github.com/winfunc/opcode
+A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+language: TypeScript
+stars: 19,206
+forked: 1,483
+stars today: 24
+
+ChromeDevTools/chrome-devtools-mcp
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+Chrome DevTools for coding agents
+language: TypeScript
+stars: 16,731
+forked: 1,034
+stars today: 208
+
+CopilotKit/CopilotKit
+https://github.com/CopilotKit/CopilotKit
+React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+language: TypeScript
+stars: 26,586
+forked: 3,468
+stars today: 679
+
+mui/base-ui
+https://github.com/mui/base-ui
+Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+language: TypeScript
+stars: 6,968
+forked: 292
+stars today: 66
+
+DayuanJiang/next-ai-draw-io
+https://github.com/DayuanJiang/next-ai-draw-io
+A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+language: TypeScript
+stars: 10,504
+forked: 1,083
+stars today: 1,134
+
+refly-ai/refly
+https://github.com/refly-ai/refly
+Vibe Workflow Platform for Non-technical Creators.
+language: TypeScript
+stars: 5,352
+forked: 488
+stars today: 36
+
+bluesky-social/atproto
+https://github.com/bluesky-social/atproto
+Social networking technology created by Bluesky
+language: TypeScript
+stars: 8,964
+forked: 791
+stars today: 5
+
+vas3k/TaxHacker
+https://github.com/vas3k/TaxHacker
+Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+language: TypeScript
+stars: 776
+forked: 95
+stars today: 36
+
+fosrl/pangolin
+https://github.com/fosrl/pangolin
+Identity-aware VPN and proxy for remote access to anything, anywhere.
+language: TypeScript
+stars: 17,054
+forked: 496
+stars today: 97
+
+livekit-examples/meet
+https://github.com/livekit-examples/meet
+Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
+language: TypeScript
+stars: 734
+forked: 333
+stars today: 18
+
+C4illin/ConvertX
+https://github.com/C4illin/ConvertX
+💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+language: TypeScript
+stars: 10,404
+forked: 531
+stars today: 74
+
+shuakami/qq-chat-exporter
+https://github.com/shuakami/qq-chat-exporter
+🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
+language: TypeScript
+stars: 1,219
+forked: 53
+stars today: 94

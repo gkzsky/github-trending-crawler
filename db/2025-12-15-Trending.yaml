@@ -1,0 +1,119 @@
+simstudioai/sim
+https://github.com/simstudioai/sim
+Open-source platform to build and deploy AI agent workflows.
+language: TypeScript
+stars: 20,403
+forked: 2,641
+stars today: 235
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 53,249
+forked: 6,763
+stars today: 121
+
+mdn/content
+https://github.com/mdn/content
+The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+language: Markdown
+stars: 10,037
+forked: 22,987
+stars today: 9
+
+Morganamilo/paru
+https://github.com/Morganamilo/paru
+Feature packed AUR helper
+language: Rust
+stars: 7,823
+forked: 288
+stars today: 45
+
+Mebus/cupp
+https://github.com/Mebus/cupp
+Common User Passwords Profiler (CUPP)
+language: Python
+stars: 5,227
+forked: 1,338
+stars today: 19
+
+ZJU-LLMs/Foundations-of-LLMs
+https://github.com/ZJU-LLMs/Foundations-of-LLMs
+A book for Learning the Foundations of LLMs
+language: -
+stars: 13,752
+forked: 1,278
+stars today: 227
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 37,266
+forked: 2,786
+stars today: 482
+
+shadcn-ui/ui
+https://github.com/shadcn-ui/ui
+A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+language: TypeScript
+stars: 102,368
+forked: 7,445
+stars today: 388
+
+datawhalechina/hello-agents
+https://github.com/datawhalechina/hello-agents
+📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+language: Python
+stars: 9,182
+forked: 972
+stars today: 354
+
+HuLaSpark/HuLa
+https://github.com/HuLaSpark/HuLa
+🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
+language: Vue
+stars: 5,980
+forked: 799
+stars today: 91
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 5,886
+forked: 341
+stars today: 334
+
+thinking-machines-lab/tinker-cookbook
+https://github.com/thinking-machines-lab/tinker-cookbook
+Post-training with Tinker
+language: Python
+stars: 2,486
+forked: 230
+stars today: 38
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso is an in-process SQL database, compatible with SQLite.
+language: Rust
+stars: 15,526
+forked: 635
+stars today: 143
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 8,809
+forked: 956
+stars today: 212
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 42,756
+forked: 7,609
+stars today: 31
