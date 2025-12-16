@@ -1,0 +1,167 @@
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 15,260
+forked: 638
+stars today: 128
+
+VictoriaMetrics/VictoriaLogs
+https://github.com/VictoriaMetrics/VictoriaLogs
+Fast and easy to use database for logs, which can efficiently handle terabytes of logs
+language: Go
+stars: 872
+forked: 65
+stars today: 33
+
+zyedidia/micro
+https://github.com/zyedidia/micro
+A modern and intuitive terminal-based text editor
+language: Go
+stars: 27,438
+forked: 1,261
+stars today: 15
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 9,014
+forked: 970
+stars today: 277
+
+Jguer/yay
+https://github.com/Jguer/yay
+Yet another Yogurt - An AUR Helper written in Go
+language: Go
+stars: 12,860
+forked: 390
+stars today: 22
+
+kgretzky/evilginx2
+https://github.com/kgretzky/evilginx2
+Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+language: Go
+stars: 14,283
+forked: 2,501
+stars today: 27
+
+heroiclabs/nakama
+https://github.com/heroiclabs/nakama
+Distributed server for social and realtime games and apps.
+language: Go
+stars: 11,860
+forked: 1,321
+stars today: 11
+
+memodb-io/Acontext
+https://github.com/memodb-io/Acontext
+Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
+language: Go
+stars: 1,928
+forked: 158
+stars today: 51
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 33,423
+forked: 4,804
+stars today: 37
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 5,861
+forked: 1,132
+stars today: 5
+
+alireza0/s-ui
+https://github.com/alireza0/s-ui
+An advanced Web Panel • Built for SagerNet/Sing-Box
+language: Go
+stars: 6,494
+forked: 1,063
+stars today: 26
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 102,219
+forked: 14,726
+stars today: 72
+
+NVIDIA/KAI-Scheduler
+https://github.com/NVIDIA/KAI-Scheduler
+KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+language: Go
+stars: 987
+forked: 118
+stars today: 6
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 15,624
+forked: 1,511
+stars today: 11
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 6,954
+forked: 1,146
+stars today: 15
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
+language: Go
+stars: 119,265
+forked: 41,967
+stars today: 23
+
+fyne-io/fyne
+https://github.com/fyne-io/fyne
+Cross platform GUI toolkit in Go inspired by Material Design
+language: Go
+stars: 27,632
+forked: 1,504
+stars today: 11
+
+beclab/Olares
+https://github.com/beclab/Olares
+Olares: An Open-Source Personal Cloud to Reclaim Your Data
+language: Go
+stars: 3,631
+forked: 178
+stars today: 46
+
+AlexxIT/go2rtc
+https://github.com/AlexxIT/go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+language: Go
+stars: 10,820
+forked: 822
+stars today: 24
+
+avelino/awesome-go
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
+language: Go
+stars: 160,053
+forked: 12,821
+stars today: 100
+
+xpzouying/xiaohongshu-mcp
+https://github.com/xpzouying/xiaohongshu-mcp
+MCP for xiaohongshu.com
+language: Go
+stars: 7,467
+forked: 1,170
+stars today: 20

@@ -1,0 +1,135 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,248
+forked: 1,138
+stars today: 4
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 40,816
+forked: 3,712
+stars today: 25
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,052
+forked: 529
+stars today: 5
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,866
+forked: 414
+stars today: 1
+
+jaspervdj/hakyll
+https://github.com/jaspervdj/hakyll
+A static website compiler library in Haskell
+language: Haskell
+stars: 2,867
+forked: 419
+stars today: 1
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,437
+forked: 291
+stars today: 2
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,649
+forked: 1,893
+stars today: 9
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 366
+forked: 5
+stars today: 2
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,635
+forked: 342
+stars today: 1
+
+IntersectMBO/plutus
+https://github.com/IntersectMBO/plutus
+The Plutus language implementation and tools
+language: Haskell
+stars: 1,625
+forked: 501
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,170
+forked: 749
+stars today: 0
+
+purescript/purescript
+https://github.com/purescript/purescript
+A strongly-typed language that compiles to JavaScript
+language: Haskell
+stars: 8,816
+forked: 570
+stars today: 1
+
+xmonad/xmonad
+https://github.com/xmonad/xmonad
+The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+language: Haskell
+stars: 3,513
+forked: 294
+stars today: 1
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 712
+forked: 90
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,781
+forked: 480
+stars today: 4
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 231
+forked: 18
+stars today: 0
+
+crytic/echidna
+https://github.com/crytic/echidna
+Ethereum smart contract fuzzer
+language: Haskell
+stars: 3,048
+forked: 416
+stars today: 2
