@@ -1,0 +1,167 @@
+Morganamilo/paru
+https://github.com/Morganamilo/paru
+Feature packed AUR helper
+language: Rust
+stars: 7,962
+forked: 295
+stars today: 83
+
+eudoxia0/hashcards
+https://github.com/eudoxia0/hashcards
+A plain text-based spaced repetition system.
+language: Rust
+stars: 711
+forked: 31
+stars today: 92
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 54,090
+forked: 6,836
+stars today: 268
+
+reacherhq/check-if-email-exists
+https://github.com/reacherhq/check-if-email-exists
+Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+language: Rust
+stars: 6,723
+forked: 483
+stars today: 349
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,366
+forked: 1,674
+stars today: 24
+
+apache/iggy
+https://github.com/apache/iggy
+Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
+language: Rust
+stars: 3,554
+forked: 234
+stars today: 41
+
+orhun/git-cliff
+https://github.com/orhun/git-cliff
+A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+language: Rust
+stars: 11,112
+forked: 260
+stars today: 14
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 108,575
+forked: 14,198
+stars today: 29
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 7,136
+forked: 1,223
+stars today: 7
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso is an in-process SQL database, compatible with SQLite.
+language: Rust
+stars: 15,725
+forked: 636
+stars today: 63
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 75,035
+forked: 2,343
+stars today: 84
+
+gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+A cross-platform, safe, pure-Rust graphics API.
+language: Rust
+stars: 15,833
+forked: 1,171
+stars today: 10
+
+apache/arrow-rs
+https://github.com/apache/arrow-rs
+Official Rust implementation of Apache Arrow
+language: Rust
+stars: 3,278
+forked: 1,063
+stars today: 4
+
+trailbaseio/trailbase
+https://github.com/trailbaseio/trailbase
+A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
+language: Rust
+stars: 4,232
+forked: 118
+stars today: 32
+
+lance-format/lance
+https://github.com/lance-format/lance
+Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,832
+forked: 500
+stars today: 5
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,042
+forked: 905
+stars today: 4
+
+zellij-org/zellij
+https://github.com/zellij-org/zellij
+A terminal workspace with batteries included
+language: Rust
+stars: 27,648
+forked: 882
+stars today: 21
+
+alloy-rs/alloy
+https://github.com/alloy-rs/alloy
+Transports, Middleware, and Networks for the Alloy project
+language: Rust
+stars: 1,141
+forked: 527
+stars today: 3
+
+godot-rust/gdext
+https://github.com/godot-rust/gdext
+Rust bindings for Godot 4
+language: Rust
+stars: 4,238
+forked: 268
+stars today: 6
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 23,135
+forked: 842
+stars today: 46
+
+cube-js/cube
+https://github.com/cube-js/cube
+📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+language: Rust
+stars: 19,194
+forked: 1,927
+stars today: 4

@@ -1,0 +1,103 @@
+simstudioai/sim
+https://github.com/simstudioai/sim
+Open-source platform to build and deploy AI agent workflows.
+language: TypeScript
+stars: 22,981
+forked: 2,871
+stars today: 1,357
+
+ZJU-LLMs/Foundations-of-LLMs
+https://github.com/ZJU-LLMs/Foundations-of-LLMs
+A book for Learning the Foundations of LLMs
+language: -
+stars: 14,460
+forked: 1,325
+stars today: 349
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 43,138
+forked: 7,660
+stars today: 167
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 7,439
+forked: 440
+stars today: 632
+
+Morganamilo/paru
+https://github.com/Morganamilo/paru
+Feature packed AUR helper
+language: Rust
+stars: 7,962
+forked: 295
+stars today: 83
+
+jellyfin/jellyfin-desktop
+https://github.com/jellyfin/jellyfin-desktop
+Jellyfin Desktop Client
+language: C++
+stars: 4,744
+forked: 442
+stars today: 173
+
+nicotsx/zerobyte
+https://github.com/nicotsx/zerobyte
+Backup automation for self-hosters
+language: TypeScript
+stars: 2,828
+forked: 55
+stars today: 402
+
+eudoxia0/hashcards
+https://github.com/eudoxia0/hashcards
+A plain text-based spaced repetition system.
+language: Rust
+stars: 711
+forked: 31
+stars today: 92
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 54,090
+forked: 6,836
+stars today: 268
+
+C4illin/ConvertX
+https://github.com/C4illin/ConvertX
+💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+language: TypeScript
+stars: 11,461
+forked: 573
+stars today: 628
+
+mdn/content
+https://github.com/mdn/content
+The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+language: Markdown
+stars: 10,288
+forked: 23,002
+stars today: 18
+
+Raphire/Win11Debloat
+https://github.com/Raphire/Win11Debloat
+A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+language: PowerShell
+stars: 35,767
+forked: 1,387
+stars today: 337
+
+mnh-jansson/open-battery-information
+https://github.com/mnh-jansson/open-battery-information
+-
+language: C++
+stars: 887
+forked: 153
+stars today: 24

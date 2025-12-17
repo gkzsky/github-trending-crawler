@@ -1,0 +1,191 @@
+kopia/kopia
+https://github.com/kopia/kopia
+Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+language: Go
+stars: 12,085
+forked: 579
+stars today: 40
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end realtime stack for connecting humans and AI
+language: Go
+stars: 16,111
+forked: 1,619
+stars today: 25
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 35,217
+forked: 3,593
+stars today: 20
+
+NVIDIA/KAI-Scheduler
+https://github.com/NVIDIA/KAI-Scheduler
+KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+language: Go
+stars: 997
+forked: 120
+stars today: 7
+
+AlexxIT/go2rtc
+https://github.com/AlexxIT/go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+language: Go
+stars: 10,848
+forked: 825
+stars today: 18
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 16,285
+forked: 3,431
+stars today: 18
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 9,118
+forked: 982
+stars today: 121
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 15,313
+forked: 642
+stars today: 53
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 75,920
+forked: 2,639
+stars today: 95
+
+kgretzky/evilginx2
+https://github.com/kgretzky/evilginx2
+Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+language: Go
+stars: 14,301
+forked: 2,502
+stars today: 18
+
+Altinity/clickhouse-operator
+https://github.com/Altinity/clickhouse-operator
+Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+language: Go
+stars: 2,342
+forked: 521
+stars today: 2
+
+Jguer/yay
+https://github.com/Jguer/yay
+Yet another Yogurt - An AUR Helper written in Go
+language: Go
+stars: 12,874
+forked: 390
+stars today: 29
+
+sashabaranov/go-openai
+https://github.com/sashabaranov/go-openai
+OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
+language: Go
+stars: 10,451
+forked: 1,678
+stars today: 4
+
+openfga/openfga
+https://github.com/openfga/openfga
+A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+language: Go
+stars: 4,553
+forked: 332
+stars today: 8
+
+vllm-project/semantic-router
+https://github.com/vllm-project/semantic-router
+Intelligent Router for Mixture-of-Models
+language: Go
+stars: 2,437
+forked: 316
+stars today: 21
+
+expr-lang/expr
+https://github.com/expr-lang/expr
+Expression language and expression evaluation for Go
+language: Go
+stars: 7,511
+forked: 473
+stars today: 12
+
+shopspring/decimal
+https://github.com/shopspring/decimal
+Arbitrary-precision fixed-point decimal numbers in Go
+language: Go
+stars: 7,137
+forked: 651
+stars today: 3
+
+pion/webrtc
+https://github.com/pion/webrtc
+Pure Go implementation of the WebRTC API
+language: Go
+stars: 15,807
+forked: 1,802
+stars today: 6
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+A Cloud Native Batch System (Project under CNCF)
+language: Go
+stars: 5,166
+forked: 1,230
+stars today: 3
+
+go-gorm/gorm
+https://github.com/go-gorm/gorm
+The fantastic ORM library for Golang, aims to be developer friendly
+language: Go
+stars: 39,259
+forked: 4,123
+stars today: 9
+
+qax-os/excelize
+https://github.com/qax-os/excelize
+Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+language: Go
+stars: 20,042
+forked: 1,857
+stars today: 6
+
+beclab/Olares
+https://github.com/beclab/Olares
+Olares: An Open-Source Personal Cloud to Reclaim Your Data
+language: Go
+stars: 3,662
+forked: 179
+stars today: 46
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 6,967
+forked: 1,151
+stars today: 14
+
+cloudnative-pg/cloudnative-pg
+https://github.com/cloudnative-pg/cloudnative-pg
+CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+language: Go
+stars: 7,589
+forked: 567
+stars today: 10
