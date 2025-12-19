@@ -1,0 +1,183 @@
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 11,330
+forked: 3,308
+stars today: 4
+
+nfcgate/nfcgate
+https://github.com/nfcgate/nfcgate
+An NFC research toolkit application for Android
+language: Java
+stars: 1,981
+forked: 244
+stars today: 12
+
+MCRcortex/voxy
+https://github.com/MCRcortex/voxy
+An LoD rendering mod for minecraft
+language: Java
+stars: 443
+forked: 90
+stars today: 16
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 47,864
+forked: 3,975
+stars today: 18
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 20,634
+forked: 5,984
+stars today: 11
+
+debezium/debezium
+https://github.com/debezium/debezium
+Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
+language: Java
+stars: 12,191
+forked: 2,805
+stars today: 6
+
+openjdk/jdk
+https://github.com/openjdk/jdk
+JDK main-line development https://openjdk.org/projects/jdk
+language: Java
+stars: 22,238
+forked: 6,193
+stars today: 8
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 28,385
+forked: 6,541
+stars today: 39
+
+apache/maven
+https://github.com/apache/maven
+Apache Maven core
+language: Java
+stars: 4,891
+forked: 2,802
+stars today: 2
+
+apache/doris
+https://github.com/apache/doris
+Apache Doris is an easy-to-use, high performance and unified analytics database.
+language: Java
+stars: 14,754
+forked: 3,648
+stars today: 7
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 25,445
+forked: 7,324
+stars today: 7
+
+antlr/antlr4
+https://github.com/antlr/antlr4
+ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+language: Java
+stars: 18,577
+forked: 3,420
+stars today: 4
+
+karma9874/AndroRAT
+https://github.com/karma9874/AndroRAT
+A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
+language: Java
+stars: 4,395
+forked: 1,420
+stars today: 19
+
+jd-opensource/joyagent-jdgenie
+https://github.com/jd-opensource/joyagent-jdgenie
+开源的端到端产品级通用智能体
+language: Java
+stars: 11,371
+forked: 1,411
+stars today: 13
+
+langchain4j/langchain4j-examples
+https://github.com/langchain4j/langchain4j-examples
+-
+language: Java
+stars: 1,338
+forked: 496
+stars today: 7
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 2,986
+forked: 759
+stars today: 5
+
+dataease/dataease
+https://github.com/dataease/dataease
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+language: Java
+stars: 22,755
+forked: 3,922
+stars today: 11
+
+graphhopper/graphhopper
+https://github.com/graphhopper/graphhopper
+Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
+language: Java
+stars: 6,159
+forked: 1,856
+stars today: 7
+
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 64,537
+forked: 20,862
+stars today: 15
+
+tencentmusic/supersonic
+https://github.com/tencentmusic/supersonic
+SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+language: Java
+stars: 4,488
+forked: 891
+stars today: 15
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 12,060
+forked: 2,351
+stars today: 5
+
+alibaba/COLA
+https://github.com/alibaba/COLA
+🥤 COLA: Clean Object-oriented & Layered Architecture
+language: Java
+stars: 12,797
+forked: 3,228
+stars today: 4
+
+redisson/redisson
+https://github.com/redisson/redisson
+Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+language: Java
+stars: 24,172
+forked: 5,508
+stars today: 5

@@ -1,0 +1,47 @@
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: Shell
+stars: 46,758
+forked: 3,279
+stars today: 178
+
+virattt/ai-hedge-fund
+https://github.com/virattt/ai-hedge-fund
+An AI Hedge Fund Team
+language: Python
+stars: 43,638
+forked: 7,727
+stars today: 256
+
+astral-sh/ty
+https://github.com/astral-sh/ty
+An extremely fast Python type checker and language server, written in Rust.
+language: Python
+stars: 14,865
+forked: 155
+stars today: 251
+
+letta-ai/letta
+https://github.com/letta-ai/letta
+Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
+language: Python
+stars: 19,896
+forked: 2,089
+stars today: 102
+
+schollz/croc
+https://github.com/schollz/croc
+Easily and securely send things from one computer to another 🐊 📦
+language: Go
+stars: 32,973
+forked: 1,295
+stars today: 130
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 16,264
+forked: 2,226
+stars today: 477

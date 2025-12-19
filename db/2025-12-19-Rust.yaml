@@ -1,0 +1,151 @@
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 34,650
+forked: 3,407
+stars today: 54
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+language: Rust
+stars: 4,001
+forked: 324
+stars today: 86
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 39,335
+forked: 4,556
+stars today: 13
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 30,587
+forked: 1,086
+stars today: 7
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 3,374
+forked: 159
+stars today: 12
+
+helix-editor/helix
+https://github.com/helix-editor/helix
+A post-modern modal text editor.
+language: Rust
+stars: 41,913
+forked: 3,207
+stars today: 30
+
+apache/iggy
+https://github.com/apache/iggy
+Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
+language: Rust
+stars: 3,606
+forked: 240
+stars today: 28
+
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Text editor for your terminal: easy, powerful and fast
+language: Rust
+stars: 2,211
+forked: 70
+stars today: 172
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,616
+forked: 1,101
+stars today: 3
+
+eudoxia0/hashcards
+https://github.com/eudoxia0/hashcards
+A plain text-based spaced repetition system.
+language: Rust
+stars: 818
+forked: 36
+stars today: 27
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 17,835
+forked: 747
+stars today: 24
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 23,233
+forked: 847
+stars today: 57
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 75,232
+forked: 2,359
+stars today: 95
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,048
+forked: 908
+stars today: 4
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 7,944
+forked: 1,280
+stars today: 6
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,409
+forked: 3,875
+stars today: 0
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 43,573
+forked: 4,281
+stars today: 22
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,535
+forked: 11,703
+stars today: 4
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 29,284
+forked: 2,190
+stars today: 5
