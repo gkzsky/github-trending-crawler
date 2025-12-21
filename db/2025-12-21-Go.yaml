@@ -1,0 +1,159 @@
+NexaAI/nexa-sdk
+https://github.com/NexaAI/nexa-sdk
+Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
+language: Go
+stars: 6,778
+forked: 876
+stars today: 300
+
+schollz/croc
+https://github.com/schollz/croc
+Easily and securely send things from one computer to another 🐊 📦
+language: Go
+stars: 33,346
+forked: 1,313
+stars today: 94
+
+Done-0/fuck-u-code
+https://github.com/Done-0/fuck-u-code
+Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+language: Go
+stars: 6,517
+forked: 311
+stars today: 6
+
+casbin/casbin
+https://github.com/casbin/casbin
+An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+language: Go
+stars: 19,579
+forked: 1,705
+stars today: 6
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 26,675
+forked: 2,156
+stars today: 21
+
+woodpecker-ci/woodpecker
+https://github.com/woodpecker-ci/woodpecker
+Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
+language: Go
+stars: 6,046
+forked: 497
+stars today: 13
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 27,160
+forked: 5,043
+stars today: 10
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 9,648
+forked: 1,046
+stars today: 103
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+language: Go
+stars: 8,232
+forked: 497
+stars today: 10
+
+Dyneteq/reconya
+https://github.com/Dyneteq/reconya
+Network reconnaissance and asset discovery tool
+language: Go
+stars: 879
+forked: 62
+stars today: 125
+
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 11,881
+forked: 1,062
+stars today: 36
+
+bitxeno/atvloadly
+https://github.com/bitxeno/atvloadly
+Easily sideload the IPA to AppleTV
+language: Go
+stars: 774
+forked: 43
+stars today: 61
+
+traefik/traefik
+https://github.com/traefik/traefik
+The Cloud Native Application Proxy
+language: Go
+stars: 60,620
+forked: 5,730
+stars today: 34
+
+qax-os/excelize
+https://github.com/qax-os/excelize
+Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+language: Go
+stars: 20,114
+forked: 1,857
+stars today: 10
+
+swaggo/swag
+https://github.com/swaggo/swag
+Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+language: Go
+stars: 12,452
+forked: 1,332
+stars today: 6
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 17,332
+forked: 2,068
+stars today: 8
+
+google/pprof
+https://github.com/google/pprof
+pprof is a tool for visualization and analysis of profiling data
+language: Go
+stars: 8,934
+forked: 642
+stars today: 6
+
+gravitational/teleport
+https://github.com/gravitational/teleport
+The easiest, and most secure way to access and protect all of your infrastructure.
+language: Go
+stars: 19,533
+forked: 1,962
+stars today: 5
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 13,048
+forked: 973
+stars today: 4
+
+WireGuard/wireguard-go
+https://github.com/WireGuard/wireguard-go
+Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+language: Go
+stars: 3,885
+forked: 1,384
+stars today: 5
