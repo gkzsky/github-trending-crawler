@@ -1,0 +1,143 @@
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,076
+forked: 533
+stars today: 2
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,794
+forked: 480
+stars today: 1
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 382
+forked: 5
+stars today: 1
+
+granule-project/granule
+https://github.com/granule-project/granule
+A statically-typed linear functional language with graded modal types for fine-grained program reasoning
+language: Haskell
+stars: 672
+forked: 42
+stars today: 5
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 3,059
+forked: 179
+stars today: 2
+
+kmonad/kmonad
+https://github.com/kmonad/kmonad
+An advanced keyboard manager
+language: Haskell
+stars: 4,846
+forked: 331
+stars today: 1
+
+GaloisInc/crucible
+https://github.com/GaloisInc/crucible
+Crucible is a library for symbolic simulation of imperative programs
+language: Haskell
+stars: 751
+forked: 45
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 232
+forked: 18
+stars today: 0
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,445
+forked: 292
+stars today: 1
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 713
+forked: 90
+stars today: 0
+
+krispo/awesome-haskell
+https://github.com/krispo/awesome-haskell
+A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
+language: Haskell
+stars: 3,285
+forked: 177
+stars today: 2
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,736
+forked: 334
+stars today: 0
+
+crytic/echidna
+https://github.com/crytic/echidna
+Ethereum smart contract fuzzer
+language: Haskell
+stars: 3,056
+forked: 418
+stars today: 1
+
+GaloisInc/saw-script
+https://github.com/GaloisInc/saw-script
+The SAW scripting language.
+language: Haskell
+stars: 485
+forked: 79
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,169
+forked: 748
+stars today: 0
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,869
+forked: 414
+stars today: 1
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,278
+forked: 1,140
+stars today: 9
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 40,946
+forked: 3,718
+stars today: 21

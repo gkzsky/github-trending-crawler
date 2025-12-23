@@ -1,0 +1,159 @@
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 68,019
+forked: 12,655
+stars today: 17
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,498
+forked: 2,517
+stars today: 3
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,170
+forked: 1,127
+stars today: 0
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,512
+forked: 643
+stars today: 0
+
+apache/carbondata
+https://github.com/apache/carbondata
+High performance data store solution
+language: Scala
+stars: 1,444
+forked: 704
+stars today: 0
+
+hyperledger-identus/cloud-agent
+https://github.com/hyperledger-identus/cloud-agent
+Identus Cloud Agent
+language: Scala
+stars: 89
+forked: 27
+stars today: 0
+
+ucb-bar/gemmini
+https://github.com/ucb-bar/gemmini
+Berkeley's Spatial Array Generator
+language: Scala
+stars: 1,156
+forked: 230
+stars today: 2
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,075
+forked: 795
+stars today: 1
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,477
+forked: 1,975
+stars today: 1
+
+apache/datafusion-comet
+https://github.com/apache/datafusion-comet
+Apache DataFusion Comet Spark Accelerator
+language: Scala
+stars: 1,088
+forked: 257
+stars today: 1
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,527
+forked: 28,977
+stars today: 9
+
+broadinstitute/sam
+https://github.com/broadinstitute/sam
+workbench identity and access management
+language: Scala
+stars: 43
+forked: 12
+stars today: 1
+
+scalameta/scalafmt
+https://github.com/scalameta/scalafmt
+Code formatter for Scala
+language: Scala
+stars: 1,481
+forked: 284
+stars today: 0
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,646
+forked: 1,212
+stars today: 0
+
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 47
+forked: 36
+stars today: 0
+
+fpinscala/fpinscala
+https://github.com/fpinscala/fpinscala
+Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
+language: Scala
+stars: 5,728
+forked: 3,027
+stars today: 1
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 204
+forked: 52
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 56
+forked: 53
+stars today: 0
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 361
+forked: 96
+stars today: 1
+
+com-lihaoyi/mill
+https://github.com/com-lihaoyi/mill
+A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-6x faster dev workflows than other JVM build tools
+language: Scala
+stars: 2,652
+forked: 422
+stars today: 0
