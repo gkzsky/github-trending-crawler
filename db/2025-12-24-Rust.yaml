@@ -1,0 +1,175 @@
+mullvad/gotatun
+https://github.com/mullvad/gotatun
+Userspace WireGuard® Implementation in Rust
+language: Rust
+stars: 981
+forked: 21
+stars today: 82
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 3,778
+forked: 279
+stars today: 27
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+language: Rust
+stars: 4,950
+forked: 369
+stars today: 232
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+language: Rust
+stars: 7,445
+forked: 499
+stars today: 136
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 27,799
+forked: 1,949
+stars today: 27
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 6,713
+forked: 685
+stars today: 31
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 6,470
+forked: 786
+stars today: 11
+
+rust-lang/book
+https://github.com/rust-lang/book
+The Rust Programming Language
+language: Rust
+stars: 17,122
+forked: 3,890
+stars today: 9
+
+rust-lang/miri
+https://github.com/rust-lang/miri
+An interpreter for Rust's mid-level intermediate representation
+language: Rust
+stars: 5,727
+forked: 423
+stars today: 25
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 7,136
+forked: 347
+stars today: 11
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 17,956
+forked: 755
+stars today: 49
+
+SeaQL/sea-orm
+https://github.com/SeaQL/sea-orm
+🐚 A powerful relational ORM for Rust
+language: Rust
+stars: 9,168
+forked: 645
+stars today: 4
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 3,409
+forked: 164
+stars today: 5
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 23,726
+forked: 858
+stars today: 126
+
+moghtech/komodo
+https://github.com/moghtech/komodo
+🦎 a tool to build and deploy software on many servers 🦎
+language: Rust
+stars: 9,219
+forked: 250
+stars today: 30
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 52,294
+forked: 2,434
+stars today: 45
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,228
+forked: 1,155
+stars today: 18
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 105,630
+forked: 5,834
+stars today: 6
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 16,795
+forked: 1,986
+stars today: 21
+
+bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+language: Rust
+stars: 17,335
+forked: 1,580
+stars today: 5
+
+Wilfred/difftastic
+https://github.com/Wilfred/difftastic
+a structural diff that understands syntax 🟥🟩
+language: Rust
+stars: 23,767
+forked: 420
+stars today: 16
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 104,615
+forked: 15,427
+stars today: 56
