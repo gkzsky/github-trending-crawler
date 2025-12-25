@@ -1,0 +1,151 @@
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 3,810
+forked: 280
+stars today: 64
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Kanban board to manage your AI coding agents
+language: Rust
+stars: 6,735
+forked: 689
+stars today: 29
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 27,823
+forked: 1,952
+stars today: 32
+
+aome510/spotify-player
+https://github.com/aome510/spotify-player
+A Spotify player in the terminal with full feature parity
+language: Rust
+stars: 5,997
+forked: 301
+stars today: 5
+
+rust-lang/miri
+https://github.com/rust-lang/miri
+An interpreter for Rust's mid-level intermediate representation
+language: Rust
+stars: 5,739
+forked: 423
+stars today: 16
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 108,802
+forked: 14,226
+stars today: 59
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+language: Rust
+stars: 7,590
+forked: 511
+stars today: 127
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 31,516
+forked: 2,182
+stars today: 12
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,237
+forked: 1,157
+stars today: 18
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 8,191
+forked: 1,836
+stars today: 5
+
+UwUDev/ygege
+https://github.com/UwUDev/ygege
+High-performance indexer for YGG Torrent written in Rust
+language: Rust
+stars: 219
+forked: 19
+stars today: 7
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 17,999
+forked: 755
+stars today: 35
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 6,473
+forked: 788
+stars today: 9
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 37,621
+forked: 1,986
+stars today: 8
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 31,011
+forked: 3,681
+stars today: 11
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 52,342
+forked: 2,434
+stars today: 41
+
+GreptimeTeam/greptimedb
+https://github.com/GreptimeTeam/greptimedb
+Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
+language: Rust
+stars: 5,835
+forked: 436
+stars today: 4
+
+eclipse-iceoryx/iceoryx2
+https://github.com/eclipse-iceoryx/iceoryx2
+Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
+language: Rust
+stars: 1,907
+forked: 106
+stars today: 24
+
+cocoindex-io/cocoindex
+https://github.com/cocoindex-io/cocoindex
+Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+language: Rust
+stars: 5,066
+forked: 386
+stars today: 75

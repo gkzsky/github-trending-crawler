@@ -1,0 +1,87 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,280
+forked: 1,142
+stars today: 2
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 40,995
+forked: 3,721
+stars today: 28
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 155
+forked: 64
+stars today: 0
+
+granule-project/granule
+https://github.com/granule-project/granule
+A statically-typed linear functional language with graded modal types for fine-grained program reasoning
+language: Haskell
+stars: 677
+forked: 42
+stars today: 1
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 232
+forked: 18
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,798
+forked: 481
+stars today: 1
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 723
+forked: 90
+stars today: 10
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,170
+forked: 748
+stars today: 1
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,090
+forked: 535
+stars today: 16
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,736
+forked: 334
+stars today: 0
+
+crytic/echidna
+https://github.com/crytic/echidna
+Ethereum smart contract fuzzer
+language: Haskell
+stars: 3,059
+forked: 418
+stars today: 1

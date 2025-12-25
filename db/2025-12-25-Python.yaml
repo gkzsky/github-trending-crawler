@@ -1,0 +1,119 @@
+rendercv/rendercv
+https://github.com/rendercv/rendercv
+Typst-based CV/resume generator for academics and engineers
+language: Python
+stars: 9,195
+forked: 641
+stars today: 2,615
+
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 19,088
+forked: 1,339
+stars today: 485
+
+vllm-project/vllm-omni
+https://github.com/vllm-project/vllm-omni
+A framework for efficient model inference with omni-modality models
+language: Python
+stars: 1,585
+forked: 201
+stars today: 176
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+CLI tool for configuring and monitoring Claude Code
+language: Python
+stars: 13,648
+forked: 1,186
+stars today: 352
+
+safety-research/bloom
+https://github.com/safety-research/bloom
+bloom - evaluate any behavior immediately  🌸🌱
+language: Python
+stars: 768
+forked: 97
+stars today: 226
+
+yichuan-w/LEANN
+https://github.com/yichuan-w/LEANN
+RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+language: Python
+stars: 5,819
+forked: 580
+stars today: 399
+
+apurvsinghgautam/robin
+https://github.com/apurvsinghgautam/robin
+AI-Powered Dark Web OSINT Tool
+language: Python
+stars: 2,598
+forked: 564
+stars today: 147
+
+anthropics/skills
+https://github.com/anthropics/skills
+Public repository for Agent Skills
+language: Python
+stars: 26,654
+forked: 2,457
+stars today: 644
+
+xerrors/Yuxi-Know
+https://github.com/xerrors/Yuxi-Know
+结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+language: Python
+stars: 3,039
+forked: 377
+stars today: 215
+
+LMCache/LMCache
+https://github.com/LMCache/LMCache
+Supercharge Your LLM with the Fastest KV Cache Layer
+language: Python
+stars: 6,434
+forked: 814
+stars today: 11
+
+swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+language: Python
+stars: 73,726
+forked: 16,417
+stars today: 157
+
+vwxyzjn/cleanrl
+https://github.com/vwxyzjn/cleanrl
+High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+language: Python
+stars: 8,634
+forked: 937
+stars today: 20
+
+hesreallyhim/awesome-claude-code
+https://github.com/hesreallyhim/awesome-claude-code
+A curated list of awesome commands, files, and workflows for Claude Code
+language: Python
+stars: 18,590
+forked: 1,055
+stars today: 62
+
+home-assistant/core
+https://github.com/home-assistant/core
+🏡 Open source home automation that puts local control and privacy first.
+language: Python
+stars: 83,667
+forked: 36,284
+stars today: 31
+
+zai-org/GLM-4.5
+https://github.com/zai-org/GLM-4.5
+GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+language: Python
+stars: 3,476
+forked: 363
+stars today: 59
