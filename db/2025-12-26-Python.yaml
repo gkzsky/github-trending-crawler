@@ -1,0 +1,103 @@
+rendercv/rendercv
+https://github.com/rendercv/rendercv
+CV/resume generator for academics and engineers, YAML to PDF
+language: Python
+stars: 10,949
+forked: 728
+stars today: 1,818
+
+xerrors/Yuxi-Know
+https://github.com/xerrors/Yuxi-Know
+结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+language: Python
+stars: 3,221
+forked: 399
+stars today: 55
+
+yichuan-w/LEANN
+https://github.com/yichuan-w/LEANN
+RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+language: Python
+stars: 6,135
+forked: 606
+stars today: 262
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 17,786
+forked: 2,371
+stars today: 472
+
+vllm-project/vllm-omni
+https://github.com/vllm-project/vllm-omni
+A framework for efficient model inference with omni-modality models
+language: Python
+stars: 1,730
+forked: 216
+stars today: 121
+
+ModelTC/LightX2V
+https://github.com/ModelTC/LightX2V
+Light Video Generation Inference Framework
+language: Python
+stars: 1,454
+forked: 96
+stars today: 43
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+CLI tool for configuring and monitoring Claude Code
+language: Python
+stars: 13,778
+forked: 1,193
+stars today: 221
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 51,106
+forked: 1,476
+stars today: 181
+
+safety-research/bloom
+https://github.com/safety-research/bloom
+bloom - evaluate any behavior immediately  🌸🌱
+language: Python
+stars: 859
+forked: 99
+stars today: 174
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 139,502
+forked: 11,275
+stars today: 102
+
+huggingface/pytorch-image-models
+https://github.com/huggingface/pytorch-image-models
+The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
+language: Python
+stars: 36,082
+forked: 5,091
+stars today: 8
+
+OpenDCAI/DataFlow
+https://github.com/OpenDCAI/DataFlow
+Easy Data Preparation with latest LLMs-based Operators and Pipelines.
+language: Python
+stars: 1,800
+forked: 129
+stars today: 28
+
+vwxyzjn/cleanrl
+https://github.com/vwxyzjn/cleanrl
+High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+language: Python
+stars: 8,658
+forked: 941
+stars today: 24

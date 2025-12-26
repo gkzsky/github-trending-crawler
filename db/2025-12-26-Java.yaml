@@ -1,0 +1,183 @@
+halo-dev/halo
+https://github.com/halo-dev/halo
+强大易用的开源建站工具。
+language: Java
+stars: 37,557
+forked: 10,164
+stars today: 28
+
+aeron-io/aeron
+https://github.com/aeron-io/aeron
+Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+language: Java
+stars: 8,311
+forked: 989
+stars today: 1
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 11,143
+forked: 2,239
+stars today: 4
+
+kekingcn/kkFileView
+https://github.com/kekingcn/kkFileView
+Universal File Online Preview Project based on Spring-Boot
+language: Java
+stars: 13,815
+forked: 3,190
+stars today: 13
+
+apache/fory
+https://github.com/apache/fory
+A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+language: Java
+stars: 4,148
+forked: 353
+stars today: 6
+
+freeok/so-novel
+https://github.com/freeok/so-novel
+小说下载｜网文下载 | 网络小说
+language: Java
+stars: 5,827
+forked: 462
+stars today: 19
+
+Dev4Mod/WaEnhancer
+https://github.com/Dev4Mod/WaEnhancer
+WhatsApp tools for Android
+language: Java
+stars: 1,123
+forked: 147
+stars today: 2
+
+apache/dubbo
+https://github.com/apache/dubbo
+The java implementation of Apache Dubbo. An RPC and microservice framework.
+language: Java
+stars: 41,676
+forked: 26,569
+stars today: 4
+
+dromara/Sa-Token
+https://github.com/dromara/Sa-Token
+一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
+language: Java
+stars: 18,433
+forked: 2,867
+stars today: 4
+
+apache/fluss
+https://github.com/apache/fluss
+Apache Fluss is a streaming storage built for real-time analytics.
+language: Java
+stars: 1,689
+forked: 455
+stars today: 2
+
+TeamNewPipe/NewPipe
+https://github.com/TeamNewPipe/NewPipe
+A libre lightweight streaming front-end for Android.
+language: Java
+stars: 36,012
+forked: 3,350
+stars today: 10
+
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,775
+forked: 3,931
+stars today: 1
+
+apache/seatunnel
+https://github.com/apache/seatunnel
+SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+language: Java
+stars: 8,992
+forked: 2,141
+stars today: 3
+
+apache/polaris
+https://github.com/apache/polaris
+Apache Polaris, the interoperable, open source catalog for Apache Iceberg
+language: Java
+stars: 1,777
+forked: 346
+stars today: 0
+
+apache/hbase
+https://github.com/apache/hbase
+Apache HBase
+language: Java
+stars: 5,540
+forked: 3,387
+stars today: 4
+
+gsantner/markor
+https://github.com/gsantner/markor
+Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+language: Java
+stars: 4,968
+forked: 430
+stars today: 1
+
+1Panel-dev/CordysCRM
+https://github.com/1Panel-dev/CordysCRM
+🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
+language: Java
+stars: 1,520
+forked: 278
+stars today: 9
+
+jlortiz0/PlayerCollars
+https://github.com/jlortiz0/PlayerCollars
+Minecraft mod that allows players to wear collars
+language: Java
+stars: 55
+forked: 19
+stars today: 9
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 51,363
+forked: 11,118
+stars today: 5
+
+libgdx/libgdx
+https://github.com/libgdx/libgdx
+Desktop/Android/HTML5/iOS Java game development framework
+language: Java
+stars: 24,640
+forked: 6,527
+stars today: 1
+
+questdb/questdb
+https://github.com/questdb/questdb
+QuestDB is a high performance, open-source, time-series database
+language: Java
+stars: 16,498
+forked: 1,520
+stars today: 5
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 47,957
+forked: 3,982
+stars today: 14
+
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 28,957
+forked: 8,525
+stars today: 0
