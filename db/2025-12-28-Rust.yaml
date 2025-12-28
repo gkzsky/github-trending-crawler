@@ -1,0 +1,167 @@
+agrinman/tunnelto
+https://github.com/agrinman/tunnelto
+Expose your local web server to the internet with a public URL.
+language: Rust
+stars: 3,777
+forked: 207
+stars today: 590
+
+orhun/tuitar
+https://github.com/orhun/tuitar
+A portable guitar training tool & DIY kit 🎛️🎸
+language: Rust
+stars: 379
+forked: 16
+stars today: 8
+
+zama-ai/fhevm
+https://github.com/zama-ai/fhevm
+FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+language: Rust
+stars: 26,019
+forked: 2,414
+stars today: 1
+
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Text editor for your terminal: easy, powerful and fast
+language: Rust
+stars: 3,521
+forked: 111
+stars today: 300
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,287
+forked: 1,161
+stars today: 24
+
+lanyeeee/jmcomic-downloader
+https://github.com/lanyeeee/jmcomic-downloader
+禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
+language: Rust
+stars: 1,118
+forked: 73
+stars today: 10
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 3,448
+forked: 165
+stars today: 12
+
+reacherhq/check-if-email-exists
+https://github.com/reacherhq/check-if-email-exists
+Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+language: Rust
+stars: 7,078
+forked: 503
+stars today: 20
+
+apache/arrow-rs
+https://github.com/apache/arrow-rs
+Official Rust implementation of Apache Arrow
+language: Rust
+stars: 3,297
+forked: 1,071
+stars today: 3
+
+flowsurface-rs/flowsurface
+https://github.com/flowsurface-rs/flowsurface
+A native desktop charting platform for crypto markets
+language: Rust
+stars: 994
+forked: 161
+stars today: 203
+
+gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+A cross-platform, safe, pure-Rust graphics API.
+language: Rust
+stars: 15,955
+forked: 1,177
+stars today: 9
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 100,483
+forked: 3,253
+stars today: 37
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 27,645
+forked: 750
+stars today: 13
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 8,205
+forked: 1,842
+stars today: 5
+
+tokio-rs/tokio
+https://github.com/tokio-rs/tokio
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+language: Rust
+stars: 30,606
+forked: 2,866
+stars today: 11
+
+squidowl/halloy
+https://github.com/squidowl/halloy
+IRC application written in Rust
+language: Rust
+stars: 3,550
+forked: 146
+stars today: 9
+
+ratatui/ratatui
+https://github.com/ratatui/ratatui
+A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+language: Rust
+stars: 16,908
+forked: 537
+stars today: 55
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 61,606
+forked: 3,249
+stars today: 15
+
+SpikeHD/Dorion
+https://github.com/SpikeHD/Dorion
+Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
+language: Rust
+stars: 1,452
+forked: 39
+stars today: 201
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 27,674
+forked: 889
+stars today: 22
+
+nubskr/walrus
+https://github.com/nubskr/walrus
+🦭 High Performance kafka alternative written in rust
+language: Rust
+stars: 1,715
+forked: 61
+stars today: 19

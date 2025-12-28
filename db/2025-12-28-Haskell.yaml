@@ -1,0 +1,55 @@
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,120
+forked: 537
+stars today: 5
+
+IntersectMBO/plutus
+https://github.com/IntersectMBO/plutus
+The Plutus language implementation and tools
+language: Haskell
+stars: 1,626
+forked: 502
+stars today: 0
+
+cachix/cachix
+https://github.com/cachix/cachix
+Command line client for Nix binary cache hosting:
+language: Haskell
+stars: 987
+forked: 53
+stars today: 2
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,048
+forked: 3,724
+stars today: 12
+
+facebook/Haxl
+https://github.com/facebook/Haxl
+A Haskell library that simplifies access to remote data, such as databases or web-based services.
+language: Haskell
+stars: 4,403
+forked: 311
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,285
+forked: 1,142
+stars today: 2
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 3,064
+forked: 178
+stars today: 2

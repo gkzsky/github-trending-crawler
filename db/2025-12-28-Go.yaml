@@ -1,0 +1,159 @@
+pressly/goose
+https://github.com/pressly/goose
+A database migration tool. Supports SQL migrations and Go functions.
+language: Go
+stars: 9,767
+forked: 619
+stars today: 15
+
+dlvhdr/gh-dash
+https://github.com/dlvhdr/gh-dash
+A rich terminal UI for GitHub that doesn't break your flow.
+language: Go
+stars: 9,737
+forked: 312
+stars today: 29
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+A continuation of HomeBox the inventory and organization system built for the Home User
+language: Go
+stars: 4,577
+forked: 287
+stars today: 51
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 78,552
+forked: 4,863
+stars today: 25
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 30,632
+forked: 2,855
+stars today: 11
+
+rcourtman/Pulse
+https://github.com/rcourtman/Pulse
+Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+language: Go
+stars: 3,361
+forked: 131
+stars today: 44
+
+kubesphere/kubesphere
+https://github.com/kubesphere/kubesphere
+The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+language: Go
+stars: 16,788
+forked: 2,731
+stars today: 1
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+language: Go
+stars: 2,812
+forked: 440
+stars today: 7
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 3,460
+forked: 356
+stars today: 16
+
+avelino/awesome-go
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
+language: Go
+stars: 161,068
+forked: 12,855
+stars today: 102
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 41,788
+forked: 7,666
+stars today: 14
+
+IBM/sarama
+https://github.com/IBM/sarama
+Sarama is a Go library for Apache Kafka.
+language: Go
+stars: 12,358
+forked: 1,847
+stars today: 2
+
+stretchr/testify
+https://github.com/stretchr/testify
+A toolkit with common assertions and mocks that plays nicely with the standard library
+language: Go
+stars: 25,567
+forked: 1,687
+stars today: 6
+
+mostlygeek/llama-swap
+https://github.com/mostlygeek/llama-swap
+Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
+language: Go
+stars: 2,112
+forked: 144
+stars today: 9
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,603
+forked: 5,748
+stars today: 2
+
+xpzouying/xiaohongshu-mcp
+https://github.com/xpzouying/xiaohongshu-mcp
+MCP for xiaohongshu.com
+language: Go
+stars: 7,692
+forked: 1,207
+stars today: 16
+
+envoyproxy/gateway
+https://github.com/envoyproxy/gateway
+Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+language: Go
+stars: 2,357
+forked: 621
+stars today: 2
+
+lejianwen/rustdesk-api
+https://github.com/lejianwen/rustdesk-api
+Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
+language: Go
+stars: 2,451
+forked: 532
+stars today: 4
+
+henrygd/beszel
+https://github.com/henrygd/beszel
+Lightweight server monitoring hub with historical data, docker stats, and alerts.
+language: Go
+stars: 17,989
+forked: 568
+stars today: 64
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 39,524
+forked: 6,079
+stars today: 6

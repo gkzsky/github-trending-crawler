@@ -1,0 +1,71 @@
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 215,579
+forked: 49,742
+stars today: 152
+
+xerrors/Yuxi-Know
+https://github.com/xerrors/Yuxi-Know
+结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+language: Python
+stars: 3,483
+forked: 419
+stars today: 35
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 84,539
+forked: 12,015
+stars today: 143
+
+rendercv/rendercv
+https://github.com/rendercv/rendercv
+CV/resume generator for academics and engineers, YAML to PDF
+language: Python
+stars: 12,695
+forked: 837
+stars today: 634
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 6 lines of code
+language: Python
+stars: 10,617
+forked: 977
+stars today: 75
+
+ModelTC/LightX2V
+https://github.com/ModelTC/LightX2V
+Light Video Generation Inference Framework
+language: Python
+stars: 1,571
+forked: 109
+stars today: 16
+
+vibrantlabsai/ragas
+https://github.com/vibrantlabsai/ragas
+Supercharge Your LLM Application Evaluations 🚀
+language: Python
+stars: 11,922
+forked: 1,181
+stars today: 20
+
+facebookresearch/llm-transparency-tool
+https://github.com/facebookresearch/llm-transparency-tool
+LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models. *Check out demo at* https://huggingface.co/spaces/facebook/llm-transparency-tool-demo
+language: Python
+stars: 1,192
+forked: 100
+stars today: 34
+
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 14,219
+forked: 3,127
+stars today: 28
