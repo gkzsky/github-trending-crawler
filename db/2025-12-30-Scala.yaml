@@ -1,0 +1,127 @@
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,557
+forked: 28,987
+stars today: 2
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,511
+forked: 2,523
+stars today: 6
+
+chipsalliance/diplomacy
+https://github.com/chipsalliance/diplomacy
+-
+language: Scala
+stars: 22
+forked: 17
+stars today: 0
+
+chipsalliance/rocket-chip-inclusive-cache
+https://github.com/chipsalliance/rocket-chip-inclusive-cache
+An RTL generator for a last-level shared inclusive TileLink cache controller
+language: Scala
+stars: 22
+forked: 25
+stars today: 0
+
+dbpedia/extraction-framework
+https://github.com/dbpedia/extraction-framework
+The software used to extract structured data from Wikipedia
+language: Scala
+stars: 917
+forked: 296
+stars today: 0
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,519
+forked: 643
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 58
+forked: 54
+stars today: 1
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,796
+forked: 375
+stars today: 3
+
+SpinalHDL/SpinalHDL
+https://github.com/SpinalHDL/SpinalHDL
+Scala based HDL
+language: Scala
+stars: 1,897
+forked: 365
+stars today: 0
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 206
+forked: 52
+stars today: 1
+
+fpinscala/fpinscala
+https://github.com/fpinscala/fpinscala
+Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
+language: Scala
+stars: 5,744
+forked: 3,029
+stars today: 3
+
+ucb-bar/constellation
+https://github.com/ucb-bar/constellation
+A Chisel RTL generator for network-on-chip interconnects
+language: Scala
+stars: 223
+forked: 36
+stars today: 0
+
+hyperledger-identus/cloud-agent
+https://github.com/hyperledger-identus/cloud-agent
+Identus Cloud Agent
+language: Scala
+stars: 89
+forked: 27
+stars today: 0
+
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 52
+forked: 48
+stars today: 1
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,082
+forked: 797
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,171
+forked: 1,128
+stars today: 1
