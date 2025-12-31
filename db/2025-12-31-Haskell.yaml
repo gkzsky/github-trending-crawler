@@ -1,0 +1,103 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,299
+forked: 1,142
+stars today: 7
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,116
+forked: 3,728
+stars today: 34
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,732
+forked: 1,893
+stars today: 4
+
+yesodweb/wai
+https://github.com/yesodweb/wai
+Haskell Web Application Interface
+language: Haskell
+stars: 867
+forked: 275
+stars today: 0
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,812
+forked: 483
+stars today: 4
+
+crytic/echidna
+https://github.com/crytic/echidna
+Ethereum smart contract fuzzer
+language: Haskell
+stars: 3,058
+forked: 420
+stars today: 1
+
+nix-community/nixpkgs-update
+https://github.com/nix-community/nixpkgs-update
+Updating nixpkgs packages since 2018
+language: Haskell
+stars: 551
+forked: 87
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 234
+forked: 19
+stars today: 1
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,173
+forked: 749
+stars today: 0
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,132
+forked: 540
+stars today: 4
+
+agda/agda
+https://github.com/agda/agda
+Agda is a dependently typed programming language / interactive theorem prover.
+language: Haskell
+stars: 2,766
+forked: 395
+stars today: 1
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 726
+forked: 90
+stars today: 1
+
+haskell/text
+https://github.com/haskell/text
+Haskell library for space- and time-efficient operations over Unicode text.
+language: Haskell
+stars: 421
+forked: 160
+stars today: 0

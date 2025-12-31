@@ -1,0 +1,159 @@
+alibaba/spring-cloud-alibaba
+https://github.com/alibaba/spring-cloud-alibaba
+Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+language: Java
+stars: 28,972
+forked: 8,522
+stars today: 6
+
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+language: Java
+stars: 26,184
+forked: 2,404
+stars today: 23
+
+mockito/mockito
+https://github.com/mockito/mockito
+Most popular Mocking framework for unit tests written in Java
+language: Java
+stars: 15,379
+forked: 2,650
+stars today: 9
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 25,520
+forked: 7,330
+stars today: 11
+
+strimzi/strimzi-kafka-operator
+https://github.com/strimzi/strimzi-kafka-operator
+Apache Kafka® running on Kubernetes
+language: Java
+stars: 5,623
+forked: 1,438
+stars today: 2
+
+apache/flink
+https://github.com/apache/flink
+Apache Flink
+language: Java
+stars: 25,649
+forked: 13,810
+stars today: 7
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 15,368
+forked: 3,040
+stars today: 1
+
+Stirling-Tools/Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+language: TypeScript
+stars: 72,379
+forked: 6,147
+stars today: 371
+
+apache/beam
+https://github.com/apache/beam
+Apache Beam is a unified programming model for Batch and Streaming data processing.
+language: Java
+stars: 8,425
+forked: 4,472
+stars today: 2
+
+languagetool-org/languagetool
+https://github.com/languagetool-org/languagetool
+Style and Grammar Checker for 25+ Languages
+language: Java
+stars: 13,902
+forked: 1,473
+stars today: 8
+
+kafbat/kafka-ui
+https://github.com/kafbat/kafka-ui
+Open-Source Web UI for managing Apache Kafka clusters
+language: Java
+stars: 1,868
+forked: 232
+stars today: 7
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 34,680
+forked: 16,261
+stars today: 5
+
+apache/cassandra
+https://github.com/apache/cassandra
+Apache Cassandra®
+language: Java
+stars: 9,553
+forked: 3,814
+stars today: 0
+
+apache/shardingsphere
+https://github.com/apache/shardingsphere
+Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+language: Java
+stars: 20,614
+forked: 6,910
+stars today: 3
+
+openjdk/jdk
+https://github.com/openjdk/jdk
+JDK main-line development https://openjdk.org/projects/jdk
+language: Java
+stars: 22,291
+forked: 6,208
+stars today: 9
+
+apache/nifi
+https://github.com/apache/nifi
+Apache NiFi
+language: Java
+stars: 5,885
+forked: 2,917
+stars today: 0
+
+JetBrains/intellij-community
+https://github.com/JetBrains/intellij-community
+IntelliJ IDEA & IntelliJ Platform
+language: Java
+stars: 19,443
+forked: 5,647
+stars today: 8
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 9,399
+forked: 6,198
+stars today: 1
+
+AutoMQ/automq
+https://github.com/AutoMQ/automq
+AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+language: Java
+stars: 8,969
+forked: 618
+stars today: 29
+
+MeteorDevelopment/meteor-client
+https://github.com/MeteorDevelopment/meteor-client
+Based Minecraft utility mod.
+language: Java
+stars: 3,145
+forked: 1,286
+stars today: 8
