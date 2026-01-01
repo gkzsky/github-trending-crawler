@@ -1,0 +1,119 @@
+google-gemini/computer-use-preview
+https://github.com/google-gemini/computer-use-preview
+-
+language: Python
+stars: 2,347
+forked: 304
+stars today: 59
+
+timescale/pg-aiguide
+https://github.com/timescale/pg-aiguide
+MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+language: Python
+stars: 1,031
+forked: 52
+stars today: 314
+
+sansan0/TrendRadar
+https://github.com/sansan0/TrendRadar
+🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+language: Python
+stars: 41,792
+forked: 21,128
+stars today: 141
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 19,973
+forked: 2,608
+stars today: 436
+
+alexta69/metube
+https://github.com/alexta69/metube
+Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+language: Python
+stars: 11,707
+forked: 793
+stars today: 252
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 76,677
+forked: 11,216
+stars today: 80
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 53,176
+forked: 1,500
+stars today: 798
+
+tencent-ailab/SongGeneration
+https://github.com/tencent-ailab/SongGeneration
+The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
+language: Python
+stars: 1,203
+forked: 146
+stars today: 87
+
+allenai/olmocr
+https://github.com/allenai/olmocr
+Toolkit for linearizing PDFs for LLM datasets/training
+language: Python
+stars: 16,534
+forked: 1,300
+stars today: 30
+
+scipy/scipy
+https://github.com/scipy/scipy
+SciPy library main repository
+language: Python
+stars: 14,300
+forked: 5,569
+stars today: 3
+
+anthropics/skills
+https://github.com/anthropics/skills
+Public repository for Agent Skills
+language: Python
+stars: 31,010
+forked: 2,826
+stars today: 842
+
+rossant/awesome-math
+https://github.com/rossant/awesome-math
+A curated list of awesome mathematics resources
+language: Python
+stars: 12,621
+forked: 1,248
+stars today: 14
+
+ucbepic/docetl
+https://github.com/ucbepic/docetl
+A system for agentic LLM-powered data processing and ETL
+language: Python
+stars: 3,354
+forked: 359
+stars today: 15
+
+meizhong986/WhisperJAV
+https://github.com/meizhong986/WhisperJAV
+-
+language: Python
+stars: 578
+forked: 56
+stars today: 116
+
+bridgecrewio/checkov
+https://github.com/bridgecrewio/checkov
+Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+language: Python
+stars: 8,357
+forked: 1,297
+stars today: 6
