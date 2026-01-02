@@ -1,0 +1,151 @@
+usememos/memos
+https://github.com/usememos/memos
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+language: Go
+stars: 48,107
+forked: 3,461
+stars today: 82
+
+FiloSottile/age
+https://github.com/FiloSottile/age
+A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+language: Go
+stars: 20,756
+forked: 593
+stars today: 33
+
+hashicorp/consul
+https://github.com/hashicorp/consul
+Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+language: Go
+stars: 29,646
+forked: 4,557
+stars today: 2
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 17,330
+forked: 1,256
+stars today: 10
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 131,706
+forked: 18,672
+stars today: 14
+
+v2fly/v2ray-core
+https://github.com/v2fly/v2ray-core
+A platform for building proxies to bypass network restrictions.
+language: Go
+stars: 32,882
+forked: 4,955
+stars today: 12
+
+JanDeDobbeleer/oh-my-posh
+https://github.com/JanDeDobbeleer/oh-my-posh
+The most customisable and low-latency cross platform/shell prompt renderer
+language: Go
+stars: 21,073
+forked: 2,656
+stars today: 11
+
+TwiN/gatus
+https://github.com/TwiN/gatus
+The most advanced status page in the world
+language: Go
+stars: 9,442
+forked: 632
+stars today: 5
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 76,460
+forked: 2,652
+stars today: 35
+
+0xJacky/nginx-ui
+https://github.com/0xJacky/nginx-ui
+Yet another WebUI for Nginx
+language: Go
+stars: 10,263
+forked: 749
+stars today: 9
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 12,611
+forked: 904
+stars today: 19
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+language: Go
+stars: 17,452
+forked: 2,074
+stars today: 8
+
+juicedata/juicefs
+https://github.com/juicedata/juicefs
+JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+language: Go
+stars: 12,616
+forked: 1,131
+stars today: 5
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 10,158
+forked: 2,693
+stars today: 1
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 8,908
+forked: 694
+stars today: 13
+
+krau/SaveAny-Bot
+https://github.com/krau/SaveAny-Bot
+Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
+language: Go
+stars: 1,692
+forked: 150
+stars today: 61
+
+projectdiscovery/katana
+https://github.com/projectdiscovery/katana
+A next-generation crawling and spidering framework.
+language: Go
+stars: 15,198
+forked: 886
+stars today: 3
+
+plandex-ai/plandex
+https://github.com/plandex-ai/plandex
+Open source AI coding agent. Designed for large projects and real world tasks.
+language: Go
+stars: 14,828
+forked: 1,070
+stars today: 8
+
+nginx/kubernetes-ingress
+https://github.com/nginx/kubernetes-ingress
+NGINX and NGINX Plus Ingress Controllers for Kubernetes
+language: Go
+stars: 4,914
+forked: 2,008
+stars today: 0
