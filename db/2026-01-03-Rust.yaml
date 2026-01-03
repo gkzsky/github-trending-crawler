@@ -1,0 +1,159 @@
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 43,816
+forked: 4,306
+stars today: 31
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Get 10X more out of Claude Code, Codex or any coding agent
+language: Rust
+stars: 11,413
+forked: 1,023
+stars today: 721
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 16,928
+forked: 2,006
+stars today: 17
+
+paritytech/polkadot-sdk
+https://github.com/paritytech/polkadot-sdk
+The Parity Polkadot Blockchain SDK
+language: Rust
+stars: 2,643
+forked: 1,106
+stars today: 4
+
+rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer
+A Rust compiler front-end for IDEs
+language: Rust
+stars: 15,889
+forked: 1,907
+stars today: 10
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 109,049
+forked: 14,275
+stars today: 39
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 31,106
+forked: 675
+stars today: 53
+
+glzr-io/glazewm
+https://github.com/glzr-io/glazewm
+GlazeWM is a tiling window manager for Windows inspired by i3wm.
+language: Rust
+stars: 10,985
+forked: 321
+stars today: 10
+
+raphamorim/rio
+https://github.com/raphamorim/rio
+A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+language: Rust
+stars: 6,240
+forked: 244
+stars today: 10
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,472
+forked: 1,700
+stars today: 8
+
+HelixDB/helix-db
+https://github.com/HelixDB/helix-db
+HelixDB is an open-source graph-vector database built from scratch in Rust.
+language: Rust
+stars: 3,584
+forked: 184
+stars today: 32
+
+Fredolx/open-tv
+https://github.com/Fredolx/open-tv
+Ultra-fast, simple and powerful cross-platform IPTV app
+language: Rust
+stars: 2,921
+forked: 148
+stars today: 20
+
+wezterm/wezterm
+https://github.com/wezterm/wezterm
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+language: Rust
+stars: 23,159
+forked: 1,097
+stars today: 25
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 57,891
+forked: 16,323
+stars today: 22
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 37,731
+forked: 1,998
+stars today: 14
+
+aome510/spotify-player
+https://github.com/aome510/spotify-player
+A Spotify player in the terminal with full feature parity
+language: Rust
+stars: 6,042
+forked: 304
+stars today: 6
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 9,078
+forked: 851
+stars today: 23
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 15,334
+forked: 468
+stars today: 35
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 25,387
+forked: 2,283
+stars today: 66
+
+modrinth/code
+https://github.com/modrinth/code
+The Modrinth monorepo containing all code which powers Modrinth!
+language: Rust
+stars: 1,808
+forked: 364
+stars today: 5

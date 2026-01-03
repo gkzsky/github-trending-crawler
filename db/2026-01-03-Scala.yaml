@@ -1,0 +1,143 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,531
+forked: 2,527
+stars today: 7
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,581
+forked: 28,985
+stars today: 9
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,496
+forked: 1,977
+stars today: 1
+
+apache/carbondata
+https://github.com/apache/carbondata
+High performance data store solution
+language: Scala
+stars: 1,444
+forked: 702
+stars today: 0
+
+apache/incubator-retired-gearpump
+https://github.com/apache/incubator-retired-gearpump
+Mirror of Apache Gearpump (Incubating)
+language: Scala
+stars: 295
+forked: 90
+stars today: 0
+
+rtyley/bfg-repo-cleaner
+https://github.com/rtyley/bfg-repo-cleaner
+Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+language: Scala
+stars: 11,912
+forked: 576
+stars today: 4
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Scala
+stars: 856
+forked: 242
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 59
+forked: 54
+stars today: 1
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,807
+forked: 375
+stars today: 1
+
+graphframes/graphframes
+https://github.com/graphframes/graphframes
+GraphFrames is a package for Apache Spark which provides DataFrame-based Graphs
+language: Scala
+stars: 1,125
+forked: 260
+stars today: 0
+
+akka/akka-core
+https://github.com/akka/akka-core
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,246
+forked: 3,583
+stars today: 1
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,518
+forked: 643
+stars today: 0
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,083
+forked: 797
+stars today: 1
+
+fpinscala/fpinscala
+https://github.com/fpinscala/fpinscala
+Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
+language: Scala
+stars: 5,752
+forked: 3,031
+stars today: 1
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,823
+forked: 856
+stars today: 2
+
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 55
+forked: 53
+stars today: 0
+
+SpinalHDL/SpinalHDL
+https://github.com/SpinalHDL/SpinalHDL
+Scala based HDL
+language: Scala
+stars: 1,899
+forked: 365
+stars today: 1
+
+ucb-bar/chiseltest
+https://github.com/ucb-bar/chiseltest
+The batteries-included testing and formal verification library for Chisel-based RTL designs.
+language: Scala
+stars: 232
+forked: 74
+stars today: 0
