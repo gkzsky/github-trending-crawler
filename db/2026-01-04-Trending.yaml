@@ -1,0 +1,63 @@
+usememos/memos
+https://github.com/usememos/memos
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+language: Go
+stars: 50,322
+forked: 3,625
+stars today: 819
+
+ourongxing/newsnow
+https://github.com/ourongxing/newsnow
+Elegant reading of real-time and hottest news
+language: TypeScript
+stars: 16,342
+forked: 4,764
+stars today: 314
+
+pathwaycom/pathway
+https://github.com/pathwaycom/pathway
+Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+language: Python
+stars: 55,988
+forked: 1,530
+stars today: 1,219
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Financial data platform for analysts, quants and AI agents.
+language: Python
+stars: 56,478
+forked: 5,495
+stars today: 195
+
+HQarroum/docker-android
+https://github.com/HQarroum/docker-android
+🤖 A minimal and customizable Docker image running the Android emulator as a service.
+language: Shell
+stars: 2,186
+forked: 131
+stars today: 518
+
+beancount/beancount
+https://github.com/beancount/beancount
+Beancount: Double-Entry Accounting from Text Files.
+language: Python
+stars: 4,977
+forked: 385
+stars today: 111
+
+maplibre/maplibre-gl-js
+https://github.com/maplibre/maplibre-gl-js
+MapLibre GL JS - Interactive vector tile maps in the browser
+language: TypeScript
+stars: 9,102
+forked: 958
+stars today: 23
+
+nukeop/nuclear
+https://github.com/nukeop/nuclear
+Streaming music player that finds free music for you
+language: TypeScript
+stars: 16,815
+forked: 1,254
+stars today: 96

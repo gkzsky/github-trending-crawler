@@ -1,0 +1,151 @@
+usememos/memos
+https://github.com/usememos/memos
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+language: Go
+stars: 50,322
+forked: 3,625
+stars today: 819
+
+gravitational/teleport
+https://github.com/gravitational/teleport
+The easiest, and most secure way to access and protect all of your infrastructure.
+language: Go
+stars: 19,610
+forked: 1,968
+stars today: 7
+
+TwiN/gatus
+https://github.com/TwiN/gatus
+The most advanced status page in the world
+language: Go
+stars: 9,485
+forked: 635
+stars today: 7
+
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+MCP Toolbox for Databases is an open source MCP server for databases.
+language: Go
+stars: 12,111
+forked: 1,093
+stars today: 43
+
+danielpaulus/go-ios
+https://github.com/danielpaulus/go-ios
+This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
+language: Go
+stars: 1,687
+forked: 275
+stars today: 22
+
+containers/kubernetes-mcp-server
+https://github.com/containers/kubernetes-mcp-server
+Model Context Protocol (MCP) server for Kubernetes and OpenShift
+language: Go
+stars: 934
+forked: 207
+stars today: 4
+
+getsops/sops
+https://github.com/getsops/sops
+Simple and flexible tool for managing secrets
+language: Go
+stars: 20,360
+forked: 996
+stars today: 10
+
+KaijuEngine/kaiju
+https://github.com/KaijuEngine/kaiju
+General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+language: Go
+stars: 4,032
+forked: 148
+stars today: 17
+
+autobrr/qui
+https://github.com/autobrr/qui
+A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+language: Go
+stars: 1,729
+forked: 48
+stars today: 52
+
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 5,967
+forked: 1,152
+stars today: 7
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 71,307
+forked: 18,876
+stars today: 6
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 17,363
+forked: 1,260
+stars today: 16
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 18,907
+forked: 1,711
+stars today: 8
+
+ory/hydra
+https://github.com/ory/hydra
+Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.
+language: Go
+stars: 16,802
+forked: 1,601
+stars today: 7
+
+grafana/alloy
+https://github.com/grafana/alloy
+OpenTelemetry Collector distribution with programmable pipelines
+language: Go
+stars: 2,772
+forked: 494
+stars today: 3
+
+ory/kratos
+https://github.com/ory/kratos
+Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
+language: Go
+stars: 13,304
+forked: 1,091
+stars today: 5
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,617
+forked: 5,747
+stars today: 2
+
+nginx/nginx-gateway-fabric
+https://github.com/nginx/nginx-gateway-fabric
+NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+language: Go
+stars: 892
+forked: 160
+stars today: 1
+
+traefik/traefik
+https://github.com/traefik/traefik
+The Cloud Native Application Proxy
+language: Go
+stars: 60,865
+forked: 5,761
+stars today: 19

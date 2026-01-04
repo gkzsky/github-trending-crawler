@@ -1,0 +1,143 @@
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 25,420
+forked: 2,286
+stars today: 46
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 16,947
+forked: 624
+stars today: 37
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 39,301
+forked: 4,558
+stars today: 8
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 16,950
+forked: 2,013
+stars today: 26
+
+BloopAI/vibe-kanban
+https://github.com/BloopAI/vibe-kanban
+Get 10X more out of Claude Code, Codex or any coding agent
+language: Rust
+stars: 12,026
+forked: 1,108
+stars today: 549
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 55,158
+forked: 7,062
+stars today: 57
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 43,832
+forked: 4,306
+stars today: 18
+
+slint-ui/slint
+https://github.com/slint-ui/slint
+Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+language: Rust
+stars: 21,374
+forked: 799
+stars today: 9
+
+kaspanet/rusty-kaspa
+https://github.com/kaspanet/rusty-kaspa
+Kaspa full-node reference implementation and related libraries in the Rust programming language
+language: Rust
+stars: 756
+forked: 259
+stars today: 3
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,448
+forked: 1,168
+stars today: 34
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 23,212
+forked: 2,319
+stars today: 12
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 15,357
+forked: 468
+stars today: 41
+
+HelixDB/helix-db
+https://github.com/HelixDB/helix-db
+HelixDB is an open-source graph-vector database built from scratch in Rust.
+language: Rust
+stars: 3,601
+forked: 184
+stars today: 28
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+language: Rust
+stars: 8,840
+forked: 596
+stars today: 221
+
+reacherhq/check-if-email-exists
+https://github.com/reacherhq/check-if-email-exists
+Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+language: Rust
+stars: 7,217
+forked: 512
+stars today: 43
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 31,136
+forked: 675
+stars today: 41
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 31,666
+forked: 2,194
+stars today: 12
+
+touchHLE/touchHLE
+https://github.com/touchHLE/touchHLE
+High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
+language: Rust
+stars: 3,376
+forked: 185
+stars today: 30
