@@ -1,0 +1,151 @@
+usememos/memos
+https://github.com/usememos/memos
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+language: Go
+stars: 51,312
+forked: 3,701
+stars today: 1,719
+
+5rahim/seanime
+https://github.com/5rahim/seanime
+Open-source media server with a web interface and desktop app for anime and manga.
+language: Go
+stars: 2,176
+forked: 137
+stars today: 380
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 131,767
+forked: 18,688
+stars today: 26
+
+simulot/immich-go
+https://github.com/simulot/immich-go
+An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+language: Go
+stars: 5,102
+forked: 176
+stars today: 13
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+language: Go
+stars: 68,946
+forked: 4,586
+stars today: 28
+
+wailsapp/wails
+https://github.com/wailsapp/wails
+Create beautiful applications using Go
+language: Go
+stars: 32,016
+forked: 1,546
+stars today: 21
+
+johannesboyne/gofakes3
+https://github.com/johannesboyne/gofakes3
+A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
+language: Go
+stars: 713
+forked: 117
+stars today: 21
+
+keploy/keploy
+https://github.com/keploy/keploy
+API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+language: Go
+stars: 14,651
+forked: 1,939
+stars today: 94
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 70,151
+forked: 2,419
+stars today: 56
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 158,784
+forked: 14,064
+stars today: 78
+
+open-policy-agent/opa
+https://github.com/open-policy-agent/opa
+Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+language: Go
+stars: 11,046
+forked: 1,499
+stars today: 5
+
+knadh/listmonk
+https://github.com/knadh/listmonk
+High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+language: Go
+stars: 18,591
+forked: 1,872
+stars today: 4
+
+TwiN/gatus
+https://github.com/TwiN/gatus
+Automated developer-oriented status page with alerting and incident support
+language: Go
+stars: 9,516
+forked: 635
+stars today: 43
+
+AlistGo/alist
+https://github.com/AlistGo/alist
+🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+language: Go
+stars: 48,761
+forked: 7,998
+stars today: 11
+
+charmbracelet/vhs
+https://github.com/charmbracelet/vhs
+Your CLI home video recorder 📼
+language: Go
+stars: 18,175
+forked: 352
+stars today: 13
+
+steveiliop56/tinyauth
+https://github.com/steveiliop56/tinyauth
+The simplest way to protect your apps with a login screen.
+language: Go
+stars: 6,662
+forked: 208
+stars today: 19
+
+kubevirt/kubevirt
+https://github.com/kubevirt/kubevirt
+Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+language: Go
+stars: 6,588
+forked: 1,568
+stars today: 1
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 23,631
+forked: 783
+stars today: 19
+
+filebrowser/filebrowser
+https://github.com/filebrowser/filebrowser
+📂 Web File Browser
+language: Go
+stars: 32,775
+forked: 3,635
+stars today: 21
