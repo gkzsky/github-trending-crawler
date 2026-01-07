@@ -1,0 +1,151 @@
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+language: Rust
+stars: 9,620
+forked: 654
+stars today: 230
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 17,408
+forked: 751
+stars today: 24
+
+atuinsh/atuin
+https://github.com/atuinsh/atuin
+✨ Magical shell history
+language: Rust
+stars: 27,789
+forked: 756
+stars today: 24
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 17,129
+forked: 2,036
+stars today: 103
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 30,741
+forked: 1,095
+stars today: 26
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 55,363
+forked: 7,106
+stars today: 80
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 72,735
+forked: 6,512
+stars today: 101
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 105,260
+forked: 15,541
+stars today: 58
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 105,747
+forked: 5,851
+stars today: 13
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 22,778
+forked: 792
+stars today: 41
+
+GreptimeTeam/greptimedb
+https://github.com/GreptimeTeam/greptimedb
+Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
+language: Rust
+stars: 5,882
+forked: 444
+stars today: 4
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 61,331
+forked: 11,074
+stars today: 20
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 2,794
+forked: 434
+stars today: 6
+
+neondatabase/neon
+https://github.com/neondatabase/neon
+Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+language: Rust
+stars: 20,621
+forked: 865
+stars today: 8
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 44,978
+forked: 1,685
+stars today: 24
+
+quickwit-oss/quickwit
+https://github.com/quickwit-oss/quickwit
+Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+language: Rust
+stars: 10,738
+forked: 501
+stars today: 10
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Extremely fast Query Engine for DataFrames, written in Rust
+language: Rust
+stars: 36,847
+forked: 2,545
+stars today: 25
+
+launchbadge/sqlx
+https://github.com/launchbadge/sqlx
+🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+language: Rust
+stars: 16,288
+forked: 1,538
+stars today: 9
+
+ast-grep/ast-grep
+https://github.com/ast-grep/ast-grep
+⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+language: Rust
+stars: 11,913
+forked: 300
+stars today: 37
