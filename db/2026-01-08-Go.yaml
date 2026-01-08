@@ -1,0 +1,159 @@
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+Cloud Native Policy Management
+language: Go
+stars: 7,264
+forked: 1,174
+stars today: 8
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 27,288
+forked: 5,062
+stars today: 15
+
+grafana/k6
+https://github.com/grafana/k6
+A modern load testing tool, using Go and JavaScript
+language: Go
+stars: 29,596
+forked: 1,478
+stars today: 16
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 21,671
+forked: 6,701
+stars today: 13
+
+abhinavxd/libredesk
+https://github.com/abhinavxd/libredesk
+Modern, open source, self-hosted customer support desk. Single binary app.
+language: Go
+stars: 2,036
+forked: 123
+stars today: 24
+
+rancher/rancher
+https://github.com/rancher/rancher
+Complete container management platform
+language: Go
+stars: 25,044
+forked: 3,137
+stars today: 2
+
+m1k1o/neko
+https://github.com/m1k1o/neko
+A self hosted virtual browser that runs in docker and uses WebRTC.
+language: Go
+stars: 16,601
+forked: 1,125
+stars today: 100
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end realtime stack for connecting humans and AI
+language: Go
+stars: 16,418
+forked: 1,662
+stars today: 24
+
+vllm-project/semantic-router
+https://github.com/vllm-project/semantic-router
+System Level Intelligent Router for Mixture-of-Models
+language: Go
+stars: 2,666
+forked: 389
+stars today: 27
+
+knadh/listmonk
+https://github.com/knadh/listmonk
+High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+language: Go
+stars: 18,663
+forked: 1,886
+stars today: 23
+
+distribution/distribution
+https://github.com/distribution/distribution
+The toolkit to pack, ship, store, and deliver container content
+language: Go
+stars: 10,175
+forked: 2,697
+stars today: 7
+
+projectdiscovery/katana
+https://github.com/projectdiscovery/katana
+A next-generation crawling and spidering framework.
+language: Go
+stars: 15,279
+forked: 891
+stars today: 26
+
+jesseduffield/lazydocker
+https://github.com/jesseduffield/lazydocker
+The lazier way to manage everything docker
+language: Go
+stars: 48,933
+forked: 1,547
+stars today: 49
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,286
+forked: 3,225
+stars today: 1
+
+crossplane/crossplane
+https://github.com/crossplane/crossplane
+The Cloud Native Control Plane
+language: Go
+stars: 11,272
+forked: 1,124
+stars today: 7
+
+dapr/dapr
+https://github.com/dapr/dapr
+Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+language: Go
+stars: 25,406
+forked: 2,032
+stars today: 3
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+OpenTelemetry Collector
+language: Go
+stars: 6,478
+forked: 1,829
+stars today: 8
+
+kubernetes-sigs/karpenter
+https://github.com/kubernetes-sigs/karpenter
+Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+language: Go
+stars: 1,616
+forked: 404
+stars today: 6
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+language: Go
+stars: 76,687
+forked: 2,660
+stars today: 47
+
+containers/kubernetes-mcp-server
+https://github.com/containers/kubernetes-mcp-server
+Model Context Protocol (MCP) server for Kubernetes and OpenShift
+language: Go
+stars: 964
+forked: 213
+stars today: 9

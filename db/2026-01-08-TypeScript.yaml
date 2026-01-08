@@ -1,0 +1,119 @@
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 11,980
+forked: 752
+stars today: 703
+
+Lissy93/web-check
+https://github.com/Lissy93/web-check
+🕵️‍♂️ All-in-one OSINT tool for analysing any website
+language: TypeScript
+stars: 28,581
+forked: 2,298
+stars today: 783
+
+ChromeDevTools/chrome-devtools-mcp
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+Chrome DevTools for coding agents
+language: TypeScript
+stars: 19,028
+forked: 1,178
+stars today: 90
+
+anomalyco/opencode
+https://github.com/anomalyco/opencode
+The open source coding agent.
+language: TypeScript
+stars: 53,674
+forked: 4,556
+stars today: 1,870
+
+kubernetes-sigs/headlamp
+https://github.com/kubernetes-sigs/headlamp
+A Kubernetes web UI that is fully-featured, user-friendly and extensible
+language: TypeScript
+stars: 5,298
+forked: 507
+stars today: 14
+
+firecrawl/open-lovable
+https://github.com/firecrawl/open-lovable
+🔥 Clone and recreate any website as a modern React app in seconds
+language: TypeScript
+stars: 23,335
+forked: 4,536
+stars today: 39
+
+maplibre/maplibre-gl-js
+https://github.com/maplibre/maplibre-gl-js
+MapLibre GL JS - Interactive vector tile maps in the browser
+language: TypeScript
+stars: 9,554
+forked: 974
+stars today: 23
+
+yamadashy/repomix
+https://github.com/yamadashy/repomix
+📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+language: TypeScript
+stars: 21,048
+forked: 972
+stars today: 32
+
+mastra-ai/mastra
+https://github.com/mastra-ai/mastra
+From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+language: TypeScript
+stars: 19,189
+forked: 1,391
+stars today: 31
+
+hangwin/mcp-chrome
+https://github.com/hangwin/mcp-chrome
+Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+language: TypeScript
+stars: 9,838
+forked: 860
+stars today: 32
+
+YILS-LIN/short-video-factory
+https://github.com/YILS-LIN/short-video-factory
+一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
+language: TypeScript
+stars: 2,899
+forked: 408
+stars today: 115
+
+lencx/Noi
+https://github.com/lencx/Noi
+🚀 Less chaos. More flow.
+language: TypeScript
+stars: 8,390
+forked: 660
+stars today: 25
+
+apache/superset
+https://github.com/apache/superset
+Apache Superset is a Data Visualization and Data Exploration Platform
+language: TypeScript
+stars: 69,701
+forked: 16,442
+stars today: 34
+
+anthropics/claude-code-action
+https://github.com/anthropics/claude-code-action
+-
+language: TypeScript
+stars: 4,941
+forked: 1,351
+stars today: 261
+
+vercel/vercel
+https://github.com/vercel/vercel
+Develop. Preview. Ship.
+language: TypeScript
+stars: 14,595
+forked: 3,313
+stars today: 14
