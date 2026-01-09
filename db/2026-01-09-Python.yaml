@@ -1,0 +1,135 @@
+MiroMindAI/MiroThinker
+https://github.com/MiroMindAI/MiroThinker
+MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+language: Python
+stars: 3,516
+forked: 225
+stars today: 803
+
+NVlabs/alpasim
+https://github.com/NVlabs/alpasim
+-
+language: Python
+stars: 544
+forked: 43
+stars today: 65
+
+Lightricks/ComfyUI-LTXVideo
+https://github.com/Lightricks/ComfyUI-LTXVideo
+LTX-Video Support for ComfyUI
+language: Python
+stars: 2,668
+forked: 265
+stars today: 48
+
+NevaMind-AI/memU
+https://github.com/NevaMind-AI/memU
+Memory infrastructure for LLMs and AI agents
+language: Python
+stars: 3,862
+forked: 258
+stars today: 112
+
+HKUDS/VideoRAG
+https://github.com/HKUDS/VideoRAG
+[KDD'2026] "VideoRAG: Chat with Your Videos"
+language: Python
+stars: 2,077
+forked: 288
+stars today: 127
+
+mem0ai/mem0
+https://github.com/mem0ai/mem0
+Universal memory layer for AI Agents
+language: Python
+stars: 45,243
+forked: 4,932
+stars today: 77
+
+crewAIInc/crewAI
+https://github.com/crewAIInc/crewAI
+Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+language: Python
+stars: 42,427
+forked: 5,690
+stars today: 51
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 390,251
+forked: 41,712
+stars today: 194
+
+browser-use/browser-use
+https://github.com/browser-use/browser-use
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+language: Python
+stars: 75,027
+forked: 8,963
+stars today: 204
+
+hiyouga/LlamaFactory
+https://github.com/hiyouga/LlamaFactory
+Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+language: Python
+stars: 65,261
+forked: 7,931
+stars today: 105
+
+pytorch/pytorch
+https://github.com/pytorch/pytorch
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+language: Python
+stars: 96,452
+forked: 26,456
+stars today: 34
+
+MiroMindAI/MiroFlow
+https://github.com/MiroMindAI/MiroFlow
+MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
+language: Python
+stars: 1,958
+forked: 203
+stars today: 74
+
+microsoft/agent-framework
+https://github.com/microsoft/agent-framework
+A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+language: Python
+stars: 6,413
+forked: 1,001
+stars today: 29
+
+datawhalechina/all-in-rag
+https://github.com/datawhalechina/all-in-rag
+🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
+language: Python
+stars: 2,902
+forked: 1,322
+stars today: 51
+
+langchain-ai/langchain
+https://github.com/langchain-ai/langchain
+🦜🔗 The platform for reliable agents.
+language: Python
+stars: 123,766
+forked: 20,388
+stars today: 117
+
+LuckyOne7777/ChatGPT-Micro-Cap-Experiment
+https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment
+This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+language: Python
+stars: 7,226
+forked: 1,545
+stars today: 28
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1158+ languages!
+language: Python
+stars: 16,859
+forked: 1,358
+stars today: 273

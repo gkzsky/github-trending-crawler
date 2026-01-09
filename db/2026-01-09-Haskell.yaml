@@ -1,0 +1,79 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,293
+forked: 3,737
+stars today: 31
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,793
+forked: 1,893
+stars today: 11
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,166
+forked: 538
+stars today: 3
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,827
+forked: 484
+stars today: 10
+
+runtimeverification/haskell-backend
+https://github.com/runtimeverification/haskell-backend
+The symbolic execution engine powering the K Framework
+language: Haskell
+stars: 223
+forked: 42
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,332
+forked: 1,145
+stars today: 6
+
+nick8325/quickcheck
+https://github.com/nick8325/quickcheck
+Automatic testing of Haskell programs.
+language: Haskell
+stars: 770
+forked: 128
+stars today: 0
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,741
+forked: 334
+stars today: 0
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,690
+forked: 349
+stars today: 2
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,175
+forked: 749
+stars today: 1
