@@ -1,0 +1,127 @@
+ChromeDevTools/chrome-devtools-mcp
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+Chrome DevTools for coding agents
+language: TypeScript
+stars: 19,760
+forked: 1,210
+stars today: 432
+
+tailwindlabs/tailwindcss
+https://github.com/tailwindlabs/tailwindcss
+A utility-first CSS framework for rapid UI development.
+language: TypeScript
+stars: 92,490
+forked: 4,929
+stars today: 262
+
+C4illin/ConvertX
+https://github.com/C4illin/ConvertX
+💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+language: TypeScript
+stars: 13,967
+forked: 744
+stars today: 160
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 21,859
+forked: 2,097
+stars today: 831
+
+anomalyco/opencode
+https://github.com/anomalyco/opencode
+The open source coding agent.
+language: TypeScript
+stars: 57,550
+forked: 4,919
+stars today: 1,877
+
+kubernetes-sigs/headlamp
+https://github.com/kubernetes-sigs/headlamp
+A Kubernetes web UI that is fully-featured, user-friendly and extensible
+language: TypeScript
+stars: 5,342
+forked: 513
+stars today: 27
+
+apache/superset
+https://github.com/apache/superset
+Apache Superset is a Data Visualization and Data Exploration Platform
+language: TypeScript
+stars: 69,963
+forked: 16,467
+stars today: 233
+
+renovatebot/renovate
+https://github.com/renovatebot/renovate
+Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+language: TypeScript
+stars: 20,530
+forked: 2,894
+stars today: 15
+
+devcontainers/cli
+https://github.com/devcontainers/cli
+A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
+language: TypeScript
+stars: 2,340
+forked: 360
+stars today: 7
+
+supabase/supabase
+https://github.com/supabase/supabase
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+language: TypeScript
+stars: 95,908
+forked: 11,213
+stars today: 52
+
+Open-Dev-Society/OpenStock
+https://github.com/Open-Dev-Society/OpenStock
+OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+language: TypeScript
+stars: 7,020
+forked: 850
+stars today: 62
+
+microsoft/data-formulator
+https://github.com/microsoft/data-formulator
+🪄 Create rich visualizations with AI
+language: TypeScript
+stars: 14,700
+forked: 1,335
+stars today: 29
+
+Lissy93/web-check
+https://github.com/Lissy93/web-check
+🕵️‍♂️ All-in-one OSINT tool for analysing any website
+language: TypeScript
+stars: 29,185
+forked: 2,342
+stars today: 345
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 12,869
+forked: 805
+stars today: 488
+
+microsoft/playwright
+https://github.com/microsoft/playwright
+Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+language: TypeScript
+stars: 80,980
+forked: 4,991
+stars today: 37
+
+YILS-LIN/short-video-factory
+https://github.com/YILS-LIN/short-video-factory
+一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
+language: TypeScript
+stars: 2,974
+forked: 426
+stars today: 40

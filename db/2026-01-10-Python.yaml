@@ -1,0 +1,151 @@
+Lightricks/ComfyUI-LTXVideo
+https://github.com/Lightricks/ComfyUI-LTXVideo
+LTX-Video Support for ComfyUI
+language: Python
+stars: 2,791
+forked: 272
+stars today: 158
+
+MiroMindAI/MiroThinker
+https://github.com/MiroMindAI/MiroThinker
+MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+language: Python
+stars: 3,962
+forked: 248
+stars today: 619
+
+browser-use/browser-use
+https://github.com/browser-use/browser-use
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+language: Python
+stars: 75,154
+forked: 8,973
+stars today: 183
+
+modelscope/ms-swift
+https://github.com/modelscope/ms-swift
+Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3, Qwen3-MoE, DeepSeek-R1, GLM4.5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).
+language: Python
+stars: 12,067
+forked: 1,116
+stars today: 21
+
+VectifyAI/PageIndex
+https://github.com/VectifyAI/PageIndex
+📑 PageIndex: Document Index for Reasoning-based RAG
+language: Python
+stars: 5,049
+forked: 385
+stars today: 55
+
+TauricResearch/TradingAgents
+https://github.com/TauricResearch/TradingAgents
+TradingAgents: Multi-Agents LLM Financial Trading Framework
+language: Python
+stars: 27,817
+forked: 5,302
+stars today: 51
+
+dbt-labs/dbt-core
+https://github.com/dbt-labs/dbt-core
+dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+language: Python
+stars: 12,072
+forked: 2,230
+stars today: 5
+
+NVIDIA-NeMo/NeMo
+https://github.com/NVIDIA-NeMo/NeMo
+A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+language: Python
+stars: 16,488
+forked: 3,279
+stars today: 33
+
+psf/black
+https://github.com/psf/black
+The uncompromising Python code formatter
+language: Python
+stars: 41,290
+forked: 2,700
+stars today: 12
+
+HKUDS/VideoRAG
+https://github.com/HKUDS/VideoRAG
+[KDD'2026] "VideoRAG: Chat with Your Videos"
+language: Python
+stars: 2,235
+forked: 299
+stars today: 345
+
+9001/copyparty
+https://github.com/9001/copyparty
+Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+language: Python
+stars: 40,578
+forked: 1,668
+stars today: 97
+
+HKUDS/RAG-Anything
+https://github.com/HKUDS/RAG-Anything
+"RAG-Anything: All-in-One RAG Framework"
+language: Python
+stars: 11,992
+forked: 1,430
+stars today: 49
+
+flashinfer-ai/flashinfer
+https://github.com/flashinfer-ai/flashinfer
+FlashInfer: Kernel Library for LLM Serving
+language: Python
+stars: 4,545
+forked: 634
+stars today: 79
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1158+ languages!
+language: Python
+stars: 16,883
+forked: 1,359
+stars today: 36
+
+NevaMind-AI/memU
+https://github.com/NevaMind-AI/memU
+Memory infrastructure for LLMs and AI agents
+language: Python
+stars: 4,106
+forked: 271
+stars today: 502
+
+ultralytics/yolov5
+https://github.com/ultralytics/yolov5
+YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+language: Python
+stars: 56,591
+forked: 17,392
+stars today: 9
+
+pipecat-ai/pipecat
+https://github.com/pipecat-ai/pipecat
+Open Source framework for voice and multimodal conversational AI
+language: Python
+stars: 9,752
+forked: 1,607
+stars today: 29
+
+Genesis-Embodied-AI/Genesis
+https://github.com/Genesis-Embodied-AI/Genesis
+A generative world for general-purpose robotics & embodied AI learning.
+language: Python
+stars: 27,920
+forked: 2,582
+stars today: 14
+
+Comfy-Org/ComfyUI
+https://github.com/Comfy-Org/ComfyUI
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 99,624
+forked: 11,305
+stars today: 123
