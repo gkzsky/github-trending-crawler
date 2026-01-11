@@ -1,0 +1,103 @@
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: Shell
+stars: 54,785
+forked: 3,959
+stars today: 644
+
+ChromeDevTools/chrome-devtools-mcp
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+Chrome DevTools for coding agents
+language: TypeScript
+stars: 20,085
+forked: 1,225
+stars today: 291
+
+github/awesome-copilot
+https://github.com/github/awesome-copilot
+Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+language: JavaScript
+stars: 16,964
+forked: 1,959
+stars today: 152
+
+NevaMind-AI/memU
+https://github.com/NevaMind-AI/memU
+Memory infrastructure for LLMs and AI agents
+language: Python
+stars: 4,285
+forked: 283
+stars today: 78
+
+obra/superpowers
+https://github.com/obra/superpowers
+Claude Code superpowers: core skills library
+language: Shell
+stars: 16,223
+forked: 1,283
+stars today: 777
+
+google/googletest
+https://github.com/google/googletest
+GoogleTest - Google Testing and Mocking Framework
+language: C++
+stars: 38,024
+forked: 10,663
+stars today: 89
+
+xpipe-io/xpipe
+https://github.com/xpipe-io/xpipe
+Access your entire server infrastructure from your local desktop
+language: Java
+stars: 13,272
+forked: 513
+stars today: 75
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 22,370
+forked: 2,162
+stars today: 802
+
+C4illin/ConvertX
+https://github.com/C4illin/ConvertX
+💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+language: TypeScript
+stars: 14,275
+forked: 761
+stars today: 406
+
+opf/openproject
+https://github.com/opf/openproject
+OpenProject is the leading open source project management software.
+language: Ruby
+stars: 13,663
+forked: 3,002
+stars today: 16
+
+MiroMindAI/MiroThinker
+https://github.com/MiroMindAI/MiroThinker
+MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+language: Python
+stars: 4,244
+forked: 268
+stars today: 305
+
+hacksider/Deep-Live-Cam
+https://github.com/hacksider/Deep-Live-Cam
+real time face swap and one-click video deepfake with only a single image
+language: Python
+stars: 77,181
+forked: 11,285
+stars today: 119
+
+twentyhq/twenty
+https://github.com/twentyhq/twenty
+Building a modern alternative to Salesforce, powered by the community.
+language: TypeScript
+stars: 38,395
+forked: 4,895
+stars today: 214
