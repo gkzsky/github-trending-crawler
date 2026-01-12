@@ -1,0 +1,71 @@
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,180
+forked: 539
+stars today: 6
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,354
+forked: 3,737
+stars today: 24
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,176
+forked: 749
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,816
+forked: 1,890
+stars today: 11
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,337
+forked: 1,144
+stars today: 4
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 238
+forked: 19
+stars today: 1
+
+channable/icepeak
+https://github.com/channable/icepeak
+Icepeak is a fast JSON document store with push notification support.
+language: Haskell
+stars: 136
+forked: 4
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 732
+forked: 91
+stars today: 0
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 437
+forked: 8
+stars today: 2
