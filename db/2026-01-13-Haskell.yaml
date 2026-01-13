@@ -1,0 +1,103 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,372
+forked: 3,739
+stars today: 19
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,338
+forked: 1,144
+stars today: 1
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,700
+forked: 352
+stars today: 2
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,839
+forked: 484
+stars today: 8
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,196
+forked: 539
+stars today: 12
+
+ucsd-progsys/liquid-fixpoint
+https://github.com/ucsd-progsys/liquid-fixpoint
+Horn Clause Constraint Solving for Liquid Types
+language: Haskell
+stars: 156
+forked: 64
+stars today: 1
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 437
+forked: 8
+stars today: 2
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,709
+forked: 724
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 238
+forked: 19
+stars today: 0
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 734
+forked: 91
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,820
+forked: 1,890
+stars today: 8
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,466
+forked: 291
+stars today: 0
+
+IntersectMBO/cardano-ledger
+https://github.com/IntersectMBO/cardano-ledger
+The ledger implementation and specifications of the Cardano blockchain.
+language: Haskell
+stars: 282
+forked: 171
+stars today: 0
