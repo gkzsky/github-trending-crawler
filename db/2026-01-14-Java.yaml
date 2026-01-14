@@ -1,0 +1,151 @@
+TeamNewPipe/NewPipe
+https://github.com/TeamNewPipe/NewPipe
+A libre lightweight streaming front-end for Android.
+language: Java
+stars: 36,273
+forked: 3,377
+stars today: 19
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+language: Java
+stars: 10,369
+forked: 1,895
+stars today: 23
+
+apache/shardingsphere
+https://github.com/apache/shardingsphere
+Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+language: Java
+stars: 20,622
+forked: 6,912
+stars today: 2
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 31,703
+forked: 14,895
+stars today: 6
+
+apache/doris
+https://github.com/apache/doris
+Apache Doris is an easy-to-use, high performance and unified analytics database.
+language: Java
+stars: 14,875
+forked: 3,681
+stars today: 9
+
+strimzi/strimzi-kafka-operator
+https://github.com/strimzi/strimzi-kafka-operator
+Apache Kafka® running on Kubernetes
+language: Java
+stars: 5,642
+forked: 1,439
+stars today: 3
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 79,656
+forked: 41,798
+stars today: 12
+
+vespa-engine/vespa
+https://github.com/vespa-engine/vespa
+AI + Data, online. https://vespa.ai
+language: Java
+stars: 6,721
+forked: 692
+stars today: 2
+
+questdb/questdb
+https://github.com/questdb/questdb
+QuestDB is a high performance, open-source, time-series database
+language: Java
+stars: 16,555
+forked: 1,527
+stars today: 2
+
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 11,425
+forked: 3,333
+stars today: 4
+
+apache/calcite
+https://github.com/apache/calcite
+Apache Calcite
+language: Java
+stars: 5,040
+forked: 2,457
+stars today: 3
+
+junit-team/junit-framework
+https://github.com/junit-team/junit-framework
+✅ The programmer-friendly testing framework for Java and the JVM
+language: Java
+stars: 6,947
+forked: 1,637
+stars today: 3
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 12,411
+forked: 3,445
+stars today: 9
+
+kafbat/kafka-ui
+https://github.com/kafbat/kafka-ui
+Open-Source Web UI for managing Apache Kafka clusters
+language: Java
+stars: 1,915
+forked: 236
+stars today: 4
+
+jetty/jetty.project
+https://github.com/jetty/jetty.project
+Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
+language: Java
+stars: 4,050
+forked: 1,989
+stars today: 0
+
+unitycatalog/unitycatalog
+https://github.com/unitycatalog/unitycatalog
+Open, Multi-modal Catalog for Data & AI
+language: Java
+stars: 3,262
+forked: 562
+stars today: 5
+
+apache/cassandra
+https://github.com/apache/cassandra
+Apache Cassandra®
+language: Java
+stars: 9,582
+forked: 3,823
+stars today: 3
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 12,198
+forked: 2,369
+stars today: 6
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 24,893
+forked: 9,311
+stars today: 10

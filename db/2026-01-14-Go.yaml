@@ -1,0 +1,191 @@
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 11,515
+forked: 1,262
+stars today: 109
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+Staging repo for development of native port of TypeScript
+language: Go
+stars: 23,727
+forked: 791
+stars today: 9
+
+docker/compose
+https://github.com/docker/compose
+Define and run multi-container applications with Docker
+language: Go
+stars: 36,796
+forked: 5,692
+stars today: 11
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+language: Go
+stars: 26,509
+forked: 3,047
+stars today: 19
+
+derailed/k9s
+https://github.com/derailed/k9s
+🐶 Kubernetes CLI To Manage Your Clusters In Style!
+language: Go
+stars: 32,453
+forked: 2,048
+stars today: 15
+
+charmbracelet/lipgloss
+https://github.com/charmbracelet/lipgloss
+Style definitions for nice terminal layouts 👄
+language: Go
+stars: 10,322
+forked: 298
+stars today: 10
+
+kubernetes-sigs/kueue
+https://github.com/kubernetes-sigs/kueue
+Kubernetes-native Job Queueing
+language: Go
+stars: 2,253
+forked: 505
+stars today: 1
+
+VictoriaMetrics/VictoriaLogs
+https://github.com/VictoriaMetrics/VictoriaLogs
+Fast and easy to use database for logs, which can efficiently handle terabytes of logs
+language: Go
+stars: 1,169
+forked: 79
+stars today: 47
+
+gravitational/teleport
+https://github.com/gravitational/teleport
+The easiest, and most secure way to access and protect all of your infrastructure.
+language: Go
+stars: 19,663
+forked: 1,975
+stars today: 13
+
+openbao/openbao
+https://github.com/openbao/openbao
+OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+language: Go
+stars: 5,214
+forked: 308
+stars today: 11
+
+edoardottt/cariddi
+https://github.com/edoardottt/cariddi
+Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+language: Go
+stars: 3,204
+forked: 282
+stars today: 103
+
+safing/portmaster
+https://github.com/safing/portmaster
+🏔 Love Freedom - ❌ Block Mass Surveillance
+language: Go
+stars: 11,740
+forked: 433
+stars today: 27
+
+projectcalico/calico
+https://github.com/projectcalico/calico
+Cloud native networking and network security
+language: Go
+stars: 6,996
+forked: 1,526
+stars today: 2
+
+kubernetes/dashboard
+https://github.com/kubernetes/dashboard
+General-purpose web UI for Kubernetes clusters
+language: Go
+stars: 15,419
+forked: 4,290
+stars today: 3
+
+jackc/pgx
+https://github.com/jackc/pgx
+PostgreSQL driver and toolkit for Go
+language: Go
+stars: 13,159
+forked: 983
+stars today: 3
+
+usememos/memos
+https://github.com/usememos/memos
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+language: Go
+stars: 53,916
+forked: 3,869
+stars today: 411
+
+VictoriaMetrics/VictoriaMetrics
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+language: Go
+stars: 15,964
+forked: 1,536
+stars today: 14
+
+opencost/opencost
+https://github.com/opencost/opencost
+Cost monitoring for Kubernetes workloads and cloud costs
+language: Go
+stars: 6,257
+forked: 719
+stars today: 11
+
+publicsuffix/list
+https://github.com/publicsuffix/list
+The Public Suffix List
+language: Go
+stars: 2,700
+forked: 1,480
+stars today: 2
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+Main repository for Datadog Agent
+language: Go
+stars: 3,472
+forked: 1,369
+stars today: 3
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 71,346
+forked: 18,877
+stars today: 5
+
+gotenberg/gotenberg
+https://github.com/gotenberg/gotenberg
+A developer-friendly API for converting numerous document formats into PDF files, and more!
+language: Go
+stars: 10,920
+forked: 722
+stars today: 16
+
+weaviate/weaviate
+https://github.com/weaviate/weaviate
+Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+language: Go
+stars: 15,393
+forked: 1,175
+stars today: 9
+
+henrygd/beszel
+https://github.com/henrygd/beszel
+Lightweight server monitoring hub with historical data, docker stats, and alerts.
+language: Go
+stars: 18,604
+forked: 593
+stars today: 38
