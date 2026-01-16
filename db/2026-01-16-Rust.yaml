@@ -1,0 +1,175 @@
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 26,005
+forked: 2,355
+stars today: 84
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Extremely fast Query Engine for DataFrames, written in Rust
+language: Rust
+stars: 36,997
+forked: 2,559
+stars today: 17
+
+rolldown/rolldown
+https://github.com/rolldown/rolldown
+Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+language: Rust
+stars: 12,639
+forked: 683
+stars today: 9
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 5,519
+forked: 627
+stars today: 29
+
+datahaven-xyz/datahaven
+https://github.com/datahaven-xyz/datahaven
+An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
+language: Rust
+stars: 3,526
+forked: 65
+stars today: 518
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 35,024
+forked: 3,441
+stars today: 29
+
+linera-io/linera-protocol
+https://github.com/linera-io/linera-protocol
+Main repository for the Linera protocol
+language: Rust
+stars: 31,959
+forked: 2,260
+stars today: 3
+
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 3,526
+forked: 105
+stars today: 116
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 18,397
+forked: 788
+stars today: 20
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,548
+forked: 1,726
+stars today: 3
+
+aptos-labs/aptos-core
+https://github.com/aptos-labs/aptos-core
+Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+language: Rust
+stars: 6,425
+forked: 3,881
+stars today: 0
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 9,384
+forked: 524
+stars today: 48
+
+louis-e/arnis
+https://github.com/louis-e/arnis
+Generate any location from the real world in Minecraft with a high level of detail.
+language: Rust
+stars: 8,182
+forked: 762
+stars today: 8
+
+web-infra-dev/rspack
+https://github.com/web-infra-dev/rspack
+The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
+language: Rust
+stars: 12,387
+forked: 754
+stars today: 3
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 19,795
+forked: 850
+stars today: 90
+
+hyperium/hyper
+https://github.com/hyperium/hyper
+An HTTP library for Rust
+language: Rust
+stars: 15,858
+forked: 1,704
+stars today: 6
+
+rerun-io/rerun
+https://github.com/rerun-io/rerun
+An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+language: Rust
+stars: 9,971
+forked: 620
+stars today: 12
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 17,495
+forked: 758
+stars today: 5
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 44,094
+forked: 4,326
+stars today: 50
+
+tensorzero/tensorzero
+https://github.com/tensorzero/tensorzero
+TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+language: Rust
+stars: 10,814
+forked: 754
+stars today: 4
+
+cloud-hypervisor/cloud-hypervisor
+https://github.com/cloud-hypervisor/cloud-hypervisor
+A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+language: Rust
+stars: 5,169
+forked: 567
+stars today: 7
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 8,503
+forked: 705
+stars today: 15

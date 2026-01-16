@@ -1,0 +1,175 @@
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 70,250
+forked: 12,936
+stars today: 370
+
+joernio/joern
+https://github.com/joernio/joern
+Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+language: Scala
+stars: 2,839
+forked: 380
+stars today: 1
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,495
+forked: 562
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,544
+forked: 1,984
+stars today: 4
+
+com-lihaoyi/mill
+https://github.com/com-lihaoyi/mill
+A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-6x faster dev workflows than other JVM build tools
+language: Scala
+stars: 2,665
+forked: 427
+stars today: 0
+
+apache/kyuubi
+https://github.com/apache/kyuubi
+Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+language: Scala
+stars: 2,292
+forked: 980
+stars today: 2
+
+akka/akka-core
+https://github.com/akka/akka-core
+A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+language: Scala
+stars: 13,258
+forked: 3,583
+stars today: 1
+
+NVIDIA/spark-rapids
+https://github.com/NVIDIA/spark-rapids
+Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+language: Scala
+stars: 960
+forked: 270
+stars today: 0
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,637
+forked: 29,001
+stars today: 9
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,839
+forked: 864
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,182
+forked: 1,131
+stars today: 2
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,536
+forked: 647
+stars today: 3
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 62
+forked: 56
+stars today: 0
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 915
+forked: 215
+stars today: 0
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 538
+forked: 36
+stars today: 0
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,100
+forked: 803
+stars today: 1
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,661
+forked: 1,217
+stars today: 0
+
+riscv-boom/riscv-boom
+https://github.com/riscv-boom/riscv-boom
+SonicBOOM: The Berkeley Out-of-Order Machine
+language: Scala
+stars: 2,049
+forked: 475
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Scala
+stars: 861
+forked: 241
+stars today: 0
+
+hyperledger-identus/cloud-agent
+https://github.com/hyperledger-identus/cloud-agent
+Identus Cloud Agent
+language: Scala
+stars: 90
+forked: 27
+stars today: 0
+
+snowflakedb/spark-snowflake
+https://github.com/snowflakedb/spark-snowflake
+Snowflake Data Source for Apache Spark.
+language: Scala
+stars: 230
+forked: 107
+stars today: 0
+
+fpinscala/fpinscala
+https://github.com/fpinscala/fpinscala
+Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
+language: Scala
+stars: 5,763
+forked: 3,032
+stars today: 0
