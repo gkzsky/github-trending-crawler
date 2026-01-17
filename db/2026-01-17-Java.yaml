@@ -1,0 +1,143 @@
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 32,272
+forked: 7,966
+stars today: 21
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 12,220
+forked: 2,376
+stars today: 5
+
+debezium/debezium
+https://github.com/debezium/debezium
+Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
+language: Java
+stars: 12,295
+forked: 2,828
+stars today: 6
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 15,408
+forked: 3,057
+stars today: 4
+
+Snailclimb/JavaGuide
+https://github.com/Snailclimb/JavaGuide
+Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
+language: Java
+stars: 153,481
+forked: 46,101
+stars today: 20
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 24,922
+forked: 9,317
+stars today: 10
+
+apache/flink
+https://github.com/apache/flink
+Apache Flink
+language: Java
+stars: 25,719
+forked: 13,831
+stars today: 7
+
+spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework
+Spring Framework
+language: Java
+stars: 59,515
+forked: 38,910
+stars today: 9
+
+jd-opensource/joyagent-jdgenie
+https://github.com/jd-opensource/joyagent-jdgenie
+开源的端到端产品级通用智能体
+language: Java
+stars: 11,143
+forked: 1,485
+stars today: 15
+
+elastic/elasticsearch
+https://github.com/elastic/elasticsearch
+Free and Open Source, Distributed, RESTful Search Engine
+language: Java
+stars: 75,888
+forked: 25,791
+stars today: 12
+
+apache/hadoop
+https://github.com/apache/hadoop
+Apache Hadoop
+language: Java
+stars: 15,448
+forked: 9,185
+stars today: 2
+
+xoureldeen/Vectras-VM-Android
+https://github.com/xoureldeen/Vectras-VM-Android
+It's a Virtual Machine App for Android Which is Based on QEMU
+language: Java
+stars: 1,874
+forked: 160
+stars today: 1
+
+microsoft/typespec
+https://github.com/microsoft/typespec
+-
+language: Java
+stars: 5,539
+forked: 331
+stars today: 4
+
+apache/iceberg
+https://github.com/apache/iceberg
+Apache Iceberg
+language: Java
+stars: 8,440
+forked: 2,969
+stars today: 5
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 29,067
+forked: 6,659
+stars today: 22
+
+apache/polaris
+https://github.com/apache/polaris
+Apache Polaris, the interoperable, open source catalog for Apache Iceberg
+language: Java
+stars: 1,805
+forked: 357
+stars today: 0
+
+liferay/liferay-portal
+https://github.com/liferay/liferay-portal
+-
+language: Java
+stars: 2,219
+forked: 3,733
+stars today: 0
+
+xuxueli/xxl-job
+https://github.com/xuxueli/xxl-job
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+language: Java
+stars: 29,820
+forked: 11,436
+stars today: 8
