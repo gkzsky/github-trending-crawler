@@ -1,0 +1,159 @@
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 17,474
+forked: 641
+stars today: 50
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 14,010
+forked: 777
+stars today: 32
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso is an in-process SQL database, compatible with SQLite.
+language: Rust
+stars: 16,516
+forked: 689
+stars today: 51
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+language: Rust
+stars: 11,946
+forked: 775
+stars today: 162
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 19,901
+forked: 856
+stars today: 45
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 105,873
+forked: 15,653
+stars today: 54
+
+zensical/zensical
+https://github.com/zensical/zensical
+A modern static site generator by the Material for MkDocs team
+language: Rust
+stars: 2,521
+forked: 61
+stars today: 13
+
+Automattic/harper
+https://github.com/Automattic/harper
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+language: Rust
+stars: 9,328
+forked: 254
+stars today: 228
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,663
+forked: 1,178
+stars today: 33
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 25,529
+forked: 2,003
+stars today: 21
+
+spiceai/spiceai
+https://github.com/spiceai/spiceai
+A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
+language: Rust
+stars: 2,744
+forked: 164
+stars today: 20
+
+prefix-dev/pixi
+https://github.com/prefix-dev/pixi
+Package management made easy
+language: Rust
+stars: 6,147
+forked: 410
+stars today: 23
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 29,116
+forked: 1,463
+stars today: 11
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,168
+forked: 924
+stars today: 3
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 61,981
+forked: 3,276
+stars today: 26
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Multiplayer at the speed of light
+language: Rust
+stars: 18,864
+forked: 671
+stars today: 15
+
+maplibre/martin
+https://github.com/maplibre/martin
+Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+language: Rust
+stars: 3,271
+forked: 318
+stars today: 11
+
+rust-lang/rustlings
+https://github.com/rust-lang/rustlings
+🦀 Small exercises to get you used to reading and writing Rust code!
+language: Rust
+stars: 61,474
+forked: 11,098
+stars today: 20
+
+hyperium/tonic
+https://github.com/hyperium/tonic
+A native gRPC client & server implementation with async/await support.
+language: Rust
+stars: 11,719
+forked: 1,165
+stars today: 6
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 77,164
+forked: 2,455
+stars today: 65

@@ -1,0 +1,95 @@
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 21,619
+forked: 1,501
+stars today: 425
+
+OpenBMB/VoxCPM
+https://github.com/OpenBMB/VoxCPM
+VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+language: Python
+stars: 3,829
+forked: 447
+stars today: 310
+
+sansan0/TrendRadar
+https://github.com/sansan0/TrendRadar
+🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+language: Python
+stars: 43,534
+forked: 21,598
+stars today: 104
+
+paperless-ngx/paperless-ngx
+https://github.com/paperless-ngx/paperless-ngx
+A community-supported supercharged document management system: scan, index and archive all your documents
+language: Python
+stars: 35,699
+forked: 2,259
+stars today: 22
+
+anthropics/skills
+https://github.com/anthropics/skills
+Public repository for Agent Skills
+language: Python
+stars: 43,917
+forked: 4,074
+stars today: 796
+
+neuphonic/neutts
+https://github.com/neuphonic/neutts
+On-device TTS model by Neuphonic
+language: Python
+stars: 4,543
+forked: 483
+stars today: 43
+
+ultralytics/ultralytics
+https://github.com/ultralytics/ultralytics
+Ultralytics YOLO 🚀
+language: Python
+stars: 51,898
+forked: 9,930
+stars today: 227
+
+NVIDIA/physicsnemo
+https://github.com/NVIDIA/physicsnemo
+Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
+language: Python
+stars: 2,296
+forked: 552
+stars today: 4
+
+Wirasm/PRPs-agentic-eng
+https://github.com/Wirasm/PRPs-agentic-eng
+Prompts, workflows and more for agentic engineering
+language: Python
+stars: 1,906
+forked: 587
+stars today: 7
+
+wagtail/wagtail
+https://github.com/wagtail/wagtail
+A Django content management system focused on flexibility and user experience
+language: Python
+stars: 20,045
+forked: 4,369
+stars today: 6
+
+prowler-cloud/prowler
+https://github.com/prowler-cloud/prowler
+Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
+language: Python
+stars: 12,661
+forked: 1,923
+stars today: 35
+
+jumpserver/jumpserver
+https://github.com/jumpserver/jumpserver
+JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+language: Python
+stars: 29,634
+forked: 5,633
+stars today: 79
