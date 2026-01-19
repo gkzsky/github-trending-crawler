@@ -1,0 +1,39 @@
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 65
+forked: 90
+stars today: 1
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,657
+forked: 29,003
+stars today: 5
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,602
+forked: 2,540
+stars today: 5
+
+SpinalHDL/SpinalHDL
+https://github.com/SpinalHDL/SpinalHDL
+Scala based HDL
+language: Scala
+stars: 1,910
+forked: 366
+stars today: 1
+
+apache/datafusion-comet
+https://github.com/apache/datafusion-comet
+Apache DataFusion Comet Spark Accelerator
+language: Scala
+stars: 1,106
+forked: 270
+stars today: 2

@@ -1,0 +1,79 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,363
+forked: 1,146
+stars today: 4
+
+krispo/awesome-haskell
+https://github.com/krispo/awesome-haskell
+A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
+language: Haskell
+stars: 3,314
+forked: 177
+stars today: 3
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,508
+forked: 3,746
+stars today: 17
+
+mikeizbicki/HLearn
+https://github.com/mikeizbicki/HLearn
+Homomorphic machine learning
+language: Haskell
+stars: 1,724
+forked: 134
+stars today: 1
+
+jaspervdj/hakyll
+https://github.com/jaspervdj/hakyll
+A static website compiler library in Haskell
+language: Haskell
+stars: 2,906
+forked: 421
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,843
+forked: 1,893
+stars today: 6
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 441
+forked: 8
+stars today: 1
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 240
+forked: 19
+stars today: 0
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,742
+forked: 334
+stars today: 0
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,248
+forked: 546
+stars today: 4
