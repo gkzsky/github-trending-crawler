@@ -1,0 +1,39 @@
+business4s/workflows4s
+https://github.com/business4s/workflows4s
+Simple, Composable, Business-oriented Workflows for Scala
+language: Scala
+stars: 113
+forked: 34
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,552
+forked: 1,988
+stars today: 1
+
+apache/datafusion-comet
+https://github.com/apache/datafusion-comet
+Apache DataFusion Comet Spark Accelerator
+language: Scala
+stars: 1,106
+forked: 270
+stars today: 1
+
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 67
+forked: 94
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,607
+forked: 2,540
+stars today: 5

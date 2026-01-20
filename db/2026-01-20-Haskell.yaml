@@ -1,0 +1,55 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,367
+forked: 1,146
+stars today: 4
+
+NixOS/nixfmt
+https://github.com/NixOS/nixfmt
+The official formatter for Nix code
+language: Haskell
+stars: 1,402
+forked: 64
+stars today: 1
+
+krispo/awesome-haskell
+https://github.com/krispo/awesome-haskell
+A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
+language: Haskell
+stars: 3,317
+forked: 177
+stars today: 4
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 240
+forked: 19
+stars today: 0
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 443
+forked: 8
+stars today: 1
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,853
+forked: 1,894
+stars today: 9
+
+wireapp/wire-server
+https://github.com/wireapp/wire-server
+🇪🇺 Wire back-end services
+language: Haskell
+stars: 2,742
+forked: 334
+stars today: 0
