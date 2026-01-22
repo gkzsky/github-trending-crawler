@@ -1,0 +1,167 @@
+meshery/meshery
+https://github.com/meshery/meshery
+Meshery, the cloud native manager
+language: Go
+stars: 9,730
+forked: 2,970
+stars today: 16
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,060
+forked: 2,885
+stars today: 15
+
+AlexxIT/go2rtc
+https://github.com/AlexxIT/go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+language: Go
+stars: 11,812
+forked: 893
+stars today: 475
+
+kubernetes-sigs/gateway-api
+https://github.com/kubernetes-sigs/gateway-api
+Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+language: Go
+stars: 2,590
+forked: 657
+stars today: 8
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+language: Go
+stars: 2,926
+forked: 463
+stars today: 6
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 19,005
+forked: 1,720
+stars today: 9
+
+cert-manager/cert-manager
+https://github.com/cert-manager/cert-manager
+Automatically provision and manage TLS certificates in Kubernetes
+language: Go
+stars: 13,494
+forked: 2,300
+stars today: 3
+
+vllm-project/aibrix
+https://github.com/vllm-project/aibrix
+Cost-efficient and pluggable Infrastructure components for GenAI inference
+language: Go
+stars: 4,573
+forked: 521
+stars today: 12
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,831
+forked: 2,526
+stars today: 4
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 8,252
+forked: 755
+stars today: 8
+
+maliceio/malice
+https://github.com/maliceio/malice
+VirusTotal Wanna Be - Now with 100% more Hipster
+language: Go
+stars: 1,840
+forked: 289
+stars today: 8
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,649
+forked: 5,757
+stars today: 5
+
+go-chi/chi
+https://github.com/go-chi/chi
+lightweight, idiomatic and composable router for building Go HTTP services
+language: Go
+stars: 21,400
+forked: 1,062
+stars today: 12
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+Find secrets with Gitleaks 🔑
+language: Go
+stars: 24,649
+forked: 1,886
+stars today: 19
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 39,628
+forked: 6,099
+stars today: 14
+
+coze-dev/coze-loop
+https://github.com/coze-dev/coze-loop
+Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+language: Go
+stars: 5,268
+forked: 725
+stars today: 7
+
+actions/actions-runner-controller
+https://github.com/actions/actions-runner-controller
+Kubernetes controller for GitHub Actions self-hosted runners
+language: Go
+stars: 5,965
+forked: 1,375
+stars today: 2
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 12,786
+forked: 921
+stars today: 16
+
+uber-go/zap
+https://github.com/uber-go/zap
+Blazing fast, structured, leveled logging in Go.
+language: Go
+stars: 24,155
+forked: 1,499
+stars today: 7
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+language: Go
+stars: 51,371
+forked: 10,290
+stars today: 5
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+A continuation of HomeBox the inventory and organization system built for the Home User
+language: Go
+stars: 4,963
+forked: 311
+stars today: 20
