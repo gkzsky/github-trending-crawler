@@ -1,0 +1,183 @@
+AlexxIT/go2rtc
+https://github.com/AlexxIT/go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+language: Go
+stars: 11,866
+forked: 901
+stars today: 72
+
+dgraph-io/badger
+https://github.com/dgraph-io/badger
+Fast key-value DB in Go.
+language: Go
+stars: 15,405
+forked: 1,276
+stars today: 6
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 13,869
+forked: 1,736
+stars today: 144
+
+redis/go-redis
+https://github.com/redis/go-redis
+Redis Go client
+language: Go
+stars: 21,840
+forked: 2,527
+stars today: 10
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 16,385
+forked: 3,459
+stars today: 3
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 18,349
+forked: 1,535
+stars today: 8
+
+kubernetes-sigs/agent-sandbox
+https://github.com/kubernetes-sigs/agent-sandbox
+agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
+language: Go
+stars: 769
+forked: 94
+stars today: 19
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+language: Go
+stars: 160,265
+forked: 14,247
+stars today: 128
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 19,275
+forked: 8,506
+stars today: 4
+
+aldinokemal/go-whatsapp-web-multidevice
+https://github.com/aldinokemal/go-whatsapp-web-multidevice
+GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP. Built with Golang for efficient memory use.
+language: Go
+stars: 3,392
+forked: 793
+stars today: 6
+
+grafana/mcp-grafana
+https://github.com/grafana/mcp-grafana
+MCP server for Grafana
+language: Go
+stars: 2,162
+forked: 239
+stars today: 8
+
+golang-migrate/migrate
+https://github.com/golang-migrate/migrate
+Database migrations. CLI and Golang library.
+language: Go
+stars: 17,988
+forked: 1,541
+stars today: 5
+
+kubernetes-sigs/gateway-api
+https://github.com/kubernetes-sigs/gateway-api
+Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+language: Go
+stars: 2,594
+forked: 657
+stars today: 5
+
+anchore/syft
+https://github.com/anchore/syft
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+language: Go
+stars: 8,259
+forked: 754
+stars today: 12
+
+coreybutler/nvm-windows
+https://github.com/coreybutler/nvm-windows
+A node.js version management utility for Windows. Ironically written in Go.
+language: Go
+stars: 44,568
+forked: 3,706
+stars today: 16
+
+GoogleContainerTools/skaffold
+https://github.com/GoogleContainerTools/skaffold
+Easy and Repeatable Kubernetes Development
+language: Go
+stars: 15,717
+forked: 1,691
+stars today: 9
+
+chaitin/SafeLine
+https://github.com/chaitin/SafeLine
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+language: Go
+stars: 20,213
+forked: 1,295
+stars today: 41
+
+charmbracelet/glow
+https://github.com/charmbracelet/glow
+Render markdown on the CLI, with pizzazz! 💅🏻
+language: Go
+stars: 22,389
+forked: 557
+stars today: 23
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,082
+forked: 2,885
+stars today: 18
+
+gorilla/websocket
+https://github.com/gorilla/websocket
+Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+language: Go
+stars: 24,443
+forked: 3,583
+stars today: 7
+
+amir20/dozzle
+https://github.com/amir20/dozzle
+Realtime log viewer for containers. Supports Docker, Swarm and K8s.
+language: Go
+stars: 11,157
+forked: 481
+stars today: 45
+
+argoproj/argo-rollouts
+https://github.com/argoproj/argo-rollouts
+Progressive Delivery for Kubernetes
+language: Go
+stars: 3,365
+forked: 1,079
+stars today: 1
+
+hashicorp/terraform-provider-azurerm
+https://github.com/hashicorp/terraform-provider-azurerm
+Terraform provider for Azure Resource Manager
+language: Go
+stars: 4,890
+forked: 4,930
+stars today: 3
