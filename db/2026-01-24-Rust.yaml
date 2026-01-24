@@ -1,0 +1,135 @@
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 27,626
+forked: 2,493
+stars today: 491
+
+ai-dynamo/dynamo
+https://github.com/ai-dynamo/dynamo
+A Datacenter Scale Distributed Inference Serving Framework
+language: Rust
+stars: 5,920
+forked: 808
+stars today: 33
+
+lapce/lapce
+https://github.com/lapce/lapce
+Lightning-fast and Powerful Code Editor written in Rust
+language: Rust
+stars: 37,958
+forked: 1,223
+stars today: 23
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 56,781
+forked: 1,441
+stars today: 22
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+language: Rust
+stars: 13,297
+forked: 852
+stars today: 244
+
+astral-sh/ruff
+https://github.com/astral-sh/ruff
+An extremely fast Python linter and code formatter, written in Rust.
+language: Rust
+stars: 45,340
+forked: 1,714
+stars today: 25
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 57,004
+forked: 7,386
+stars today: 123
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 28,370
+forked: 2,011
+stars today: 25
+
+teamclouday/AndroidMic
+https://github.com/teamclouday/AndroidMic
+Use your Android phone as a microphone for your PC
+language: Rust
+stars: 869
+forked: 55
+stars today: 12
+
+UwUDev/ygege
+https://github.com/UwUDev/ygege
+High-performance indexer for YGG Torrent written in Rust
+language: Rust
+stars: 431
+forked: 27
+stars today: 19
+
+sunface/rust-by-practice
+https://github.com/sunface/rust-by-practice
+Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+language: Rust
+stars: 13,923
+forked: 1,139
+stars today: 5
+
+mikeyobrien/ralph-orchestrator
+https://github.com/mikeyobrien/ralph-orchestrator
+An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
+language: Rust
+stars: 1,293
+forked: 143
+stars today: 57
+
+eclipse-iceoryx/iceoryx2
+https://github.com/eclipse-iceoryx/iceoryx2
+Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
+language: Rust
+stars: 2,002
+forked: 113
+stars today: 1
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 18,557
+forked: 796
+stars today: 28
+
+open-telemetry/opentelemetry-rust
+https://github.com/open-telemetry/opentelemetry-rust
+The Rust OpenTelemetry implementation
+language: Rust
+stars: 2,428
+forked: 622
+stars today: 2
+
+skim-rs/skim
+https://github.com/skim-rs/skim
+Fuzzy Finder in rust!
+language: Rust
+stars: 6,427
+forked: 235
+stars today: 26
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 23,284
+forked: 827
+stars today: 23

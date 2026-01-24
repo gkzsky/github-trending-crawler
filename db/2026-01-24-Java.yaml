@@ -1,0 +1,175 @@
+ashishps1/awesome-leetcode-resources
+https://github.com/ashishps1/awesome-leetcode-resources
+Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
+language: Java
+stars: 15,410
+forked: 3,345
+stars today: 63
+
+JetBrains/intellij-community
+https://github.com/JetBrains/intellij-community
+IntelliJ IDEA & IntelliJ Platform
+language: Java
+stars: 19,582
+forked: 5,668
+stars today: 15
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 25,667
+forked: 7,364
+stars today: 14
+
+jenkinsci/jenkins
+https://github.com/jenkinsci/jenkins
+Jenkins automation server
+language: Java
+stars: 24,944
+forked: 9,334
+stars today: 4
+
+thingsboard/thingsboard
+https://github.com/thingsboard/thingsboard
+Open-source IoT Platform - Device management, data collection, processing and visualization.
+language: Java
+stars: 20,980
+forked: 6,057
+stars today: 6
+
+google/gson
+https://github.com/google/gson
+A Java serialization/deserialization library to convert Java Objects into JSON and back
+language: Java
+stars: 24,326
+forked: 4,379
+stars today: 3
+
+ashishps1/awesome-low-level-design
+https://github.com/ashishps1/awesome-low-level-design
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+language: Java
+stars: 21,315
+forked: 5,244
+stars today: 62
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 11,306
+forked: 2,275
+stars today: 7
+
+iflytek/astron-agent
+https://github.com/iflytek/astron-agent
+Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
+language: Java
+stars: 8,842
+forked: 1,111
+stars today: 43
+
+apache/shardingsphere
+https://github.com/apache/shardingsphere
+Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+language: Java
+stars: 20,648
+forked: 6,914
+stars today: 2
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 29,263
+forked: 6,714
+stars today: 54
+
+Xed-Editor/Xed-Editor
+https://github.com/Xed-Editor/Xed-Editor
+Advanced Text Editor for Android
+language: Java
+stars: 1,605
+forked: 99
+stars today: 6
+
+alibaba/DataX
+https://github.com/alibaba/DataX
+DataX是阿里云DataWorks数据集成的开源版本。
+language: Java
+stars: 17,088
+forked: 5,659
+stars today: 2
+
+apache/nifi
+https://github.com/apache/nifi
+Apache NiFi
+language: Java
+stars: 5,928
+forked: 2,926
+stars today: 6
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+language: Java
+stars: 10,494
+forked: 1,919
+stars today: 13
+
+gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer
+👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+language: Java
+stars: 17,050
+forked: 3,726
+stars today: 4
+
+flowable/flowable-engine
+https://github.com/flowable/flowable-engine
+A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+language: Java
+stars: 9,040
+forked: 2,802
+stars today: 0
+
+DependencyTrack/dependency-track
+https://github.com/DependencyTrack/dependency-track
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+language: Java
+stars: 3,537
+forked: 707
+stars today: 3
+
+xpipe-io/xpipe
+https://github.com/xpipe-io/xpipe
+Access your entire server infrastructure from your local desktop
+language: Java
+stars: 13,590
+forked: 522
+stars today: 24
+
+apache/rocketmq
+https://github.com/apache/rocketmq
+Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+language: Java
+stars: 22,309
+forked: 12,008
+stars today: 2
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 15,421
+forked: 3,059
+stars today: 0
+
+kdn251/interviews
+https://github.com/kdn251/interviews
+Everything you need to know to get the job.
+language: Java
+stars: 64,810
+forked: 12,933
+stars today: 14
