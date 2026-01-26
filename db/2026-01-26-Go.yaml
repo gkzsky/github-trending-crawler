@@ -1,0 +1,159 @@
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 14,520
+forked: 1,802
+stars today: 212
+
+AlistGo/alist
+https://github.com/AlistGo/alist
+🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+language: Go
+stars: 48,895
+forked: 7,989
+stars today: 8
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+language: Go
+stars: 160,591
+forked: 14,284
+stars today: 141
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 4,028
+forked: 407
+stars today: 31
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 38,546
+forked: 3,855
+stars today: 42
+
+ariga/atlas
+https://github.com/ariga/atlas
+Declarative schema migrations with schema-as-code workflows
+language: Go
+stars: 7,942
+forked: 335
+stars today: 7
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+language: Go
+stars: 42,359
+forked: 3,485
+stars today: 28
+
+githubnext/gh-aw
+https://github.com/githubnext/gh-aw
+GitHub Agentic Workflows
+language: Go
+stars: 321
+forked: 36
+stars today: 3
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 29,339
+forked: 7,467
+stars today: 2
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 42,983
+forked: 3,047
+stars today: 10
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 9,236
+forked: 1,136
+stars today: 3
+
+autobrr/qui
+https://github.com/autobrr/qui
+A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+language: Go
+stars: 2,408
+forked: 68
+stars today: 18
+
+getarcaneapp/arcane
+https://github.com/getarcaneapp/arcane
+Modern Docker Management, Designed for Everyone
+language: Go
+stars: 4,074
+forked: 124
+stars today: 42
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 42,164
+forked: 7,821
+stars today: 23
+
+goreleaser/goreleaser
+https://github.com/goreleaser/goreleaser
+Release engineering, simplified
+language: Go
+stars: 15,507
+forked: 1,044
+stars today: 5
+
+oauth2-proxy/oauth2-proxy
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+language: Go
+stars: 13,718
+forked: 1,995
+stars today: 4
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 29,983
+forked: 3,535
+stars today: 23
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 71,144
+forked: 2,456
+stars today: 47
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 12,819
+forked: 925
+stars today: 12
+
+knadh/listmonk
+https://github.com/knadh/listmonk
+High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+language: Go
+stars: 18,839
+forked: 1,910
+stars today: 12

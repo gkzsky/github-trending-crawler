@@ -1,0 +1,103 @@
+Blaizzy/mlx-audio
+https://github.com/Blaizzy/mlx-audio
+A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+language: Python
+stars: 4,390
+forked: 342
+stars today: 272
+
+VectifyAI/PageIndex
+https://github.com/VectifyAI/PageIndex
+📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+language: Python
+stars: 9,146
+forked: 669
+stars today: 1,004
+
+OpenBMB/UltraRAG
+https://github.com/OpenBMB/UltraRAG
+UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+language: Python
+stars: 4,144
+forked: 289
+stars today: 437
+
+microsoft/VibeVoice
+https://github.com/microsoft/VibeVoice
+Open-Source Frontier Voice AI
+language: Python
+stars: 22,087
+forked: 2,397
+stars today: 362
+
+HKUDS/ViMax
+https://github.com/HKUDS/ViMax
+"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+language: Python
+stars: 2,100
+forked: 387
+stars today: 95
+
+business-science/ai-data-science-team
+https://github.com/business-science/ai-data-science-team
+An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+language: Python
+stars: 3,842
+forked: 739
+stars today: 125
+
+browser-use/browser-use
+https://github.com/browser-use/browser-use
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+language: Python
+stars: 77,048
+forked: 9,150
+stars today: 392
+
+Asabeneh/30-Days-Of-Python
+https://github.com/Asabeneh/30-Days-Of-Python
+The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+language: Python
+stars: 56,586
+forked: 10,819
+stars today: 74
+
+mikf/gallery-dl
+https://github.com/mikf/gallery-dl
+Command-line program to download image galleries and collections from several image hosting sites
+language: Python
+stars: 16,611
+forked: 1,312
+stars today: 18
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 89,411
+forked: 12,863
+stars today: 158
+
+bee-san/Ciphey
+https://github.com/bee-san/Ciphey
+⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+language: Python
+stars: 20,929
+forked: 1,383
+stars today: 26
+
+PromtEngineer/localGPT
+https://github.com/PromtEngineer/localGPT
+Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+language: Python
+stars: 22,136
+forked: 2,475
+stars today: 34
+
+commaai/openpilot
+https://github.com/commaai/openpilot
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+language: Python
+stars: 59,874
+forked: 10,587
+stars today: 28
