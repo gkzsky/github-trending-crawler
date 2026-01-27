@@ -1,0 +1,135 @@
+evcc-io/evcc
+https://github.com/evcc-io/evcc
+solar charging ☀️🚘
+language: Go
+stars: 6,064
+forked: 1,169
+stars today: 12
+
+usememos/memos
+https://github.com/usememos/memos
+An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+language: Go
+stars: 55,819
+forked: 4,006
+stars today: 174
+
+ollama/ollama
+https://github.com/ollama/ollama
+Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+language: Go
+stars: 160,700
+forked: 14,295
+stars today: 130
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 18,790
+forked: 1,340
+stars today: 25
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 7,376
+forked: 1,180
+stars today: 12
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 38,592
+forked: 3,858
+stars today: 53
+
+cli/cli
+https://github.com/cli/cli
+GitHub’s official command line tool
+language: Go
+stars: 42,196
+forked: 7,824
+stars today: 39
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 29,342
+forked: 7,466
+stars today: 1
+
+go-vikunja/vikunja
+https://github.com/go-vikunja/vikunja
+The to-do app to organize your life.
+language: Go
+stars: 3,134
+forked: 293
+stars today: 16
+
+kubernetes-sigs/gateway-api-inference-extension
+https://github.com/kubernetes-sigs/gateway-api-inference-extension
+Gateway API Inference Extension
+language: Go
+stars: 572
+forked: 227
+stars today: 2
+
+cometbft/cometbft
+https://github.com/cometbft/cometbft
+CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
+language: Go
+stars: 847
+forked: 763
+stars today: 2
+
+autobrr/autobrr
+https://github.com/autobrr/autobrr
+Modern, easy to use download automation for torrents and usenet.
+language: Go
+stars: 2,413
+forked: 177
+stars today: 7
+
+AlistGo/alist
+https://github.com/AlistGo/alist
+🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+language: Go
+stars: 48,903
+forked: 7,990
+stars today: 9
+
+binwiederhier/ntfy
+https://github.com/binwiederhier/ntfy
+Send push notifications to your phone or desktop using PUT/POST
+language: Go
+stars: 28,454
+forked: 1,162
+stars today: 21
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 59,919
+forked: 6,920
+stars today: 23
+
+TecharoHQ/anubis
+https://github.com/TecharoHQ/anubis
+Weighs the soul of incoming HTTP requests to stop AI crawlers
+language: Go
+stars: 16,433
+forked: 487
+stars today: 21
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 16,835
+forked: 740
+stars today: 32

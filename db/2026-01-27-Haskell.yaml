@@ -1,0 +1,63 @@
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,706
+forked: 3,749
+stars today: 21
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,293
+forked: 546
+stars today: 10
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,730
+forked: 350
+stars today: 3
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 445
+forked: 8
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,391
+forked: 1,150
+stars today: 3
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,896
+forked: 1,897
+stars today: 8
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 735
+forked: 91
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 240
+forked: 19
+stars today: 0

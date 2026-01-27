@@ -1,0 +1,79 @@
+Blaizzy/mlx-audio
+https://github.com/Blaizzy/mlx-audio
+A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+language: Python
+stars: 5,142
+forked: 381
+stars today: 1,233
+
+VectifyAI/PageIndex
+https://github.com/VectifyAI/PageIndex
+📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+language: Python
+stars: 9,829
+forked: 717
+stars today: 726
+
+business-science/ai-data-science-team
+https://github.com/business-science/ai-data-science-team
+An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+language: Python
+stars: 4,247
+forked: 772
+stars today: 80
+
+microsoft/VibeVoice
+https://github.com/microsoft/VibeVoice
+Open-Source Frontier Voice AI
+language: Python
+stars: 22,324
+forked: 2,417
+stars today: 397
+
+OpenBMB/UltraRAG
+https://github.com/OpenBMB/UltraRAG
+UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+language: Python
+stars: 4,412
+forked: 308
+stars today: 382
+
+assafelovic/gpt-researcher
+https://github.com/assafelovic/gpt-researcher
+An autonomous agent that conducts deep research on any data using any LLM providers.
+language: Python
+stars: 25,061
+forked: 3,317
+stars today: 36
+
+trycua/cua
+https://github.com/trycua/cua
+Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+language: Python
+stars: 12,023
+forked: 715
+stars today: 60
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 89,683
+forked: 12,939
+stars today: 290
+
+HKUDS/ViMax
+https://github.com/HKUDS/ViMax
+"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+language: Python
+stars: 2,145
+forked: 396
+stars today: 62
+
+Comfy-Org/ComfyUI
+https://github.com/Comfy-Org/ComfyUI
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+language: Python
+stars: 101,560
+forked: 11,512
+stars today: 130

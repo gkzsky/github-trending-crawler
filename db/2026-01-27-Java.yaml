@@ -1,0 +1,167 @@
+checkstyle/checkstyle
+https://github.com/checkstyle/checkstyle
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+language: Java
+stars: 8,834
+forked: 3,972
+stars today: 4
+
+hibernate/hibernate-orm
+https://github.com/hibernate/hibernate-orm
+Idiomatic persistence for Java and relational databases
+language: Java
+stars: 6,428
+forked: 3,718
+stars today: 3
+
+kknifer7/FreeBox
+https://github.com/kknifer7/FreeBox
+TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+language: Java
+stars: 1,254
+forked: 124
+stars today: 19
+
+NotHarshhaa/DevOps-Projects
+https://github.com/NotHarshhaa/DevOps-Projects
+𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
+language: Java
+stars: 3,383
+forked: 3,474
+stars today: 24
+
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 64,831
+forked: 20,920
+stars today: 6
+
+RikkaApps/Shizuku-API
+https://github.com/RikkaApps/Shizuku-API
+The API and the developer guide for Shizuku and Sui.
+language: Java
+stars: 1,891
+forked: 738
+stars today: 4
+
+Dev4Mod/WaEnhancer
+https://github.com/Dev4Mod/WaEnhancer
+WhatsApp tools for Android
+language: Java
+stars: 1,174
+forked: 165
+stars today: 1
+
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 49,267
+forked: 5,897
+stars today: 40
+
+spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework
+Spring Framework
+language: Java
+stars: 59,553
+forked: 38,915
+stars today: 10
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 32,455
+forked: 8,003
+stars today: 22
+
+iBotPeaches/Apktool
+https://github.com/iBotPeaches/Apktool
+A tool for reverse engineering Android apk files
+language: Java
+stars: 23,761
+forked: 3,878
+stars today: 11
+
+TeamNewPipe/NewPipe
+https://github.com/TeamNewPipe/NewPipe
+A libre lightweight streaming front-end for Android.
+language: Java
+stars: 36,495
+forked: 3,399
+stars today: 27
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 11,869
+forked: 3,239
+stars today: 3
+
+apache/dubbo
+https://github.com/apache/dubbo
+The java implementation of Apache Dubbo. An RPC and microservice framework.
+language: Java
+stars: 41,719
+forked: 26,560
+stars today: 4
+
+spring-projects/spring-data-jpa
+https://github.com/spring-projects/spring-data-jpa
+Simplifies the development of creating a JPA-based data access layer.
+language: Java
+stars: 3,223
+forked: 1,539
+stars today: 3
+
+Creators-of-Create/Create
+https://github.com/Creators-of-Create/Create
+[NeoForge Mod] Building Tools and Aesthetic Technology
+language: Java
+stars: 3,928
+forked: 1,199
+stars today: 4
+
+HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL
+A Minecraft Launcher which is multi-functional, cross-platform and popular
+language: Java
+stars: 8,739
+forked: 818
+stars today: 15
+
+ZalithLauncher/ZalithLauncher
+https://github.com/ZalithLauncher/ZalithLauncher
+Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
+language: Java
+stars: 1,452
+forked: 154
+stars today: 6
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 51,447
+forked: 11,136
+stars today: 4
+
+apache/maven
+https://github.com/apache/maven
+Apache Maven core
+language: Java
+stars: 4,931
+forked: 2,820
+stars today: 4
+
+Gedsh/InviZible
+https://github.com/Gedsh/InviZible
+Android application for online privacy and security
+language: Java
+stars: 2,330
+forked: 141
+stars today: 4
