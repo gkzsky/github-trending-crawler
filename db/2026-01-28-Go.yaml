@@ -1,0 +1,151 @@
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 34,140
+forked: 4,523
+stars today: 13
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+language: Go
+stars: 62,416
+forked: 10,122
+stars today: 19
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,744
+forked: 4,636
+stars today: 5
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+language: Go
+stars: 87,816
+forked: 8,548
+stars today: 19
+
+go-sql-driver/mysql
+https://github.com/go-sql-driver/mysql
+Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+language: Go
+stars: 15,403
+forked: 2,341
+stars today: 3
+
+knadh/koanf
+https://github.com/knadh/koanf
+Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+language: Go
+stars: 3,799
+forked: 184
+stars today: 4
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+Go implementation of the Ethereum protocol
+language: Go
+stars: 50,735
+forked: 21,756
+stars today: 15
+
+elC0mpa/aws-doctor
+https://github.com/elC0mpa/aws-doctor
+Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
+language: Go
+stars: 254
+forked: 11
+stars today: 36
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+GitHub's official MCP Server
+language: Go
+stars: 26,387
+forked: 3,470
+stars today: 47
+
+fatedier/frp
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+language: Go
+stars: 103,927
+forked: 14,834
+stars today: 46
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 12,549
+forked: 1,410
+stars today: 123
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+The ultimate LLM/AI application development framework in Golang.
+language: Go
+stars: 9,392
+forked: 729
+stars today: 25
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 43,007
+forked: 3,046
+stars today: 17
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
+language: Go
+stars: 120,113
+forked: 42,306
+stars today: 24
+
+golang-jwt/jwt
+https://github.com/golang-jwt/jwt
+Go implementation of JSON Web Tokens (JWT).
+language: Go
+stars: 8,864
+forked: 426
+stars today: 7
+
+hashicorp/consul
+https://github.com/hashicorp/consul
+Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+language: Go
+stars: 29,690
+forked: 4,556
+stars today: 2
+
+sirupsen/logrus
+https://github.com/sirupsen/logrus
+Structured, pluggable logging for Go.
+language: Go
+stars: 25,672
+forked: 2,276
+stars today: 1
+
+opencost/opencost
+https://github.com/opencost/opencost
+Cost monitoring for Kubernetes workloads and cloud costs
+language: Go
+stars: 6,305
+forked: 730
+stars today: 5
+
+go-git/go-git
+https://github.com/go-git/go-git
+A highly extensible Git implementation in pure Go.
+language: Go
+stars: 7,150
+forked: 876
+stars today: 1
