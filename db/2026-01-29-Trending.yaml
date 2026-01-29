@@ -1,0 +1,103 @@
+moltbot/moltbot
+https://github.com/moltbot/moltbot
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+language: TypeScript
+stars: 91,100
+forked: 12,449
+stars today: 17,830
+
+badlogic/pi-mono
+https://github.com/badlogic/pi-mono
+AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+language: TypeScript
+stars: 3,172
+forked: 385
+stars today: 467
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 34,410
+forked: 4,542
+stars today: 352
+
+asgeirtj/system_prompts_leaks
+https://github.com/asgeirtj/system_prompts_leaks
+Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+language: JavaScript
+stars: 26,737
+forked: 4,268
+stars today: 216
+
+NevaMind-AI/memU
+https://github.com/NevaMind-AI/memU
+Memory for 24/7 proactive agents like moltbot (clawdbot).
+language: Python
+stars: 5,636
+forked: 393
+stars today: 239
+
+modelcontextprotocol/ext-apps
+https://github.com/modelcontextprotocol/ext-apps
+Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+language: TypeScript
+stars: 686
+forked: 96
+stars today: 73
+
+MoonshotAI/kimi-cli
+https://github.com/MoonshotAI/kimi-cli
+Kimi Code CLI is your next CLI agent.
+language: Python
+stars: 4,626
+forked: 447
+stars today: 298
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 19,367
+forked: 8,513
+stars today: 29
+
+protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf
+Protocol Buffers - Google's data interchange format
+language: C++
+stars: 70,458
+forked: 16,018
+stars today: 16
+
+lobehub/lobehub
+https://github.com/lobehub/lobehub
+The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+language: TypeScript
+stars: 70,938
+forked: 14,499
+stars today: 144
+
+ran-j/PS2Recomp
+https://github.com/ran-j/PS2Recomp
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+language: C++
+stars: 1,504
+forked: 29
+stars today: 458
+
+bambulab/BambuStudio
+https://github.com/bambulab/BambuStudio
+PC Software for BambuLab and other 3D printers
+language: C++
+stars: 3,856
+forked: 586
+stars today: 33
+
+GetStream/Vision-Agents
+https://github.com/GetStream/Vision-Agents
+Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
+language: Python
+stars: 4,254
+forked: 370
+stars today: 109

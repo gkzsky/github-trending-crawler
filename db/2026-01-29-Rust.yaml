@@ -1,0 +1,159 @@
+storytold/artcraft
+https://github.com/storytold/artcraft
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+language: Rust
+stars: 482
+forked: 28
+stars today: 51
+
+typst/typst
+https://github.com/typst/typst
+A markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 50,924
+forked: 1,431
+stars today: 31
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 21,212
+forked: 1,990
+stars today: 5
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 78,041
+forked: 2,494
+stars today: 101
+
+apache/opendal
+https://github.com/apache/opendal
+Apache OpenDAL: One Layer, All Storage.
+language: Rust
+stars: 4,862
+forked: 707
+stars today: 5
+
+pola-rs/polars
+https://github.com/pola-rs/polars
+Extremely fast Query Engine for DataFrames, written in Rust
+language: Rust
+stars: 37,209
+forked: 2,580
+stars today: 26
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 18,660
+forked: 801
+stars today: 18
+
+Haleclipse/CCometixLine
+https://github.com/Haleclipse/CCometixLine
+Claude Code statusline tool written in Rust
+language: Rust
+stars: 1,581
+forked: 94
+stars today: 18
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 25,215
+forked: 897
+stars today: 50
+
+tempoxyz/tempo
+https://github.com/tempoxyz/tempo
+the blockchain for payments
+language: Rust
+stars: 730
+forked: 195
+stars today: 10
+
+influxdata/influxdb
+https://github.com/influxdata/influxdb
+Scalable datastore for metrics, events, and real-time analytics
+language: Rust
+stars: 31,158
+forked: 3,691
+stars today: 10
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 30,099
+forked: 653
+stars today: 52
+
+lance-format/lance
+https://github.com/lance-format/lance
+Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+language: Rust
+stars: 5,987
+forked: 535
+stars today: 3
+
+Start9Labs/start-os
+https://github.com/Start9Labs/start-os
+A graphical server OS optimized for self-hosting
+language: Rust
+stars: 1,588
+forked: 147
+stars today: 18
+
+modelcontextprotocol/rust-sdk
+https://github.com/modelcontextprotocol/rust-sdk
+The official Rust SDK for the Model Context Protocol
+language: Rust
+stars: 2,895
+forked: 443
+stars today: 5
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+language: Rust
+stars: 14,590
+forked: 917
+stars today: 293
+
+denoland/deno
+https://github.com/denoland/deno
+A modern runtime for JavaScript and TypeScript.
+language: Rust
+stars: 105,991
+forked: 5,878
+stars today: 21
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 9,925
+forked: 438
+stars today: 10
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
+language: Rust
+stars: 9,493
+forked: 823
+stars today: 29
+
+Smithay/smithay
+https://github.com/Smithay/smithay
+A smithy for rusty wayland compositors
+language: Rust
+stars: 2,642
+forked: 235
+stars today: 37
