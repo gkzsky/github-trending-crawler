@@ -1,0 +1,111 @@
+openclaw/openclaw
+https://github.com/openclaw/openclaw
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+language: TypeScript
+stars: 120,871
+forked: 17,119
+stars today: 14,228
+
+asgeirtj/system_prompts_leaks
+https://github.com/asgeirtj/system_prompts_leaks
+Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+language: JavaScript
+stars: 28,633
+forked: 4,628
+stars today: 1,083
+
+MoonshotAI/kimi-cli
+https://github.com/MoonshotAI/kimi-cli
+Kimi Code CLI is your next CLI agent.
+language: Python
+stars: 5,318
+forked: 496
+stars today: 377
+
+modelcontextprotocol/ext-apps
+https://github.com/modelcontextprotocol/ext-apps
+Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+language: TypeScript
+stars: 1,033
+forked: 128
+stars today: 195
+
+NevaMind-AI/memU
+https://github.com/NevaMind-AI/memU
+Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+language: Python
+stars: 6,500
+forked: 445
+stars today: 465
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 34,832
+forked: 4,571
+stars today: 227
+
+badlogic/pi-mono
+https://github.com/badlogic/pi-mono
+AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+language: TypeScript
+stars: 3,767
+forked: 439
+stars today: 285
+
+anomalyco/opencode-anthropic-auth
+https://github.com/anomalyco/opencode-anthropic-auth
+-
+language: JavaScript
+stars: 362
+forked: 55
+stars today: 79
+
+protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf
+Protocol Buffers - Google's data interchange format
+language: C++
+stars: 70,581
+forked: 16,026
+stars today: 66
+
+pedroslopez/whatsapp-web.js
+https://github.com/pedroslopez/whatsapp-web.js
+A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+language: JavaScript
+stars: 20,862
+forked: 4,820
+stars today: 113
+
+TeamNewPipe/NewPipe
+https://github.com/TeamNewPipe/NewPipe
+A libre lightweight streaming front-end for Android.
+language: Java
+stars: 36,884
+forked: 3,422
+stars today: 122
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 91,243
+forked: 13,166
+stars today: 365
+
+microsoft/playwright-cli
+https://github.com/microsoft/playwright-cli
+CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+language: -
+stars: 1,946
+forked: 74
+stars today: 207
+
+lobehub/lobehub
+https://github.com/lobehub/lobehub
+The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+language: TypeScript
+stars: 71,591
+forked: 14,565
+stars today: 376

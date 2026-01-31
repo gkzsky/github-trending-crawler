@@ -1,0 +1,95 @@
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,896
+forked: 484
+stars today: 4
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,411
+forked: 1,148
+stars today: 2
+
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,877
+forked: 420
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 38,916
+forked: 1,899
+stars today: 7
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,812
+forked: 3,751
+stars today: 21
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,473
+forked: 294
+stars today: 3
+
+simplex-chat/simplexmq
+https://github.com/simplex-chat/simplexmq
+⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+language: Haskell
+stars: 735
+forked: 90
+stars today: 0
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,314
+forked: 549
+stars today: 7
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 241
+forked: 19
+stars today: 1
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,178
+forked: 748
+stars today: 0
+
+maralorn/nix-output-monitor
+https://github.com/maralorn/nix-output-monitor
+Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+language: Haskell
+stars: 1,375
+forked: 45
+stars today: 4
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,738
+forked: 351
+stars today: 2

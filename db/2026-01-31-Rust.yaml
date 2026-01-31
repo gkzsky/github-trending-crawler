@@ -1,0 +1,151 @@
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 40,018
+forked: 4,567
+stars today: 7
+
+zampierilucas/scx_horoscope
+https://github.com/zampierilucas/scx_horoscope
+Astrological CPU Scheduler
+language: Rust
+stars: 808
+forked: 20
+stars today: 66
+
+tursodatabase/agentfs
+https://github.com/tursodatabase/agentfs
+The filesystem for agents.
+language: Rust
+stars: 2,138
+forked: 121
+stars today: 19
+
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 25,313
+forked: 901
+stars today: 55
+
+typst/typst
+https://github.com/typst/typst
+A markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 50,975
+forked: 1,438
+stars today: 31
+
+apache/arrow-rs
+https://github.com/apache/arrow-rs
+Official Rust implementation of Apache Arrow
+language: Rust
+stars: 3,345
+forked: 1,096
+stars today: 5
+
+Moulberry/PandoraLauncher
+https://github.com/Moulberry/PandoraLauncher
+Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features
+language: Rust
+stars: 445
+forked: 28
+stars today: 45
+
+Smithay/smithay
+https://github.com/Smithay/smithay
+A smithy for rusty wayland compositors
+language: Rust
+stars: 2,672
+forked: 236
+stars today: 20
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 30,166
+forked: 656
+stars today: 39
+
+prefix-dev/pixi
+https://github.com/prefix-dev/pixi
+Package management made easy
+language: Rust
+stars: 6,262
+forked: 421
+stars today: 6
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 78,178
+forked: 2,506
+stars today: 82
+
+tempoxyz/tempo
+https://github.com/tempoxyz/tempo
+the blockchain for payments
+language: Rust
+stars: 738
+forked: 197
+stars today: 5
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+language: Rust
+stars: 15,060
+forked: 930
+stars today: 241
+
+rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server
+RustDesk Server Program
+language: Rust
+stars: 9,264
+forked: 2,178
+stars today: 2
+
+solana-labs/solana
+https://github.com/solana-labs/solana
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+language: Rust
+stars: 14,757
+forked: 5,510
+stars today: 3
+
+Start9Labs/start-os
+https://github.com/Start9Labs/start-os
+A graphical server OS optimized for self-hosting
+language: Rust
+stars: 1,610
+forked: 149
+stars today: 10
+
+vortex-data/vortex
+https://github.com/vortex-data/vortex
+An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
+language: Rust
+stars: 2,646
+forked: 126
+stars today: 20
+
+MystenLabs/sui
+https://github.com/MystenLabs/sui
+Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+language: Rust
+stars: 7,588
+forked: 11,719
+stars today: 1
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 5,354
+forked: 660
+stars today: 9

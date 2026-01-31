@@ -1,0 +1,175 @@
+hashicorp/vault
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+language: Go
+stars: 34,832
+forked: 4,571
+stars today: 227
+
+autobrr/qui
+https://github.com/autobrr/qui
+A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+language: Go
+stars: 2,516
+forked: 72
+stars today: 26
+
+minio/minio
+https://github.com/minio/minio
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+language: Go
+stars: 60,000
+forked: 6,933
+stars today: 26
+
+kubernetes/ingress-nginx
+https://github.com/kubernetes/ingress-nginx
+Ingress NGINX Controller for Kubernetes
+language: Go
+stars: 19,413
+forked: 8,517
+stars today: 17
+
+looplj/axonhub
+https://github.com/looplj/axonhub
+AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
+language: Go
+stars: 1,558
+forked: 180
+stars today: 16
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 27,650
+forked: 2,249
+stars today: 54
+
+tbphp/gpt-load
+https://github.com/tbphp/gpt-load
+Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+language: Go
+stars: 5,854
+forked: 588
+stars today: 7
+
+nats-io/nats-server
+https://github.com/nats-io/nats-server
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+language: Go
+stars: 19,060
+forked: 1,729
+stars today: 11
+
+glanceapp/glance
+https://github.com/glanceapp/glance
+A self-hosted dashboard that puts all your feeds in one place
+language: Go
+stars: 31,517
+forked: 1,181
+stars today: 29
+
+rcourtman/Pulse
+https://github.com/rcourtman/Pulse
+Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+language: Go
+stars: 4,003
+forked: 170
+stars today: 13
+
+kubernetes-retired/dashboard
+https://github.com/kubernetes-retired/dashboard
+General-purpose web UI for Kubernetes clusters
+language: Go
+stars: 15,446
+forked: 4,298
+stars today: 0
+
+opencost/opencost
+https://github.com/opencost/opencost
+Cost monitoring for Kubernetes workloads and cloud costs
+language: Go
+stars: 6,329
+forked: 734
+stars today: 6
+
+thanos-io/thanos
+https://github.com/thanos-io/thanos
+Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+language: Go
+stars: 13,941
+forked: 2,248
+stars today: 4
+
+golang/go
+https://github.com/golang/go
+The Go programming language
+language: Go
+stars: 132,202
+forked: 18,783
+stars today: 15
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 71,394
+forked: 2,472
+stars today: 47
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,756
+forked: 4,635
+stars today: 5
+
+containers/podman
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods.
+language: Go
+stars: 30,530
+forked: 2,959
+stars today: 18
+
+aldinokemal/go-whatsapp-web-multidevice
+https://github.com/aldinokemal/go-whatsapp-web-multidevice
+GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
+language: Go
+stars: 3,433
+forked: 798
+stars today: 7
+
+yorukot/superfile
+https://github.com/yorukot/superfile
+Pretty fancy and modern terminal file manager
+language: Go
+stars: 16,515
+forked: 437
+stars today: 10
+
+korotovsky/slack-mcp-server
+https://github.com/korotovsky/slack-mcp-server
+The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
+language: Go
+stars: 1,235
+forked: 204
+stars today: 9
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 16,406
+forked: 3,465
+stars today: 3
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,194
+forked: 2,897
+stars today: 19
