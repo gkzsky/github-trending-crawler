@@ -1,0 +1,191 @@
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 49,546
+forked: 5,917
+stars today: 41
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 11,335
+forked: 2,295
+stars today: 2
+
+quarkusio/quarkus
+https://github.com/quarkusio/quarkus
+Quarkus: Supersonic Subatomic Java.
+language: Java
+stars: 15,435
+forked: 3,063
+stars today: 3
+
+conductor-oss/conductor
+https://github.com/conductor-oss/conductor
+Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
+language: Java
+stars: 31,557
+forked: 804
+stars today: 8
+
+SuperMonster003/AutoJs6
+https://github.com/SuperMonster003/AutoJs6
+安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+language: Java
+stars: 5,289
+forked: 1,523
+stars today: 3
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 34,760
+forked: 16,274
+stars today: 5
+
+termux/termux-api
+https://github.com/termux/termux-api
+Termux add-on app which exposes device functionality as API to command line programs.
+language: Java
+stars: 3,388
+forked: 706
+stars today: 3
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 3,118
+forked: 794
+stars today: 3
+
+aeron-io/aeron
+https://github.com/aeron-io/aeron
+Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+language: Java
+stars: 8,420
+forked: 1,002
+stars today: 6
+
+ReChronoRain/HyperCeiler
+https://github.com/ReChronoRain/HyperCeiler
+HyperOS enhancement module - Make HyperOS Great Again!
+language: Java
+stars: 4,253
+forked: 316
+stars today: 10
+
+flowable/flowable-engine
+https://github.com/flowable/flowable-engine
+A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+language: Java
+stars: 9,055
+forked: 2,804
+stars today: 0
+
+trinodb/trino
+https://github.com/trinodb/trino
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+language: Java
+stars: 12,493
+forked: 3,458
+stars today: 6
+
+NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+Ghidra is a software reverse engineering (SRE) framework
+language: Java
+stars: 63,964
+forked: 7,106
+stars today: 31
+
+apache/gravitino
+https://github.com/apache/gravitino
+World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+language: Java
+stars: 2,721
+forked: 715
+stars today: 2
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 31,809
+forked: 14,935
+stars today: 4
+
+TheAlgorithms/Java
+https://github.com/TheAlgorithms/Java
+All Algorithms implemented in Java
+language: Java
+stars: 64,905
+forked: 20,930
+stars today: 12
+
+apache/shardingsphere
+https://github.com/apache/shardingsphere
+Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+language: Java
+stars: 20,665
+forked: 6,913
+stars today: 2
+
+iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns
+Design patterns implemented in Java
+language: Java
+stars: 93,676
+forked: 27,382
+stars today: 4
+
+apache/doris
+https://github.com/apache/doris
+Apache Doris is an easy-to-use, high performance and unified analytics database.
+language: Java
+stars: 14,961
+forked: 3,698
+stars today: 2
+
+zinja-coder/jadx-ai-mcp
+https://github.com/zinja-coder/jadx-ai-mcp
+Plugin for JADX to integrate MCP server
+language: Java
+stars: 1,188
+forked: 129
+stars today: 5
+
+strimzi/strimzi-kafka-operator
+https://github.com/strimzi/strimzi-kafka-operator
+Apache Kafka® running on Kubernetes
+language: Java
+stars: 5,683
+forked: 1,442
+stars today: 3
+
+TeamNewPipe/NewPipe
+https://github.com/TeamNewPipe/NewPipe
+A libre lightweight streaming front-end for Android.
+language: Java
+stars: 36,937
+forked: 3,434
+stars today: 111
+
+alibaba/nacos
+https://github.com/alibaba/nacos
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+language: Java
+stars: 32,593
+forked: 13,255
+stars today: 5
+
+krahets/hello-algo
+https://github.com/krahets/hello-algo
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+language: Java
+stars: 122,020
+forked: 14,817
+stars today: 41

@@ -1,0 +1,143 @@
+jj-vcs/jj
+https://github.com/jj-vcs/jj
+A Git-compatible VCS that is both simple and powerful
+language: Rust
+stars: 25,347
+forked: 901
+stars today: 48
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 17,987
+forked: 670
+stars today: 42
+
+lbjlaq/Antigravity-Manager
+https://github.com/lbjlaq/Antigravity-Manager
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+language: Rust
+stars: 20,028
+forked: 2,294
+stars today: 270
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 32,213
+forked: 2,204
+stars today: 6
+
+rerun-io/rerun
+https://github.com/rerun-io/rerun
+An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+language: Rust
+stars: 10,113
+forked: 643
+stars today: 6
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 5,364
+forked: 662
+stars today: 5
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 20,710
+forked: 891
+stars today: 44
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,202
+forked: 937
+stars today: 2
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 21,232
+forked: 1,992
+stars today: 7
+
+khcrysalis/Impactor
+https://github.com/khcrysalis/Impactor
+Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor.
+language: Rust
+stars: 1,008
+forked: 47
+stars today: 13
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 9,611
+forked: 913
+stars today: 16
+
+lancedb/lancedb
+https://github.com/lancedb/lancedb
+Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+language: Rust
+stars: 8,692
+forked: 725
+stars today: 6
+
+git-ai-project/git-ai
+https://github.com/git-ai-project/git-ai
+A Git extension for tracking the AI-generated code in your repos
+language: Rust
+stars: 819
+forked: 59
+stars today: 19
+
+rust-lang/cargo
+https://github.com/rust-lang/cargo
+The Rust package manager
+language: Rust
+stars: 14,531
+forked: 2,788
+stars today: 9
+
+vortex-data/vortex
+https://github.com/vortex-data/vortex
+An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
+language: Rust
+stars: 2,655
+forked: 126
+stars today: 17
+
+wezterm/wezterm
+https://github.com/wezterm/wezterm
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+language: Rust
+stars: 23,834
+forked: 1,168
+stars today: 19
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 8,703
+forked: 1,347
+stars today: 3
+
+pgdogdev/pgdog
+https://github.com/pgdogdev/pgdog
+PostgreSQL connection pooler, load balancer and database sharder.
+language: Rust
+stars: 3,268
+forked: 121
+stars today: 30
