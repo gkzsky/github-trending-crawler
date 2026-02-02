@@ -1,0 +1,159 @@
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 4,287
+forked: 127
+stars today: 61
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 30,598
+forked: 661
+stars today: 322
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 18,026
+forked: 672
+stars today: 53
+
+get-convex/convex-backend
+https://github.com/get-convex/convex-backend
+The open-source reactive database for app developers
+language: Rust
+stars: 9,892
+forked: 557
+stars today: 28
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 102,166
+forked: 3,352
+stars today: 29
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 58,469
+forked: 16,598
+stars today: 23
+
+chroma-core/chroma
+https://github.com/chroma-core/chroma
+Open-source search and retrieval database for AI applications.
+language: Rust
+stars: 25,904
+forked: 2,034
+stars today: 20
+
+pop-os/cosmic-comp
+https://github.com/pop-os/cosmic-comp
+Compositor for the COSMIC desktop environment
+language: Rust
+stars: 708
+forked: 192
+stars today: 1
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,207
+forked: 938
+stars today: 8
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 10,083
+forked: 2,373
+stars today: 8
+
+khcrysalis/Impactor
+https://github.com/khcrysalis/Impactor
+WIP Feature rich iOS/tvOS sideloading application written in Rust. Formerly PlumeImpactor.
+language: Rust
+stars: 1,030
+forked: 48
+stars today: 31
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 109,963
+forked: 14,428
+stars today: 36
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 56,927
+forked: 1,447
+stars today: 23
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 38,076
+forked: 2,028
+stars today: 24
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 26,002
+forked: 1,560
+stars today: 14
+
+tursodatabase/turso
+https://github.com/tursodatabase/turso
+Turso is an in-process SQL database, compatible with SQLite.
+language: Rust
+stars: 17,115
+forked: 712
+stars today: 29
+
+Fredolx/open-tv
+https://github.com/Fredolx/open-tv
+Ultra-fast, simple and powerful cross-platform IPTV app
+language: Rust
+stars: 3,088
+forked: 160
+stars today: 9
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 106,748
+forked: 15,827
+stars today: 71
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 32,221
+forked: 2,204
+stars today: 8
+
+wezterm/wezterm
+https://github.com/wezterm/wezterm
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+language: Rust
+stars: 23,855
+forked: 1,171
+stars today: 24

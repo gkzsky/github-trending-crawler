@@ -1,0 +1,175 @@
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 34,586
+forked: 4,916
+stars today: 26
+
+juicedata/juicefs
+https://github.com/juicedata/juicefs
+JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+language: Go
+stars: 13,141
+forked: 1,156
+stars today: 9
+
+livekit/livekit
+https://github.com/livekit/livekit
+End-to-end realtime stack for connecting humans and AI
+language: Go
+stars: 16,841
+forked: 1,709
+stars today: 15
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 30,204
+forked: 3,550
+stars today: 45
+
+AlexanderGrooff/mermaid-ascii
+https://github.com/AlexanderGrooff/mermaid-ascii
+Render Mermaid graphs inside your terminal
+language: Go
+stars: 954
+forked: 41
+stars today: 167
+
+getarcaneapp/arcane
+https://github.com/getarcaneapp/arcane
+Modern Docker Management, Designed for Everyone
+language: Go
+stars: 4,337
+forked: 134
+stars today: 50
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 27,748
+forked: 2,255
+stars today: 47
+
+sammwyy/MikuMikuBeam
+https://github.com/sammwyy/MikuMikuBeam
+An open-source network stresser tool but it's Hatsune Miku
+language: Go
+stars: 5,584
+forked: 485
+stars today: 28
+
+free5gc/free5gc
+https://github.com/free5gc/free5gc
+Open source 5G core network based on 3GPP R15
+language: Go
+stars: 2,239
+forked: 705
+stars today: 1
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+A continuation of HomeBox the inventory and organization system built for the Home User
+language: Go
+stars: 5,059
+forked: 319
+stars today: 12
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+language: Go
+stars: 4,236
+forked: 698
+stars today: 13
+
+yusing/godoxy
+https://github.com/yusing/godoxy
+High-performance reverse proxy and container orchestrator for self-hosters
+language: Go
+stars: 2,824
+forked: 111
+stars today: 15
+
+NoFxAiOS/nofx
+https://github.com/NoFxAiOS/nofx
+AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
+language: Go
+stars: 10,302
+forked: 2,729
+stars today: 25
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 38,764
+forked: 3,876
+stars today: 32
+
+maximhq/bifrost
+https://github.com/maximhq/bifrost
+Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
+language: Go
+stars: 2,002
+forked: 214
+stars today: 23
+
+restic/restic
+https://github.com/restic/restic
+Fast, secure, efficient backup program
+language: Go
+stars: 32,015
+forked: 1,704
+stars today: 24
+
+mostlygeek/llama-swap
+https://github.com/mostlygeek/llama-swap
+Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
+language: Go
+stars: 2,289
+forked: 163
+stars today: 7
+
+icereed/paperless-gpt
+https://github.com/icereed/paperless-gpt
+Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+language: Go
+stars: 1,842
+forked: 100
+stars today: 8
+
+IceWhaleTech/CasaOS
+https://github.com/IceWhaleTech/CasaOS
+CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+language: Go
+stars: 33,087
+forked: 1,853
+stars today: 25
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+🎧☁️ Your Personal Streaming Service
+language: Go
+stars: 18,959
+forked: 1,354
+stars today: 23
+
+woodpecker-ci/woodpecker
+https://github.com/woodpecker-ci/woodpecker
+Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
+language: Go
+stars: 6,384
+forked: 513
+stars today: 9
+
+gogs/gogs
+https://github.com/gogs/gogs
+Gogs is a painless self-hosted Git service
+language: Go
+stars: 47,513
+forked: 5,075
+stars today: 7

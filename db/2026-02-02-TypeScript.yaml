@@ -1,0 +1,87 @@
+openclaw/openclaw
+https://github.com/openclaw/openclaw
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+language: TypeScript
+stars: 143,698
+forked: 21,500
+stars today: 10,794
+
+pedramamini/Maestro
+https://github.com/pedramamini/Maestro
+Agent Orchestration Command Center
+language: TypeScript
+stars: 1,023
+forked: 125
+stars today: 49
+
+badlogic/pi-mono
+https://github.com/badlogic/pi-mono
+AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+language: TypeScript
+stars: 5,049
+forked: 543
+stars today: 613
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 16,578
+forked: 1,156
+stars today: 196
+
+amantus-ai/vibetunnel
+https://github.com/amantus-ai/vibetunnel
+Turn any browser into your terminal & command your agents on the go.
+language: TypeScript
+stars: 3,581
+forked: 234
+stars today: 43
+
+onlook-dev/onlook
+https://github.com/onlook-dev/onlook
+The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+language: TypeScript
+stars: 24,603
+forked: 1,820
+stars today: 24
+
+AykutSarac/jsoncrack.com
+https://github.com/AykutSarac/jsoncrack.com
+✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+language: TypeScript
+stars: 43,211
+forked: 3,471
+stars today: 40
+
+reconurge/flowsint
+https://github.com/reconurge/flowsint
+A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+language: TypeScript
+stars: 2,372
+forked: 278
+stars today: 325
+
+daytonaio/daytona
+https://github.com/daytonaio/daytona
+Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+language: TypeScript
+stars: 52,350
+forked: 4,745
+stars today: 341
+
+steipete/mcporter
+https://github.com/steipete/mcporter
+Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+language: TypeScript
+stars: 1,266
+forked: 86
+stars today: 61
+
+firecrawl/firecrawl
+https://github.com/firecrawl/firecrawl
+🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+language: TypeScript
+stars: 78,989
+forked: 5,899
+stars today: 233
