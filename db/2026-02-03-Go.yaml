@@ -1,0 +1,175 @@
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 22,012
+forked: 1,073
+stars today: 347
+
+autobrr/qui
+https://github.com/autobrr/qui
+A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+language: Go
+stars: 2,886
+forked: 77
+stars today: 77
+
+AlexanderGrooff/mermaid-ascii
+https://github.com/AlexanderGrooff/mermaid-ascii
+Render Mermaid graphs inside your terminal
+language: Go
+stars: 997
+forked: 42
+stars today: 55
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+language: Go
+stars: 27,806
+forked: 2,263
+stars today: 54
+
+simulot/immich-go
+https://github.com/simulot/immich-go
+An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+language: Go
+stars: 5,389
+forked: 182
+stars today: 15
+
+looplj/axonhub
+https://github.com/looplj/axonhub
+⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
+language: Go
+stars: 1,627
+forked: 188
+stars today: 40
+
+charmbracelet/vhs
+https://github.com/charmbracelet/vhs
+Your CLI home video recorder 📼
+language: Go
+stars: 18,498
+forked: 365
+stars today: 20
+
+gogs/gogs
+https://github.com/gogs/gogs
+Gogs is a painless self-hosted Git service
+language: Go
+stars: 47,518
+forked: 5,075
+stars today: 10
+
+restic/restic
+https://github.com/restic/restic
+Fast, secure, efficient backup program
+language: Go
+stars: 32,045
+forked: 1,706
+stars today: 27
+
+slackhq/nebula
+https://github.com/slackhq/nebula
+A scalable overlay networking tool with a focus on performance, simplicity and security
+language: Go
+stars: 16,875
+forked: 1,100
+stars today: 16
+
+miniflux/v2
+https://github.com/miniflux/v2
+Minimalist and opinionated feed reader
+language: Go
+stars: 8,708
+forked: 840
+stars today: 7
+
+TecharoHQ/anubis
+https://github.com/TecharoHQ/anubis
+Weighs the soul of incoming HTTP requests to stop AI crawlers
+language: Go
+stars: 16,597
+forked: 488
+stars today: 17
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+A continuation of HomeBox the inventory and organization system built for the Home User
+language: Go
+stars: 5,070
+forked: 318
+stars today: 15
+
+avelino/awesome-go
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
+language: Go
+stars: 164,108
+forked: 12,941
+stars today: 98
+
+getarcaneapp/arcane
+https://github.com/getarcaneapp/arcane
+Modern Docker Management, Designed for Everyone
+language: Go
+stars: 4,353
+forked: 139
+stars today: 28
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 34,825
+forked: 1,862
+stars today: 66
+
+authelia/authelia
+https://github.com/authelia/authelia
+The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+language: Go
+stars: 26,584
+forked: 1,325
+stars today: 12
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+An open source trusted cloud native registry project that stores, signs, and scans content.
+language: Go
+stars: 27,495
+forked: 5,086
+stars today: 14
+
+gdy666/lucky
+https://github.com/gdy666/lucky
+软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+language: Go
+stars: 7,228
+forked: 676
+stars today: 16
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+The universal proxy platform
+language: Go
+stars: 30,236
+forked: 3,552
+stars today: 33
+
+hatchet-dev/hatchet
+https://github.com/hatchet-dev/hatchet
+🪓 Run Background Tasks at Scale
+language: Go
+stars: 6,488
+forked: 298
+stars today: 4
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 79,560
+forked: 4,908
+stars today: 35

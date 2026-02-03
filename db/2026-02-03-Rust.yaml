@@ -1,0 +1,167 @@
+Pumpkin-MC/Pumpkin
+https://github.com/Pumpkin-MC/Pumpkin
+Empowering everyone to host fast and efficient Minecraft servers.
+language: Rust
+stars: 6,754
+forked: 408
+stars today: 51
+
+zerocore-ai/microsandbox
+https://github.com/zerocore-ai/microsandbox
+opensource self-hosted sandboxes for ai agents
+language: Rust
+stars: 4,655
+forked: 216
+stars today: 45
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 30,728
+forked: 663
+stars today: 159
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 26,052
+forked: 2,714
+stars today: 19
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 44,454
+forked: 4,364
+stars today: 21
+
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 4,403
+forked: 131
+stars today: 241
+
+memvid/memvid
+https://github.com/memvid/memvid
+Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+language: Rust
+stars: 12,839
+forked: 1,082
+stars today: 50
+
+max-sixty/worktrunk
+https://github.com/max-sixty/worktrunk
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+language: Rust
+stars: 1,713
+forked: 61
+stars today: 21
+
+stalwartlabs/stalwart
+https://github.com/stalwartlabs/stalwart
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+language: Rust
+stars: 11,397
+forked: 625
+stars today: 11
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 58,493
+forked: 16,613
+stars today: 27
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 18,388
+forked: 674
+stars today: 84
+
+rust-lang/rust
+https://github.com/rust-lang/rust
+Empowering everyone to build reliable and efficient software.
+language: Rust
+stars: 109,986
+forked: 14,427
+stars today: 36
+
+zellij-org/zellij
+https://github.com/zellij-org/zellij
+A terminal workspace with batteries included
+language: Rust
+stars: 28,607
+forked: 948
+stars today: 20
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 15,733
+forked: 481
+stars today: 20
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 6,584
+forked: 801
+stars today: 5
+
+alacritty/alacritty
+https://github.com/alacritty/alacritty
+A cross-platform, OpenGL terminal emulator.
+language: Rust
+stars: 62,245
+forked: 3,291
+stars today: 16
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,214
+forked: 938
+stars today: 6
+
+EFForg/rayhunter
+https://github.com/EFForg/rayhunter
+Rust tool to detect cell site simulators on an orbic mobile hotspot
+language: Rust
+stars: 4,457
+forked: 332
+stars today: 22
+
+emilk/egui
+https://github.com/emilk/egui
+egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+language: Rust
+stars: 27,945
+forked: 1,943
+stars today: 14
+
+jdx/mise
+https://github.com/jdx/mise
+dev tools, env vars, task runner
+language: Rust
+stars: 24,117
+forked: 857
+stars today: 59
+
+wezterm/wezterm
+https://github.com/wezterm/wezterm
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+language: Rust
+stars: 23,868
+forked: 1,172
+stars today: 15

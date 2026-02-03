@@ -1,0 +1,87 @@
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 18,292
+forked: 1,261
+stars today: 1,474
+
+pedramamini/Maestro
+https://github.com/pedramamini/Maestro
+Agent Orchestration Command Center
+language: TypeScript
+stars: 1,318
+forked: 144
+stars today: 336
+
+badlogic/pi-mono
+https://github.com/badlogic/pi-mono
+AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+language: TypeScript
+stars: 5,669
+forked: 585
+stars today: 878
+
+langchain-ai/social-media-agent
+https://github.com/langchain-ai/social-media-agent
+📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+language: TypeScript
+stars: 2,152
+forked: 397
+stars today: 47
+
+openclaw/openclaw
+https://github.com/openclaw/openclaw
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+language: TypeScript
+stars: 152,523
+forked: 23,260
+stars today: 10,726
+
+amantus-ai/vibetunnel
+https://github.com/amantus-ai/vibetunnel
+Turn any browser into your terminal & command your agents on the go.
+language: TypeScript
+stars: 3,718
+forked: 245
+stars today: 297
+
+agentsmd/agents.md
+https://github.com/agentsmd/agents.md
+AGENTS.md — a simple, open format for guiding coding agents
+language: TypeScript
+stars: 16,720
+forked: 1,175
+stars today: 187
+
+reconurge/flowsint
+https://github.com/reconurge/flowsint
+A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+language: TypeScript
+stars: 2,433
+forked: 286
+stars today: 116
+
+Koenkk/zigbee2mqtt
+https://github.com/Koenkk/zigbee2mqtt
+Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+language: TypeScript
+stars: 14,719
+forked: 1,897
+stars today: 20
+
+iptv-org/iptv
+https://github.com/iptv-org/iptv
+Collection of publicly available IPTV channels from all over the world
+language: TypeScript
+stars: 110,963
+forked: 5,518
+stars today: 73
+
+saurabhnemade/will-you-be-my-valentine
+https://github.com/saurabhnemade/will-you-be-my-valentine
+A simple application to impress your loved ones on valentines day!!
+language: TypeScript
+stars: 360
+forked: 466
+stars today: 12
