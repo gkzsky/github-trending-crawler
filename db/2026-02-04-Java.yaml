@@ -1,0 +1,151 @@
+termux/termux-app
+https://github.com/termux/termux-app
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+language: Java
+stars: 50,115
+forked: 5,952
+stars today: 325
+
+opensearch-project/OpenSearch
+https://github.com/opensearch-project/OpenSearch
+🔎 Open source distributed and RESTful search engine.
+language: Java
+stars: 12,326
+forked: 2,391
+stars today: 10
+
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 32,624
+forked: 8,023
+stars today: 27
+
+ashishps1/awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources
+Learn System Design concepts and prepare for interviews using free resources.
+language: Java
+stars: 29,534
+forked: 6,757
+stars today: 22
+
+Julow/Unexpected-Keyboard
+https://github.com/Julow/Unexpected-Keyboard
+A lightweight keyboard for Android
+language: Java
+stars: 2,729
+forked: 275
+stars today: 27
+
+JingMatrix/LSPosed
+https://github.com/JingMatrix/LSPosed
+LSPosed Framework resuscitated
+language: Java
+stars: 9,427
+forked: 590
+stars today: 14
+
+apache/kafka
+https://github.com/apache/kafka
+Mirror of Apache Kafka
+language: Java
+stars: 31,821
+forked: 14,941
+stars today: 3
+
+DependencyTrack/dependency-track
+https://github.com/DependencyTrack/dependency-track
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+language: Java
+stars: 3,570
+forked: 709
+stars today: 3
+
+neo4j/neo4j
+https://github.com/neo4j/neo4j
+Graphs for Everyone
+language: Java
+stars: 15,828
+forked: 2,559
+stars today: 11
+
+flyway/flyway
+https://github.com/flyway/flyway
+Flyway by Redgate • Database Migrations Made Easy.
+language: Java
+stars: 9,494
+forked: 1,592
+stars today: 4
+
+langchain4j/langchain4j-examples
+https://github.com/langchain4j/langchain4j-examples
+-
+language: Java
+stars: 1,441
+forked: 524
+stars today: 6
+
+skylot/jadx
+https://github.com/skylot/jadx
+Dex to Java decompiler
+language: Java
+stars: 47,153
+forked: 5,420
+stars today: 23
+
+zaproxy/zaproxy
+https://github.com/zaproxy/zaproxy
+The ZAP by Checkmarx Core project
+language: Java
+stars: 14,701
+forked: 2,502
+stars today: 3
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 48,532
+forked: 4,022
+stars today: 18
+
+apache/paimon
+https://github.com/apache/paimon
+Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+language: Java
+stars: 3,178
+forked: 1,268
+stars today: 1
+
+yuliskov/SmartTube
+https://github.com/yuliskov/SmartTube
+Browse media content with your own rules on Android TV
+language: Java
+stars: 27,953
+forked: 1,506
+stars today: 28
+
+PaperMC/Paper
+https://github.com/PaperMC/Paper
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+language: Java
+stars: 11,892
+forked: 3,242
+stars today: 7
+
+langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
+LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+language: Java
+stars: 10,624
+forked: 1,944
+stars today: 19
+
+killbill/killbill
+https://github.com/killbill/killbill
+Open-Source Subscription Billing & Payments Platform
+language: Java
+stars: 5,310
+forked: 894
+stars today: 6

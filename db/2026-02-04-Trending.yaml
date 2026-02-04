@@ -1,0 +1,87 @@
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 20,582
+forked: 1,390
+stars today: 1,730
+
+masoncl/review-prompts
+https://github.com/masoncl/review-prompts
+AI review prompts
+language: Python
+stars: 395
+forked: 34
+stars today: 54
+
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 3,128
+forked: 182
+stars today: 377
+
+automazeio/ccpm
+https://github.com/automazeio/ccpm
+Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+language: Shell
+stars: 6,751
+forked: 701
+stars today: 123
+
+obra/superpowers
+https://github.com/obra/superpowers
+An agentic skills framework & software development methodology that works.
+language: Shell
+stars: 43,661
+forked: 3,310
+stars today: 817
+
+virattt/dexter
+https://github.com/virattt/dexter
+An autonomous agent for deep financial research
+language: TypeScript
+stars: 10,138
+forked: 1,231
+stars today: 222
+
+karpathy/nanochat
+https://github.com/karpathy/nanochat
+The best ChatGPT that $100 can buy.
+language: Python
+stars: 42,062
+forked: 5,432
+stars today: 447
+
+kovidgoyal/calibre
+https://github.com/kovidgoyal/calibre
+The official source code repository for the calibre ebook manager
+language: Python
+stars: 23,941
+forked: 2,550
+stars today: 141
+
+OpenBMB/ChatDev
+https://github.com/OpenBMB/ChatDev
+ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+language: Python
+stars: 29,804
+forked: 3,688
+stars today: 476
+
+pedramamini/Maestro
+https://github.com/pedramamini/Maestro
+Agent Orchestration Command Center
+language: TypeScript
+stars: 1,522
+forked: 157
+stars today: 269
+
+vm0-ai/vm0
+https://github.com/vm0-ai/vm0
+the easiest way to run natural language-described workflows automatically
+language: TypeScript
+stars: 744
+forked: 26
+stars today: 62

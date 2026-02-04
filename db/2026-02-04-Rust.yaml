@@ -1,0 +1,167 @@
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 4,866
+forked: 135
+stars today: 46
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 30,809
+forked: 664
+stars today: 99
+
+Pumpkin-MC/Pumpkin
+https://github.com/Pumpkin-MC/Pumpkin
+Empowering everyone to host fast and efficient Minecraft servers.
+language: Rust
+stars: 6,779
+forked: 410
+stars today: 35
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,658
+forked: 1,752
+stars today: 22
+
+tauri-apps/tauri
+https://github.com/tauri-apps/tauri
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+language: Rust
+stars: 102,245
+forked: 3,353
+stars today: 42
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 26,034
+forked: 1,565
+stars today: 10
+
+memvid/memvid
+https://github.com/memvid/memvid
+Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+language: Rust
+stars: 12,909
+forked: 1,088
+stars today: 93
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 58,801
+forked: 7,656
+stars today: 258
+
+katanemo/plano
+https://github.com/katanemo/plano
+Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
+language: Rust
+stars: 4,941
+forked: 278
+stars today: 15
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+language: Rust
+stars: 15,911
+forked: 988
+stars today: 260
+
+vercel/turborepo
+https://github.com/vercel/turborepo
+Build system optimized for JavaScript and TypeScript, written in Rust
+language: Rust
+stars: 29,720
+forked: 2,239
+stars today: 10
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,867
+forked: 1,192
+stars today: 16
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 7,367
+forked: 1,255
+stars today: 9
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 44,481
+forked: 4,366
+stars today: 30
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 32,219
+forked: 2,238
+stars today: 43
+
+embassy-rs/embassy
+https://github.com/embassy-rs/embassy
+Modern embedded framework, using Rust and async.
+language: Rust
+stars: 8,724
+forked: 1,350
+stars today: 10
+
+cloudflare/quiche
+https://github.com/cloudflare/quiche
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+language: Rust
+stars: 11,218
+forked: 940
+stars today: 5
+
+sharkdp/fd
+https://github.com/sharkdp/fd
+A simple, fast and user-friendly alternative to 'find'
+language: Rust
+stars: 41,452
+forked: 971
+stars today: 10
+
+rust-lang/mdBook
+https://github.com/rust-lang/mdBook
+Create book from markdown files. Like Gitbook but implemented in Rust
+language: Rust
+stars: 21,099
+forked: 1,812
+stars today: 11
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 8,355
+forked: 1,933
+stars today: 3
+
+vectordotdev/vector
+https://github.com/vectordotdev/vector
+A high-performance observability data pipeline.
+language: Rust
+stars: 21,260
+forked: 1,993
+stars today: 10
