@@ -1,0 +1,143 @@
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 26,185
+forked: 2,785
+stars today: 28
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 10,196
+forked: 450
+stars today: 113
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 58,963
+forked: 7,692
+stars today: 221
+
+memvid/memvid
+https://github.com/memvid/memvid
+Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+language: Rust
+stars: 12,959
+forked: 1,089
+stars today: 64
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 32,268
+forked: 2,211
+stars today: 31
+
+YaLTeR/niri
+https://github.com/YaLTeR/niri
+A scrollable-tiling Wayland compositor.
+language: Rust
+stars: 19,148
+forked: 682
+stars today: 299
+
+reacherhq/check-if-email-exists
+https://github.com/reacherhq/check-if-email-exists
+Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+language: Rust
+stars: 7,763
+forked: 549
+stars today: 41
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,671
+forked: 1,757
+stars today: 16
+
+ajeetdsouza/zoxide
+https://github.com/ajeetdsouza/zoxide
+A smarter cd command. Supports all major shells.
+language: Rust
+stars: 33,127
+forked: 728
+stars today: 34
+
+max-sixty/worktrunk
+https://github.com/max-sixty/worktrunk
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+language: Rust
+stars: 1,781
+forked: 63
+stars today: 26
+
+farion1231/cc-switch
+https://github.com/farion1231/cc-switch
+A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+language: Rust
+stars: 16,111
+forked: 1,000
+stars today: 227
+
+sharkdp/bat
+https://github.com/sharkdp/bat
+A cat(1) clone with wings.
+language: Rust
+stars: 56,979
+forked: 1,447
+stars today: 20
+
+slint-ui/slint
+https://github.com/slint-ui/slint
+Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+language: Rust
+stars: 21,649
+forked: 811
+stars today: 15
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 17,599
+forked: 767
+stars today: 10
+
+kata-containers/kata-containers
+https://github.com/kata-containers/kata-containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+language: Rust
+stars: 7,373
+forked: 1,256
+stars today: 14
+
+BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+language: Rust
+stars: 59,559
+forked: 2,389
+stars today: 41
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 29,922
+forked: 2,695
+stars today: 86
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 32,255
+forked: 2,239
+stars today: 42
