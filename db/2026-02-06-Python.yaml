@@ -1,0 +1,95 @@
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 4,359
+forked: 246
+stars today: 621
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 6 lines of code
+language: Python
+stars: 11,872
+forked: 1,160
+stars today: 74
+
+chenyme/grok2api
+https://github.com/chenyme/grok2api
+基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
+language: Python
+stars: 1,046
+forked: 315
+stars today: 71
+
+anthropics/skills
+https://github.com/anthropics/skills
+Public repository for Agent Skills
+language: Python
+stars: 64,107
+forked: 6,330
+stars today: 894
+
+GH05TCREW/pentestagent
+https://github.com/GH05TCREW/pentestagent
+PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
+language: Python
+stars: 1,409
+forked: 330
+stars today: 49
+
+CVHub520/X-AnyLabeling
+https://github.com/CVHub520/X-AnyLabeling
+Effortless data labeling with AI support from Segment Anything and other awesome models.
+language: Python
+stars: 8,087
+forked: 885
+stars today: 15
+
+frappe/erpnext
+https://github.com/frappe/erpnext
+Free and Open Source Enterprise Resource Planning (ERP)
+language: Python
+stars: 31,551
+forked: 10,365
+stars today: 45
+
+JerBouma/FinanceDatabase
+https://github.com/JerBouma/FinanceDatabase
+This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+language: Python
+stars: 6,885
+forked: 719
+stars today: 27
+
+sgl-project/sglang
+https://github.com/sgl-project/sglang
+SGLang is a high-performance serving framework for large language models and multimodal models.
+language: Python
+stars: 23,350
+forked: 4,334
+stars today: 128
+
+qodo-ai/pr-agent
+https://github.com/qodo-ai/pr-agent
+🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+language: Python
+stars: 10,067
+forked: 1,262
+stars today: 18
+
+QwenLM/Qwen3-Coder
+https://github.com/QwenLM/Qwen3-Coder
+Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
+language: Python
+stars: 15,324
+forked: 1,067
+stars today: 78
+
+Polymarket/agents
+https://github.com/Polymarket/agents
+Trade autonomously on Polymarket using AI Agents
+language: Python
+stars: 2,025
+forked: 535
+stars today: 34

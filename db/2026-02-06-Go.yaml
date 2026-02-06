@@ -1,0 +1,167 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,388
+forked: 2,911
+stars today: 25
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+language: Go
+stars: 12,899
+forked: 1,468
+stars today: 29
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 21,899
+forked: 6,793
+stars today: 8
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+Find, verify, and analyze leaked credentials
+language: Go
+stars: 24,432
+forked: 2,216
+stars today: 27
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,382
+forked: 3,305
+stars today: 49
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+language: Go
+stars: 15,040
+forked: 1,869
+stars today: 117
+
+seaweedfs/seaweedfs
+https://github.com/seaweedfs/seaweedfs
+SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+language: Go
+stars: 29,967
+forked: 2,688
+stars today: 25
+
+0xJacky/nginx-ui
+https://github.com/0xJacky/nginx-ui
+Yet another WebUI for Nginx
+language: Go
+stars: 10,559
+forked: 774
+stars today: 14
+
+samber/lo
+https://github.com/samber/lo
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+language: Go
+stars: 20,914
+forked: 932
+stars today: 6
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+Workflow Engine for Kubernetes
+language: Go
+stars: 16,433
+forked: 3,471
+stars today: 7
+
+kagent-dev/kagent
+https://github.com/kagent-dev/kagent
+Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+language: Go
+stars: 2,130
+forked: 395
+stars today: 3
+
+crossplane/crossplane
+https://github.com/crossplane/crossplane
+The Cloud Native Control Plane
+language: Go
+stars: 11,372
+forked: 1,131
+stars today: 9
+
+kubernetes-sigs/kustomize
+https://github.com/kubernetes-sigs/kustomize
+Customization of kubernetes YAML configurations
+language: Go
+stars: 11,919
+forked: 2,359
+stars today: 2
+
+grafana/tempo
+https://github.com/grafana/tempo
+Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+language: Go
+stars: 5,045
+forked: 657
+stars today: 5
+
+googleapis/google-cloud-go
+https://github.com/googleapis/google-cloud-go
+Google Cloud Client Libraries for Go.
+language: Go
+stars: 4,409
+forked: 1,510
+stars today: 2
+
+siderolabs/talos
+https://github.com/siderolabs/talos
+Talos Linux is a modern Linux distribution built for Kubernetes.
+language: Go
+stars: 9,823
+forked: 780
+stars today: 11
+
+gdy666/lucky
+https://github.com/gdy666/lucky
+软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+language: Go
+stars: 7,288
+forked: 680
+stars today: 14
+
+steveyegge/beads
+https://github.com/steveyegge/beads
+Beads - A memory upgrade for your coding agent
+language: Go
+stars: 15,099
+forked: 883
+stars today: 230
+
+rcourtman/Pulse
+https://github.com/rcourtman/Pulse
+Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+language: Go
+stars: 4,093
+forked: 175
+stars today: 28
+
+traefik/traefik
+https://github.com/traefik/traefik
+The Cloud Native Application Proxy
+language: Go
+stars: 61,464
+forked: 5,800
+stars today: 33
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+language: Go
+stars: 39,694
+forked: 6,109
+stars today: 12

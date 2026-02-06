@@ -1,0 +1,151 @@
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 5,549
+forked: 147
+stars today: 258
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 32,401
+forked: 2,214
+stars today: 28
+
+ZeroTworu/anet
+https://github.com/ZeroTworu/anet
+Simple Rust VPN Client / Server
+language: Rust
+stars: 383
+forked: 32
+stars today: 81
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 10,221
+forked: 450
+stars today: 32
+
+ankitects/anki
+https://github.com/ankitects/anki
+Anki is a smart spaced repetition flashcard program
+language: Rust
+stars: 26,273
+forked: 2,792
+stars today: 153
+
+astral-sh/uv
+https://github.com/astral-sh/uv
+An extremely fast Python package and project manager, written in Rust.
+language: Rust
+stars: 78,669
+forked: 2,528
+stars today: 115
+
+feschber/lan-mouse
+https://github.com/feschber/lan-mouse
+mouse & keyboard sharing via LAN
+language: Rust
+stars: 4,470
+forked: 172
+stars today: 50
+
+cloudflare/pingora
+https://github.com/cloudflare/pingora
+A library for building fast, reliable and evolvable network services.
+language: Rust
+stars: 26,059
+forked: 1,568
+stars today: 15
+
+openai/codex
+https://github.com/openai/codex
+Lightweight coding agent that runs in your terminal
+language: Rust
+stars: 59,162
+forked: 7,729
+stars today: 171
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
+language: Rust
+stars: 9,642
+forked: 844
+stars today: 23
+
+zed-industries/zed
+https://github.com/zed-industries/zed
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+language: Rust
+stars: 74,823
+forked: 6,840
+stars today: 98
+
+uutils/coreutils
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+language: Rust
+stars: 22,683
+forked: 1,759
+stars today: 14
+
+storytold/artcraft
+https://github.com/storytold/artcraft
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+language: Rust
+stars: 643
+forked: 38
+stars today: 35
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 54,536
+forked: 2,525
+stars today: 45
+
+GyulyVGC/sniffnet
+https://github.com/GyulyVGC/sniffnet
+Comfortably monitor your Internet traffic 🕵️‍♂️
+language: Rust
+stars: 32,560
+forked: 1,192
+stars today: 14
+
+hickory-dns/hickory-dns
+https://github.com/hickory-dns/hickory-dns
+A Rust based DNS client, server, and resolver
+language: Rust
+stars: 4,976
+forked: 546
+stars today: 5
+
+sinelaw/fresh
+https://github.com/sinelaw/fresh
+Terminal based IDE & text editor: easy, powerful and fast
+language: Rust
+stars: 5,700
+forked: 200
+stars today: 68
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 5,825
+forked: 644
+stars today: 16
+
+memvid/memvid
+https://github.com/memvid/memvid
+Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+language: Rust
+stars: 12,996
+forked: 1,090
+stars today: 35

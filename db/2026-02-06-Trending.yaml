@@ -1,0 +1,87 @@
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 26,790
+forked: 2,622
+stars today: 566
+
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 4,359
+forked: 246
+stars today: 621
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 23,786
+forked: 1,574
+stars today: 1,930
+
+j178/prek
+https://github.com/j178/prek
+⚡ Better `pre-commit`, re-engineered in Rust
+language: Rust
+stars: 5,549
+forked: 147
+stars today: 258
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 6 lines of code
+language: Python
+stars: 11,872
+forked: 1,160
+stars today: 74
+
+obra/superpowers
+https://github.com/obra/superpowers
+An agentic skills framework & software development methodology that works.
+language: Shell
+stars: 45,485
+forked: 3,439
+stars today: 887
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,388
+forked: 2,911
+stars today: 25
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 32,401
+forked: 2,214
+stars today: 28
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 91,385
+forked: 9,828
+stars today: 101
+
+linshenkx/prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
+一款提示词优化器，助力于编写高质量的提示词
+language: TypeScript
+stars: 19,415
+forked: 2,402
+stars today: 51
+
+ZeroTworu/anet
+https://github.com/ZeroTworu/anet
+Simple Rust VPN Client / Server
+language: Rust
+stars: 383
+forked: 32
+stars today: 81
