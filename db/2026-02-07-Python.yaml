@@ -1,0 +1,87 @@
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 4,916
+forked: 282
+stars today: 583
+
+topoteretes/cognee
+https://github.com/topoteretes/cognee
+Memory for AI Agents in 6 lines of code
+language: Python
+stars: 12,005
+forked: 1,172
+stars today: 257
+
+OpenBMB/ChatDev
+https://github.com/OpenBMB/ChatDev
+ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+language: Python
+stars: 30,435
+forked: 3,757
+stars today: 187
+
+ComposioHQ/awesome-claude-skills
+https://github.com/ComposioHQ/awesome-claude-skills
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+language: Python
+stars: 31,380
+forked: 3,012
+stars today: 594
+
+LearningCircuit/local-deep-research
+https://github.com/LearningCircuit/local-deep-research
+Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
+language: Python
+stars: 3,964
+forked: 372
+stars today: 33
+
+confident-ai/deepeval
+https://github.com/confident-ai/deepeval
+The LLM Evaluation Framework
+language: Python
+stars: 13,528
+forked: 1,224
+stars today: 39
+
+sgl-project/sglang
+https://github.com/sgl-project/sglang
+SGLang is a high-performance serving framework for large language models and multimodal models.
+language: Python
+stars: 23,402
+forked: 4,349
+stars today: 104
+
+microsoft/qlib
+https://github.com/microsoft/qlib
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+language: Python
+stars: 36,939
+forked: 5,732
+stars today: 153
+
+shareAI-lab/learn-claude-code
+https://github.com/shareAI-lab/learn-claude-code
+Bash is all You need - Write a nano Claude Code 0 - 1
+language: Python
+stars: 16,621
+forked: 3,570
+stars today: 81
+
+SWE-agent/mini-swe-agent
+https://github.com/SWE-agent/mini-swe-agent
+The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
+language: Python
+stars: 2,746
+forked: 364
+stars today: 9
+
+httpie/cli
+https://github.com/httpie/cli
+🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+language: Python
+stars: 37,496
+forked: 3,807
+stars today: 13

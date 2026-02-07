@@ -1,0 +1,63 @@
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 4,916
+forked: 282
+stars today: 583
+
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 27,139
+forked: 2,643
+stars today: 573
+
+nvm-sh/nvm
+https://github.com/nvm-sh/nvm
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+language: Shell
+stars: 91,512
+forked: 9,834
+stars today: 131
+
+likec4/likec4
+https://github.com/likec4/likec4
+Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+language: TypeScript
+stars: 1,832
+forked: 136
+stars today: 40
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,550
+forked: 2,921
+stars today: 165
+
+ZeroTworu/anet
+https://github.com/ZeroTworu/anet
+Simple Rust VPN Client / Server
+language: Rust
+stars: 544
+forked: 48
+stars today: 193
+
+Flowseal/zapret-discord-youtube
+https://github.com/Flowseal/zapret-discord-youtube
+-
+language: Batchfile
+stars: 21,973
+forked: 1,830
+stars today: 70
+
+DataExpert-io/data-engineer-handbook
+https://github.com/DataExpert-io/data-engineer-handbook
+This is a repo with links to everything you'd ever want to learn about data engineering
+language: Jupyter Notebook
+stars: 39,896
+forked: 7,619
+stars today: 71

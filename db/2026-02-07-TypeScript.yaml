@@ -1,0 +1,111 @@
+bytedance/UI-TARS-desktop
+https://github.com/bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+language: TypeScript
+stars: 27,139
+forked: 2,643
+stars today: 573
+
+likec4/likec4
+https://github.com/likec4/likec4
+Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+language: TypeScript
+stars: 1,832
+forked: 136
+stars today: 40
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 24,347
+forked: 1,604
+stars today: 799
+
+bitwarden/clients
+https://github.com/bitwarden/clients
+Bitwarden client apps (web, browser extension, desktop, and cli).
+language: TypeScript
+stars: 12,022
+forked: 1,627
+stars today: 38
+
+linshenkx/prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
+一款提示词优化器，助力于编写高质量的提示词
+language: TypeScript
+stars: 19,706
+forked: 2,427
+stars today: 326
+
+nicotsx/zerobyte
+https://github.com/nicotsx/zerobyte
+Backup automation for self-hosters. Built on top of restic
+language: TypeScript
+stars: 5,434
+forked: 134
+stars today: 80
+
+requestly/requestly
+https://github.com/requestly/requestly
+Free and open-source API Client & Interceptor.
+language: TypeScript
+stars: 6,211
+forked: 569
+stars today: 13
+
+MotiaDev/motia
+https://github.com/MotiaDev/motia
+Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
+language: TypeScript
+stars: 14,916
+forked: 995
+stars today: 79
+
+Canner/WrenAI
+https://github.com/Canner/WrenAI
+⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+language: TypeScript
+stars: 14,164
+forked: 1,524
+stars today: 39
+
+slidevjs/slidev
+https://github.com/slidevjs/slidev
+Presentation Slides for Developers
+language: TypeScript
+stars: 44,201
+forked: 1,922
+stars today: 42
+
+FranciscoMoretti/chatjs
+https://github.com/FranciscoMoretti/chatjs
+Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
+language: TypeScript
+stars: 1,104
+forked: 109
+stars today: 20
+
+microsoft/vscode
+https://github.com/microsoft/vscode
+Visual Studio Code
+language: TypeScript
+stars: 181,479
+forked: 37,779
+stars today: 59
+
+SigNoz/signoz
+https://github.com/SigNoz/signoz
+SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool
+language: TypeScript
+stars: 25,613
+forked: 1,941
+stars today: 17
+
+backstage/backstage
+https://github.com/backstage/backstage
+Backstage is an open framework for building developer portals
+language: TypeScript
+stars: 32,509
+forked: 7,080
+stars today: 10
