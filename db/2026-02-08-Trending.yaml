@@ -1,0 +1,95 @@
+KeygraphHQ/shannon
+https://github.com/KeygraphHQ/shannon
+Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+language: TypeScript
+stars: 10,292
+forked: 1,296
+stars today: 3,139
+
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 6,138
+forked: 335
+stars today: 592
+
+microsoft/litebox
+https://github.com/microsoft/litebox
+A security-focused library OS supporting kernel- and user-mode execution
+language: Rust
+stars: 1,165
+forked: 50
+stars today: 584
+
+p-e-w/heretic
+https://github.com/p-e-w/heretic
+Fully automatic censorship removal for language models
+language: Python
+stars: 4,768
+forked: 456
+stars today: 69
+
+obra/superpowers
+https://github.com/obra/superpowers
+An agentic skills framework & software development methodology that works.
+language: Shell
+stars: 47,069
+forked: 3,574
+stars today: 686
+
+OpenBMB/MiniCPM-o
+https://github.com/OpenBMB/MiniCPM-o
+A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+language: Python
+stars: 23,186
+forked: 1,765
+stars today: 44
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 31,698
+forked: 2,929
+stars today: 168
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+An open-source, cross-platform terminal for seamless workflows
+language: Go
+stars: 17,161
+forked: 763
+stars today: 25
+
+viarotel-org/escrcpy
+https://github.com/viarotel-org/escrcpy
+📱 Display and control your Android device graphically with scrcpy.
+language: JavaScript
+stars: 7,864
+forked: 571
+stars today: 27
+
+ComposioHQ/awesome-claude-skills
+https://github.com/ComposioHQ/awesome-claude-skills
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+language: Python
+stars: 32,094
+forked: 3,072
+stars today: 443
+
+likec4/likec4
+https://github.com/likec4/likec4
+Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+language: TypeScript
+stars: 2,107
+forked: 147
+stars today: 274
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 18,021
+forked: 776
+stars today: 85
