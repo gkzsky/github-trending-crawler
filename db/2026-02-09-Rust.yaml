@@ -1,0 +1,135 @@
+pydantic/monty
+https://github.com/pydantic/monty
+A minimal, secure Python interpreter written in Rust for use by AI
+language: Rust
+stars: 2,964
+forked: 82
+stars today: 456
+
+microsoft/litebox
+https://github.com/microsoft/litebox
+A security-focused library OS supporting kernel- and user-mode execution
+language: Rust
+stars: 1,471
+forked: 61
+stars today: 359
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 18,398
+forked: 794
+stars today: 414
+
+lbjlaq/Antigravity-Manager
+https://github.com/lbjlaq/Antigravity-Manager
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+language: Rust
+stars: 22,161
+forked: 2,518
+stars today: 208
+
+karinushka/paneru
+https://github.com/karinushka/paneru
+A sliding, tiling window manager for MacOS.
+language: Rust
+stars: 783
+forked: 28
+stars today: 65
+
+microsoft/edit
+https://github.com/microsoft/edit
+We all edit.
+language: Rust
+stars: 13,464
+forked: 631
+stars today: 20
+
+EasyTier/EasyTier
+https://github.com/EasyTier/EasyTier
+A simple, decentralized mesh VPN with WireGuard support.
+language: Rust
+stars: 9,769
+forked: 927
+stars today: 22
+
+nushell/nushell
+https://github.com/nushell/nushell
+A new type of shell
+language: Rust
+stars: 38,217
+forked: 2,041
+stars today: 29
+
+zellij-org/zellij
+https://github.com/zellij-org/zellij
+A terminal workspace with batteries included
+language: Rust
+stars: 28,869
+forked: 953
+stars today: 96
+
+katanemo/plano
+https://github.com/katanemo/plano
+Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
+language: Rust
+stars: 5,053
+forked: 283
+stars today: 31
+
+sxyazi/yazi
+https://github.com/sxyazi/yazi
+💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+language: Rust
+stars: 32,347
+forked: 705
+stars today: 31
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 36,908
+forked: 1,197
+stars today: 8
+
+clockworklabs/SpacetimeDB
+https://github.com/clockworklabs/SpacetimeDB
+Development at the speed of light
+language: Rust
+stars: 19,062
+forked: 684
+stars today: 13
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 23,503
+forked: 846
+stars today: 19
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 34,613
+forked: 1,537
+stars today: 13
+
+meilisearch/meilisearch
+https://github.com/meilisearch/meilisearch
+A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+language: Rust
+stars: 55,810
+forked: 2,364
+stars today: 21
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 44,547
+forked: 4,370
+stars today: 14

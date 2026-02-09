@@ -1,0 +1,103 @@
+haskell/haskell-language-server
+https://github.com/haskell/haskell-language-server
+Official Haskell IDE support via the language server protocol (LSP)
+language: Haskell
+stars: 2,882
+forked: 425
+stars today: 0
+
+simonmichael/hledger
+https://github.com/simonmichael/hledger
+Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+language: Haskell
+stars: 3,856
+forked: 353
+stars today: 32
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,363
+forked: 559
+stars today: 6
+
+b3nj5m1n/xdg-ninja
+https://github.com/b3nj5m1n/xdg-ninja
+A shell script which checks your $HOME for unwanted files and directories.
+language: Haskell
+stars: 3,109
+forked: 183
+stars today: 1
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,926
+forked: 486
+stars today: 5
+
+unisonweb/unison
+https://github.com/unisonweb/unison
+A friendly programming language from the future
+language: Haskell
+stars: 6,472
+forked: 296
+stars today: 0
+
+agda/agda
+https://github.com/agda/agda
+Agda is a dependently typed programming language / interactive theorem prover.
+language: Haskell
+stars: 2,788
+forked: 398
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Haskell
+stars: 874
+forked: 244
+stars today: 1
+
+monoscope-tech/monoscope
+https://github.com/monoscope-tech/monoscope
+Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
+language: Haskell
+stars: 450
+forked: 8
+stars today: 0
+
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,480
+forked: 1,154
+stars today: 7
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,181
+forked: 748
+stars today: 0
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 41,984
+forked: 3,764
+stars today: 14
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 243
+forked: 19
+stars today: 0

@@ -1,0 +1,95 @@
+KeygraphHQ/shannon
+https://github.com/KeygraphHQ/shannon
+Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+language: TypeScript
+stars: 13,762
+forked: 1,575
+stars today: 3,479
+
+pydantic/monty
+https://github.com/pydantic/monty
+A minimal, secure Python interpreter written in Rust for use by AI
+language: Rust
+stars: 2,964
+forked: 82
+stars today: 456
+
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 7,085
+forked: 399
+stars today: 1,425
+
+virattt/dexter
+https://github.com/virattt/dexter
+An autonomous agent for deep financial research
+language: TypeScript
+stars: 12,778
+forked: 1,543
+stars today: 1,039
+
+microsoft/litebox
+https://github.com/microsoft/litebox
+A security-focused library OS supporting kernel- and user-mode execution
+language: Rust
+stars: 1,471
+forked: 61
+stars today: 359
+
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 24,822
+forked: 1,716
+stars today: 438
+
+obra/superpowers
+https://github.com/obra/superpowers
+An agentic skills framework & software development methodology that works.
+language: Shell
+stars: 47,875
+forked: 3,636
+stars today: 813
+
+OpenBMB/MiniCPM-o
+https://github.com/OpenBMB/MiniCPM-o
+A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+language: Python
+stars: 23,456
+forked: 1,789
+stars today: 212
+
+likec4/likec4
+https://github.com/likec4/likec4
+Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+language: TypeScript
+stars: 2,405
+forked: 160
+stars today: 271
+
+iOfficeAI/AionUi
+https://github.com/iOfficeAI/AionUi
+Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+language: TypeScript
+stars: 13,283
+forked: 1,020
+stars today: 335
+
+home-assistant/addons
+https://github.com/home-assistant/addons
+➕ Docker add-ons for Home Assistant
+language: Shell
+stars: 2,024
+forked: 1,760
+stars today: 11
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 18,398
+forked: 794
+stars today: 414
