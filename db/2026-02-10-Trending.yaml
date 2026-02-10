@@ -1,0 +1,103 @@
+KeygraphHQ/shannon
+https://github.com/KeygraphHQ/shannon
+Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+language: TypeScript
+stars: 17,696
+forked: 1,849
+stars today: 4,144
+
+virattt/dexter
+https://github.com/virattt/dexter
+An autonomous agent for deep financial research
+language: TypeScript
+stars: 13,641
+forked: 1,632
+stars today: 1,115
+
+pydantic/monty
+https://github.com/pydantic/monty
+A minimal, secure Python interpreter written in Rust for use by AI
+language: Rust
+stars: 4,029
+forked: 148
+stars today: 1,291
+
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 16,343
+forked: 3,582
+stars today: 149
+
+iOfficeAI/AionUi
+https://github.com/iOfficeAI/AionUi
+Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+language: TypeScript
+stars: 13,910
+forked: 1,066
+stars today: 673
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 397,295
+forked: 42,494
+stars today: 410
+
+github/gh-aw
+https://github.com/github/gh-aw
+GitHub Agentic Workflows
+language: Go
+stars: 970
+forked: 81
+stars today: 260
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 93,218
+forked: 13,521
+stars today: 227
+
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 18,678
+forked: 808
+stars today: 376
+
+microsoft/litebox
+https://github.com/microsoft/litebox
+A security-focused library OS supporting kernel- and user-mode execution
+language: Rust
+stars: 1,754
+forked: 74
+stars today: 354
+
+openai/skills
+https://github.com/openai/skills
+Skills Catalog for Codex
+language: Python
+stars: 7,597
+forked: 432
+stars today: 707
+
+EveryInc/compound-engineering-plugin
+https://github.com/EveryInc/compound-engineering-plugin
+Official Claude Code compound engineering plugin
+language: TypeScript
+stars: 7,904
+forked: 629
+stars today: 185
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1158+ languages!
+language: Python
+stars: 17,906
+forked: 1,448
+stars today: 147

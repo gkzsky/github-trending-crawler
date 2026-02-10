@@ -1,0 +1,135 @@
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 84
+forked: 121
+stars today: 2
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,789
+forked: 29,060
+stars today: 10
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,718
+forked: 2,560
+stars today: 3
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 4,340
+forked: 1,398
+stars today: 1
+
+riscv-boom/riscv-boom
+https://github.com/riscv-boom/riscv-boom
+SonicBOOM: The Berkeley Out-of-Order Machine
+language: Scala
+stars: 2,071
+forked: 479
+stars today: 0
+
+chipsalliance/diplomacy
+https://github.com/chipsalliance/diplomacy
+-
+language: Scala
+stars: 24
+forked: 20
+stars today: 0
+
+apache/incubator-gluten
+https://github.com/apache/incubator-gluten
+Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+language: Scala
+stars: 1,510
+forked: 569
+stars today: 1
+
+playframework/playframework
+https://github.com/playframework/playframework
+The Community Maintained High Velocity Web Framework For Java and Scala.
+language: Scala
+stars: 12,624
+forked: 4,066
+stars today: 1
+
+ucb-bar/riscv-torture
+https://github.com/ucb-bar/riscv-torture
+RISC-V Torture Test
+language: Scala
+stars: 213
+forked: 52
+stars today: 0
+
+apache/datafusion-comet
+https://github.com/apache/datafusion-comet
+Apache DataFusion Comet Spark Accelerator
+language: Scala
+stars: 1,129
+forked: 283
+stars today: 0
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,564
+forked: 648
+stars today: 0
+
+databricks/spark-perf
+https://github.com/databricks/spark-perf
+Performance tests for Apache Spark
+language: Scala
+stars: 384
+forked: 201
+stars today: 1
+
+databricks/sbt-spark-package
+https://github.com/databricks/sbt-spark-package
+Sbt plugin for Spark packages
+language: Scala
+stars: 152
+forked: 31
+stars today: 0
+
+databricks/spark-integration-tests
+https://github.com/databricks/spark-integration-tests
+Integration tests for Spark
+language: Scala
+stars: 68
+forked: 21
+stars today: 0
+
+ucb-bar/chipyard
+https://github.com/ucb-bar/chipyard
+An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+language: Scala
+stars: 2,133
+forked: 811
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,574
+forked: 2,003
+stars today: 2
+
+firesim/firesim
+https://github.com/firesim/firesim
+FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility
+language: Scala
+stars: 993
+forked: 260
+stars today: 0
