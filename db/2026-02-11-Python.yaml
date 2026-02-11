@@ -1,0 +1,143 @@
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 28,808
+forked: 1,936
+stars today: 1,654
+
+hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+language: Python
+stars: 16,739
+forked: 3,625
+stars today: 498
+
+Shubhamsaboo/awesome-llm-apps
+https://github.com/Shubhamsaboo/awesome-llm-apps
+Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+language: Python
+stars: 93,682
+forked: 13,589
+stars today: 443
+
+cheahjs/free-llm-api-resources
+https://github.com/cheahjs/free-llm-api-resources
+A list of free LLM inference resources accessible via API.
+language: Python
+stars: 8,752
+forked: 854
+stars today: 115
+
+Jeffallan/claude-skills
+https://github.com/Jeffallan/claude-skills
+65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+language: Python
+stars: 880
+forked: 77
+stars today: 45
+
+yusufkaraaslan/Skill_Seekers
+https://github.com/yusufkaraaslan/Skill_Seekers
+Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+language: Python
+stars: 9,337
+forked: 938
+stars today: 95
+
+public-apis/public-apis
+https://github.com/public-apis/public-apis
+A collective list of free APIs
+language: Python
+stars: 397,718
+forked: 42,540
+stars today: 838
+
+DrewThomasson/ebook2audiobook
+https://github.com/DrewThomasson/ebook2audiobook
+Generate audiobooks from e-books, voice cloning & 1158+ languages!
+language: Python
+stars: 18,062
+forked: 1,470
+stars today: 382
+
+bytedance/UI-TARS
+https://github.com/bytedance/UI-TARS
+Pioneering Automated GUI Interaction with Native Agents
+language: Python
+stars: 9,491
+forked: 689
+stars today: 29
+
+gyoridavid/ai_agents_az
+https://github.com/gyoridavid/ai_agents_az
+-
+language: Python
+stars: 3,540
+forked: 875
+stars today: 168
+
+OpenBMB/VoxCPM
+https://github.com/OpenBMB/VoxCPM
+VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+language: Python
+stars: 5,864
+forked: 708
+stars today: 31
+
+baserow/baserow
+https://github.com/baserow/baserow
+Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
+language: Python
+stars: 4,012
+forked: 501
+stars today: 13
+
+suyiiyii/AutoGLM-GUI
+https://github.com/suyiiyii/AutoGLM-GUI
+AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
+language: Python
+stars: 846
+forked: 130
+stars today: 12
+
+odoo/odoo
+https://github.com/odoo/odoo
+Odoo. Open Source Apps To Grow Your Business.
+language: Python
+stars: 48,944
+forked: 31,443
+stars today: 22
+
+onnx/onnx
+https://github.com/onnx/onnx
+Open standard for machine learning interoperability
+language: Python
+stars: 20,312
+forked: 3,867
+stars today: 11
+
+OpenBMB/MiniCPM-o
+https://github.com/OpenBMB/MiniCPM-o
+A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+language: Python
+stars: 23,666
+forked: 1,818
+stars today: 90
+
+aliasrobotics/cai
+https://github.com/aliasrobotics/cai
+Cybersecurity AI (CAI), the framework for AI Security
+language: Python
+stars: 7,079
+forked: 1,002
+stars today: 35
+
+opendatalab/PDF-Extract-Kit
+https://github.com/opendatalab/PDF-Extract-Kit
+A Comprehensive Toolkit for High-Quality PDF Content Extraction
+language: Python
+stars: 9,314
+forked: 697
+stars today: 52
