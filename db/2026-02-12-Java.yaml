@@ -1,0 +1,175 @@
+keycloak/keycloak
+https://github.com/keycloak/keycloak
+Open Source Identity and Access Management For Modern Applications and Services
+language: Java
+stars: 32,783
+forked: 8,047
+stars today: 28
+
+kestra-io/kestra
+https://github.com/kestra-io/kestra
+Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+language: Java
+stars: 26,383
+forked: 2,487
+stars today: 13
+
+OpenAPITools/openapi-generator
+https://github.com/OpenAPITools/openapi-generator
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+language: Java
+stars: 25,796
+forked: 7,384
+stars today: 11
+
+ashishps1/awesome-low-level-design
+https://github.com/ashishps1/awesome-low-level-design
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+language: Java
+stars: 22,034
+forked: 5,397
+stars today: 56
+
+Archmage83/tvapk
+https://github.com/Archmage83/tvapk
+收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+language: Java
+stars: 5,692
+forked: 541
+stars today: 21
+
+DrKLO/Telegram
+https://github.com/DrKLO/Telegram
+Telegram for Android source
+language: Java
+stars: 28,510
+forked: 9,278
+stars today: 12
+
+spring-projects/spring-boot
+https://github.com/spring-projects/spring-boot
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+language: Java
+stars: 79,900
+forked: 41,865
+stars today: 9
+
+spring-projects/spring-security
+https://github.com/spring-projects/spring-security
+Spring Security
+language: Java
+stars: 9,436
+forked: 6,248
+stars today: 0
+
+kafbat/kafka-ui
+https://github.com/kafbat/kafka-ui
+Open-Source Web UI for managing Apache Kafka clusters
+language: Java
+stars: 2,035
+forked: 255
+stars today: 15
+
+signalapp/Signal-Server
+https://github.com/signalapp/Signal-Server
+Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+language: Java
+stars: 10,369
+forked: 2,425
+stars today: 5
+
+apache/nifi
+https://github.com/apache/nifi
+Apache NiFi
+language: Java
+stars: 5,955
+forked: 2,927
+stars today: 1
+
+Sketchware-Pro/Sketchware-Pro
+https://github.com/Sketchware-Pro/Sketchware-Pro
+Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
+language: Java
+stars: 1,446
+forked: 560
+stars today: 4
+
+apache/polaris
+https://github.com/apache/polaris
+Apache Polaris, the interoperable, open source catalog for Apache Iceberg
+language: Java
+stars: 1,832
+forked: 375
+stars today: 2
+
+synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+Synthetic Patient Population Simulator
+language: Java
+stars: 2,959
+forked: 824
+stars today: 5
+
+provectus/kafka-ui
+https://github.com/provectus/kafka-ui
+Open-Source Web UI for Apache Kafka Management
+language: Java
+stars: 11,870
+forked: 1,365
+stars today: 1
+
+netty/netty
+https://github.com/netty/netty
+Netty project - an event-driven asynchronous network application framework
+language: Java
+stars: 34,790
+forked: 16,281
+stars today: 6
+
+modelcontextprotocol/java-sdk
+https://github.com/modelcontextprotocol/java-sdk
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+language: Java
+stars: 3,168
+forked: 802
+stars today: 6
+
+datahub-project/datahub
+https://github.com/datahub-project/datahub
+The Metadata Platform for your Data and AI Stack
+language: Java
+stars: 11,571
+forked: 3,368
+stars today: 5
+
+cabaletta/baritone
+https://github.com/cabaletta/baritone
+google maps for block game
+language: Java
+stars: 8,636
+forked: 1,774
+stars today: 10
+
+google/guava
+https://github.com/google/guava
+Google core libraries for Java
+language: Java
+stars: 51,460
+forked: 11,149
+stars today: 3
+
+dbeaver/dbeaver
+https://github.com/dbeaver/dbeaver
+Free universal database tool and SQL client
+language: Java
+stars: 48,650
+forked: 4,036
+stars today: 21
+
+StarRocks/starrocks
+https://github.com/StarRocks/starrocks
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+language: Java
+stars: 11,373
+forked: 2,313
+stars today: 2

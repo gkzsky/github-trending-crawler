@@ -1,0 +1,167 @@
+gitbutlerapp/gitbutler
+https://github.com/gitbutlerapp/gitbutler
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+language: Rust
+stars: 19,209
+forked: 830
+stars today: 401
+
+matrix-construct/tuwunel
+https://github.com/matrix-construct/tuwunel
+Official successor to conduwuit
+language: Rust
+stars: 1,335
+forked: 90
+stars today: 50
+
+EricLBuehler/mistral.rs
+https://github.com/EricLBuehler/mistral.rs
+Fast, flexible LLM inference
+language: Rust
+stars: 6,566
+forked: 527
+stars today: 13
+
+lbjlaq/Antigravity-Manager
+https://github.com/lbjlaq/Antigravity-Manager
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+language: Rust
+stars: 22,975
+forked: 2,604
+stars today: 296
+
+freenet/freenet-core
+https://github.com/freenet/freenet-core
+Declare your digital independence
+language: Rust
+stars: 2,648
+forked: 125
+stars today: 17
+
+eythaann/Seelen-UI
+https://github.com/eythaann/Seelen-UI
+The Fully Customizable Desktop Environment for Windows 10/11.
+language: Rust
+stars: 15,878
+forked: 483
+stars today: 17
+
+a2x/cs2-dumper
+https://github.com/a2x/cs2-dumper
+Counter-Strike: 2 Offset Dumper
+language: Rust
+stars: 1,744
+forked: 257
+stars today: 4
+
+oxc-project/oxc
+https://github.com/oxc-project/oxc
+⚓ A collection of high-performance JavaScript tools.
+language: Rust
+stars: 18,937
+forked: 821
+stars today: 30
+
+tracel-ai/burn
+https://github.com/tracel-ai/burn
+Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+language: Rust
+stars: 14,340
+forked: 816
+stars today: 20
+
+block/goose
+https://github.com/block/goose
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+language: Rust
+stars: 30,336
+forked: 2,748
+stars today: 88
+
+Zackriya-Solutions/meeting-minutes
+https://github.com/Zackriya-Solutions/meeting-minutes
+Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
+language: Rust
+stars: 9,788
+forked: 872
+stars today: 28
+
+typst/typst
+https://github.com/typst/typst
+A markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 51,237
+forked: 1,455
+stars today: 34
+
+quickwit-oss/quickwit
+https://github.com/quickwit-oss/quickwit
+Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+language: Rust
+stars: 10,886
+forked: 517
+stars today: 5
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 28,741
+forked: 2,031
+stars today: 30
+
+dani-garcia/vaultwarden
+https://github.com/dani-garcia/vaultwarden
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+language: Rust
+stars: 54,864
+forked: 2,544
+stars today: 67
+
+max-sixty/worktrunk
+https://github.com/max-sixty/worktrunk
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+language: Rust
+stars: 1,980
+forked: 73
+stars today: 36
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 19,364
+forked: 1,421
+stars today: 14
+
+rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+language: Rust
+stars: 107,330
+forked: 15,954
+stars today: 87
+
+esp-rs/esp-hal
+https://github.com/esp-rs/esp-hal
+no_std Hardware Abstraction Layers for ESP32 microcontrollers
+language: Rust
+stars: 1,731
+forked: 398
+stars today: 5
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 44,597
+forked: 4,378
+stars today: 22
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 31,046
+forked: 1,124
+stars today: 15

@@ -1,0 +1,159 @@
+github/gh-aw
+https://github.com/github/gh-aw
+GitHub Agentic Workflows
+language: Go
+stars: 1,784
+forked: 125
+stars today: 390
+
+moby/moby
+https://github.com/moby/moby
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+language: Go
+stars: 71,468
+forked: 18,904
+stars today: 10
+
+abiosoft/colima
+https://github.com/abiosoft/colima
+Container runtimes on macOS (and Linux) with minimal setup
+language: Go
+stars: 26,863
+forked: 529
+stars today: 32
+
+rclone/rclone
+https://github.com/rclone/rclone
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+language: Go
+stars: 55,530
+forked: 4,903
+stars today: 36
+
+binwiederhier/ntfy
+https://github.com/binwiederhier/ntfy
+Send push notifications to your phone or desktop using PUT/POST
+language: Go
+stars: 28,698
+forked: 1,177
+stars today: 17
+
+go-git/go-git
+https://github.com/go-git/go-git
+A highly extensible Git implementation in pure Go.
+language: Go
+stars: 7,187
+forked: 880
+stars today: 6
+
+modelcontextprotocol/go-sdk
+https://github.com/modelcontextprotocol/go-sdk
+The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
+language: Go
+stars: 3,821
+forked: 351
+stars today: 13
+
+jaegertracing/jaeger
+https://github.com/jaegertracing/jaeger
+CNCF Jaeger, a Distributed Tracing Platform
+language: Go
+stars: 22,451
+forked: 2,783
+stars today: 5
+
+mayswind/ezbookkeeping
+https://github.com/mayswind/ezbookkeeping
+A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+language: Go
+stars: 4,232
+forked: 431
+stars today: 25
+
+prometheus/node_exporter
+https://github.com/prometheus/node_exporter
+Exporter for machine metrics
+language: Go
+stars: 13,134
+forked: 2,598
+stars today: 10
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 72,185
+forked: 2,503
+stars today: 93
+
+gotenberg/gotenberg
+https://github.com/gotenberg/gotenberg
+A developer-friendly API for converting numerous document formats into PDF files, and more!
+language: Go
+stars: 11,230
+forked: 738
+stars today: 31
+
+go-playground/validator
+https://github.com/go-playground/validator
+💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+language: Go
+stars: 19,695
+forked: 1,404
+stars today: 2
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+The Go language implementation of gRPC. HTTP/2 based RPC
+language: Go
+stars: 22,783
+forked: 4,641
+stars today: 6
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 21,962
+forked: 6,811
+stars today: 12
+
+asheshgoplani/agent-deck
+https://github.com/asheshgoplani/agent-deck
+Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+language: Go
+stars: 748
+forked: 66
+stars today: 15
+
+maximhq/bifrost
+https://github.com/maximhq/bifrost
+Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
+language: Go
+stars: 2,223
+forked: 230
+stars today: 19
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 20,238
+forked: 3,798
+stars today: 9
+
+mikefarah/yq
+https://github.com/mikefarah/yq
+yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor
+language: Go
+stars: 14,869
+forked: 741
+stars today: 10
+
+grpc-ecosystem/grpc-gateway
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+language: Go
+stars: 19,811
+forked: 2,370
+stars today: 3
