@@ -1,0 +1,167 @@
+github/gh-aw
+https://github.com/github/gh-aw
+GitHub Agentic Workflows
+language: Go
+stars: 2,035
+forked: 142
+stars today: 405
+
+traefik/traefik
+https://github.com/traefik/traefik
+The Cloud Native Application Proxy
+language: Go
+stars: 61,611
+forked: 5,827
+stars today: 24
+
+inngest/inngest
+https://github.com/inngest/inngest
+The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+language: Go
+stars: 4,820
+forked: 250
+stars today: 12
+
+coder/coder
+https://github.com/coder/coder
+Secure environments for developers and their agents
+language: Go
+stars: 12,228
+forked: 1,167
+stars today: 11
+
+go-vikunja/vikunja
+https://github.com/go-vikunja/vikunja
+The to-do app to organize your life.
+language: Go
+stars: 3,322
+forked: 306
+stars today: 13
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+Temporal service
+language: Go
+stars: 18,293
+forked: 1,347
+stars today: 15
+
+containerd/containerd
+https://github.com/containerd/containerd
+An open and reliable container runtime
+language: Go
+stars: 20,244
+forked: 3,799
+stars today: 13
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+language: Go
+stars: 16,691
+forked: 5,762
+stars today: 5
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+Fast linters runner for Go
+language: Go
+stars: 18,482
+forked: 1,544
+stars today: 10
+
+dolthub/dolt
+https://github.com/dolthub/dolt
+Dolt – Git for Data
+language: Go
+stars: 19,770
+forked: 623
+stars today: 11
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 35,286
+forked: 1,899
+stars today: 91
+
+VictoriaMetrics/VictoriaLogs
+https://github.com/VictoriaMetrics/VictoriaLogs
+Fast and easy to use database for logs, which can efficiently handle terabytes of logs
+language: Go
+stars: 1,488
+forked: 97
+stars today: 4
+
+kubevirt/kubevirt
+https://github.com/kubevirt/kubevirt
+Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+language: Go
+stars: 6,650
+forked: 1,603
+stars today: 0
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+language: Go
+stars: 69,826
+forked: 4,638
+stars today: 28
+
+gruntwork-io/terragrunt
+https://github.com/gruntwork-io/terragrunt
+Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+language: Go
+stars: 9,299
+forked: 1,138
+stars today: 6
+
+maximhq/bifrost
+https://github.com/maximhq/bifrost
+Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
+language: Go
+stars: 2,296
+forked: 234
+stars today: 78
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+language: Go
+stars: 8,442
+forked: 524
+stars today: 4
+
+bia-pain-bache/BPB-Wizard
+https://github.com/bia-pain-bache/BPB-Wizard
+A wizard to facilitate BPB Panel deployment and management.
+language: Go
+stars: 364
+forked: 117
+stars today: 6
+
+asdf-vm/asdf
+https://github.com/asdf-vm/asdf
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+language: Go
+stars: 25,056
+forked: 917
+stars today: 7
+
+obot-platform/obot
+https://github.com/obot-platform/obot
+Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
+language: Go
+stars: 606
+forked: 129
+stars today: 1
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+language: Go
+stars: 47,658
+forked: 10,211
+stars today: 12
