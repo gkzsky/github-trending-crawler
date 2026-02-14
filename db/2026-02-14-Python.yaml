@@ -1,0 +1,127 @@
+cheahjs/free-llm-api-resources
+https://github.com/cheahjs/free-llm-api-resources
+A list of free LLM inference resources accessible via API.
+language: Python
+stars: 10,695
+forked: 1,037
+stars today: 392
+
+THUDM/slime
+https://github.com/THUDM/slime
+slime is an LLM post-training framework for RL Scaling.
+language: Python
+stars: 4,098
+forked: 529
+stars today: 85
+
+karpathy/nanochat
+https://github.com/karpathy/nanochat
+The best ChatGPT that $100 can buy.
+language: Python
+stars: 43,217
+forked: 5,609
+stars today: 165
+
+K-Dense-AI/claude-scientific-skills
+https://github.com/K-Dense-AI/claude-scientific-skills
+A set of ready to use scientific skills for Claude
+language: Python
+stars: 8,647
+forked: 1,021
+stars today: 112
+
+coleam00/context-engineering-intro
+https://github.com/coleam00/context-engineering-intro
+Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
+language: Python
+stars: 12,450
+forked: 2,612
+stars today: 22
+
+agiresearch/AIOS
+https://github.com/agiresearch/AIOS
+AIOS: AI Agent Operating System
+language: Python
+stars: 5,083
+forked: 688
+stars today: 15
+
+karpathy/nanoGPT
+https://github.com/karpathy/nanoGPT
+The simplest, fastest repository for training/finetuning medium-sized GPTs.
+language: Python
+stars: 53,134
+forked: 8,988
+stars today: 120
+
+Free-TV/IPTV
+https://github.com/Free-TV/IPTV
+M3U Playlist for free TV channels
+language: Python
+stars: 13,792
+forked: 2,004
+stars today: 95
+
+github/spec-kit
+https://github.com/github/spec-kit
+💫 Toolkit to help you get started with Spec-Driven Development
+language: Python
+stars: 69,567
+forked: 6,007
+stars today: 246
+
+goauthentik/authentik
+https://github.com/goauthentik/authentik
+The authentication glue you need.
+language: Python
+stars: 20,116
+forked: 1,473
+stars today: 20
+
+microsoft/markitdown
+https://github.com/microsoft/markitdown
+Python tool for converting files and office documents to Markdown.
+language: Python
+stars: 87,024
+forked: 5,056
+stars today: 79
+
+bregman-arie/devops-exercises
+https://github.com/bregman-arie/devops-exercises
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+language: Python
+stars: 81,063
+forked: 18,581
+stars today: 52
+
+unclecode/crawl4ai
+https://github.com/unclecode/crawl4ai
+🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+language: Python
+stars: 60,066
+forked: 6,118
+stars today: 96
+
+google/langextract
+https://github.com/google/langextract
+A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+language: Python
+stars: 32,022
+forked: 2,136
+stars today: 855
+
+element-hq/synapse
+https://github.com/element-hq/synapse
+Synapse: Matrix homeserver written in Python/Twisted + Rust
+language: Python
+stars: 3,585
+forked: 463
+stars today: 21
+
+jamwithai/production-agentic-rag-course
+https://github.com/jamwithai/production-agentic-rag-course
+-
+language: Python
+stars: 2,390
+forked: 696
+stars today: 7
