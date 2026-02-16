@@ -1,0 +1,159 @@
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,744
+forked: 2,561
+stars today: 5
+
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,824
+forked: 29,062
+stars today: 10
+
+TheHive-Project/TheHive
+https://github.com/TheHive-Project/TheHive
+TheHive is a Collaborative Case Management Platform, now distributed as a commercial version
+language: Scala
+stars: 3,884
+forked: 681
+stars today: 1
+
+ucb-bar/berkeley-hardfloat
+https://github.com/ucb-bar/berkeley-hardfloat
+-
+language: Scala
+stars: 368
+forked: 100
+stars today: 0
+
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 91
+forked: 123
+stars today: 0
+
+WhatsApp/eqwalizer
+https://github.com/WhatsApp/eqwalizer
+A type-checker for Erlang
+language: Scala
+stars: 540
+forked: 37
+stars today: 0
+
+OpenXiangShan/XiangShan
+https://github.com/OpenXiangShan/XiangShan
+Open-source high-performance RISC-V processor
+language: Scala
+stars: 6,875
+forked: 868
+stars today: 2
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,573
+forked: 650
+stars today: 3
+
+chipsalliance/rocket-chip
+https://github.com/chipsalliance/rocket-chip
+Rocket Chip Generator
+language: Scala
+stars: 3,677
+forked: 1,221
+stars today: 0
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 3,093
+forked: 2,889
+stars today: 0
+
+delta-io/delta
+https://github.com/delta-io/delta
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+language: Scala
+stars: 8,588
+forked: 2,001
+stars today: 3
+
+databricks/spark-avro
+https://github.com/databricks/spark-avro
+Avro Data Source for Apache Spark
+language: Scala
+stars: 538
+forked: 305
+stars today: 0
+
+databricks/spark-corenlp
+https://github.com/databricks/spark-corenlp
+Stanford CoreNLP wrapper for Apache Spark
+language: Scala
+stars: 422
+forked: 117
+stars today: 0
+
+databricks/reference-apps
+https://github.com/databricks/reference-apps
+Spark reference applications
+language: Scala
+stars: 651
+forked: 338
+stars today: 0
+
+databricks/spark-redshift
+https://github.com/databricks/spark-redshift
+Redshift data source for Apache Spark
+language: Scala
+stars: 610
+forked: 346
+stars today: 0
+
+databricks/tensorframes
+https://github.com/databricks/tensorframes
+[DEPRECATED] Tensorflow wrapper for DataFrames on Apache Spark
+language: Scala
+stars: 743
+forked: 160
+stars today: 0
+
+databricks/sbt-spark-package
+https://github.com/databricks/sbt-spark-package
+Sbt plugin for Spark packages
+language: Scala
+stars: 152
+forked: 31
+stars today: 0
+
+databricks/sbt-databricks
+https://github.com/databricks/sbt-databricks
+An sbt plugin for deploying code to Databricks Cloud
+language: Scala
+stars: 70
+forked: 26
+stars today: 0
+
+databricks/pig-on-spark
+https://github.com/databricks/pig-on-spark
+proof-of-concept implementation of Pig-on-Spark integrated at the logical node level
+language: Scala
+stars: 29
+forked: 17
+stars today: 0
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 64
+forked: 63
+stars today: 0

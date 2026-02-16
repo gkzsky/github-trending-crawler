@@ -1,0 +1,119 @@
+ruvnet/wifi-densepose
+https://github.com/ruvnet/wifi-densepose
+Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+language: Python
+stars: 6,527
+forked: 573
+stars today: 352
+
+Comfy-Org/ComfyUI-Manager
+https://github.com/Comfy-Org/ComfyUI-Manager
+ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
+language: Python
+stars: 13,608
+forked: 1,949
+stars today: 4
+
+HKUDS/RAG-Anything
+https://github.com/HKUDS/RAG-Anything
+"RAG-Anything: All-in-One RAG Framework"
+language: Python
+stars: 13,390
+forked: 1,602
+stars today: 124
+
+Jeffallan/claude-skills
+https://github.com/Jeffallan/claude-skills
+66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+language: Python
+stars: 2,717
+forked: 175
+stars today: 245
+
+resemble-ai/chatterbox
+https://github.com/resemble-ai/chatterbox
+SoTA open-source TTS
+language: Python
+stars: 22,671
+forked: 2,971
+stars today: 74
+
+Zipstack/unstract
+https://github.com/Zipstack/unstract
+No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+language: Python
+stars: 6,408
+forked: 608
+stars today: 215
+
+yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+A feature-rich command-line audio/video downloader
+language: Python
+stars: 147,295
+forked: 11,925
+stars today: 161
+
+plotly/dash
+https://github.com/plotly/dash
+Data Apps & Dashboards for Python. No JavaScript Required.
+language: Python
+stars: 24,488
+forked: 2,255
+stars today: 7
+
+mistralai/mistral-vibe
+https://github.com/mistralai/mistral-vibe
+Minimal CLI coding agent by Mistral
+language: Python
+stars: 3,092
+forked: 295
+stars today: 18
+
+home-assistant/core
+https://github.com/home-assistant/core
+🏡 Open source home automation that puts local control and privacy first.
+language: Python
+stars: 84,832
+forked: 36,754
+stars today: 19
+
+The-Pocket/PocketFlow
+https://github.com/The-Pocket/PocketFlow
+Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+language: Python
+stars: 10,002
+forked: 1,096
+stars today: 74
+
+shiyu-coder/Kronos
+https://github.com/shiyu-coder/Kronos
+Kronos: A Foundation Model for the Language of Financial Markets
+language: Python
+stars: 10,549
+forked: 2,212
+stars today: 34
+
+cheahjs/free-llm-api-resources
+https://github.com/cheahjs/free-llm-api-resources
+A list of free LLM inference resources accessible via API.
+language: Python
+stars: 11,204
+forked: 1,096
+stars today: 215
+
+karpathy/nanoGPT
+https://github.com/karpathy/nanoGPT
+The simplest, fastest repository for training/finetuning medium-sized GPTs.
+language: Python
+stars: 53,268
+forked: 9,012
+stars today: 68
+
+open-webui/open-webui
+https://github.com/open-webui/open-webui
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+language: Python
+stars: 124,034
+forked: 17,511
+stars today: 117
