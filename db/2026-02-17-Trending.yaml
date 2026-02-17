@@ -1,0 +1,79 @@
+alibaba/zvec
+https://github.com/alibaba/zvec
+A lightweight, lightning-fast, in-process vector database
+language: C++
+stars: 3,728
+forked: 198
+stars today: 1,094
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 19,812
+forked: 2,325
+stars today: 546
+
+rowboatlabs/rowboat
+https://github.com/rowboatlabs/rowboat
+Open-source AI coworker, with memory
+language: TypeScript
+stars: 7,360
+forked: 621
+stars today: 700
+
+steipete/gogcli
+https://github.com/steipete/gogcli
+Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+language: Go
+stars: 3,552
+forked: 303
+stars today: 637
+
+openclaw/openclaw
+https://github.com/openclaw/openclaw
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+language: TypeScript
+stars: 202,027
+forked: 36,269
+stars today: 3,873
+
+SynkraAI/aios-core
+https://github.com/SynkraAI/aios-core
+Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+language: JavaScript
+stars: 1,007
+forked: 357
+stars today: 205
+
+letta-ai/letta-code
+https://github.com/letta-ai/letta-code
+The memory-first coding agent
+language: TypeScript
+stars: 1,477
+forked: 156
+stars today: 22
+
+ruvnet/wifi-densepose
+https://github.com/ruvnet/wifi-densepose
+Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+language: Python
+stars: 6,827
+forked: 585
+stars today: 344
+
+seerr-team/seerr
+https://github.com/seerr-team/seerr
+Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+language: TypeScript
+stars: 9,093
+forked: 603
+stars today: 182
+
+hummingbot/hummingbot
+https://github.com/hummingbot/hummingbot
+Open source software that helps you create and deploy high-frequency crypto trading bots
+language: Python
+stars: 16,611
+forked: 4,389
+stars today: 339
