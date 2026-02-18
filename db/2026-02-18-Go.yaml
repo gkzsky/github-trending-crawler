@@ -1,0 +1,151 @@
+steipete/gogcli
+https://github.com/steipete/gogcli
+Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+language: Go
+stars: 3,905
+forked: 321
+stars today: 469
+
+steipete/wacli
+https://github.com/steipete/wacli
+WhatsApp CLI
+language: Go
+stars: 446
+forked: 71
+stars today: 18
+
+quic-go/quic-go
+https://github.com/quic-go/quic-go
+A production-ready QUIC implementation in pure Go
+language: Go
+stars: 11,435
+forked: 1,522
+stars today: 2
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+language: Go
+stars: 6,385
+forked: 1,203
+stars today: 4
+
+Shopify/toxiproxy
+https://github.com/Shopify/toxiproxy
+⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+language: Go
+stars: 11,842
+forked: 488
+stars today: 5
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 12,987
+forked: 939
+stars today: 7
+
+dolthub/dolt
+https://github.com/dolthub/dolt
+Dolt – Git for Data
+language: Go
+stars: 19,849
+forked: 624
+stars today: 17
+
+lharries/whatsapp-mcp
+https://github.com/lharries/whatsapp-mcp
+WhatsApp MCP server
+language: Go
+stars: 5,331
+forked: 884
+stars today: 6
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 72,508
+forked: 2,514
+stars today: 84
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+Contrib repository for the OpenTelemetry Collector
+language: Go
+stars: 4,415
+forked: 3,333
+stars today: 2
+
+sqlc-dev/sqlc
+https://github.com/sqlc-dev/sqlc
+Generate type-safe code from SQL
+language: Go
+stars: 16,965
+forked: 995
+stars today: 14
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+A community driven registry service for Model Context Protocol (MCP) servers.
+language: Go
+stars: 6,429
+forked: 607
+stars today: 5
+
+icereed/paperless-gpt
+https://github.com/icereed/paperless-gpt
+Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+language: Go
+stars: 1,919
+forked: 107
+stars today: 6
+
+GoogleCloudPlatform/microservices-demo
+https://github.com/GoogleCloudPlatform/microservices-demo
+Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+language: Go
+stars: 19,797
+forked: 9,494
+stars today: 6
+
+mikefarah/yq
+https://github.com/mikefarah/yq
+yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor
+language: Go
+stars: 14,899
+forked: 744
+stars today: 3
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+GitHub's official MCP Server
+language: Go
+stars: 27,025
+forked: 3,593
+stars today: 30
+
+ipfs/kubo
+https://github.com/ipfs/kubo
+An IPFS implementation in Go
+language: Go
+stars: 16,911
+forked: 3,140
+stars today: 1
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 39,141
+forked: 3,904
+stars today: 34
+
+filebrowser/filebrowser
+https://github.com/filebrowser/filebrowser
+📂 Web File Browser
+language: Go
+stars: 33,471
+forked: 3,708
+stars today: 13

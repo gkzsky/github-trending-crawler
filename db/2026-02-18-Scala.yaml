@@ -1,0 +1,111 @@
+apache/spark
+https://github.com/apache/spark
+Apache Spark - A unified analytics engine for large-scale data processing
+language: Scala
+stars: 42,830
+forked: 29,069
+stars today: 5
+
+zio/zio
+https://github.com/zio/zio
+ZIO — A type-safe, composable library for async and concurrent programming in Scala
+language: Scala
+stars: 4,348
+forked: 1,405
+stars today: 4
+
+sbt/sbt
+https://github.com/sbt/sbt
+sbt, the interactive build tool
+language: Scala
+stars: 4,898
+forked: 1,002
+stars today: 0
+
+databricks/Spark-The-Definitive-Guide
+https://github.com/databricks/Spark-The-Definitive-Guide
+Spark: The Definitive Guide's Code Repository
+language: Scala
+stars: 3,094
+forked: 2,888
+stars today: 0
+
+scala/scala3
+https://github.com/scala/scala3
+The Scala 3 compiler, also known as Dotty.
+language: Scala
+stars: 6,191
+forked: 1,143
+stars today: 2
+
+zio/zio-blocks
+https://github.com/zio/zio-blocks
+Powerful, joyful building blocks for modern cloud-native applications.
+language: Scala
+stars: 93
+forked: 124
+stars today: 1
+
+scalapb/ScalaPB
+https://github.com/scalapb/ScalaPB
+Protocol buffer compiler for Scala.
+language: Scala
+stars: 1,333
+forked: 295
+stars today: 0
+
+lichess-org/lila
+https://github.com/lichess-org/lila
+♞ lichess.org: the forever free, adless and open source chess server ♞
+language: Scala
+stars: 17,757
+forked: 2,565
+stars today: 8
+
+hyperledger-labs/splice
+https://github.com/hyperledger-labs/splice
+Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.
+language: Scala
+stars: 64
+forked: 63
+stars today: 0
+
+twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+Source code for the X Recommendation Algorithm
+language: Scala
+stars: 72,739
+forked: 13,267
+stars today: 13
+
+delta-io/delta-sharing
+https://github.com/delta-io/delta-sharing
+An open protocol for secure data sharing
+language: Scala
+stars: 921
+forked: 216
+stars today: 0
+
+digital-asset/canton
+https://github.com/digital-asset/canton
+Global Workflow Composition that is Scalable, Secure, and GDPR-compliant
+language: Scala
+stars: 99
+forked: 32
+stars today: 0
+
+gitbucket/gitbucket
+https://github.com/gitbucket/gitbucket
+A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+language: Scala
+stars: 9,350
+forked: 1,262
+stars today: 1
+
+chipsalliance/chisel
+https://github.com/chipsalliance/chisel
+Chisel: A Modern Hardware Design Language
+language: Scala
+stars: 4,574
+forked: 650
+stars today: 1
