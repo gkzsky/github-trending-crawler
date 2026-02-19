@@ -1,0 +1,87 @@
+alibaba/zvec
+https://github.com/alibaba/zvec
+A lightweight, lightning-fast, in-process vector database
+language: C++
+stars: 4,944
+forked: 272
+stars today: 502
+
+p-e-w/heretic
+https://github.com/p-e-w/heretic
+Fully automatic censorship removal for language models
+language: Python
+stars: 8,088
+forked: 814
+stars today: 946
+
+OpenCTI-Platform/opencti
+https://github.com/OpenCTI-Platform/opencti
+Open Cyber Threat Intelligence Platform
+language: TypeScript
+stars: 8,721
+forked: 1,243
+stars today: 281
+
+QwenLM/qwen-code
+https://github.com/QwenLM/qwen-code
+An open-source AI agent that lives in your terminal.
+language: TypeScript
+stars: 18,888
+forked: 1,638
+stars today: 95
+
+NirDiamant/RAG_Techniques
+https://github.com/NirDiamant/RAG_Techniques
+This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+language: Jupyter Notebook
+stars: 25,295
+forked: 2,970
+stars today: 292
+
+harvard-edge/cs249r_book
+https://github.com/harvard-edge/cs249r_book
+Introduction to Machine Learning Systems
+language: JavaScript
+stars: 19,739
+forked: 2,303
+stars today: 690
+
+obra/superpowers
+https://github.com/obra/superpowers
+An agentic skills framework & software development methodology that works.
+language: Shell
+stars: 54,549
+forked: 4,136
+stars today: 868
+
+HailToDodongo/pyrite64
+https://github.com/HailToDodongo/pyrite64
+N64 Game-Engine and Editor using libdragon & tiny3d
+language: C++
+stars: 1,353
+forked: 43
+stars today: 419
+
+ComposioHQ/composio
+https://github.com/ComposioHQ/composio
+Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+language: TypeScript
+stars: 26,794
+forked: 4,421
+stars today: 17
+
+p2r3/convert
+https://github.com/p2r3/convert
+Truly universal online file converter
+language: TypeScript
+stars: 1,498
+forked: 133
+stars today: 391
+
+openclaw/openclaw
+https://github.com/openclaw/openclaw
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+language: TypeScript
+stars: 209,139
+forked: 38,574
+stars today: 3,805

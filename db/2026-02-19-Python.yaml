@@ -1,0 +1,111 @@
+p-e-w/heretic
+https://github.com/p-e-w/heretic
+Fully automatic censorship removal for language models
+language: Python
+stars: 8,088
+forked: 814
+stars today: 946
+
+hummingbot/hummingbot
+https://github.com/hummingbot/hummingbot
+Open source software that helps you create and deploy high-frequency crypto trading bots
+language: Python
+stars: 17,243
+forked: 4,437
+stars today: 432
+
+AstrBotDevs/AstrBot
+https://github.com/AstrBotDevs/AstrBot
+Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+language: Python
+stars: 16,705
+forked: 1,309
+stars today: 287
+
+mistralai/mistral-vibe
+https://github.com/mistralai/mistral-vibe
+Minimal CLI coding agent by Mistral
+language: Python
+stars: 3,136
+forked: 321
+stars today: 16
+
+NVIDIA-NeMo/Automodel
+https://github.com/NVIDIA-NeMo/Automodel
+Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+language: Python
+stars: 322
+forked: 71
+stars today: 4
+
+SemiAnalysisAI/InferenceX
+https://github.com/SemiAnalysisAI/InferenceX
+Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
+language: Python
+stars: 502
+forked: 87
+stars today: 6
+
+databricks-solutions/ai-dev-kit
+https://github.com/databricks-solutions/ai-dev-kit
+Databricks Toolkit for Coding Agents provided by Field Engineering
+language: Python
+stars: 394
+forked: 84
+stars today: 34
+
+ruvnet/wifi-densepose
+https://github.com/ruvnet/wifi-densepose
+Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+language: Python
+stars: 7,031
+forked: 608
+stars today: 45
+
+microsoft/agent-framework
+https://github.com/microsoft/agent-framework
+A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+language: Python
+stars: 7,243
+forked: 1,176
+stars today: 16
+
+Cinnamon/kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+language: Python
+stars: 25,126
+forked: 2,093
+stars today: 23
+
+mavlink/mavlink
+https://github.com/mavlink/mavlink
+Marshalling / communication library for drones.
+language: Python
+stars: 2,169
+forked: 2,141
+stars today: 9
+
+TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
+All Algorithms implemented in Python
+language: Python
+stars: 217,814
+forked: 50,068
+stars today: 30
+
+GodsScion/Auto_job_applier_linkedIn
+https://github.com/GodsScion/Auto_job_applier_linkedIn
+Make your job hunt easy by automating your application process with this Auto Applier
+language: Python
+stars: 1,608
+forked: 452
+stars today: 44
+
+pytorch/executorch
+https://github.com/pytorch/executorch
+On-device AI across mobile, embedded and edge for PyTorch
+language: Python
+stars: 4,281
+forked: 846
+stars today: 3

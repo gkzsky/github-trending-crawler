@@ -1,0 +1,119 @@
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 31,208
+forked: 1,136
+stars today: 83
+
+nautechsystems/nautilus_trader
+https://github.com/nautechsystems/nautilus_trader
+A high-performance algorithmic trading platform and event-driven backtester
+language: Rust
+stars: 20,034
+forked: 2,350
+stars today: 79
+
+dmtrKovalenko/fff.nvim
+https://github.com/dmtrKovalenko/fff.nvim
+Finally a Fabioulous & Fast Fuzzy File Finder for neovim
+language: Rust
+stars: 1,409
+forked: 62
+stars today: 34
+
+emilk/egui
+https://github.com/emilk/egui
+egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+language: Rust
+stars: 28,144
+forked: 1,959
+stars today: 25
+
+erebe/wstunnel
+https://github.com/erebe/wstunnel
+Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+language: Rust
+stars: 6,414
+forked: 511
+stars today: 36
+
+cjpais/Handy
+https://github.com/cjpais/Handy
+A free, open source, and extensible speech-to-text application that works completely offline.
+language: Rust
+stars: 15,432
+forked: 1,064
+stars today: 125
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 37,004
+forked: 1,204
+stars today: 28
+
+memvid/memvid
+https://github.com/memvid/memvid
+Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+language: Rust
+stars: 13,150
+forked: 1,099
+stars today: 19
+
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 23,685
+forked: 860
+stars today: 17
+
+fish-shell/fish-shell
+https://github.com/fish-shell/fish-shell
+The user-friendly command line shell.
+language: Rust
+stars: 32,641
+forked: 2,229
+stars today: 11
+
+servo/servo
+https://github.com/servo/servo
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+language: Rust
+stars: 35,491
+forked: 3,480
+stars today: 15
+
+clap-rs/clap
+https://github.com/clap-rs/clap
+A full featured, fast Command Line Argument Parser for Rust
+language: Rust
+stars: 16,123
+forked: 1,153
+stars today: 9
+
+casey/just
+https://github.com/casey/just
+🤖 Just a command runner
+language: Rust
+stars: 31,408
+forked: 673
+stars today: 40
+
+rustfs/rustfs
+https://github.com/rustfs/rustfs
+🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+language: Rust
+stars: 21,879
+forked: 934
+stars today: 150
+
+signalapp/libsignal
+https://github.com/signalapp/libsignal
+Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+language: Rust
+stars: 5,457
+forked: 674
+stars today: 9
