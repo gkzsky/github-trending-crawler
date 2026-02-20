@@ -1,0 +1,143 @@
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+language: Go
+stars: 2,218
+forked: 390
+stars today: 110
+
+zitadel/zitadel
+https://github.com/zitadel/zitadel
+ZITADEL - Identity infrastructure, simplified for you.
+language: Go
+stars: 13,028
+forked: 944
+stars today: 22
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+language: Go
+stars: 32,026
+forked: 2,955
+stars today: 43
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+Declarative Continuous Deployment for Kubernetes
+language: Go
+stars: 22,089
+forked: 6,838
+stars today: 70
+
+icereed/paperless-gpt
+https://github.com/icereed/paperless-gpt
+Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+language: Go
+stars: 1,943
+forked: 111
+stars today: 14
+
+helm/helm
+https://github.com/helm/helm
+The Kubernetes Package Manager
+language: Go
+stars: 29,523
+forked: 7,492
+stars today: 61
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+language: Go
+stars: 22,754
+forked: 1,112
+stars today: 84
+
+GoogleCloudPlatform/microservices-demo
+https://github.com/GoogleCloudPlatform/microservices-demo
+Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+language: Go
+stars: 19,812
+forked: 9,499
+stars today: 3
+
+uber-go/zap
+https://github.com/uber-go/zap
+Blazing fast, structured, leveled logging in Go.
+language: Go
+stars: 24,329
+forked: 1,507
+stars today: 66
+
+kubernetes-sigs/kustomize
+https://github.com/kubernetes-sigs/kustomize
+Customization of kubernetes YAML configurations
+language: Go
+stars: 11,942
+forked: 2,363
+stars today: 2
+
+istio/istio
+https://github.com/istio/istio
+Connect, secure, control, and observe services.
+language: Go
+stars: 38,037
+forked: 8,243
+stars today: 80
+
+spf13/viper
+https://github.com/spf13/viper
+Go configuration with fangs
+language: Go
+stars: 30,103
+forked: 2,097
+stars today: 77
+
+spf13/cobra
+https://github.com/spf13/cobra
+A Commander for modern Go CLI interactions
+language: Go
+stars: 43,266
+forked: 3,056
+stars today: 67
+
+derailed/k9s
+https://github.com/derailed/k9s
+🐶 Kubernetes CLI To Manage Your Clusters In Style!
+language: Go
+stars: 32,846
+forked: 2,088
+stars today: 15
+
+asheshgoplani/agent-deck
+https://github.com/asheshgoplani/agent-deck
+Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+language: Go
+stars: 931
+forked: 86
+stars today: 33
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+simple terminal UI for git commands
+language: Go
+stars: 72,700
+forked: 2,524
+stars today: 126
+
+kgateway-dev/kgateway
+https://github.com/kgateway-dev/kgateway
+The Cloud-Native API Gateway and AI Gateway
+language: Go
+stars: 5,337
+forked: 678
+stars today: 4
+
+ethereum-optimism/optimism
+https://github.com/ethereum-optimism/optimism
+Optimism is Ethereum, scaled.
+language: Go
+stars: 6,379
+forked: 3,905
+stars today: 0

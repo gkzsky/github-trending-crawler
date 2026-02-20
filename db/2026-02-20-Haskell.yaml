@@ -1,0 +1,71 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,541
+forked: 1,159
+stars today: 8
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 42,165
+forked: 3,772
+stars today: 17
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 39,000
+forked: 1,899
+stars today: 6
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,956
+forked: 487
+stars today: 2
+
+Gabriella439/grace
+https://github.com/Gabriella439/grace
+A prompt engineering functional programming language
+language: Haskell
+stars: 536
+forked: 41
+stars today: 1
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Haskell
+stars: 873
+forked: 245
+stars today: 0
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,183
+forked: 747
+stars today: 0
+
+simplex-chat/simplex-chat
+https://github.com/simplex-chat/simplex-chat
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+language: Haskell
+stars: 10,473
+forked: 566
+stars today: 6
+
+haskell/cabal
+https://github.com/haskell/cabal
+Official upstream development repository for Cabal and cabal-install
+language: Haskell
+stars: 1,713
+forked: 724
+stars today: 0
