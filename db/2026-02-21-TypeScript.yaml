@@ -1,0 +1,127 @@
+Effect-TS/effect-smol
+https://github.com/Effect-TS/effect-smol
+Core libraries and experimental work for Effect v4
+language: TypeScript
+stars: 378
+forked: 42
+stars today: 14
+
+ComposioHQ/composio
+https://github.com/ComposioHQ/composio
+Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+language: TypeScript
+stars: 27,037
+forked: 4,439
+stars today: 45
+
+OpenCTI-Platform/opencti
+https://github.com/OpenCTI-Platform/opencti
+Open Cyber Threat Intelligence Platform
+language: TypeScript
+stars: 8,831
+forked: 1,255
+stars today: 18
+
+QwenLM/qwen-code
+https://github.com/QwenLM/qwen-code
+An open-source AI agent that lives in your terminal.
+language: TypeScript
+stars: 19,126
+forked: 1,656
+stars today: 69
+
+simstudioai/sim
+https://github.com/simstudioai/sim
+Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+language: TypeScript
+stars: 26,496
+forked: 3,315
+stars today: 29
+
+stan-smith/FossFLOW
+https://github.com/stan-smith/FossFLOW
+Make beautiful isometric infrastructure diagrams
+language: TypeScript
+stars: 17,564
+forked: 1,146
+stars today: 90
+
+google-gemini/gemini-cli
+https://github.com/google-gemini/gemini-cli
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+language: TypeScript
+stars: 95,101
+forked: 11,395
+stars today: 181
+
+typeorm/typeorm
+https://github.com/typeorm/typeorm
+ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+language: TypeScript
+stars: 36,327
+forked: 6,502
+stars today: 7
+
+nexmoe/VidBee
+https://github.com/nexmoe/VidBee
+Download videos from almost any website worldwide
+language: TypeScript
+stars: 6,470
+forked: 431
+stars today: 57
+
+open-mercato/open-mercato
+https://github.com/open-mercato/open-mercato
+AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
+language: TypeScript
+stars: 886
+forked: 133
+stars today: 306
+
+jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet
+Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+language: TypeScript
+stars: 28,656
+forked: 7,748
+stars today: 9
+
+p2r3/convert
+https://github.com/p2r3/convert
+Truly universal online file converter
+language: TypeScript
+stars: 1,830
+forked: 164
+stars today: 131
+
+pnpm/pnpm
+https://github.com/pnpm/pnpm
+Fast, disk space efficient package manager
+language: TypeScript
+stars: 34,113
+forked: 1,326
+stars today: 31
+
+junhoyeo/tokscale
+https://github.com/junhoyeo/tokscale
+🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid, and Kimi Code CLI • 🏅Global Leaderboard + 2D/3D Contributions Graph
+language: TypeScript
+stars: 822
+forked: 55
+stars today: 28
+
+aws/aws-cdk
+https://github.com/aws/aws-cdk
+The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+language: TypeScript
+stars: 12,658
+forked: 4,414
+stars today: 3
+
+upstash/context7
+https://github.com/upstash/context7
+Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+language: TypeScript
+stars: 46,357
+forked: 2,199
+stars today: 107

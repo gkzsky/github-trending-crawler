@@ -1,0 +1,127 @@
+biomejs/biome
+https://github.com/biomejs/biome
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+language: Rust
+stars: 23,765
+forked: 864
+stars today: 30
+
+dmtrKovalenko/fff.nvim
+https://github.com/dmtrKovalenko/fff.nvim
+Finally a Fabioulous & Fast Fuzzy File Finder for neovim
+language: Rust
+stars: 1,502
+forked: 68
+stars today: 31
+
+DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus
+Fullstack app framework for web, desktop, and mobile.
+language: Rust
+stars: 34,808
+forked: 1,553
+stars today: 32
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 40,309
+forked: 4,565
+stars today: 175
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 37,050
+forked: 1,209
+stars today: 26
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 24,283
+forked: 1,083
+stars today: 35
+
+ArthurBrussee/brush
+https://github.com/ArthurBrussee/brush
+3D Reconstruction for all
+language: Rust
+stars: 3,694
+forked: 189
+stars today: 9
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 6,054
+forked: 659
+stars today: 24
+
+BoundaryML/baml
+https://github.com/BoundaryML/baml
+The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+language: Rust
+stars: 7,629
+forked: 379
+stars today: 24
+
+git-ai-project/git-ai
+https://github.com/git-ai-project/git-ai
+A Git extension for tracking the AI-generated code in your repos
+language: Rust
+stars: 1,093
+forked: 74
+stars today: 17
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 32,560
+forked: 2,254
+stars today: 19
+
+surrealdb/surrealdb
+https://github.com/surrealdb/surrealdb
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+language: Rust
+stars: 31,260
+forked: 1,138
+stars today: 26
+
+typst/typst
+https://github.com/typst/typst
+A markup-based typesetting system that is powerful and easy to learn.
+language: Rust
+stars: 51,497
+forked: 1,477
+stars today: 43
+
+Pumpkin-MC/Pumpkin
+https://github.com/Pumpkin-MC/Pumpkin
+Empowering everyone to host fast and efficient Minecraft servers.
+language: Rust
+stars: 6,992
+forked: 445
+stars today: 11
+
+clap-rs/clap
+https://github.com/clap-rs/clap
+A full featured, fast Command Line Argument Parser for Rust
+language: Rust
+stars: 16,189
+forked: 1,154
+stars today: 20
+
+apache/datafusion
+https://github.com/apache/datafusion
+Apache DataFusion SQL Query Engine
+language: Rust
+stars: 8,423
+forked: 1,962
+stars today: 6
