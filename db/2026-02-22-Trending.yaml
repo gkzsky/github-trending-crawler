@@ -1,0 +1,103 @@
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+language: Go
+stars: 5,708
+forked: 725
+stars today: 2,118
+
+abhigyanpatwari/GitNexus
+https://github.com/abhigyanpatwari/GitNexus
+GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+language: TypeScript
+stars: 1,087
+forked: 96
+stars today: 132
+
+obra/superpowers
+https://github.com/obra/superpowers
+An agentic skills framework & software development methodology that works.
+language: Shell
+stars: 57,088
+forked: 4,324
+stars today: 772
+
+huggingface/skills
+https://github.com/huggingface/skills
+-
+language: Python
+stars: 1,718
+forked: 148
+stars today: 247
+
+PowerShell/PowerShell
+https://github.com/PowerShell/PowerShell
+PowerShell for every system!
+language: C#
+stars: 51,565
+forked: 8,183
+stars today: 13
+
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: Shell
+stars: 68,467
+forked: 5,370
+stars today: 222
+
+stan-smith/FossFLOW
+https://github.com/stan-smith/FossFLOW
+Make beautiful isometric infrastructure diagrams
+language: TypeScript
+stars: 17,812
+forked: 1,164
+stars today: 74
+
+ggml-org/ggml
+https://github.com/ggml-org/ggml
+Tensor library for machine learning
+language: C++
+stars: 14,074
+forked: 1,478
+stars today: 47
+
+Stremio/stremio-web
+https://github.com/Stremio/stremio-web
+Stremio - Freedom to Stream
+language: JavaScript
+stars: 9,477
+forked: 1,055
+stars today: 301
+
+HandsOnLLM/Hands-On-Large-Language-Models
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+language: Jupyter Notebook
+stars: 22,604
+forked: 5,252
+stars today: 355
+
+RichardAtCT/claude-code-telegram
+https://github.com/RichardAtCT/claude-code-telegram
+A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+language: Python
+stars: 1,422
+forked: 172
+stars today: 109
+
+cloudflare/agents
+https://github.com/cloudflare/agents
+Build and deploy AI Agents on Cloudflare
+language: TypeScript
+stars: 3,476
+forked: 390
+stars today: 65
+
+hiddify/hiddify-app
+https://github.com/hiddify/hiddify-app
+Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+language: Dart
+stars: 26,442
+forked: 2,282
+stars today: 132

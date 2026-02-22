@@ -1,0 +1,71 @@
+PostgREST/postgrest
+https://github.com/PostgREST/postgrest
+REST API for any Postgres database
+language: Haskell
+stars: 26,552
+forked: 1,161
+stars today: 4
+
+jgm/pandoc
+https://github.com/jgm/pandoc
+Universal markup converter
+language: Haskell
+stars: 42,189
+forked: 3,773
+stars today: 18
+
+hadolint/hadolint
+https://github.com/hadolint/hadolint
+Dockerfile linter, validate inline bash, written in Haskell
+language: Haskell
+stars: 11,958
+forked: 487
+stars today: 0
+
+koalaman/shellcheck
+https://github.com/koalaman/shellcheck
+ShellCheck, a static analysis tool for shell scripts
+language: Haskell
+stars: 39,008
+forked: 1,900
+stars today: 5
+
+IntersectMBO/cardano-node
+https://github.com/IntersectMBO/cardano-node
+The core component that is used to participate in a Cardano decentralised blockchain.
+language: Haskell
+stars: 3,182
+forked: 747
+stars today: 0
+
+digital-asset/cn-quickstart
+https://github.com/digital-asset/cn-quickstart
+Accelerate building apps on Canton Network using this quickstart to start quick!
+language: Haskell
+stars: 35
+forked: 24
+stars today: 0
+
+digital-asset/daml
+https://github.com/digital-asset/daml
+The Daml smart contract language
+language: Haskell
+stars: 875
+forked: 245
+stars today: 0
+
+mtolly/onyx
+https://github.com/mtolly/onyx
+Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
+language: Haskell
+stars: 245
+forked: 20
+stars today: 1
+
+IntersectMBO/plutus
+https://github.com/IntersectMBO/plutus
+The Plutus language implementation and tools
+language: Haskell
+stars: 1,632
+forked: 502
+stars today: 2
