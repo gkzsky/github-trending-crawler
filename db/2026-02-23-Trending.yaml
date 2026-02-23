@@ -1,0 +1,71 @@
+huggingface/skills
+https://github.com/huggingface/skills
+-
+language: Python
+stars: 2,795
+forked: 197
+stars today: 364
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+language: Go
+stars: 7,163
+forked: 825
+stars today: 1,579
+
+anthropics/claude-code
+https://github.com/anthropics/claude-code
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+language: Shell
+stars: 69,034
+forked: 5,417
+stars today: 503
+
+x1xhlol/system-prompts-and-models-of-ai-tools
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+language: -
+stars: 118,019
+forked: 30,626
+stars today: 1,134
+
+Stremio/stremio-web
+https://github.com/Stremio/stremio-web
+Stremio - Freedom to Stream
+language: JavaScript
+stars: 9,741
+forked: 1,068
+stars today: 247
+
+OpenBB-finance/OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Financial data platform for analysts, quants and AI agents.
+language: Python
+stars: 61,034
+forked: 5,950
+stars today: 188
+
+cloudflare/agents
+https://github.com/cloudflare/agents
+Build and deploy AI Agents on Cloudflare
+language: TypeScript
+stars: 3,773
+forked: 404
+stars today: 257
+
+abhigyanpatwari/GitNexus
+https://github.com/abhigyanpatwari/GitNexus
+GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+language: TypeScript
+stars: 1,562
+forked: 118
+stars today: 424
+
+stan-smith/FossFLOW
+https://github.com/stan-smith/FossFLOW
+Make beautiful isometric infrastructure diagrams
+language: TypeScript
+stars: 18,214
+forked: 1,179
+stars today: 340

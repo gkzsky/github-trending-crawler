@@ -1,0 +1,119 @@
+datahaven-xyz/datahaven
+https://github.com/datahaven-xyz/datahaven
+An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
+language: Rust
+stars: 7,430
+forked: 132
+stars today: 71
+
+boa-dev/boa
+https://github.com/boa-dev/boa
+Boa is an embeddable Javascript engine written in Rust.
+language: Rust
+stars: 6,917
+forked: 531
+stars today: 13
+
+spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+language: Rust
+stars: 37,103
+forked: 1,214
+stars today: 20
+
+lbjlaq/Antigravity-Manager
+https://github.com/lbjlaq/Antigravity-Manager
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+language: Rust
+stars: 23,972
+forked: 2,688
+stars today: 98
+
+raine/workmux
+https://github.com/raine/workmux
+git worktrees + tmux windows for zero-friction parallel dev
+language: Rust
+stars: 774
+forked: 50
+stars today: 18
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 58,838
+forked: 16,790
+stars today: 21
+
+qdrant/qdrant
+https://github.com/qdrant/qdrant
+Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+language: Rust
+stars: 29,017
+forked: 2,051
+stars today: 14
+
+librespot-org/librespot
+https://github.com/librespot-org/librespot
+Open Source Spotify client library
+language: Rust
+stars: 6,623
+forked: 808
+stars today: 5
+
+bevyengine/bevy
+https://github.com/bevyengine/bevy
+A refreshingly simple data-driven game engine built in Rust
+language: Rust
+stars: 44,734
+forked: 4,403
+stars today: 15
+
+cjpais/Handy
+https://github.com/cjpais/Handy
+A free, open source, and extensible speech-to-text application that works completely offline.
+language: Rust
+stars: 15,777
+forked: 1,103
+stars today: 92
+
+0xPlaygrounds/rig
+https://github.com/0xPlaygrounds/rig
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+language: Rust
+stars: 6,096
+forked: 664
+stars today: 14
+
+juspay/hyperswitch
+https://github.com/juspay/hyperswitch
+An open source payments switch written in Rust to make payments fast, reliable and affordable
+language: Rust
+stars: 40,493
+forked: 4,564
+stars today: 70
+
+Pumpkin-MC/Pumpkin
+https://github.com/Pumpkin-MC/Pumpkin
+Empowering everyone to host fast and efficient Minecraft servers.
+language: Rust
+stars: 7,047
+forked: 447
+stars today: 20
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 29,428
+forked: 972
+stars today: 31
+
+foundry-rs/foundry
+https://github.com/foundry-rs/foundry
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+language: Rust
+stars: 10,132
+forked: 2,410
+stars today: 2

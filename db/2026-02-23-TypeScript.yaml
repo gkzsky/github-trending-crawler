@@ -1,0 +1,103 @@
+cloudflare/agents
+https://github.com/cloudflare/agents
+Build and deploy AI Agents on Cloudflare
+language: TypeScript
+stars: 3,773
+forked: 404
+stars today: 257
+
+abhigyanpatwari/GitNexus
+https://github.com/abhigyanpatwari/GitNexus
+GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+language: TypeScript
+stars: 1,562
+forked: 118
+stars today: 424
+
+stan-smith/FossFLOW
+https://github.com/stan-smith/FossFLOW
+Make beautiful isometric infrastructure diagrams
+language: TypeScript
+stars: 18,214
+forked: 1,179
+stars today: 340
+
+thedotmack/claude-mem
+https://github.com/thedotmack/claude-mem
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+language: TypeScript
+stars: 30,245
+forked: 2,040
+stars today: 423
+
+lobehub/lobehub
+https://github.com/lobehub/lobehub
+The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+language: TypeScript
+stars: 72,510
+forked: 14,654
+stars today: 55
+
+triggerdotdev/trigger.dev
+https://github.com/triggerdotdev/trigger.dev
+Trigger.dev – build and deploy fully‑managed AI agents and workflows
+language: TypeScript
+stars: 13,811
+forked: 1,039
+stars today: 43
+
+google-gemini/gemini-cli
+https://github.com/google-gemini/gemini-cli
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+language: TypeScript
+stars: 95,329
+forked: 11,515
+stars today: 132
+
+Effect-TS/effect-smol
+https://github.com/Effect-TS/effect-smol
+Core libraries and experimental work for Effect v4
+language: TypeScript
+stars: 410
+forked: 51
+stars today: 13
+
+laurent22/joplin
+https://github.com/laurent22/joplin
+Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+language: TypeScript
+stars: 53,561
+forked: 5,789
+stars today: 30
+
+clash-verge-rev/clash-verge-rev
+https://github.com/clash-verge-rev/clash-verge-rev
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+language: TypeScript
+stars: 98,058
+forked: 7,160
+stars today: 121
+
+devlikeapro/waha
+https://github.com/devlikeapro/waha
+WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+language: TypeScript
+stars: 6,141
+forked: 1,288
+stars today: 5
+
+RocketChat/Rocket.Chat
+https://github.com/RocketChat/Rocket.Chat
+The Secure CommsOS™ for mission-critical operations
+language: TypeScript
+stars: 44,702
+forked: 13,208
+stars today: 9
+
+Heroic-Games-Launcher/HeroicGamesLauncher
+https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+language: TypeScript
+stars: 10,891
+forked: 568
+stars today: 18
