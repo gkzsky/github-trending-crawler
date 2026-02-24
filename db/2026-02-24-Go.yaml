@@ -1,0 +1,127 @@
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+language: Go
+stars: 80,260
+forked: 4,942
+stars today: 58
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+language: Go
+stars: 7,832
+forked: 886
+stars today: 1,234
+
+authelia/authelia
+https://github.com/authelia/authelia
+The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+language: Go
+stars: 26,908
+forked: 1,347
+stars today: 50
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+A continuation of HomeBox the inventory and organization system built for the Home User
+language: Go
+stars: 5,303
+forked: 329
+stars today: 32
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Community managed domain list. Generate geosite.dat for V2Ray.
+language: Go
+stars: 7,727
+forked: 1,227
+stars today: 24
+
+looplj/axonhub
+https://github.com/looplj/axonhub
+⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
+language: Go
+stars: 1,988
+forked: 219
+stars today: 16
+
+keploy/keploy
+https://github.com/keploy/keploy
+API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+language: Go
+stars: 15,731
+forked: 2,113
+stars today: 14
+
+NoFxAiOS/nofx
+https://github.com/NoFxAiOS/nofx
+AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
+language: Go
+stars: 10,571
+forked: 2,767
+stars today: 8
+
+mudler/LocalAI
+https://github.com/mudler/LocalAI
+🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+language: Go
+stars: 43,021
+forked: 3,588
+stars today: 36
+
+TecharoHQ/anubis
+https://github.com/TecharoHQ/anubis
+Weighs the soul of incoming HTTP requests to stop AI crawlers
+language: Go
+stars: 17,172
+forked: 505
+stars today: 32
+
+XIU2/CloudflareSpeedTest
+https://github.com/XIU2/CloudflareSpeedTest
+🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+language: Go
+stars: 24,748
+forked: 4,814
+stars today: 16
+
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+language: Go
+stars: 33,570
+forked: 2,976
+stars today: 27
+
+XTLS/Xray-core
+https://github.com/XTLS/Xray-core
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+language: Go
+stars: 35,288
+forked: 4,985
+stars today: 34
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+language: Go
+stars: 39,273
+forked: 3,916
+stars today: 27
+
+xpzouying/xiaohongshu-mcp
+https://github.com/xpzouying/xiaohongshu-mcp
+MCP for xiaohongshu.com
+language: Go
+stars: 9,057
+forked: 1,424
+stars today: 43
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+An open source, self-hosted implementation of the Tailscale control server
+language: Go
+stars: 35,734
+forked: 1,918
+stars today: 41

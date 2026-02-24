@@ -1,0 +1,127 @@
+claration/Impactor
+https://github.com/claration/Impactor
+WIP feature rich iOS/tvOS sideloading application written in Rust.
+language: Rust
+stars: 1,284
+forked: 60
+stars today: 39
+
+lbjlaq/Antigravity-Manager
+https://github.com/lbjlaq/Antigravity-Manager
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+language: Rust
+stars: 24,069
+forked: 2,704
+stars today: 83
+
+Roblox/studio-rust-mcp-server
+https://github.com/Roblox/studio-rust-mcp-server
+Standalone Roblox Studio MCP Server
+language: Rust
+stars: 345
+forked: 55
+stars today: 10
+
+ruvnet/ruvector
+https://github.com/ruvnet/ruvector
+RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.
+language: Rust
+stars: 488
+forked: 115
+stars today: 28
+
+qarmin/czkawka
+https://github.com/qarmin/czkawka
+Multi functional app to find duplicates, empty folders, similar images etc.
+language: Rust
+stars: 29,466
+forked: 974
+stars today: 47
+
+huggingface/candle
+https://github.com/huggingface/candle
+Minimalist ML framework for Rust
+language: Rust
+stars: 19,458
+forked: 1,434
+stars today: 6
+
+storytold/artcraft
+https://github.com/storytold/artcraft
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+language: Rust
+stars: 827
+forked: 65
+stars today: 47
+
+firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker
+Secure and fast microVMs for serverless computing.
+language: Rust
+stars: 32,616
+forked: 2,259
+stars today: 21
+
+longbridge/gpui-component
+https://github.com/longbridge/gpui-component
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+language: Rust
+stars: 10,400
+forked: 468
+stars today: 12
+
+seanmonstar/reqwest
+https://github.com/seanmonstar/reqwest
+An easy and powerful Rust HTTP Client
+language: Rust
+stars: 11,440
+forked: 1,334
+stars today: 5
+
+topjohnwu/Magisk
+https://github.com/topjohnwu/Magisk
+The Magic Mask for Android
+language: Rust
+stars: 58,860
+forked: 16,799
+stars today: 32
+
+GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite
+Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+language: Rust
+stars: 24,328
+forked: 1,089
+stars today: 17
+
+tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter
+An incremental parsing system for programming tools
+language: Rust
+stars: 23,891
+forked: 2,424
+stars today: 20
+
+pimalaya/himalaya
+https://github.com/pimalaya/himalaya
+CLI to manage emails
+language: Rust
+stars: 5,556
+forked: 158
+stars today: 41
+
+robbert-vdh/nih-plug
+https://github.com/robbert-vdh/nih-plug
+Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
+language: Rust
+stars: 2,649
+forked: 255
+stars today: 6
+
+iced-rs/iced
+https://github.com/iced-rs/iced
+A cross-platform GUI library for Rust, inspired by Elm
+language: Rust
+stars: 29,612
+forked: 1,509
+stars today: 17
