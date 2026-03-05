@@ -1,0 +1,127 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 890
+forked: 57
+stars today: 380
+
+spf13/viper
+https://github.com/spf13/viper
+-
+language: Go
+stars: 30,154
+forked: 2,099
+stars today: 7
+
+moby/moby
+https://github.com/moby/moby
+-
+language: Go
+stars: 71,479
+forked: 18,915
+stars today: 11
+
+krillinai/KrillinAI
+https://github.com/krillinai/KrillinAI
+-
+language: Go
+stars: 9,667
+forked: 839
+stars today: 18
+
+1Panel-dev/1Panel
+https://github.com/1Panel-dev/1Panel
+-
+language: Go
+stars: 33,982
+forked: 3,003
+stars today: 70
+
+chaos-mesh/chaos-mesh
+https://github.com/chaos-mesh/chaos-mesh
+-
+language: Go
+stars: 7,556
+forked: 932
+stars today: 3
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+-
+language: Go
+stars: 54,078
+forked: 6,423
+stars today: 34
+
+inngest/inngest
+https://github.com/inngest/inngest
+-
+language: Go
+stars: 4,980
+forked: 265
+stars today: 20
+
+alibaba/higress
+https://github.com/alibaba/higress
+-
+language: Go
+stars: 7,641
+forked: 1,007
+stars today: 11
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+-
+language: Go
+stars: 27,485
+forked: 3,685
+stars today: 42
+
+NVIDIA/KAI-Scheduler
+https://github.com/NVIDIA/KAI-Scheduler
+-
+language: Go
+stars: 1,162
+forked: 160
+stars today: 7
+
+coreybutler/nvm-windows
+https://github.com/coreybutler/nvm-windows
+-
+language: Go
+stars: 45,214
+forked: 3,742
+stars today: 29
+
+rishikanthc/Scriberr
+https://github.com/rishikanthc/Scriberr
+-
+language: Go
+stars: 2,306
+forked: 169
+stars today: 13
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+-
+language: Go
+stars: 6,674
+forked: 1,910
+stars today: 7
+
+spf13/cobra
+https://github.com/spf13/cobra
+-
+language: Go
+stars: 43,383
+forked: 3,065
+stars today: 15
+
+open-telemetry/opentelemetry-go-contrib
+https://github.com/open-telemetry/opentelemetry-go-contrib
+-
+language: Go
+stars: 1,600
+forked: 753
+stars today: 0
