@@ -1,0 +1,167 @@
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+-
+language: Go
+stars: 121,261
+forked: 42,709
+stars today: 40
+
+github/gh-aw
+https://github.com/github/gh-aw
+-
+language: Go
+stars: 4,147
+forked: 306
+stars today: 8
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+-
+language: Go
+stars: 22,844
+forked: 4,651
+stars today: 3
+
+go-chi/chi
+https://github.com/go-chi/chi
+-
+language: Go
+stars: 21,857
+forked: 1,084
+stars today: 23
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+-
+language: Go
+stars: 18,445
+forked: 825
+stars today: 77
+
+traefik/traefik
+https://github.com/traefik/traefik
+-
+language: Go
+stars: 62,296
+forked: 5,881
+stars today: 35
+
+golang-migrate/migrate
+https://github.com/golang-migrate/migrate
+-
+language: Go
+stars: 18,253
+forked: 1,559
+stars today: 6
+
+masterking32/MasterDnsVPN
+https://github.com/masterking32/MasterDnsVPN
+-
+language: Go
+stars: 168
+forked: 21
+stars today: 24
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+-
+language: Go
+stars: 51,689
+forked: 10,337
+stars today: 27
+
+vitessio/vitess
+https://github.com/vitessio/vitess
+-
+language: Go
+stars: 20,860
+forked: 2,320
+stars today: 16
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 6,161
+forked: 809
+stars today: 2
+
+jackc/pgx
+https://github.com/jackc/pgx
+-
+language: Go
+stars: 13,561
+forked: 1,003
+stars today: 30
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 22,375
+forked: 6,957
+stars today: 29
+
+icereed/paperless-gpt
+https://github.com/icereed/paperless-gpt
+-
+language: Go
+stars: 2,151
+forked: 133
+stars today: 8
+
+open-telemetry/opentelemetry-collector
+https://github.com/open-telemetry/opentelemetry-collector
+-
+language: Go
+stars: 6,741
+forked: 1,943
+stars today: 6
+
+DataDog/datadog-agent
+https://github.com/DataDog/datadog-agent
+-
+language: Go
+stars: 3,548
+forked: 1,390
+stars today: 1
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+-
+language: Go
+stars: 35,247
+forked: 4,616
+stars today: 10
+
+openbao/openbao
+https://github.com/openbao/openbao
+-
+language: Go
+stars: 5,640
+forked: 367
+stars today: 10
+
+smallstep/certificates
+https://github.com/smallstep/certificates
+-
+language: Go
+stars: 8,331
+forked: 537
+stars today: 23
+
+elastic/beats
+https://github.com/elastic/beats
+-
+language: Go
+stars: 12,604
+forked: 4,996
+stars today: 0
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+-
+language: Go
+stars: 88,291
+forked: 8,574
+stars today: 23
