@@ -1,0 +1,159 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 33,403
+forked: 126
+stars today: 39
+
+grpc/grpc-go
+https://github.com/grpc/grpc-go
+-
+language: Go
+stars: 22,844
+forked: 4,656
+stars today: 4
+
+wavetermdev/waveterm
+https://github.com/wavetermdev/waveterm
+-
+language: Go
+stars: 18,486
+forked: 830
+stars today: 52
+
+meshery/meshery
+https://github.com/meshery/meshery
+-
+language: Go
+stars: 10,083
+forked: 3,164
+stars today: 7
+
+github/gh-aw
+https://github.com/github/gh-aw
+-
+language: Go
+stars: 4,145
+forked: 308
+stars today: 7
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 6,163
+forked: 810
+stars today: 8
+
+pocketbase/pocketbase
+https://github.com/pocketbase/pocketbase
+-
+language: Go
+stars: 56,992
+forked: 3,199
+stars today: 108
+
+goreleaser/goreleaser
+https://github.com/goreleaser/goreleaser
+-
+language: Go
+stars: 15,665
+forked: 1,054
+stars today: 3
+
+trufflesecurity/trufflehog
+https://github.com/trufflesecurity/trufflehog
+-
+language: Go
+stars: 25,150
+forked: 2,265
+stars today: 19
+
+docker/docker-agent
+https://github.com/docker/docker-agent
+-
+language: Go
+stars: 2,595
+forked: 312
+stars today: 22
+
+gofr-dev/gofr
+https://github.com/gofr-dev/gofr
+-
+language: Go
+stars: 19,368
+forked: 1,743
+stars today: 486
+
+Tencent/WeKnora
+https://github.com/Tencent/WeKnora
+-
+language: Go
+stars: 13,508
+forked: 1,565
+stars today: 44
+
+goharbor/harbor
+https://github.com/goharbor/harbor
+-
+language: Go
+stars: 27,779
+forked: 5,136
+stars today: 4
+
+hashicorp/nomad
+https://github.com/hashicorp/nomad
+-
+language: Go
+stars: 16,311
+forked: 2,068
+stars today: 3
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+-
+language: Go
+stars: 4,519
+forked: 3,442
+stars today: 3
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+-
+language: Go
+stars: 39,936
+forked: 6,156
+stars today: 24
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+-
+language: Go
+stars: 51,712
+forked: 10,337
+stars today: 20
+
+kubernetes-sigs/kueue
+https://github.com/kubernetes-sigs/kueue
+-
+language: Go
+stars: 2,381
+forked: 557
+stars today: 1
+
+zeromicro/go-zero
+https://github.com/zeromicro/go-zero
+-
+language: Go
+stars: 32,824
+forked: 4,290
+stars today: 3
+
+opencontainers/image-spec
+https://github.com/opencontainers/image-spec
+-
+language: Go
+stars: 4,194
+forked: 818
+stars today: 3
