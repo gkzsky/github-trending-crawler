@@ -1,0 +1,119 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 34,010
+forked: 193
+stars today: 104
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+-
+language: Go
+stars: 13,471
+forked: 1,674
+stars today: 627
+
+kubernetes-sigs/agent-sandbox
+https://github.com/kubernetes-sigs/agent-sandbox
+-
+language: Go
+stars: 1,476
+forked: 166
+stars today: 82
+
+keploy/keploy
+https://github.com/keploy/keploy
+-
+language: Go
+stars: 16,571
+forked: 2,192
+stars today: 94
+
+krau/SaveAny-Bot
+https://github.com/krau/SaveAny-Bot
+-
+language: Go
+stars: 2,127
+forked: 212
+stars today: 31
+
+smtg-ai/claude-squad
+https://github.com/smtg-ai/claude-squad
+-
+language: Go
+stars: 6,601
+forked: 461
+stars today: 48
+
+deepflowio/deepflow
+https://github.com/deepflowio/deepflow
+-
+language: Go
+stars: 3,879
+forked: 430
+stars today: 26
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+-
+language: Go
+stars: 3,139
+forked: 491
+stars today: 13
+
+aws/aws-sdk-go-v2
+https://github.com/aws/aws-sdk-go-v2
+-
+language: Go
+stars: 3,493
+forked: 768
+stars today: 1
+
+go-kratos/kratos
+https://github.com/go-kratos/kratos
+-
+language: Go
+stars: 25,561
+forked: 4,158
+stars today: 5
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+-
+language: Go
+stars: 5,657
+forked: 891
+stars today: 9
+
+cloudwego/eino
+https://github.com/cloudwego/eino
+-
+language: Go
+stars: 10,235
+forked: 802
+stars today: 34
+
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+-
+language: Go
+stars: 7,535
+forked: 1,263
+stars today: 9
+
+NoFxAiOS/nofx
+https://github.com/NoFxAiOS/nofx
+-
+language: Go
+stars: 11,177
+forked: 2,896
+stars today: 28
+
+docker/docker-agent
+https://github.com/docker/docker-agent
+-
+language: Go
+stars: 2,672
+forked: 317
+stars today: 29
