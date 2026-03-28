@@ -1,0 +1,159 @@
+moby/moby
+https://github.com/moby/moby
+-
+language: Go
+stars: 71,569
+forked: 18,910
+stars today: 4
+
+grafana/alloy
+https://github.com/grafana/alloy
+-
+language: Go
+stars: 3,015
+forked: 564
+stars today: 6
+
+coder/coder
+https://github.com/coder/coder
+-
+language: Go
+stars: 12,701
+forked: 1,233
+stars today: 29
+
+googleapis/genai-toolbox
+https://github.com/googleapis/genai-toolbox
+-
+language: Go
+stars: 13,560
+forked: 1,289
+stars today: 22
+
+containers/podman
+https://github.com/containers/podman
+-
+language: Go
+stars: 31,142
+forked: 3,039
+stars today: 13
+
+spiffe/spire
+https://github.com/spiffe/spire
+-
+language: Go
+stars: 2,280
+forked: 594
+stars today: 4
+
+vmware-tanzu/velero
+https://github.com/vmware-tanzu/velero
+-
+language: Go
+stars: 9,924
+forked: 1,528
+stars today: 5
+
+anchore/syft
+https://github.com/anchore/syft
+-
+language: Go
+stars: 8,603
+forked: 792
+stars today: 20
+
+Project-HAMi/HAMi
+https://github.com/Project-HAMi/HAMi
+-
+language: Go
+stars: 3,179
+forked: 495
+stars today: 8
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 6,186
+forked: 818
+stars today: 4
+
+putyy/res-downloader
+https://github.com/putyy/res-downloader
+-
+language: Go
+stars: 16,065
+forked: 1,979
+stars today: 27
+
+harness/harness
+https://github.com/harness/harness
+-
+language: Go
+stars: 34,135
+forked: 2,918
+stars today: 49
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+-
+language: Go
+stars: 88,313
+forked: 8,574
+stars today: 20
+
+Agent-Field/agentfield
+https://github.com/Agent-Field/agentfield
+-
+language: Go
+stars: 1,174
+forked: 178
+stars today: 21
+
+openbao/openbao
+https://github.com/openbao/openbao
+-
+language: Go
+stars: 5,702
+forked: 375
+stars today: 7
+
+GMSSH/GMSSH
+https://github.com/GMSSH/GMSSH
+-
+language: Go
+stars: 387
+forked: 44
+stars today: 9
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+-
+language: Go
+stars: 5,688
+forked: 901
+stars today: 12
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+-
+language: Go
+stars: 23,886
+forked: 1,204
+stars today: 39
+
+sqlc-dev/sqlc
+https://github.com/sqlc-dev/sqlc
+-
+language: Go
+stars: 17,246
+forked: 1,020
+stars today: 18
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+-
+language: Go
+stars: 8,584
+forked: 545
+stars today: 9
