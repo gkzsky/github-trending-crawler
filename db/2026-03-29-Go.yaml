@@ -1,0 +1,119 @@
+anchore/syft
+https://github.com/anchore/syft
+-
+language: Go
+stars: 8,611
+forked: 793
+stars today: 10
+
+mark3labs/mcp-go
+https://github.com/mark3labs/mcp-go
+-
+language: Go
+stars: 8,480
+forked: 803
+stars today: 22
+
+seaweedfs/seaweedfs
+https://github.com/seaweedfs/seaweedfs
+-
+language: Go
+stars: 31,229
+forked: 2,766
+stars today: 24
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+-
+language: Go
+stars: 88,315
+forked: 8,574
+stars today: 16
+
+harness/harness
+https://github.com/harness/harness
+-
+language: Go
+stars: 34,173
+forked: 2,918
+stars today: 40
+
+lxc/incus
+https://github.com/lxc/incus
+-
+language: Go
+stars: 5,097
+forked: 425
+stars today: 3
+
+runkids/skillshare
+https://github.com/runkids/skillshare
+-
+language: Go
+stars: 1,122
+forked: 64
+stars today: 31
+
+kubevirt/kubevirt
+https://github.com/kubevirt/kubevirt
+-
+language: Go
+stars: 6,770
+forked: 1,650
+stars today: 1
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+-
+language: Go
+stars: 8,604
+forked: 546
+stars today: 9
+
+minio/minio
+https://github.com/minio/minio
+-
+language: Go
+stars: 60,571
+forked: 7,324
+stars today: 11
+
+henrygd/beszel
+https://github.com/henrygd/beszel
+-
+language: Go
+stars: 20,306
+forked: 679
+stars today: 33
+
+bluenviron/mediamtx
+https://github.com/bluenviron/mediamtx
+-
+language: Go
+stars: 18,295
+forked: 2,177
+stars today: 8
+
+sysadminsmedia/homebox
+https://github.com/sysadminsmedia/homebox
+-
+language: Go
+stars: 5,562
+forked: 361
+stars today: 8
+
+riba2534/feishu-cli
+https://github.com/riba2534/feishu-cli
+-
+language: Go
+stars: 613
+forked: 74
+stars today: 39
+
+AdguardTeam/AdGuardHome
+https://github.com/AdguardTeam/AdGuardHome
+-
+language: Go
+stars: 33,304
+forked: 2,285
+stars today: 37
