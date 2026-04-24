@@ -1,0 +1,159 @@
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+-
+language: Go
+stars: 83,017
+forked: 5,109
+stars today: 121
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+-
+language: Go
+stars: 41,000
+forked: 4,081
+stars today: 139
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 6,284
+forked: 848
+stars today: 9
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 22,699
+forked: 7,110
+stars today: 10
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+-
+language: Go
+stars: 9,164
+forked: 600
+stars today: 350
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+-
+language: Go
+stars: 88,364
+forked: 8,577
+stars today: 19
+
+Wei-Shaw/sub2api
+https://github.com/Wei-Shaw/sub2api
+-
+language: Go
+stars: 14,946
+forked: 2,598
+stars today: 361
+
+henrygd/beszel
+https://github.com/henrygd/beszel
+-
+language: Go
+stars: 21,281
+forked: 742
+stars today: 105
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+-
+language: Go
+stars: 48,232
+forked: 10,302
+stars today: 17
+
+crowdsecurity/crowdsec
+https://github.com/crowdsecurity/crowdsec
+-
+language: Go
+stars: 13,160
+forked: 608
+stars today: 19
+
+containers/podman
+https://github.com/containers/podman
+-
+language: Go
+stars: 31,493
+forked: 3,067
+stars today: 16
+
+krau/SaveAny-Bot
+https://github.com/krau/SaveAny-Bot
+-
+language: Go
+stars: 2,240
+forked: 231
+stars today: 8
+
+qax-os/excelize
+https://github.com/qax-os/excelize
+-
+language: Go
+stars: 20,511
+forked: 1,896
+stars today: 2
+
+kubernetes-sigs/agent-sandbox
+https://github.com/kubernetes-sigs/agent-sandbox
+-
+language: Go
+stars: 1,908
+forked: 213
+stars today: 17
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+-
+language: Go
+stars: 40,018
+forked: 6,174
+stars today: 16
+
+kubernetes-sigs/gateway-api
+https://github.com/kubernetes-sigs/gateway-api
+-
+language: Go
+stars: 2,804
+forked: 702
+stars today: 4
+
+coredns/coredns
+https://github.com/coredns/coredns
+-
+language: Go
+stars: 14,011
+forked: 2,434
+stars today: 5
+
+QuantumNous/new-api
+https://github.com/QuantumNous/new-api
+-
+language: Go
+stars: 28,605
+forked: 5,999
+stars today: 223
+
+alibaba/higress
+https://github.com/alibaba/higress
+-
+language: Go
+stars: 8,247
+forked: 1,086
+stars today: 13
+
+github/gh-aw
+https://github.com/github/gh-aw
+-
+language: Go
+stars: 4,359
+forked: 361
+stars today: 12
