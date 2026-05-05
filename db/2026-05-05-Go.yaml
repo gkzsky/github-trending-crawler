@@ -1,0 +1,111 @@
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+-
+language: Go
+stars: 55,358
+forked: 6,656
+stars today: 29
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+-
+language: Go
+stars: 31,198
+forked: 2,516
+stars today: 46
+
+jaegertracing/jaeger
+https://github.com/jaegertracing/jaeger
+-
+language: Go
+stars: 22,757
+forked: 2,875
+stars today: 12
+
+masterking32/MasterDnsVPN
+https://github.com/masterking32/MasterDnsVPN
+-
+language: Go
+stars: 1,370
+forked: 125
+stars today: 142
+
+meshery/meshery
+https://github.com/meshery/meshery
+-
+language: Go
+stars: 10,199
+forked: 3,294
+stars today: 16
+
+krillinai/KrillinAI
+https://github.com/krillinai/KrillinAI
+-
+language: Go
+stars: 10,000
+forked: 918
+stars today: 23
+
+pranshuparmar/witr
+https://github.com/pranshuparmar/witr
+-
+language: Go
+stars: 14,956
+forked: 393
+stars today: 113
+
+syncthing/syncthing
+https://github.com/syncthing/syncthing
+-
+language: Go
+stars: 83,541
+forked: 5,146
+stars today: 52
+
+kopia/kopia
+https://github.com/kopia/kopia
+-
+language: Go
+stars: 13,150
+forked: 642
+stars today: 10
+
+argoproj/argo-workflows
+https://github.com/argoproj/argo-workflows
+-
+language: Go
+stars: 16,662
+forked: 3,515
+stars today: 6
+
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+-
+language: Go
+stars: 7,702
+forked: 1,340
+stars today: 6
+
+lxc/incus
+https://github.com/lxc/incus
+-
+language: Go
+stars: 5,304
+forked: 431
+stars today: 10
+
+clidey/whodb
+https://github.com/clidey/whodb
+-
+language: Go
+stars: 4,790
+forked: 199
+stars today: 6
+
+floatpane/matcha
+https://github.com/floatpane/matcha
+-
+language: Go
+stars: 560
+forked: 54
+stars today: 37
