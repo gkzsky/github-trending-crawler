@@ -1,0 +1,159 @@
+multica-ai/multica
+https://github.com/multica-ai/multica
+-
+language: TypeScript
+stars: 31,506
+forked: 3,814
+stars today: 879
+
+kubernetes-sigs/agent-sandbox
+https://github.com/kubernetes-sigs/agent-sandbox
+-
+language: Go
+stars: 2,323
+forked: 284
+stars today: 24
+
+docker/compose
+https://github.com/docker/compose
+-
+language: Go
+stars: 37,422
+forked: 5,846
+stars today: 15
+
+modelcontextprotocol/registry
+https://github.com/modelcontextprotocol/registry
+-
+language: Go
+stars: 6,848
+forked: 825
+stars today: 3
+
+distribution/distribution
+https://github.com/distribution/distribution
+-
+language: Go
+stars: 10,431
+forked: 2,746
+stars today: 2
+
+containerd/containerd
+https://github.com/containerd/containerd
+-
+language: Go
+stars: 20,748
+forked: 3,932
+stars today: 11
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 35,130
+forked: 389
+stars today: 25
+
+QuantumNous/new-api
+https://github.com/QuantumNous/new-api
+-
+language: Go
+stars: 34,942
+forked: 7,796
+stars today: 225
+
+Wei-Shaw/sub2api
+https://github.com/Wei-Shaw/sub2api
+-
+language: Go
+stars: 22,850
+forked: 4,352
+stars today: 270
+
+alireza0/s-ui
+https://github.com/alireza0/s-ui
+-
+language: Go
+stars: 9,028
+forked: 1,522
+stars today: 141
+
+ollama/ollama
+https://github.com/ollama/ollama
+-
+language: Go
+stars: 172,066
+forked: 16,251
+stars today: 146
+
+moby/moby
+https://github.com/moby/moby
+-
+language: Go
+stars: 71,586
+forked: 18,955
+stars today: 6
+
+derailed/k9s
+https://github.com/derailed/k9s
+-
+language: Go
+stars: 33,716
+forked: 2,166
+stars today: 22
+
+maximhq/bifrost
+https://github.com/maximhq/bifrost
+-
+language: Go
+stars: 5,159
+forked: 624
+stars today: 35
+
+BenedictKing/ccx
+https://github.com/BenedictKing/ccx
+-
+language: Go
+stars: 1,460
+forked: 121
+stars today: 99
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+-
+language: Go
+stars: 51,722
+forked: 10,363
+stars today: 5
+
+grafana/alloy
+https://github.com/grafana/alloy
+-
+language: Go
+stars: 3,190
+forked: 600
+stars today: 1
+
+bytedance/sonic
+https://github.com/bytedance/sonic
+-
+language: Go
+stars: 9,446
+forked: 444
+stars today: 8
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+-
+language: Go
+stars: 35,650
+forked: 4,673
+stars today: 9
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+-
+language: Go
+stars: 55,859
+forked: 6,715
+stars today: 23
