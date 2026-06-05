@@ -1,0 +1,175 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 35,705
+forked: 433
+stars today: 255
+
+ollama/ollama
+https://github.com/ollama/ollama
+-
+language: Go
+stars: 173,206
+forked: 16,447
+stars today: 150
+
+kagent-dev/kagent
+https://github.com/kagent-dev/kagent
+-
+language: Go
+stars: 2,929
+forked: 590
+stars today: 18
+
+github/github-mcp-server
+https://github.com/github/github-mcp-server
+-
+language: Go
+stars: 30,436
+forked: 4,322
+stars today: 33
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 134,283
+forked: 19,097
+stars today: 76
+
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+-
+language: Go
+stars: 73,151
+forked: 4,760
+stars today: 121
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+-
+language: Go
+stars: 6,297
+forked: 1,009
+stars today: 14
+
+derailed/k9s
+https://github.com/derailed/k9s
+-
+language: Go
+stars: 33,929
+forked: 2,179
+stars today: 70
+
+grafana/pyroscope
+https://github.com/grafana/pyroscope
+-
+language: Go
+stars: 11,472
+forked: 769
+stars today: 4
+
+docker/compose
+https://github.com/docker/compose
+-
+language: Go
+stars: 37,484
+forked: 5,904
+stars today: 56
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+-
+language: Go
+stars: 6,086
+forked: 1,092
+stars today: 53
+
+hashicorp/nomad
+https://github.com/hashicorp/nomad
+-
+language: Go
+stars: 16,553
+forked: 2,092
+stars today: 7
+
+podman-container-tools/podman
+https://github.com/podman-container-tools/podman
+-
+language: Go
+stars: 31,942
+forked: 3,138
+stars today: 21
+
+grafana/mcp-grafana
+https://github.com/grafana/mcp-grafana
+-
+language: Go
+stars: 3,107
+forked: 377
+stars today: 9
+
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+-
+language: Go
+stars: 7,811
+forked: 1,379
+stars today: 6
+
+traefik/traefik
+https://github.com/traefik/traefik
+-
+language: Go
+stars: 63,565
+forked: 6,032
+stars today: 96
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+-
+language: Go
+stars: 27,511
+forked: 2,095
+stars today: 20
+
+Gentleman-Programming/gentle-ai
+https://github.com/Gentleman-Programming/gentle-ai
+-
+language: Go
+stars: 3,653
+forked: 441
+stars today: 34
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+-
+language: Go
+stars: 122,695
+forked: 43,256
+stars today: 79
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+-
+language: Go
+stars: 42,037
+forked: 4,163
+stars today: 50
+
+filebrowser/filebrowser
+https://github.com/filebrowser/filebrowser
+-
+language: Go
+stars: 34,953
+forked: 3,867
+stars today: 16
+
+pion/webrtc
+https://github.com/pion/webrtc
+-
+language: Go
+stars: 16,519
+forked: 1,852
+stars today: 4
