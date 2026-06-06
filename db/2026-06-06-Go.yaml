@@ -1,0 +1,183 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 35,879
+forked: 443
+stars today: 207
+
+ollama/ollama
+https://github.com/ollama/ollama
+-
+language: Go
+stars: 173,293
+forked: 16,462
+stars today: 116
+
+traefik/traefik
+https://github.com/traefik/traefik
+-
+language: Go
+stars: 63,610
+forked: 6,036
+stars today: 121
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+-
+language: Go
+stars: 42,085
+forked: 4,166
+stars today: 45
+
+gravitational/teleport
+https://github.com/gravitational/teleport
+-
+language: Go
+stars: 20,463
+forked: 2,079
+stars today: 6
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+-
+language: Go
+stars: 17,499
+forked: 2,395
+stars today: 39
+
+grafana/loki
+https://github.com/grafana/loki
+-
+language: Go
+stars: 28,322
+forked: 4,018
+stars today: 17
+
+multica-ai/multica
+https://github.com/multica-ai/multica
+-
+language: Go
+stars: 35,474
+forked: 4,308
+stars today: 213
+
+golangci/golangci-lint
+https://github.com/golangci/golangci-lint
+-
+language: Go
+stars: 19,042
+forked: 1,578
+stars today: 3
+
+bruin-data/ingestr
+https://github.com/bruin-data/ingestr
+-
+language: Go
+stars: 3,689
+forked: 129
+stars today: 30
+
+grafana/k6
+https://github.com/grafana/k6
+-
+language: Go
+stars: 30,740
+forked: 1,557
+stars today: 11
+
+influxdata/telegraf
+https://github.com/influxdata/telegraf
+-
+language: Go
+stars: 17,603
+forked: 5,820
+stars today: 2
+
+anthropics/anthropic-cli
+https://github.com/anthropics/anthropic-cli
+-
+language: Go
+stars: 489
+forked: 62
+stars today: 18
+
+HavocFramework/Havoc
+https://github.com/HavocFramework/Havoc
+-
+language: Go
+stars: 8,420
+forked: 1,224
+stars today: 9
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+-
+language: Go
+stars: 6,139
+forked: 1,102
+stars today: 61
+
+Gentleman-Programming/gentle-ai
+https://github.com/Gentleman-Programming/gentle-ai
+-
+language: Go
+stars: 3,693
+forked: 442
+stars today: 47
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+-
+language: Go
+stars: 79,028
+forked: 2,859
+stars today: 150
+
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+-
+language: Go
+stars: 7,816
+forked: 1,379
+stars today: 10
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 6,443
+forked: 905
+stars today: 8
+
+podman-container-tools/buildah
+https://github.com/podman-container-tools/buildah
+-
+language: Go
+stars: 8,846
+forked: 901
+stars today: 9
+
+SagerNet/sing-box
+https://github.com/SagerNet/sing-box
+-
+language: Go
+stars: 34,648
+forked: 4,108
+stars today: 58
+
+pulumi/pulumi
+https://github.com/pulumi/pulumi
+-
+language: Go
+stars: 25,271
+forked: 1,385
+stars today: 7
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+-
+language: Go
+stars: 5,638
+forked: 1,392
+stars today: 4
