@@ -1,0 +1,183 @@
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 36,025
+forked: 455
+stars today: 159
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 134,530
+forked: 19,087
+stars today: 30
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+-
+language: Go
+stars: 51,095
+forked: 21,925
+stars today: 4
+
+ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
+-
+language: Go
+stars: 6,159
+forked: 1,106
+stars today: 37
+
+nezhahq/nezha
+https://github.com/nezhahq/nezha
+-
+language: Go
+stars: 10,095
+forked: 1,599
+stars today: 16
+
+traefik/traefik
+https://github.com/traefik/traefik
+-
+language: Go
+stars: 63,616
+forked: 6,040
+stars today: 58
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+-
+language: Go
+stars: 32,300
+forked: 2,632
+stars today: 38
+
+multica-ai/multica
+https://github.com/multica-ai/multica
+-
+language: Go
+stars: 35,606
+forked: 4,332
+stars today: 140
+
+livekit/livekit
+https://github.com/livekit/livekit
+-
+language: Go
+stars: 19,095
+forked: 2,055
+stars today: 11
+
+dlvhdr/gh-dash
+https://github.com/dlvhdr/gh-dash
+-
+language: Go
+stars: 11,833
+forked: 401
+stars today: 34
+
+envoyproxy/ai-gateway
+https://github.com/envoyproxy/ai-gateway
+-
+language: Go
+stars: 1,729
+forked: 271
+stars today: 3
+
+tulir/whatsmeow
+https://github.com/tulir/whatsmeow
+-
+language: Go
+stars: 6,332
+forked: 1,012
+stars today: 22
+
+pulumi/pulumi
+https://github.com/pulumi/pulumi
+-
+language: Go
+stars: 25,276
+forked: 1,385
+stars today: 6
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+-
+language: Go
+stars: 5,642
+forked: 1,393
+stars today: 7
+
+DataDog/terraform-provider-datadog
+https://github.com/DataDog/terraform-provider-datadog
+-
+language: Go
+stars: 451
+forked: 433
+stars today: 2
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+-
+language: Go
+stars: 79,057
+forked: 2,860
+stars today: 90
+
+danielmiessler/Fabric
+https://github.com/danielmiessler/Fabric
+-
+language: Go
+stars: 42,120
+forked: 4,169
+stars today: 42
+
+abiosoft/colima
+https://github.com/abiosoft/colima
+-
+language: Go
+stars: 29,176
+forked: 581
+stars today: 16
+
+nektos/act
+https://github.com/nektos/act
+-
+language: Go
+stars: 70,783
+forked: 1,949
+stars today: 41
+
+ollama/ollama
+https://github.com/ollama/ollama
+-
+language: Go
+stars: 173,401
+forked: 16,478
+stars today: 129
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+-
+language: Go
+stars: 25,782
+forked: 1,378
+stars today: 15
+
+prometheus/alertmanager
+https://github.com/prometheus/alertmanager
+-
+language: Go
+stars: 8,499
+forked: 2,425
+stars today: 4
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+-
+language: Go
+stars: 6,653
+forked: 1,313
+stars today: 1
