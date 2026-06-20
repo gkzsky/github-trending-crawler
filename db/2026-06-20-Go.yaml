@@ -1,0 +1,183 @@
+zzet/gortex
+https://github.com/zzet/gortex
+-
+language: Go
+stars: 659
+forked: 49
+stars today: 83
+
+cilium/cilium
+https://github.com/cilium/cilium
+-
+language: Go
+stars: 24,553
+forked: 3,841
+stars today: 13
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 23,187
+forked: 7,349
+stars today: 8
+
+asheshgoplani/agent-deck
+https://github.com/asheshgoplani/agent-deck
+-
+language: Go
+stars: 284
+forked: 33
+stars today: 131
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+-
+language: Go
+stars: 64,632
+forked: 10,514
+stars today: 57
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+-
+language: Go
+stars: 25,514
+forked: 1,846
+stars today: 30
+
+podman-container-tools/podman
+https://github.com/podman-container-tools/podman
+-
+language: Go
+stars: 32,064
+forked: 3,156
+stars today: 9
+
+weaviate/weaviate
+https://github.com/weaviate/weaviate
+-
+language: Go
+stars: 16,370
+forked: 1,312
+stars today: 12
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+-
+language: Go
+stars: 21,095
+forked: 1,672
+stars today: 32
+
+livekit/livekit
+https://github.com/livekit/livekit
+-
+language: Go
+stars: 19,323
+forked: 2,088
+stars today: 22
+
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+-
+language: Go
+stars: 7,857
+forked: 1,396
+stars today: 9
+
+entireio/cli
+https://github.com/entireio/cli
+-
+language: Go
+stars: 4,532
+forked: 349
+stars today: 6
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+-
+language: Go
+stars: 56,400
+forked: 6,817
+stars today: 18
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+-
+language: Go
+stars: 123,124
+forked: 43,251
+stars today: 52
+
+dolthub/dolt
+https://github.com/dolthub/dolt
+-
+language: Go
+stars: 23,528
+forked: 810
+stars today: 17
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 134,831
+forked: 19,024
+stars today: 55
+
+VersusControl/versus-incident
+https://github.com/VersusControl/versus-incident
+-
+language: Go
+stars: 567
+forked: 90
+stars today: 15
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 6,508
+forked: 921
+stars today: 5
+
+BishopFox/cloudfox
+https://github.com/BishopFox/cloudfox
+-
+language: Go
+stars: 2,493
+forked: 243
+stars today: 20
+
+k0sproject/k0s
+https://github.com/k0sproject/k0s
+-
+language: Go
+stars: 6,286
+forked: 511
+stars today: 4
+
+lima-vm/lima
+https://github.com/lima-vm/lima
+-
+language: Go
+stars: 21,295
+forked: 902
+stars today: 24
+
+kubearmor/KubeArmor
+https://github.com/kubearmor/KubeArmor
+-
+language: Go
+stars: 2,423
+forked: 496
+stars today: 84
+
+voocel/ainovel-cli
+https://github.com/voocel/ainovel-cli
+-
+language: Go
+stars: 685
+forked: 135
+stars today: 28
