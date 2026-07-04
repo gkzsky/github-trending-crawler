@@ -1,0 +1,167 @@
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+-
+language: Go
+stars: 64,934
+forked: 10,560
+stars today: 90
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 135,019
+forked: 19,090
+stars today: 100
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+-
+language: Go
+stars: 48,821
+forked: 10,386
+stars today: 55
+
+stretchr/testify
+https://github.com/stretchr/testify
+-
+language: Go
+stars: 26,058
+forked: 1,730
+stars today: 2
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+-
+language: Go
+stars: 123,417
+forked: 43,416
+stars today: 98
+
+yorukot/superfile
+https://github.com/yorukot/superfile
+-
+language: Go
+stars: 18,308
+forked: 494
+stars today: 176
+
+opencode-ai/opencode
+https://github.com/opencode-ai/opencode
+-
+language: Go
+stars: 13,207
+forked: 1,518
+stars today: 20
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+-
+language: Go
+stars: 51,200
+forked: 21,922
+stars today: 48
+
+larksuite/cli
+https://github.com/larksuite/cli
+-
+language: Go
+stars: 15,079
+forked: 1,043
+stars today: 47
+
+swaggo/swag
+https://github.com/swaggo/swag
+-
+language: Go
+stars: 12,884
+forked: 1,377
+stars today: 5
+
+spf13/viper
+https://github.com/spf13/viper
+-
+language: Go
+stars: 30,357
+forked: 2,103
+stars today: 6
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+-
+language: Go
+stars: 29,471
+forked: 3,533
+stars today: 18
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+-
+language: Go
+stars: 33,133
+forked: 2,714
+stars today: 43
+
+moby/moby
+https://github.com/moby/moby
+-
+language: Go
+stars: 71,779
+forked: 18,970
+stars today: 8
+
+google/gvisor
+https://github.com/google/gvisor
+-
+language: Go
+stars: 18,666
+forked: 1,663
+stars today: 6
+
+sipeed/picoclaw
+https://github.com/sipeed/picoclaw
+-
+language: Go
+stars: 29,581
+forked: 4,266
+stars today: 20
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+-
+language: Go
+stars: 26,034
+forked: 1,907
+stars today: 43
+
+masterking32/MasterDnsVPN
+https://github.com/masterking32/MasterDnsVPN
+-
+language: Go
+stars: 6,631
+forked: 615
+stars today: 21
+
+google/adk-go
+https://github.com/google/adk-go
+-
+language: Go
+stars: 8,359
+forked: 731
+stars today: 23
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+-
+language: Go
+stars: 40,937
+forked: 2,254
+stars today: 130
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 23,307
+forked: 7,402
+stars today: 11
