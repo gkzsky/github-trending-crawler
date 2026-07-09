@@ -1,0 +1,191 @@
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 23,463
+forked: 7,427
+stars today: 29
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+-
+language: Go
+stars: 26,268
+forked: 1,940
+stars today: 70
+
+larksuite/cli
+https://github.com/larksuite/cli
+-
+language: Go
+stars: 15,307
+forked: 1,063
+stars today: 58
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+-
+language: Go
+stars: 48,880
+forked: 10,395
+stars today: 41
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 36,828
+forked: 524
+stars today: 32
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+-
+language: Go
+stars: 18,908
+forked: 2,583
+stars today: 454
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+-
+language: Go
+stars: 33,292
+forked: 2,734
+stars today: 54
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+-
+language: Go
+stars: 29,577
+forked: 3,550
+stars today: 30
+
+moby/moby
+https://github.com/moby/moby
+-
+language: Go
+stars: 71,801
+forked: 18,981
+stars today: 21
+
+IceWhaleTech/CasaOS
+https://github.com/IceWhaleTech/CasaOS
+-
+language: Go
+stars: 36,345
+forked: 2,097
+stars today: 47
+
+kenn-io/agentsview
+https://github.com/kenn-io/agentsview
+-
+language: Go
+stars: 4,122
+forked: 329
+stars today: 48
+
+Agent-Field/agentfield
+https://github.com/Agent-Field/agentfield
+-
+language: Go
+stars: 2,317
+forked: 369
+stars today: 24
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+-
+language: Go
+stars: 65,008
+forked: 10,586
+stars today: 57
+
+temporalio/temporal
+https://github.com/temporalio/temporal
+-
+language: Go
+stars: 21,505
+forked: 1,711
+stars today: 25
+
+netdata/netdata
+https://github.com/netdata/netdata
+-
+language: Go
+stars: 79,559
+forked: 6,512
+stars today: 20
+
+ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum
+-
+language: Go
+stars: 51,230
+forked: 21,936
+stars today: 18
+
+rancher/rancher
+https://github.com/rancher/rancher
+-
+language: Go
+stars: 25,732
+forked: 3,206
+stars today: 8
+
+karust/openserp
+https://github.com/karust/openserp
+-
+language: Go
+stars: 1,014
+forked: 129
+stars today: 42
+
+gastownhall/gastown
+https://github.com/gastownhall/gastown
+-
+language: Go
+stars: 16,900
+forked: 1,550
+stars today: 34
+
+prometheus/node_exporter
+https://github.com/prometheus/node_exporter
+-
+language: Go
+stars: 13,588
+forked: 2,674
+stars today: 7
+
+netbirdio/netbird
+https://github.com/netbirdio/netbird
+-
+language: Go
+stars: 26,949
+forked: 1,474
+stars today: 42
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+-
+language: Go
+stars: 4,780
+forked: 3,709
+stars today: 6
+
+weaviate/weaviate
+https://github.com/weaviate/weaviate
+-
+language: Go
+stars: 16,543
+forked: 1,342
+stars today: 7
+
+cli/cli
+https://github.com/cli/cli
+-
+language: Go
+stars: 45,188
+forked: 8,676
+stars today: 21
