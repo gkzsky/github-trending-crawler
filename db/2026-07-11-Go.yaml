@@ -1,0 +1,191 @@
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+-
+language: Go
+stars: 33,704
+forked: 2,913
+stars today: 143
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+-
+language: Go
+stars: 49,199
+forked: 10,674
+stars today: 172
+
+juanfont/headscale
+https://github.com/juanfont/headscale
+-
+language: Go
+stars: 41,515
+forked: 2,427
+stars today: 197
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 36,868
+forked: 531
+stars today: 24
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 23,600
+forked: 7,601
+stars today: 83
+
+spf13/viper
+https://github.com/spf13/viper
+-
+language: Go
+stars: 30,448
+forked: 2,244
+stars today: 76
+
+charmbracelet/crush
+https://github.com/charmbracelet/crush
+-
+language: Go
+stars: 26,443
+forked: 2,095
+stars today: 137
+
+entireio/cli
+https://github.com/entireio/cli
+-
+language: Go
+stars: 4,735
+forked: 365
+stars today: 32
+
+opencode-ai/opencode
+https://github.com/opencode-ai/opencode
+-
+language: Go
+stars: 13,406
+forked: 1,710
+stars today: 109
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+-
+language: Go
+stars: 123,672
+forked: 43,686
+stars today: 192
+
+microsoft/typescript-go
+https://github.com/microsoft/typescript-go
+-
+language: Go
+stars: 25,895
+forked: 1,050
+stars today: 26
+
+larksuite/cli
+https://github.com/larksuite/cli
+-
+language: Go
+stars: 15,468
+forked: 1,204
+stars today: 116
+
+projectdiscovery/nuclei
+https://github.com/projectdiscovery/nuclei
+-
+language: Go
+stars: 29,709
+forked: 3,709
+stars today: 109
+
+masterking32/MasterDnsVPN
+https://github.com/masterking32/MasterDnsVPN
+-
+language: Go
+stars: 6,775
+forked: 776
+stars today: 75
+
+swaggo/swag
+https://github.com/swaggo/swag
+-
+language: Go
+stars: 12,979
+forked: 1,517
+stars today: 74
+
+google/adk-go
+https://github.com/google/adk-go
+-
+language: Go
+stars: 8,523
+forked: 871
+stars today: 87
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 135,307
+forked: 19,293
+stars today: 196
+
+google/gvisor
+https://github.com/google/gvisor
+-
+language: Go
+stars: 18,823
+forked: 1,816
+stars today: 81
+
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+-
+language: Go
+stars: 65,126
+forked: 10,754
+stars today: 104
+
+volcano-sh/volcano
+https://github.com/volcano-sh/volcano
+-
+language: Go
+stars: 5,758
+forked: 1,445
+stars today: 6
+
+Gentleman-Programming/gentle-ai
+https://github.com/Gentleman-Programming/gentle-ai
+-
+language: Go
+stars: 4,757
+forked: 549
+stars today: 25
+
+vxcontrol/pentagi
+https://github.com/vxcontrol/pentagi
+-
+language: Go
+stars: 19,802
+forked: 2,652
+stars today: 558
+
+cloudflare/cloudflared
+https://github.com/cloudflare/cloudflared
+-
+language: Go
+stars: 14,799
+forked: 1,349
+stars today: 25
+
+opentofu/opentofu
+https://github.com/opentofu/opentofu
+-
+language: Go
+stars: 29,395
+forked: 1,292
+stars today: 12
