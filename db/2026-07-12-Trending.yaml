@@ -1,0 +1,191 @@
+catchorg/Catch2
+https://github.com/catchorg/Catch2
+-
+language: C++
+stars: 21,108
+forked: 3,428
+stars today: 113
+
+abseil/abseil-cpp
+https://github.com/abseil/abseil-cpp
+-
+language: C++
+stars: 17,835
+forked: 3,209
+stars today: 118
+
+davila7/claude-code-templates
+https://github.com/davila7/claude-code-templates
+-
+language: Python
+stars: 29,058
+forked: 3,187
+stars today: 232
+
+google-labs-code/stitch-skills
+https://github.com/google-labs-code/stitch-skills
+-
+language: TypeScript
+stars: 7,116
+forked: 947
+stars today: 340
+
+hashicorp/terraform
+https://github.com/hashicorp/terraform
+-
+language: Go
+stars: 49,389
+forked: 10,682
+stars today: 229
+
+zeux/meshoptimizer
+https://github.com/zeux/meshoptimizer
+-
+language: C++
+stars: 8,152
+forked: 786
+stars today: 110
+
+openai/plugins
+https://github.com/openai/plugins
+-
+language: JavaScript
+stars: 4,444
+forked: 659
+stars today: 29
+
+wonderwhy-er/DesktopCommanderMCP
+https://github.com/wonderwhy-er/DesktopCommanderMCP
+-
+language: TypeScript
+stars: 7,806
+forked: 972
+stars today: 909
+
+chriskohlhoff/asio
+https://github.com/chriskohlhoff/asio
+-
+language: C++
+stars: 6,145
+forked: 1,507
+stars today: 76
+
+oven-sh/bun
+https://github.com/oven-sh/bun
+-
+language: Rust
+stars: 94,581
+forked: 4,955
+stars today: 658
+
+actions/checkout
+https://github.com/actions/checkout
+-
+language: TypeScript
+stars: 8,474
+forked: 2,713
+stars today: 8
+
+home-assistant/core
+https://github.com/home-assistant/core
+-
+language: Python
+stars: 88,739
+forked: 38,051
+stars today: 80
+
+microsoft/PowerToys
+https://github.com/microsoft/PowerToys
+-
+language: C
+stars: 136,457
+forked: 8,365
+stars today: 39
+
+cypress-io/cypress
+https://github.com/cypress-io/cypress
+-
+language: TypeScript
+stars: 50,638
+forked: 3,591
+stars today: 19
+
+vercel/next.js
+https://github.com/vercel/next.js
+-
+language: JavaScript
+stars: 140,977
+forked: 31,549
+stars today: 334
+
+DayuanJiang/next-ai-draw-io
+https://github.com/DayuanJiang/next-ai-draw-io
+-
+language: TypeScript
+stars: 33,330
+forked: 3,608
+stars today: 81
+
+malisper/pgrust
+https://github.com/malisper/pgrust
+-
+language: Rust
+stars: 2,135
+forked: 54
+stars today: 774
+
+dotnet/aspnetcore
+https://github.com/dotnet/aspnetcore
+-
+language: C#
+stars: 38,313
+forked: 10,884
+stars today: 4
+
+prisma/prisma
+https://github.com/prisma/prisma
+-
+language: TypeScript
+stars: 47,274
+forked: 2,474
+stars today: 37
+
+anthropics/claude-cookbooks
+https://github.com/anthropics/claude-cookbooks
+-
+language: Jupyter Notebook
+stars: 47,997
+forked: 5,679
+stars today: 219
+
+obra/superpowers
+https://github.com/obra/superpowers
+-
+language: Shell
+stars: 252,539
+forked: 22,542
+stars today: 740
+
+nasa/fprime
+https://github.com/nasa/fprime
+-
+language: C++
+stars: 11,511
+forked: 1,729
+stars today: 22
+
+ansible/ansible
+https://github.com/ansible/ansible
+-
+language: Python
+stars: 69,609
+forked: 24,277
+stars today: 24
+
+nuxt/nuxt
+https://github.com/nuxt/nuxt
+-
+language: TypeScript
+stars: 60,741
+forked: 5,841
+stars today: 16
