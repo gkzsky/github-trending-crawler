@@ -1,0 +1,159 @@
+caddyserver/caddy
+https://github.com/caddyserver/caddy
+-
+language: Go
+stars: 77,499
+forked: 5,099
+stars today: 93
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 139,321
+forked: 21,512
+stars today: 35
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+-
+language: Go
+stars: 89,297
+forked: 8,734
+stars today: 9
+
+Autumn-27/ARTEX
+https://github.com/Autumn-27/ARTEX
+-
+language: Go
+stars: 2,085
+forked: 544
+stars today: 236
+
+ys-ll/uniterm
+https://github.com/ys-ll/uniterm
+-
+language: Go
+stars: 774
+forked: 119
+stars today: 20
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+-
+language: Go
+stars: 29,789
+forked: 2,270
+stars today: 44
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+-
+language: Go
+stars: 4,980
+forked: 3,985
+stars today: 5
+
+ollama/ollama
+https://github.com/ollama/ollama
+-
+language: Go
+stars: 182,531
+forked: 18,147
+stars today: 130
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 38,291
+forked: 744
+stars today: 31
+
+drakkan/sftpgo
+https://github.com/drakkan/sftpgo
+-
+language: Go
+stars: 12,633
+forked: 975
+stars today: 4
+
+spf13/cobra
+https://github.com/spf13/cobra
+-
+language: Go
+stars: 44,697
+forked: 5,149
+stars today: 7
+
+getprobo/probo
+https://github.com/getprobo/probo
+-
+language: Go
+stars: 1,438
+forked: 229
+stars today: 4
+
+maximhq/bifrost
+https://github.com/maximhq/bifrost
+-
+language: Go
+stars: 8,623
+forked: 1,354
+stars today: 22
+
+junegunn/fzf
+https://github.com/junegunn/fzf
+-
+language: Go
+stars: 83,438
+forked: 4,649
+stars today: 27
+
+grafana/gcx
+https://github.com/grafana/gcx
+-
+language: Go
+stars: 771
+forked: 57
+stars today: 3
+
+icereed/paperless-gpt
+https://github.com/icereed/paperless-gpt
+-
+language: Go
+stars: 2,743
+forked: 216
+stars today: 8
+
+traefik/traefik
+https://github.com/traefik/traefik
+-
+language: Go
+stars: 65,106
+forked: 6,228
+stars today: 23
+
+microsoft/TypeScript
+https://github.com/microsoft/TypeScript
+-
+language: Go
+stars: 111,394
+forked: 15,958
+stars today: 19
+
+kubernetes-sigs/agent-sandbox
+https://github.com/kubernetes-sigs/agent-sandbox
+-
+language: Go
+stars: 4,184
+forked: 549
+stars today: 12
+
+cilium/cilium
+https://github.com/cilium/cilium
+-
+language: Go
+stars: 25,615
+forked: 4,135
+stars today: 4
