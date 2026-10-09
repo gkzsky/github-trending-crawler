@@ -1,0 +1,127 @@
+docker/docker-agent
+https://github.com/docker/docker-agent
+-
+language: Go
+stars: 4,262
+forked: 496
+stars today: 766
+
+hashicorp/vault
+https://github.com/hashicorp/vault
+-
+language: Go
+stars: 36,362
+forked: 4,782
+stars today: 7
+
+ollama/ollama
+https://github.com/ollama/ollama
+-
+language: Go
+stars: 182,440
+forked: 18,170
+stars today: 128
+
+argoproj/argo-cd
+https://github.com/argoproj/argo-cd
+-
+language: Go
+stars: 24,351
+forked: 7,929
+stars today: 3
+
+go-acme/lego
+https://github.com/go-acme/lego
+-
+language: Go
+stars: 9,918
+forked: 1,175
+stars today: 2
+
+llm-d/llm-d-router
+https://github.com/llm-d/llm-d-router
+-
+language: Go
+stars: 385
+forked: 425
+stars today: 3
+
+external-secrets/external-secrets
+https://github.com/external-secrets/external-secrets
+-
+language: Go
+stars: 6,898
+forked: 1,452
+stars today: 2
+
+open-telemetry/opentelemetry-collector-contrib
+https://github.com/open-telemetry/opentelemetry-collector-contrib
+-
+language: Go
+stars: 4,983
+forked: 3,993
+stars today: 4
+
+kai-scheduler/KAI-Scheduler
+https://github.com/kai-scheduler/KAI-Scheduler
+-
+language: Go
+stars: 1,559
+forked: 295
+stars today: 3
+
+ltaoo/wx_channels_download
+https://github.com/ltaoo/wx_channels_download
+-
+language: Go
+stars: 9,707
+forked: 1,608
+stars today: 15
+
+kyverno/kyverno
+https://github.com/kyverno/kyverno
+-
+language: Go
+stars: 8,233
+forked: 1,644
+stars today: 4
+
+stacklok/toolhive
+https://github.com/stacklok/toolhive
+-
+language: Go
+stars: 2,256
+forked: 315
+stars today: 8
+
+jesseduffield/lazygit
+https://github.com/jesseduffield/lazygit
+-
+language: Go
+stars: 83,030
+forked: 3,070
+stars today: 49
+
+navidrome/navidrome
+https://github.com/navidrome/navidrome
+-
+language: Go
+stars: 24,049
+forked: 1,748
+stars today: 22
+
+gitleaks/gitleaks
+https://github.com/gitleaks/gitleaks
+-
+language: Go
+stars: 29,806
+forked: 2,271
+stars today: 24
+
+tailscale/tailscale
+https://github.com/tailscale/tailscale
+-
+language: Go
+stars: 37,297
+forked: 3,301
+stars today: 46
