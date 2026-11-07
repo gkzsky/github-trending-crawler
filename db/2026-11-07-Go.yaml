@@ -1,0 +1,191 @@
+prometheus/prometheus
+https://github.com/prometheus/prometheus
+-
+language: Go
+stars: 67,241
+forked: 10,991
+stars today: 148
+
+etcd-io/etcd
+https://github.com/etcd-io/etcd
+-
+language: Go
+stars: 52,643
+forked: 10,590
+stars today: 128
+
+golang/go
+https://github.com/golang/go
+-
+language: Go
+stars: 139,760
+forked: 20,993
+stars today: 180
+
+kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes
+-
+language: Go
+stars: 128,880
+forked: 45,751
+stars today: 201
+
+microsoft/TypeScript
+https://github.com/microsoft/TypeScript
+-
+language: Go
+stars: 111,853
+forked: 15,399
+stars today: 129
+
+kubevirt/kubevirt
+https://github.com/kubevirt/kubevirt
+-
+language: Go
+stars: 7,169
+forked: 1,866
+stars today: 1
+
+containerd/containerd
+https://github.com/containerd/containerd
+-
+language: Go
+stars: 21,463
+forked: 4,195
+stars today: 3
+
+pingcap/tidb
+https://github.com/pingcap/tidb
+-
+language: Go
+stars: 40,715
+forked: 6,292
+stars today: 2
+
+moby/moby
+https://github.com/moby/moby
+-
+language: Go
+stars: 72,353
+forked: 19,318
+stars today: 123
+
+gin-gonic/gin
+https://github.com/gin-gonic/gin
+-
+language: Go
+stars: 89,593
+forked: 8,910
+stars today: 116
+
+coder/coder
+https://github.com/coder/coder
+-
+language: Go
+stars: 17,314
+forked: 1,651
+stars today: 14
+
+grafana/mimir
+https://github.com/grafana/mimir
+-
+language: Go
+stars: 5,277
+forked: 865
+stars today: 0
+
+istio/istio
+https://github.com/istio/istio
+-
+language: Go
+stars: 38,492
+forked: 8,412
+stars today: 3
+
+infiniflow/ragflow
+https://github.com/infiniflow/ragflow
+-
+language: Go
+stars: 93,705
+forked: 11,251
+stars today: 86
+
+fleetdm/fleet
+https://github.com/fleetdm/fleet
+-
+language: Go
+stars: 7,150
+forked: 1,123
+stars today: 5
+
+kdlbs/kandev
+https://github.com/kdlbs/kandev
+-
+language: Go
+stars: 1,074
+forked: 179
+stars today: 6
+
+aquasecurity/trivy
+https://github.com/aquasecurity/trivy
+-
+language: Go
+stars: 39,083
+forked: 834
+stars today: 48
+
+open-policy-agent/opa
+https://github.com/open-policy-agent/opa
+-
+language: Go
+stars: 12,443
+forked: 1,710
+stars today: 8
+
+multica-ai/multica
+https://github.com/multica-ai/multica
+-
+language: Go
+stars: 55,184
+forked: 7,273
+stars today: 130
+
+spf13/cobra
+https://github.com/spf13/cobra
+-
+language: Go
+stars: 44,835
+forked: 4,480
+stars today: 102
+
+ethereum-optimism/optimism
+https://github.com/ethereum-optimism/optimism
+-
+language: Go
+stars: 6,491
+forked: 4,070
+stars today: 1
+
+google/osv-scanner
+https://github.com/google/osv-scanner
+-
+language: Go
+stars: 11,439
+forked: 845
+stars today: 24
+
+qax-os/excelize
+https://github.com/qax-os/excelize
+-
+language: Go
+stars: 21,103
+forked: 1,996
+stars today: 18
+
+go-gitea/gitea
+https://github.com/go-gitea/gitea
+-
+language: Go
+stars: 58,934
+forked: 7,368
+stars today: 27
